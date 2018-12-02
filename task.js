@@ -1,15 +1,31 @@
+/**
+ * 主任务
+ */
 const fs = require('fs');
 const moment = require('moment');
 const chalk = require('chalk');
 const trending = require('./App');
+const util = require('./util');
 
-function start() {
+const timeSource = moment();
+
+try {
+  var headerPart = fs.readFileSync('./src/header.md');
+  var historyPart = fs.readFileSync('./src/history.md');
+  var lastCorrectData = fs.readFileSync('./dist/history-trending.md');
+} catch(e) {
+  util.logError(e);
+}
+
+
+// 开始获取网页信息
+function task() {
   trending.todayTrending()
   .then(data => {
     if (!data.length) {
       throw new Error('Error: get page data error! 0 item!');
     }
-    const todayTime = moment().format('YYYYMMDD');
+    const todayTime = timeSource.format('YYYYMMDD');
     const mdTitle = `# ${todayTime}-github-trending\r\n`;
     const mdTotal = `__${data.length}__ repos\r\n\r\n`;
     const mdToday = `- ${todayTime}\r\n`;
@@ -17,32 +33,50 @@ function start() {
       return `    - [${v.repo}](${v.url}) ${v.desc} __[⭐ ${v.stars}]__`;
     }).join('\r\n') + '\r\n';
     const mdStr = mdTitle + mdTotal + mdContent;
-    fs.writeFileSync(`./today/${todayTime}-github-trending.md`, mdStr);
 
-    const header = fs.readFileSync('./src/header.md');
-    const history = fs.readFileSync('./src/history.md');
-
-    // 更新 history
-    fs.writeFileSync(`./src/history.md`, mdToday + mdContent + history);
+    const newHistory = mdToday + mdContent + historyPart;
 
     const dist = 
-      header
-      + '## ' + moment().format('YYYY') + '\r\n'
+      headerPart
+      + '## ' + timeSource.format('YYYY') + '\r\n'
       + mdToday
       + mdContent
-      + history;
+      + historyPart;
+
+    fs.writeFileSync(`./today/github-trending.md`, mdStr);
+
+    // 更新 history
+    fs.writeFileSync(`./src/history.md`, newHistory);
+
     // 形成合成文件
     fs.writeFileSync(`./dist/history-trending.md`, dist);
 
-    console.log(chalk.bgGreen('------------------------------------------'));
-    console.log(chalk.green('✅✅  FINISHED  ✅✅'));
-    console.log(chalk.bgGreen('------------------------------------------'));
+    util.logCorrect('FINISHED');
   })
-  .catch(err => {
-    console.log(chalk.bgRed('------------------------------------------'));
-    console.log(chalk.bgRed('❎❎ ERROR  ❎❎'));
-    console.log(err);
-    console.log(chalk.bgRed('------------------------------------------'));
+  .catch(e => {
+    util.logError(e);
+    // 防止文件混乱，将文件的内容恢复到最初始读取的状态
+    fs.writeFileSync('./src/history.md', historyPart);
+    fs.writeFileSync('./dist/history-trending.md', lastCorrectData);
+    util.logCorrect('文件已恢复读取前的状态');
+  });
+}
+
+// 检测当天是否已经进行过这个任务了
+function start() {
+  fs.stat('./today/github-trending.md', function (err, fileInfo) {
+    if (!err) {
+      if (timeSource.format('YYYYMMDD') !== moment(fileInfo.atime).format('YYYYMMDD')) {
+        task();
+      } else  {
+        console.log(chalk.bgRed('------------------------------------------'));
+        console.log(chalk.bgRed('❎ ❎ ERROR  ❎ ❎'));
+        console.log('Error: 今天已经进行过同步了');
+        console.log(chalk.bgRed('------------------------------------------'));
+      }
+    } else {
+      util.logError(err);
+    }
   });
 }
 

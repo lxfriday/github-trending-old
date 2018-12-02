@@ -4,5 +4,6 @@ rm /Users/lxfriday/lxfriday.github.io/source/_posts/githubtrending.md
 cp ./dist/history-trending.md /Users/lxfriday/lxfriday.github.io/source/_posts/githubtrending.md
 cd /Users/lxfriday/lxfriday.github.io/
 npm run submit
-# git commit -m '当天更新'
-# git push
+git add githubtrending.md
+git commit -m '[update]'
+git push
