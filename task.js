@@ -62,17 +62,24 @@ function task() {
   });
 }
 
-// 检测当天是否已经进行过这个任务了
-function start() {
+/**
+ * 检测当天是否已经进行过这个任务了
+ * @param {*} ignore 是否重复任务检查
+ */
+function start(ignore = false) {
   fs.stat('./today/github-trending.md', function (err, fileInfo) {
     if (!err) {
-      if (timeSource.format('YYYYMMDD') !== moment(fileInfo.atime).format('YYYYMMDD')) {
+      if (ignore) {
         task();
-      } else  {
-        console.log(chalk.bgRed('------------------------------------------'));
-        console.log(chalk.bgRed('❎ ❎ ERROR  ❎ ❎'));
-        console.log('Error: 今天已经进行过同步了');
-        console.log(chalk.bgRed('------------------------------------------'));
+      } else {
+        if (timeSource.format('YYYYMMDD') !== moment(fileInfo.atime).format('YYYYMMDD')) {
+          task();
+        } else  {
+          console.log(chalk.bgRed('------------------------------------------'));
+          console.log(chalk.bgRed('❎ ❎ ERROR  ❎ ❎'));
+          console.log('Error: 今天已经进行过同步了');
+          console.log(chalk.bgRed('------------------------------------------'));
+        }
       }
     } else {
       util.logError(err);
@@ -80,4 +87,4 @@ function start() {
   });
 }
 
-start();
+start(true);
