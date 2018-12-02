@@ -4,7 +4,7 @@
   "description": "",
   "main": "App.js",
   "scripts": {
-    "start": "node App.js"
+    "start": "node task.js"
   },
   "author": "",
   "license": "ISC",
