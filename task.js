@@ -87,4 +87,4 @@ function start(ignore = false) {
   });
 }
 
-start(true);
+start();
