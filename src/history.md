@@ -1,3 +1,29 @@
+- 20181204
+    - [NVIDIAGameWorks / PhysX-3.4](https://github.com/NVIDIAGameWorks/PhysX-3.4) NVIDIA PhysX SDK 3.4 __[⭐ 1,262]__
+    - [gaearon / overreacted.io](https://github.com/gaearon/overreacted.io) Personal blog by Dan Abramov. __[⭐ 1,120]__
+    - [BcRikko / NES.css](https://github.com/BcRikko/NES.css) NES-style CSS Framework | ファミコン風CSSフレームワーク __[⭐ 6,324]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 Computer Science Learning Notes __[⭐ 42,803]__
+    - [ithinco / i-am-chinese-the-dragonfly-must-go-on](https://github.com/ithinco/i-am-chinese-the-dragonfly-must-go-on) A response to “We are Google employees, Google must drop DragonFly” __[⭐ 1,297]__
+    - [Microsoft / Ethr](https://github.com/Microsoft/Ethr) Ethr is a Network Performance Measurement Tool for TCP, UDP & HTTP. __[⭐ 375]__
+    - [Microsoft / SEAL](https://github.com/Microsoft/SEAL) Simple Encrypted Arithmetic Library (SEAL) is an easy-to-use but powerful homomorphic encryption library written in C++. It supports both the BFV and the CKKS encryption schemes. __[⭐ 354]__
+    - [cantino / mcfly](https://github.com/cantino/mcfly) Fly through your shell history. Great Scott! __[⭐ 376]__
+    - [pim-book / programmers-introduction-to-mathematics](https://github.com/pim-book/programmers-introduction-to-mathematics) Code for A Programmer's Introduction to Mathematics __[⭐ 992]__
+    - [ggerganov / kbd-audio](https://github.com/ggerganov/kbd-audio) Tools for capturing and analysing keyboard input paired with microphone capture __[⭐ 1,428]__
+    - [wagoodman / dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image __[⭐ 11,035]__
+    - [OpenMined / PySyft](https://github.com/OpenMined/PySyft) A library for encrypted, privacy preserving deep learning __[⭐ 2,029]__
+    - [leisurelicht / wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译 __[⭐ 2,099]__
+    - [cssanimation / css-animation-101](https://github.com/cssanimation/css-animation-101) Learn how to bring animation to your web projects __[⭐ 2,285]__
+    - [satwikkansal / wtfpython](https://github.com/satwikkansal/wtfpython) A collection of surprising Python snippets and lesser-known features. __[⭐ 9,722]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 14,684]__
+    - [oussamahamdaoui / forgJs](https://github.com/oussamahamdaoui/forgJs) ForgJs is a javascript lightweight object validator. Go check the Quick start section and start coding with love __[⭐ 196]__
+    - [firecracker-microvm / firecracker](https://github.com/firecracker-microvm/firecracker) Secure and fast microVMs for serverless computing. __[⭐ 5,622]__
+    - [alibaba / arthas](https://github.com/alibaba/arthas) Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas __[⭐ 6,804]__
+    - [stripe / skycfg](https://github.com/stripe/skycfg) Skycfg is an extension library for the Starlark language that adds support for constructing Protocol Buffer messages. __[⭐ 172]__
+    - [AshampooSystems / boden](https://github.com/AshampooSystems/boden) Truly native C++ cross-platform framework for Android and iOS development __[⭐ 451]__
+    - [pointfreeco / swift-snapshot-testing](https://github.com/pointfreeco/swift-snapshot-testing) 📸 Delightful Swift snapshot testing. __[⭐ 311]__
+    - [pfnet / optuna](https://github.com/pfnet/optuna) A hyperparameter optimization framework __[⭐ 233]__
+    - [pcottle / learnGitBranching](https://github.com/pcottle/learnGitBranching) An interactive git visualization to challenge and educate! __[⭐ 9,676]__
+    - [vuejs / vue](https://github.com/vuejs/vue) 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 121,054]__
 - 20181203
     - [ithinco / i-am-chinese-the-dragonfly-must-go-on](https://github.com/ithinco/i-am-chinese-the-dragonfly-must-go-on) A response to “We are Google employees, Google must drop DragonFly” __[⭐ 803]__
     - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 Computer Science Learning Notes __[⭐ 42,393]__
