@@ -1,3 +1,29 @@
+- 20181205
+    - [dotnet / wpf](https://github.com/dotnet/wpf) This repo contains Windows Presentation Foundation (WPF) for .NET Core __[⭐ 1,142]__
+    - [dotnet / winforms](https://github.com/dotnet/winforms) This repo contains Windows Forms for .NET Core. __[⭐ 744]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 43,097]__
+    - [NVIDIAGameWorks / PhysX-3.4](https://github.com/NVIDIAGameWorks/PhysX-3.4) NVIDIA PhysX SDK 3.4 __[⭐ 1,548]__
+    - [vladocar / screenshoteer](https://github.com/vladocar/screenshoteer) Make website screenshots and mobile emulations from the command line. __[⭐ 485]__
+    - [cantino / mcfly](https://github.com/cantino/mcfly) Fly through your shell history. Great Scott! __[⭐ 629]__
+    - [Microsoft / microsoft-ui-xaml](https://github.com/Microsoft/microsoft-ui-xaml) Backward-compatible versions of Windows UI features including UWP XAML controls, and Fluent styles and materials. __[⭐ 516]__
+    - [gaearon / overreacted.io](https://github.com/gaearon/overreacted.io) Personal blog by Dan Abramov. __[⭐ 1,345]__
+    - [BcRikko / NES.css](https://github.com/BcRikko/NES.css) NES-style CSS Framework | ファミコン風CSSフレームワーク __[⭐ 6,573]__
+    - [Microsoft / Ethr](https://github.com/Microsoft/Ethr) Ethr is a Network Performance Measurement Tool for TCP, UDP & HTTP. __[⭐ 693]__
+    - [OpenMined / PySyft](https://github.com/OpenMined/PySyft) A library for encrypted, privacy preserving deep learning __[⭐ 2,211]__
+    - [leisurelicht / wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译 __[⭐ 2,325]__
+    - [satwikkansal / wtfpython](https://github.com/satwikkansal/wtfpython) A collection of surprising Python snippets and lesser-known features. __[⭐ 9,989]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 Computer Science Learning Notes __[⭐ 42,930]__
+    - [pim-book / programmers-introduction-to-mathematics](https://github.com/pim-book/programmers-introduction-to-mathematics) Code for A Programmer's Introduction to Mathematics __[⭐ 1,167]__
+    - [crossplaneio / crossplane](https://github.com/crossplaneio/crossplane) An Open Source Multicloud Control Plane __[⭐ 306]__
+    - [wagoodman / dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image __[⭐ 11,215]__
+    - [google / flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding) Desktop implementations of the Flutter embedding API __[⭐ 1,815]__
+    - [beyondcode / laravel-websockets](https://github.com/beyondcode/laravel-websockets) Websockets for Laravel. Done right. __[⭐ 299]__
+    - [cssanimation / css-animation-101](https://github.com/cssanimation/css-animation-101) Learn how to bring animation to your web projects __[⭐ 2,416]__
+    - [Microsoft / SEAL](https://github.com/Microsoft/SEAL) Simple Encrypted Arithmetic Library (SEAL) is an easy-to-use but powerful homomorphic encryption library written in C++. It supports both the BFV and the CKKS encryption schemes. __[⭐ 473]__
+    - [joelibaceta / video-to-ascii](https://github.com/joelibaceta/video-to-ascii) It is a simple python package to play videos in the terminal using characters as pixels __[⭐ 252]__
+    - [ithinco / i-am-chinese-the-dragonfly-must-go-on](https://github.com/ithinco/i-am-chinese-the-dragonfly-must-go-on) A response to “We are Google employees, Google must drop DragonFly” __[⭐ 1,431]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 14,801]__
+    - [oussamahamdaoui / forgJs](https://github.com/oussamahamdaoui/forgJs) ForgJs is a javascript lightweight object validator. Go check the Quick start section and start coding with love __[⭐ 301]__
 - 20181204
     - [NVIDIAGameWorks / PhysX-3.4](https://github.com/NVIDIAGameWorks/PhysX-3.4) NVIDIA PhysX SDK 3.4 __[⭐ 1,262]__
     - [gaearon / overreacted.io](https://github.com/gaearon/overreacted.io) Personal blog by Dan Abramov. __[⭐ 1,120]__
