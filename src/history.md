@@ -1,3 +1,29 @@
+- 20181206
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 44,016]__
+    - [beyondcode / laravel-websockets](https://github.com/beyondcode/laravel-websockets) Websockets for Laravel. Done right. __[⭐ 923]__
+    - [dotnet / wpf](https://github.com/dotnet/wpf) WPF is a .NET Core UI framework for building Windows desktop applications. __[⭐ 1,726]__
+    - [Microsoft / Ethr](https://github.com/Microsoft/Ethr) Ethr is a Network Performance Measurement Tool for TCP, UDP & HTTP. __[⭐ 1,150]__
+    - [nostalgic-css / NES.css](https://github.com/nostalgic-css/NES.css) NES-style CSS Framework | ファミコン風CSSフレームワーク __[⭐ 6,989]__
+    - [satwikkansal / wtfpython](https://github.com/satwikkansal/wtfpython) A collection of surprising Python snippets and lesser-known features. __[⭐ 10,361]__
+    - [SplashCodes / JAViewer](https://github.com/SplashCodes/JAViewer) 更优雅的驾车体验 __[⭐ 2,306]__
+    - [dotnet / winforms](https://github.com/dotnet/winforms) Windows Forms is a .NET Core UI framework for building Windows desktop applications. __[⭐ 1,133]__
+    - [cssanimation / css-animation-101](https://github.com/cssanimation/css-animation-101) Learn how to bring animation to your web projects __[⭐ 2,708]__
+    - [leisurelicht / wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译 __[⭐ 2,602]__
+    - [atlas-engineer / next](https://github.com/atlas-engineer/next) Next Browser - Be Productive. __[⭐ 1,983]__
+    - [vladocar / screenshoteer](https://github.com/vladocar/screenshoteer) Make website screenshots and mobile emulations from the command line. __[⭐ 776]__
+    - [portabletext / portabletext](https://github.com/portabletext/portabletext) Portable Text is a JSON based rich text specification for modern content editing platforms. __[⭐ 259]__
+    - [google / flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding) Desktop implementations of the Flutter embedding API __[⭐ 2,091]__
+    - [wagoodman / dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image __[⭐ 11,466]__
+    - [crossplaneio / crossplane](https://github.com/crossplaneio/crossplane) An Open Source Multicloud Control Plane __[⭐ 553]__
+    - [docker / compose-on-kubernetes](https://github.com/docker/compose-on-kubernetes) Deploy applications described in Compose onto Kubernetes clusters __[⭐ 236]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 14,981]__
+    - [streamich / awesome-styleguides](https://github.com/streamich/awesome-styleguides) A curated list of UI styleguides — 😎💄 __[⭐ 340]__
+    - [Microsoft / microsoft-ui-xaml](https://github.com/Microsoft/microsoft-ui-xaml) Backward-compatible versions of Windows UI features including UWP XAML controls, and Fluent styles and materials. __[⭐ 738]__
+    - [zeit / ncc](https://github.com/zeit/ncc) Node.js Compiler Collection __[⭐ 1,567]__
+    - [vuejs / vue](https://github.com/vuejs/vue) 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 121,307]__
+    - [cantino / mcfly](https://github.com/cantino/mcfly) Fly through your shell history. Great Scott! __[⭐ 839]__
+    - [sourcegraph / sourcegraph](https://github.com/sourcegraph/sourcegraph) Code search and intelligence, self-hosted and scalable __[⭐ 699]__
+    - [joelibaceta / video-to-ascii](https://github.com/joelibaceta/video-to-ascii) It is a simple python package to play videos in the terminal using characters as pixels __[⭐ 432]__
 - 20181205
     - [dotnet / wpf](https://github.com/dotnet/wpf) This repo contains Windows Presentation Foundation (WPF) for .NET Core __[⭐ 1,142]__
     - [dotnet / winforms](https://github.com/dotnet/winforms) This repo contains Windows Forms for .NET Core. __[⭐ 744]__
