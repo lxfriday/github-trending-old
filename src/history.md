@@ -1,3 +1,29 @@
+- 20181207
+    - [MicrosoftEdge / MSEdge](https://github.com/MicrosoftEdge/MSEdge) Microsoft Edge __[⭐ 686]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 44,469]__
+    - [Microsoft / Ethr](https://github.com/Microsoft/Ethr) Ethr is a Network Performance Measurement Tool for TCP, UDP & HTTP. __[⭐ 1,550]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 Computer Science Learning Notes __[⭐ 43,466]__
+    - [SplashCodes / JAViewer](https://github.com/SplashCodes/JAViewer) 更优雅的驾车体验 __[⭐ 2,548]__
+    - [nostalgic-css / NES.css](https://github.com/nostalgic-css/NES.css) NES-style CSS Framework | ファミコン風CSSフレームワーク __[⭐ 7,214]__
+    - [satwikkansal / wtfpython](https://github.com/satwikkansal/wtfpython) A collection of surprising Python snippets and lesser-known features. __[⭐ 10,606]__
+    - [leisurelicht / wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译 __[⭐ 2,826]__
+    - [zeit / ncc](https://github.com/zeit/ncc) Node.js Compiler Collection __[⭐ 1,761]__
+    - [beyondcode / laravel-websockets](https://github.com/beyondcode/laravel-websockets) Websockets for Laravel. Done right. __[⭐ 1,104]__
+    - [CreativeIT / material-angular-dashboard](https://github.com/CreativeIT/material-angular-dashboard) Material Angular Admin Template __[⭐ 261]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 15,149]__
+    - [GoogleChrome / puppeteer](https://github.com/GoogleChrome/puppeteer) Headless Chrome Node API __[⭐ 42,207]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode上的题目的思路） __[⭐ 222]__
+    - [streamich / awesome-styleguides](https://github.com/streamich/awesome-styleguides) A curated list of UI styleguides — 😎💄 __[⭐ 519]__
+    - [dotnet / wpf](https://github.com/dotnet/wpf) WPF is a .NET Core UI framework for building Windows desktop applications. __[⭐ 1,895]__
+    - [alixaxel / chrome-aws-lambda](https://github.com/alixaxel/chrome-aws-lambda) Chromium Binary for AWS Lambda __[⭐ 243]__
+    - [docker / compose-on-kubernetes](https://github.com/docker/compose-on-kubernetes) Deploy applications described in Compose onto Kubernetes clusters __[⭐ 385]__
+    - [vladocar / screenshoteer](https://github.com/vladocar/screenshoteer) Make website screenshots and mobile emulations from the command line. __[⭐ 947]__
+    - [wagoodman / dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image __[⭐ 11,604]__
+    - [tensorflow / ranking](https://github.com/tensorflow/ranking) Learning to Rank in TensorFlow __[⭐ 286]__
+    - [atlas-engineer / next](https://github.com/atlas-engineer/next) Next Browser - Be Productive. __[⭐ 2,108]__
+    - [vuejs / vue](https://github.com/vuejs/vue) 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 121,417]__
+    - [cssanimation / css-animation-101](https://github.com/cssanimation/css-animation-101) Learn how to bring animation to your web projects __[⭐ 2,841]__
+    - [rstudio / gt](https://github.com/rstudio/gt) Easily generate information-rich, publication-quality tables from R __[⭐ 301]__
 - 20181206
     - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 44,016]__
     - [beyondcode / laravel-websockets](https://github.com/beyondcode/laravel-websockets) Websockets for Laravel. Done right. __[⭐ 923]__
