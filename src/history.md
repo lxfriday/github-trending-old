@@ -1,3 +1,29 @@
+- 20181209
+    - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee / eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee… __[⭐ 1,272]__
+    - [google / jax](https://github.com/google/jax) GPU- and TPU-backed NumPy with differentiation and JIT compilation. __[⭐ 1,019]__
+    - [Delgan / loguru](https://github.com/Delgan/loguru) Python logging made (stupidly) simple __[⭐ 399]__
+    - [MrRio / jsPDF](https://github.com/MrRio/jsPDF) Client-side JavaScript PDF generation for everyone. __[⭐ 13,178]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 708]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 44,974]__
+    - [MicrosoftEdge / MSEdge](https://github.com/MicrosoftEdge/MSEdge) Microsoft Edge __[⭐ 1,354]__
+    - [Microsoft / Ethr](https://github.com/Microsoft/Ethr) Ethr is a Network Performance Measurement Tool for TCP, UDP & HTTP. __[⭐ 1,956]__
+    - [satwikkansal / wtfpython](https://github.com/satwikkansal/wtfpython) A collection of surprising Python snippets and lesser-known features. __[⭐ 11,024]__
+    - [qunarcorp / qmq](https://github.com/qunarcorp/qmq) QMQ是去哪儿网内部广泛使用的消息中间件，自2012年诞生以来在去哪儿网所有业务场景中广泛的应用，包括跟交易息息相关的订单场景； 也包括报价搜索等高吞吐量场景。 __[⭐ 545]__
+    - [wasmerio / wasmer](https://github.com/wasmerio/wasmer) High-Performance WebAssembly JIT interpreter __[⭐ 919]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 Computer Science Learning Notes __[⭐ 43,759]__
+    - [pytorch / pytorch](https://github.com/pytorch/pytorch) Tensors and Dynamic neural networks in Python with strong GPU acceleration __[⭐ 22,360]__
+    - [nostalgic-css / NES.css](https://github.com/nostalgic-css/NES.css) NES-style CSS Framework | ファミコン風CSSフレームワーク __[⭐ 7,512]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 15,341]__
+    - [tomgoldstein / loss-landscape](https://github.com/tomgoldstein/loss-landscape) Code for visualizing the loss landscape of neural nets __[⭐ 492]__
+    - [horance-liu / tensorflow-internals](https://github.com/horance-liu/tensorflow-internals) It is open source ebook about TensorFlow kernel and implementation mechanism. __[⭐ 1,012]__
+    - [lovell / sharp](https://github.com/lovell/sharp) High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library. __[⭐ 10,202]__
+    - [Solido / awesome-flutter](https://github.com/Solido/awesome-flutter) An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. __[⭐ 9,446]__
+    - [mercyblitz / tech-weekly](https://github.com/mercyblitz/tech-weekly) 「小马哥技术周报」 __[⭐ 201]__
+    - [dmlc / dgl](https://github.com/dmlc/dgl) Python package built to ease deep learning on graph, on top of existing DL frameworks. __[⭐ 258]__
+    - [SergioBenitez / Rocket](https://github.com/SergioBenitez/Rocket) A web framework for Rust. __[⭐ 5,893]__
+    - [vuejs / vue](https://github.com/vuejs/vue) 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 121,575]__
+    - [tensorflow / tensorflow](https://github.com/tensorflow/tensorflow) An Open Source Machine Learning Framework for Everyone __[⭐ 116,282]__
+    - [GoogleChrome / puppeteer](https://github.com/GoogleChrome/puppeteer) Headless Chrome Node API __[⭐ 42,412]__
 - 20181208
     - [MicrosoftEdge / MSEdge](https://github.com/MicrosoftEdge/MSEdge) Microsoft Edge __[⭐ 1,140]__
     - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 44,745]__
