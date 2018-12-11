@@ -1,3 +1,29 @@
+- 20181211
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 2,099]__
+    - [MrRio / jsPDF](https://github.com/MrRio/jsPDF) Client-side JavaScript PDF generation for everyone. __[⭐ 14,004]__
+    - [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) A practical approach to learning machine learning. __[⭐ 605]__
+    - [Delgan / loguru](https://github.com/Delgan/loguru) Python logging made (stupidly) simple __[⭐ 1,075]__
+    - [mholt / certmagic](https://github.com/mholt/certmagic) Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal __[⭐ 444]__
+    - [google / open-location-code](https://github.com/google/open-location-code) Open Location Code is a library to generate short codes that can be used like street addresses, for places where street addresses don't exist. __[⭐ 1,942]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 15,791]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 45,450]__
+    - [google / jax](https://github.com/google/jax) GPU- and TPU-backed NumPy with differentiation and JIT compilation. __[⭐ 1,533]__
+    - [wonderfulsuccess / weixin_crawler](https://github.com/wonderfulsuccess/weixin_crawler) 高效微信公众号历史文章和阅读数据爬虫powered by scrapy __[⭐ 465]__
+    - [Eugeny / terminus](https://github.com/Eugeny/terminus) A terminal for a more modern age __[⭐ 4,124]__
+    - [lovell / sharp](https://github.com/lovell/sharp) High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library. __[⭐ 10,593]__
+    - [Microsoft / Ethr](https://github.com/Microsoft/Ethr) Ethr is a Network Performance Measurement Tool for TCP, UDP & HTTP. __[⭐ 2,335]__
+    - [Solido / awesome-flutter](https://github.com/Solido/awesome-flutter) An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. __[⭐ 9,762]__
+    - [satwikkansal / wtfpython](https://github.com/satwikkansal/wtfpython) A collection of surprising Python snippets and lesser-known features. __[⭐ 11,348]__
+    - [wagoodman / dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image __[⭐ 12,011]__
+    - [meolu / walle-web](https://github.com/meolu/walle-web) walle - 瓦力 开源项目代码部署平台 __[⭐ 4,701]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 Computer Science Learning Notes __[⭐ 44,018]__
+    - [oussamahamdaoui / forgJs](https://github.com/oussamahamdaoui/forgJs) ForgJs is a javascript lightweight object validator. Go check the Quick start section and start coding with love __[⭐ 763]__
+    - [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 __[⭐ 14,755]__
+    - [nostalgic-css / NES.css](https://github.com/nostalgic-css/NES.css) NES-style CSS Framework | ファミコン風CSSフレームワーク __[⭐ 7,743]__
+    - [leisurelicht / wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译 __[⭐ 3,143]__
+    - [vuejs / vue](https://github.com/vuejs/vue) 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 121,733]__
+    - [philippe44 / AirConnect](https://github.com/philippe44/AirConnect) Use AirPlay to stream to UPnP/Sonos & Chromecast devices __[⭐ 670]__
+    - [pcottle / learnGitBranching](https://github.com/pcottle/learnGitBranching) An interactive git visualization to challenge and educate! __[⭐ 10,158]__
 - 20181210
     - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee / eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee… __[⭐ 1,457]__
     - [google / jax](https://github.com/google/jax) GPU- and TPU-backed NumPy with differentiation and JIT compilation. __[⭐ 1,122]__
