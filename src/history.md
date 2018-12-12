@@ -1,3 +1,29 @@
+- 20181212
+    - [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) A practical approach to learning machine learning. __[⭐ 2,630]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 2,619]__
+    - [mholt / certmagic](https://github.com/mholt/certmagic) Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal __[⭐ 818]__
+    - [MrRio / jsPDF](https://github.com/MrRio/jsPDF) Client-side JavaScript PDF generation for everyone. __[⭐ 14,319]__
+    - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee / eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee __[⭐ 3,157]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 15,952]__
+    - [Delgan / loguru](https://github.com/Delgan/loguru) Python logging made (stupidly) simple __[⭐ 1,345]__
+    - [jellyfin / jellyfin](https://github.com/jellyfin/jellyfin) The Free Software Media Browser __[⭐ 423]__
+    - [GoogleChromeLabs / quicklink](https://github.com/GoogleChromeLabs/quicklink) ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time __[⭐ 457]__
+    - [google / jax](https://github.com/google/jax) GPU- and TPU-backed NumPy with differentiation and JIT compilation. __[⭐ 1,806]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 45,650]__
+    - [yeasy / docker_practice](https://github.com/yeasy/docker_practice) Learn and understand Docker technologies, with real DevOps practice! __[⭐ 10,730]__
+    - [wonderfulsuccess / weixin_crawler](https://github.com/wonderfulsuccess/weixin_crawler) 高效微信公众号历史文章和阅读数据爬虫powered by scrapy __[⭐ 551]__
+    - [google / open-location-code](https://github.com/google/open-location-code) Open Location Code is a library to generate short codes that can be used like street addresses, for places where street addresses don't exist. __[⭐ 2,101]__
+    - [Microsoft / Ethr](https://github.com/Microsoft/Ethr) Ethr is a Network Performance Measurement Tool for TCP, UDP & HTTP. __[⭐ 2,514]__
+    - [satwikkansal / wtfpython](https://github.com/satwikkansal/wtfpython) A collection of surprising Python snippets and lesser-known features. __[⭐ 11,504]__
+    - [rendora / rendora](https://github.com/rendora/rendora) A dynamic renderer to provide zero-conf server-side rendering to web crawlers in order to effortlessly improve SEO for modern javascript websites __[⭐ 292]__
+    - [Eugeny / terminus](https://github.com/Eugeny/terminus) A terminal for a more modern age __[⭐ 4,256]__
+    - [inamiy / SwiftRewriter](https://github.com/inamiy/SwiftRewriter) Swift code formatter using SwiftSyntax. __[⭐ 205]__
+    - [oussamahamdaoui / forgJs](https://github.com/oussamahamdaoui/forgJs) ForgJs is a javascript lightweight object validator. Go check the Quick start section and start coding with love __[⭐ 909]__
+    - [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 __[⭐ 14,838]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 Computer Science Learning Notes __[⭐ 44,086]__
+    - [lovell / sharp](https://github.com/lovell/sharp) High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library. __[⭐ 10,688]__
+    - [Solido / awesome-flutter](https://github.com/Solido/awesome-flutter) An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. __[⭐ 9,867]__
+    - [vuejs / vue](https://github.com/vuejs/vue) 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 121,824]__
 - 20181211
     - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 2,099]__
     - [MrRio / jsPDF](https://github.com/MrRio/jsPDF) Client-side JavaScript PDF generation for everyone. __[⭐ 14,004]__
