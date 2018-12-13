@@ -1,3 +1,29 @@
+- 20181213
+    - [grafana / loki](https://github.com/grafana/loki) Like Prometheus, but for logs. __[⭐ 1,976]__
+    - [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) A practical approach to learning machine learning. __[⭐ 5,355]__
+    - [devhubapp / devhub](https://github.com/devhubapp/devhub) DevHub: TweetDeck for GitHub - Android, iOS and Web 👉 __[⭐ 902]__
+    - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee / eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee __[⭐ 4,262]__
+    - [GoogleChromeLabs / quicklink](https://github.com/GoogleChromeLabs/quicklink) ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time __[⭐ 1,425]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 3,487]__
+    - [NASA-SW-VnV / ikos](https://github.com/NASA-SW-VnV/ikos) Static analyzer for C/C++ based on the theory of Abstract Interpretation. __[⭐ 662]__
+    - [dmlc / dgl](https://github.com/dmlc/dgl) Python package built to ease deep learning on graph, on top of existing DL frameworks. __[⭐ 736]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 46,047]__
+    - [zziz / pwc](https://github.com/zziz/pwc) Papers with code. Sorted by stars. Updated weekly. __[⭐ 6,448]__
+    - [MrRio / jsPDF](https://github.com/MrRio/jsPDF) Client-side JavaScript PDF generation for everyone. __[⭐ 14,691]__
+    - [guillaume-chevalier / How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks) Growing the code out of your notebooks - the right way. __[⭐ 313]__
+    - [yeasy / docker_practice](https://github.com/yeasy/docker_practice) Learn and understand Docker technologies, with real DevOps practice! __[⭐ 11,061]__
+    - [Delgan / loguru](https://github.com/Delgan/loguru) Python logging made (stupidly) simple __[⭐ 1,626]__
+    - [aws / containers-roadmap](https://github.com/aws/containers-roadmap) This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS). __[⭐ 418]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 16,197]__
+    - [google-research / google-research](https://github.com/google-research/google-research) Google AI Research __[⭐ 974]__
+    - [mholt / certmagic](https://github.com/mholt/certmagic) Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal __[⭐ 1,135]__
+    - [MicrosoftEdge / MSEdge](https://github.com/MicrosoftEdge/MSEdge) Microsoft Edge __[⭐ 1,756]__
+    - [lucagez / Debucsser](https://github.com/lucagez/Debucsser) CSS debugging tool with an unpronounceable name __[⭐ 319]__
+    - [30-seconds / 30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less. __[⭐ 34,123]__
+    - [vuejs / vue](https://github.com/vuejs/vue) 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 122,011]__
+    - [google / jax](https://github.com/google/jax) GPU- and TPU-backed NumPy with differentiation and JIT compilation. __[⭐ 2,032]__
+    - [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 __[⭐ 15,073]__
+    - [qiurunze123 / miaosha](https://github.com/qiurunze123/miaosha) 😮😮秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓 __[⭐ 289]__
 - 20181212
     - [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) A practical approach to learning machine learning. __[⭐ 2,630]__
     - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 2,619]__
