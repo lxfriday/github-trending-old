@@ -1,3 +1,29 @@
+- 20181215
+    - [facebookresearch / pytext](https://github.com/facebookresearch/pytext) A natural language modeling framework based on PyTorch __[⭐ 1,254]__
+    - [leonardomso / 33-js-concepts](https://github.com/leonardomso/33-js-concepts) 📜 33 concepts every JavaScript developer should know. __[⭐ 21,720]__
+    - [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) A practical approach to learning machine learning. __[⭐ 6,736]__
+    - [devhubapp / devhub](https://github.com/devhubapp/devhub) DevHub: TweetDeck for GitHub - Android, iOS and Web 👉 __[⭐ 2,193]__
+    - [GoogleChromeLabs / quicklink](https://github.com/GoogleChromeLabs/quicklink) ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time __[⭐ 2,670]__
+    - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. For SysOps, DevOps, Pentesters and Security Researchers. __[⭐ 1,191]__
+    - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee / eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee __[⭐ 5,151]__
+    - [grafana / loki](https://github.com/grafana/loki) Like Prometheus, but for logs. __[⭐ 2,796]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 4,182]__
+    - [qiurunze123 / miaosha](https://github.com/qiurunze123/miaosha) 😮😮秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓 __[⭐ 946]__
+    - [FAQGURU / FAQGURU](https://github.com/FAQGURU/FAQGURU) A list of interview questions. This repository is everything you need to prepare for your technical interview. 🎒 🚀 🎉 __[⭐ 607]__
+    - [vaexio / vaex](https://github.com/vaexio/vaex) Out-of-Core DataFrames for Python, visualize and explore big tabular data at a billion rows per second. __[⭐ 638]__
+    - [trekhleb / javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings __[⭐ 40,256]__
+    - [naveedgol / apple-music-web-player](https://github.com/naveedgol/apple-music-web-player) Apple Music web player __[⭐ 415]__
+    - [30-seconds / 30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less. __[⭐ 34,406]__
+    - [thecodingmachine / gotenberg](https://github.com/thecodingmachine/gotenberg) A Docker-powered stateless API for converting HTML, Markdown and Office documents to PDF __[⭐ 788]__
+    - [Delgan / loguru](https://github.com/Delgan/loguru) Python logging made (stupidly) simple __[⭐ 1,917]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 46,343]__
+    - [MrRio / jsPDF](https://github.com/MrRio/jsPDF) Client-side JavaScript PDF generation for everyone. __[⭐ 14,948]__
+    - [rtqichen / torchdiffeq](https://github.com/rtqichen/torchdiffeq) Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation. __[⭐ 825]__
+    - [worldveil / photomosaic](https://github.com/worldveil/photomosaic) Creating fun photomosaics, GIFs, and murals from your family pictures using ML & similarity search (http://photofun.strikingly.com) __[⭐ 323]__
+    - [kelseyhightower / nocode](https://github.com/kelseyhightower/nocode) The best way to write secure and reliable applications. Write nothing; deploy nowhere. __[⭐ 25,312]__
+    - [vuejs / vue](https://github.com/vuejs/vue) 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 122,197]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 16,433]__
+    - [mholt / certmagic](https://github.com/mholt/certmagic) Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal __[⭐ 1,416]__
 - 20181214
     - [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) A practical approach to learning machine learning. __[⭐ 5,864]__
     - [GoogleChromeLabs / quicklink](https://github.com/GoogleChromeLabs/quicklink) ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time __[⭐ 1,953]__
