@@ -1,3 +1,29 @@
+- 20181218
+    - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers. __[⭐ 3,192]__
+    - [fengdu78 / lihang-code](https://github.com/fengdu78/lihang-code) 《统计学习方法》的代码实现 __[⭐ 1,615]__
+    - [MaxBittker / sandspiel](https://github.com/MaxBittker/sandspiel) Creative cellular automata browser game __[⭐ 701]__
+    - [macrozheng / mall](https://github.com/macrozheng/mall) mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 __[⭐ 1,238]__
+    - [facebookresearch / pytext](https://github.com/facebookresearch/pytext) A natural language modeling framework based on PyTorch __[⭐ 2,551]__
+    - [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) A practical approach to learning machine learning. __[⭐ 7,792]__
+    - [santinic / pampy](https://github.com/santinic/pampy) Pampy: The Pattern Matching for Python you always dreamed of. __[⭐ 1,992]__
+    - [qiurunze123 / miaosha](https://github.com/qiurunze123/miaosha) 😮😮秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓 __[⭐ 1,516]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 4,878]__
+    - [mozilla-services / react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) A React component for building Web forms from JSON Schema. __[⭐ 5,210]__
+    - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee / eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee __[⭐ 5,872]__
+    - [GoogleChromeLabs / quicklink](https://github.com/GoogleChromeLabs/quicklink) ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time __[⭐ 3,241]__
+    - [ndabAP / vue-go-example](https://github.com/ndabAP/vue-go-example) Vue.js and Go example project __[⭐ 340]__
+    - [grafana / loki](https://github.com/grafana/loki) Like Prometheus, but for logs. __[⭐ 3,290]__
+    - [uw-labs / bloomrpc](https://github.com/uw-labs/bloomrpc) GUI Client for GRPC Services __[⭐ 364]__
+    - [devhubapp / devhub](https://github.com/devhubapp/devhub) DevHub: TweetDeck for GitHub - Android, iOS and Web 👉 __[⭐ 2,735]__
+    - [leonardomso / 33-js-concepts](https://github.com/leonardomso/33-js-concepts) 📜 33 concepts every JavaScript developer should know. __[⭐ 22,240]__
+    - [FAQGURU / FAQGURU](https://github.com/FAQGURU/FAQGURU) A list of interview questions. This repository is everything you need to prepare for your technical interview. 🎒 🚀 🎉 __[⭐ 1,070]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 16,724]__
+    - [Doraemonzzz / Learning-from-data](https://github.com/Doraemonzzz/Learning-from-data) 记录Learning from data一书中的习题解答 __[⭐ 216]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 46,627]__
+    - [ezaquarii / vpn-at-home](https://github.com/ezaquarii/vpn-at-home) 1-click, self-hosted OpenVPN deployment and management app. __[⭐ 299]__
+    - [trekhleb / javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings __[⭐ 40,545]__
+    - [saket / Dank](https://github.com/saket/Dank) Here lies the greatest Reddit app that was never released __[⭐ 331]__
+    - [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university) A complete computer science study plan to become a software engineer. __[⭐ 72,246]__
 - 20181217
     - [facebookresearch / pytext](https://github.com/facebookresearch/pytext) A natural language modeling framework based on PyTorch __[⭐ 1,984]__
     - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. For SysOps, DevOps, Pentesters and Security Researchers. __[⭐ 1,800]__
