@@ -1,3 +1,29 @@
+- 20181219
+    - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers. __[⭐ 4,910]__
+    - [bloomberg / goldpinger](https://github.com/bloomberg/goldpinger) Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster. __[⭐ 683]__
+    - [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) A practical approach to learning machine learning. __[⭐ 8,573]__
+    - [fengdu78 / lihang-code](https://github.com/fengdu78/lihang-code) 《统计学习方法》的代码实现 __[⭐ 2,172]__
+    - [macrozheng / mall](https://github.com/macrozheng/mall) mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 __[⭐ 1,696]__
+    - [facebookresearch / pytext](https://github.com/facebookresearch/pytext) A natural language modeling framework based on PyTorch __[⭐ 2,971]__
+    - [GoogleChromeLabs / quicklink](https://github.com/GoogleChromeLabs/quicklink) ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time __[⭐ 3,653]__
+    - [uw-labs / bloomrpc](https://github.com/uw-labs/bloomrpc) GUI Client for GRPC Services __[⭐ 851]__
+    - [ChrisCavs / rallax.js](https://github.com/ChrisCavs/rallax.js) Dead simple parallax scrolling. __[⭐ 459]__
+    - [ucbrise / confluo](https://github.com/ucbrise/confluo) Real-time Monitoring and Analysis of Data Streams __[⭐ 747]__
+    - [MaxBittker / sandspiel](https://github.com/MaxBittker/sandspiel) Creative cellular automata browser game __[⭐ 1,067]__
+    - [Microsoft / Trill](https://github.com/Microsoft/Trill) Trill is a single-node query processor for temporal or streaming data. __[⭐ 407]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 5,232]__
+    - [dawnlabs / carbon](https://github.com/dawnlabs/carbon) 🎨 Create and share beautiful images of your source code __[⭐ 17,037]__
+    - [ezaquarii / vpn-at-home](https://github.com/ezaquarii/vpn-at-home) 1-click, self-hosted OpenVPN deployment and management app. __[⭐ 576]__
+    - [bradfitz / exp-httpclient](https://github.com/bradfitz/exp-httpclient) experimental new HTTP client API for #golang (WIP) __[⭐ 194]__
+    - [qiurunze123 / miaosha](https://github.com/qiurunze123/miaosha) 😮😮秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓 __[⭐ 1,796]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 16,953]__
+    - [FAQGURU / FAQGURU](https://github.com/FAQGURU/FAQGURU) 🎒 🚀 🎉 A list of interview questions. This repository is everything you need to prepare for your technical interview. __[⭐ 1,285]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 46,851]__
+    - [grafana / loki](https://github.com/grafana/loki) Like Prometheus, but for logs. __[⭐ 3,499]__
+    - [percyliang / cs229t](https://github.com/percyliang/cs229t) Statistical Learning Theory (CS229T) Lecture Notes __[⭐ 324]__
+    - [khoren93 / SwiftHub](https://github.com/khoren93/SwiftHub) Github iOS client written in RxSwift and MVVM clean architecture __[⭐ 376]__
+    - [vuejs / vue](https://github.com/vuejs/vue) 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 122,551]__
+    - [santinic / pampy](https://github.com/santinic/pampy) Pampy: The Pattern Matching for Python you always dreamed of. __[⭐ 2,187]__
 - 20181218
     - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers. __[⭐ 3,192]__
     - [fengdu78 / lihang-code](https://github.com/fengdu78/lihang-code) 《统计学习方法》的代码实现 __[⭐ 1,615]__
