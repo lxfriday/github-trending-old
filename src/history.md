@@ -1,3 +1,29 @@
+- 20181220
+    - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers. __[⭐ 5,486]__
+    - [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) A practical approach to learning machine learning. __[⭐ 8,838]__
+    - [FAQGURU / FAQGURU](https://github.com/FAQGURU/FAQGURU) 🎒 🚀 🎉 A list of interview questions. This repository is everything you need to prepare for your technical interview. __[⭐ 1,666]__
+    - [fengdu78 / lihang-code](https://github.com/fengdu78/lihang-code) 《统计学习方法》的代码实现 __[⭐ 2,260]__
+    - [macrozheng / mall](https://github.com/macrozheng/mall) mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 __[⭐ 1,795]__
+    - [bloomberg / goldpinger](https://github.com/bloomberg/goldpinger) Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster. __[⭐ 825]__
+    - [opsmop / opsmop](https://github.com/opsmop/opsmop) Next generation config management and app deployment __[⭐ 427]__
+    - [ChrisCavs / rallax.js](https://github.com/ChrisCavs/rallax.js) Dead simple parallax scrolling. __[⭐ 596]__
+    - [GoogleChromeLabs / quicklink](https://github.com/GoogleChromeLabs/quicklink) ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time __[⭐ 3,763]__
+    - [airbnb / MagazineLayout](https://github.com/airbnb/MagazineLayout) A collection view layout capable of laying out views in vertically scrolling grids and lists. __[⭐ 244]__
+    - [bradfitz / exp-httpclient](https://github.com/bradfitz/exp-httpclient) experimental new HTTP client API for #golang (WIP) __[⭐ 291]__
+    - [facebookresearch / pytext](https://github.com/facebookresearch/pytext) A natural language modeling framework based on PyTorch __[⭐ 3,072]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 5,311]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 17,006]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 46,925]__
+    - [ucbrise / confluo](https://github.com/ucbrise/confluo) Real-time Monitoring and Analysis of Data Streams __[⭐ 812]__
+    - [Zhuinden / guide-to-kotlin](https://github.com/Zhuinden/guide-to-kotlin) This tutorial assumes all you know is Java, but you want to learn Kotlin. __[⭐ 188]__
+    - [dawnlabs / carbon](https://github.com/dawnlabs/carbon) 🎨 Create and share beautiful images of your source code __[⭐ 17,102]__
+    - [i0natan / nodebestpractices](https://github.com/i0natan/nodebestpractices) The largest Node.JS best practices list (November 2018) __[⭐ 19,447]__
+    - [uw-labs / bloomrpc](https://github.com/uw-labs/bloomrpc) GUI Client for GRPC Services __[⭐ 937]__
+    - [qiurunze123 / miaosha](https://github.com/qiurunze123/miaosha) 😮😮秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓 __[⭐ 1,849]__
+    - [khoren93 / SwiftHub](https://github.com/khoren93/SwiftHub) Github iOS client written in RxSwift and MVVM clean architecture __[⭐ 426]__
+    - [Varal7 / ieturk](https://github.com/Varal7/ieturk) Intuitive Annotation Tool for Information / Named Entity Recognition using localturk / Amazon Mechanical Turk __[⭐ 161]__
+    - [vuejs / vue](https://github.com/vuejs/vue) 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 122,614]__
+    - [dinubs / coolqlcool](https://github.com/dinubs/coolqlcool) Nextjs server to query websites with GraphQL __[⭐ 137]__
 - 20181219
     - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers. __[⭐ 4,910]__
     - [bloomberg / goldpinger](https://github.com/bloomberg/goldpinger) Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster. __[⭐ 683]__
