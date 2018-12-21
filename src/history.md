@@ -1,3 +1,29 @@
+- 20181221
+    - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers. __[⭐ 6,239]__
+    - [FAQGURU / FAQGURU](https://github.com/FAQGURU/FAQGURU) 🎒 🚀 🎉 A list of interview questions. This repository is everything you need to prepare for your technical interview. __[⭐ 2,174]__
+    - [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) A practical approach to learning machine learning. __[⭐ 9,262]__
+    - [i0natan / nodebestpractices](https://github.com/i0natan/nodebestpractices) The largest Node.JS best practices list (November 2018) __[⭐ 19,905]__
+    - [mahmoud / awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) 💿 Free software that works great, which also happens to be open-source Python. __[⭐ 614]__
+    - [tensor-yu / PyTorch_Tutorial](https://github.com/tensor-yu/PyTorch_Tutorial) 《Pytorch模型训练实用教程》中配套代码 __[⭐ 345]__
+    - [macrozheng / mall](https://github.com/macrozheng/mall) mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 __[⭐ 2,058]__
+    - [airbnb / MagazineLayout](https://github.com/airbnb/MagazineLayout) A collection view layout capable of laying out views in vertically scrolling grids and lists. __[⭐ 484]__
+    - [fengdu78 / lihang-code](https://github.com/fengdu78/lihang-code) 《统计学习方法》的代码实现 __[⭐ 2,460]__
+    - [ChrisCavs / rallax.js](https://github.com/ChrisCavs/rallax.js) Dead simple parallax scrolling. __[⭐ 807]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 5,514]__
+    - [Zhuinden / guide-to-kotlin](https://github.com/Zhuinden/guide-to-kotlin) This tutorial assumes all you know is Java, but you want to learn Kotlin. __[⭐ 379]__
+    - [facebookresearch / nevergrad](https://github.com/facebookresearch/nevergrad) A Python toolbox for performing gradient-free optimization __[⭐ 226]__
+    - [GoogleChromeLabs / quicklink](https://github.com/GoogleChromeLabs/quicklink) ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time __[⭐ 3,960]__
+    - [dinubs / coolqlcool](https://github.com/dinubs/coolqlcool) Nextjs server to query websites with GraphQL __[⭐ 325]__
+    - [opsmop / opsmop](https://github.com/opsmop/opsmop) Next generation config management and app deployment __[⭐ 603]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 17,158]__
+    - [adam-golab / react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap) Roadmap to becoming a React developer in 2018 __[⭐ 10,138]__
+    - [ucbrise / confluo](https://github.com/ucbrise/confluo) Real-time Monitoring and Analysis of Data Streams __[⭐ 952]__
+    - [qiurunze123 / miaosha](https://github.com/qiurunze123/miaosha) 😮😮秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓 __[⭐ 1,995]__
+    - [facebookresearch / pytext](https://github.com/facebookresearch/pytext) A natural language modeling framework based on PyTorch __[⭐ 3,224]__
+    - [bnb / bitandbang](https://github.com/bnb/bitandbang) My npm card 🤗 __[⭐ 137]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 47,064]__
+    - [unbug / codelf](https://github.com/unbug/codelf) Best GitHub stars, repositories tagger and organizer. Search over projects from Github, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project, GitLab to find real-world usage variable names __[⭐ 3,906]__
+    - [vuejs / vue](https://github.com/vuejs/vue) 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 122,727]__
 - 20181220
     - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers. __[⭐ 5,486]__
     - [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) A practical approach to learning machine learning. __[⭐ 8,838]__
