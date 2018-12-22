@@ -1,3 +1,29 @@
+- 20181222
+    - [mahmoud / awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) 💿 Free software that works great, which also happens to be open-source Python. __[⭐ 1,752]__
+    - [alibaba / x-deeplearning](https://github.com/alibaba/x-deeplearning) An industrial deep learning framework for high-dimension sparse data __[⭐ 1,233]__
+    - [facebookresearch / nevergrad](https://github.com/facebookresearch/nevergrad) A Python toolbox for performing gradient-free optimization __[⭐ 818]__
+    - [521xueweihan / HelloGitHub](https://github.com/521xueweihan/HelloGitHub) GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目⭐️ __[⭐ 7,305]__
+    - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers. __[⭐ 6,736]__
+    - [i0natan / nodebestpractices](https://github.com/i0natan/nodebestpractices) The largest Node.JS best practices list (November 2018) __[⭐ 20,385]__
+    - [FAQGURU / FAQGURU](https://github.com/FAQGURU/FAQGURU) 🎒 🚀 🎉 A list of interview questions. This repository is everything you need to prepare for your technical interview. __[⭐ 2,645]__
+    - [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) A practical approach to learning machine learning. __[⭐ 9,646]__
+    - [developit / htm](https://github.com/developit/htm) Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support. __[⭐ 3,777]__
+    - [unbug / codelf](https://github.com/unbug/codelf) Best GitHub stars, repositories tagger and organizer. Search over projects from Github, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project, GitLab to find real-world usage variable names __[⭐ 4,214]__
+    - [alaskasquirrel / Chinese-Podcasts](https://github.com/alaskasquirrel/Chinese-Podcasts) 中文播客：Tech, VC, Life, Movie, Design... __[⭐ 266]__
+    - [airbnb / MagazineLayout](https://github.com/airbnb/MagazineLayout) A collection view layout capable of laying out views in vertically scrolling grids and lists. __[⭐ 743]__
+    - [ghost123gg / tools](https://github.com/ghost123gg/tools) A Python Crawler Framework __[⭐ Python]__
+    - [macrozheng / mall](https://github.com/macrozheng/mall) mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 __[⭐ 2,304]__
+    - [facebookresearch / wav2letter](https://github.com/facebookresearch/wav2letter) Facebook AI Research Automatic Speech Recognition Toolkit __[⭐ 1,961]__
+    - [trekhleb / homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained __[⭐ 184]__
+    - [nhsuk / nhsuk-frontend](https://github.com/nhsuk/nhsuk-frontend) NHS.UK frontend library - in prerelease for use in prototypes and testing __[⭐ 314]__
+    - [NVIDIAGameWorks / PhysX](https://github.com/NVIDIAGameWorks/PhysX) NVIDIA PhysX SDK __[⭐ 252]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 47,234]__
+    - [facebookresearch / pytext](https://github.com/facebookresearch/pytext) A natural language modeling framework based on PyTorch __[⭐ 3,386]__
+    - [fengdu78 / lihang-code](https://github.com/fengdu78/lihang-code) 《统计学习方法》的代码实现 __[⭐ 2,623]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 5,679]__
+    - [trekhleb / javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings __[⭐ 40,922]__
+    - [leonardomso / 33-js-concepts](https://github.com/leonardomso/33-js-concepts) 📜 33 concepts every JavaScript developer should know. __[⭐ 22,670]__
+    - [bryphe / revery](https://github.com/bryphe/revery) ⚡️ Native, high-performance, cross-platform desktop apps - built with Reason! __[⭐ 322]__
 - 20181221
     - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers. __[⭐ 6,239]__
     - [FAQGURU / FAQGURU](https://github.com/FAQGURU/FAQGURU) 🎒 🚀 🎉 A list of interview questions. This repository is everything you need to prepare for your technical interview. __[⭐ 2,174]__
