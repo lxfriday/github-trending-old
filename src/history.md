@@ -1,3 +1,29 @@
+- 20181225
+    - [swc-project / swc](https://github.com/swc-project/swc) Super-fast alternative for babel __[⭐ 1,537]__
+    - [FavioVazquez / ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) List of Data Science Cheatsheets to rule the world __[⭐ 1,299]__
+    - [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲 __[⭐ 1,252]__
+    - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers. __[⭐ 7,530]__
+    - [mahmoud / awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) 💿 Free software that works great, and also happens to be open-source Python. __[⭐ 2,717]__
+    - [dreadl0ck / netcap](https://github.com/dreadl0ck/netcap) A framework for secure and scalable network traffic analysis __[⭐ 590]__
+    - [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) A practical approach to learning machine learning. __[⭐ 10,250]__
+    - [facebookresearch / wav2letter](https://github.com/facebookresearch/wav2letter) Facebook AI Research Automatic Speech Recognition Toolkit __[⭐ 2,576]__
+    - [orbitdb / orbit-db](https://github.com/orbitdb/orbit-db) Peer-to-Peer Databases for the Decentralized Web __[⭐ 2,049]__
+    - [BoostIO / Boostnote](https://github.com/BoostIO/Boostnote) A markdown editor for developers on Mac, Windows and Linux. __[⭐ 11,274]__
+    - [e-oj / Magic-Grid](https://github.com/e-oj/Magic-Grid) A simple, lightweight Javascript library for dynamic grid layouts. __[⭐ 503]__
+    - [521xueweihan / HelloGitHub](https://github.com/521xueweihan/HelloGitHub) GitHub 上好玩、容易上手的项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目⭐️ __[⭐ 7,829]__
+    - [macrozheng / mall](https://github.com/macrozheng/mall) mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 __[⭐ 2,673]__
+    - [unbug / codelf](https://github.com/unbug/codelf) Best GitHub stars, repositories tagger and organizer. Search over projects from Github, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project, GitLab to find real-world usage variable names __[⭐ 4,589]__
+    - [adam-golab / react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap) Roadmap to becoming a React developer in 2018 __[⭐ 10,548]__
+    - [i0natan / nodebestpractices](https://github.com/i0natan/nodebestpractices) The largest Node.JS best practices list (November 2018) __[⭐ 20,805]__
+    - [razerdp / BasePopup](https://github.com/razerdp/BasePopup) 亲，还在为PopupWindow烦恼吗？不如试试BasePopup，你会爱上他的~ __[⭐ 2,117]__
+    - [intika / Librefox](https://github.com/intika/Librefox) Librefox, patching Firefox for an enforced privacy and security __[⭐ 267]__
+    - [TarekRaafat / autoComplete.js](https://github.com/TarekRaafat/autoComplete.js) Simple autocomplete pure vanilla Javascript library. __[⭐ 673]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 5,942]__
+    - [alibaba / x-deeplearning](https://github.com/alibaba/x-deeplearning) An industrial deep learning framework for high-dimension sparse data __[⭐ 1,520]__
+    - [alash3al / redix](https://github.com/alash3al/redix) a persistent real-time key-value store, with the same redis protocol with powerful features __[⭐ 428]__
+    - [rwbutler / Connectivity](https://github.com/rwbutler/Connectivity) Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access. __[⭐ 210]__
+    - [trekhleb / homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained __[⭐ 554]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 17,444]__
 - 20181223
     - [mahmoud / awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) 💿 Free software that works great, and also happens to be open-source Python. __[⭐ 2,164]__
     - [facebookresearch / wav2letter](https://github.com/facebookresearch/wav2letter) Facebook AI Research Automatic Speech Recognition Toolkit __[⭐ 2,180]__
