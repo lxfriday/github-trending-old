@@ -1,3 +1,29 @@
+- 20181226
+    - [ant-design / ant-design](https://github.com/ant-design/ant-design) 🐜 A UI Design Language __[⭐ 39,084]__
+    - [Tencent / matrix](https://github.com/Tencent/matrix) Matrix is a plugin style, no-intrusion APM system developed by WeChat. __[⭐ 1,329]__
+    - [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲 __[⭐ 1,890]__
+    - [mahmoud / awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) 💿 Free software that works great, and also happens to be open-source Python. __[⭐ 3,213]__
+    - [FavioVazquez / ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) List of Data Science Cheatsheets to rule the world __[⭐ 1,795]__
+    - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers. __[⭐ 8,011]__
+    - [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) A practical approach to learning machine learning. __[⭐ 10,648]__
+    - [swc-project / swc](https://github.com/swc-project/swc) Super-fast alternative for babel written in rust __[⭐ 2,006]__
+    - [alibaba-fusion / next](https://github.com/alibaba-fusion/next) A configurable component library for web built on React. __[⭐ 426]__
+    - [521xueweihan / HelloGitHub](https://github.com/521xueweihan/HelloGitHub) 分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目⭐️ __[⭐ 8,083]__
+    - [e-oj / Magic-Grid](https://github.com/e-oj/Magic-Grid) A simple, lightweight Javascript library for dynamic grid layouts. __[⭐ 845]__
+    - [i0natan / nodebestpractices](https://github.com/i0natan/nodebestpractices) The largest Node.JS best practices list (November 2018) __[⭐ 21,039]__
+    - [macrozheng / mall](https://github.com/macrozheng/mall) mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 __[⭐ 2,874]__
+    - [sdushantha / sherlock](https://github.com/sdushantha/sherlock) 🔎 Find usernames across over 75 social networks __[⭐ 206]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 17,625]__
+    - [torchgan / torchgan](https://github.com/torchgan/torchgan) Research Framework for easy and efficient training of GANs based on Pytorch __[⭐ 284]__
+    - [x-ream / x7](https://github.com/x-ream/x7)  __[⭐ 220]__
+    - [jjkaufman / wiv.js](https://github.com/jjkaufman/wiv.js) A library for a more wiggly div __[⭐ 154]__
+    - [zergtant / pytorch-handbook](https://github.com/zergtant/pytorch-handbook) pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行 __[⭐ 200]__
+    - [TarekRaafat / autoComplete.js](https://github.com/TarekRaafat/autoComplete.js) Simple autocomplete pure vanilla Javascript library. __[⭐ 872]__
+    - [orbitdb / orbit-db](https://github.com/orbitdb/orbit-db) Peer-to-Peer Databases for the Decentralized Web __[⭐ 2,282]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 47,625]__
+    - [unbug / codelf](https://github.com/unbug/codelf) Best GitHub stars, repositories tagger and organizer. Search over projects from Github, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project, GitLab to find real-world usage variable names __[⭐ 4,748]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 6,096]__
+    - [intika / Librefox](https://github.com/intika/Librefox) Librefox: Firefox with privacy enhancements __[⭐ 488]__
 - 20181225
     - [swc-project / swc](https://github.com/swc-project/swc) Super-fast alternative for babel __[⭐ 1,537]__
     - [FavioVazquez / ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) List of Data Science Cheatsheets to rule the world __[⭐ 1,299]__
