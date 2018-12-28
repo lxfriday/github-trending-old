@@ -1,3 +1,29 @@
+- 20181228
+    - [fabiospampinato / notable](https://github.com/fabiospampinato/notable) The markdown-based note-taking app that doesn't suck. __[⭐ 1,679]__
+    - [hackerb9 / lsix](https://github.com/hackerb9/lsix) Like "ls", but for images. Shows thumbnails in terminal using sixel graphics. __[⭐ 1,362]__
+    - [trekhleb / homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained __[⭐ 1,968]__
+    - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers. __[⭐ 8,845]__
+    - [thunlp / GNNPapers](https://github.com/thunlp/GNNPapers) Must-read papers on graph neural network (GNN) __[⭐ 779]__
+    - [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) 📚A practical approach to learning machine learning. __[⭐ 11,334]__
+    - [mahmoud / awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) 💿 Free software that works great, and also happens to be open-source Python. __[⭐ 3,875]__
+    - [FavioVazquez / ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) List of Data Science Cheatsheets to rule the world __[⭐ 2,460]__
+    - [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲 __[⭐ 2,557]__
+    - [sdushantha / sherlock](https://github.com/sdushantha/sherlock) 🔎 Find usernames across over 75 social networks __[⭐ 856]__
+    - [avinashpaliwal / Super-SloMo](https://github.com/avinashpaliwal/Super-SloMo) PyTorch implementation of Super SloMo by Jiang et al. __[⭐ 318]__
+    - [ant-design / ant-design](https://github.com/ant-design/ant-design) 🐜 A UI Design Language __[⭐ 39,982]__
+    - [2d-inc / HistoryOfEverything](https://github.com/2d-inc/HistoryOfEverything) Flutter Launch Timeline Demo __[⭐ 318]__
+    - [Tencent / matrix](https://github.com/Tencent/matrix) Matrix is a plugin style, non-invasive APM system developed by WeChat. __[⭐ 2,190]__
+    - [ulid / spec](https://github.com/ulid/spec) The canonical spec for ulid __[⭐ 363]__
+    - [guardrailsio / awesome-golang-security](https://github.com/guardrailsio/awesome-golang-security) Awesome golang Security resources __[⭐ 598]__
+    - [SaraVieira / fiddly](https://github.com/SaraVieira/fiddly) Create beautiful and simple HTML pages from your Readme.md files __[⭐ 387]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 17,951]__
+    - [e-oj / Magic-Grid](https://github.com/e-oj/Magic-Grid) A simple, lightweight Javascript library for dynamic grid layouts. __[⭐ 1,214]__
+    - [anvaka / atree](https://github.com/anvaka/atree) Just a simple Christmas tree, based on reddit story __[⭐ 1,441]__
+    - [gto76 / python-cheatsheet](https://github.com/gto76/python-cheatsheet) Comprehensive Python Cheatsheet __[⭐ 303]__
+    - [i0natan / nodebestpractices](https://github.com/i0natan/nodebestpractices) The largest Node.JS best practices list (November 2018) __[⭐ 21,388]__
+    - [521xueweihan / HelloGitHub](https://github.com/521xueweihan/HelloGitHub) 分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目⭐️ __[⭐ 8,419]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 47,921]__
+    - [unbug / codelf](https://github.com/unbug/codelf) Best GitHub stars, repositories tagger and organizer. Search over projects from Github, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project, GitLab to find real-world usage variable names __[⭐ 4,988]__
 - 20181227
     - [trekhleb / homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained __[⭐ 1,735]__
     - [hackerb9 / lsix](https://github.com/hackerb9/lsix) Like "ls", but for images. Shows thumbnails in terminal using sixel graphics. __[⭐ 1,078]__
