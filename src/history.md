@@ -1,3 +1,29 @@
+- 20181229
+    - [fabiospampinato / notable](https://github.com/fabiospampinato/notable) The markdown-based note-taking app that doesn't suck. __[⭐ 2,327]__
+    - [2d-inc / HistoryOfEverything](https://github.com/2d-inc/HistoryOfEverything) Flutter Launch Timeline Demo __[⭐ 884]__
+    - [rrweb-io / rrweb](https://github.com/rrweb-io/rrweb) record and replay the web __[⭐ 711]__
+    - [BrainJS / brain.js](https://github.com/BrainJS/brain.js) 🤖 Neural networks in JavaScript __[⭐ 7,516]__
+    - [avinashpaliwal / Super-SloMo](https://github.com/avinashpaliwal/Super-SloMo) PyTorch implementation of Super SloMo by Jiang et al. __[⭐ 670]__
+    - [trekhleb / homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained __[⭐ 2,281]__
+    - [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲 __[⭐ 2,839]__
+    - [hackerb9 / lsix](https://github.com/hackerb9/lsix) Like "ls", but for images. Shows thumbnails in terminal using sixel graphics. __[⭐ 1,595]__
+    - [ulid / spec](https://github.com/ulid/spec) The canonical spec for ulid __[⭐ 614]__
+    - [sdmg15 / Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) 🔗 Some useful websites for programmers. __[⭐ 24,004]__
+    - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers. __[⭐ 9,095]__
+    - [FavioVazquez / ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) List of Data Science Cheatsheets to rule the world __[⭐ 2,693]__
+    - [mahmoud / awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) 💿 Free software that works great, and also happens to be open-source Python. __[⭐ 4,046]__
+    - [Tencent / matrix](https://github.com/Tencent/matrix) Matrix is a plugin style, non-invasive APM system developed by WeChat. __[⭐ 2,376]__
+    - [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) 📚A practical approach to learning machine learning. __[⭐ 11,516]__
+    - [thunlp / GNNPapers](https://github.com/thunlp/GNNPapers) Must-read papers on graph neural network (GNN) __[⭐ 940]__
+    - [ant-design / ant-design](https://github.com/ant-design/ant-design) 🐜 A UI Design Language __[⭐ 40,132]__
+    - [sdushantha / sherlock](https://github.com/sdushantha/sherlock) 🔎 Find usernames across social networks __[⭐ 1,015]__
+    - [swc-project / swc](https://github.com/swc-project/swc) Super-fast alternative for babel written in rust __[⭐ 2,503]__
+    - [isacikgoz / gitbatch](https://github.com/isacikgoz/gitbatch) manage your git repositories in one place __[⭐ 359]__
+    - [kubernetes / kubernetes](https://github.com/kubernetes/kubernetes) Production-Grade Container Scheduling and Management __[⭐ 46,098]__
+    - [fish-shell / fish-shell](https://github.com/fish-shell/fish-shell) The user-friendly command line shell. __[⭐ 11,253]__
+    - [SaraVieira / fiddly](https://github.com/SaraVieira/fiddly) Create beautiful and simple HTML pages from your Readme.md files __[⭐ 512]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 18,063]__
+    - [mogenslund / liquid](https://github.com/mogenslund/liquid) Clojure Text Editor, for editing clojure code and markdown. Written entirely in Clojure with inspiration from Emacs and Vim. __[⭐ 479]__
 - 20181228
     - [fabiospampinato / notable](https://github.com/fabiospampinato/notable) The markdown-based note-taking app that doesn't suck. __[⭐ 1,679]__
     - [hackerb9 / lsix](https://github.com/hackerb9/lsix) Like "ls", but for images. Shows thumbnails in terminal using sixel graphics. __[⭐ 1,362]__
