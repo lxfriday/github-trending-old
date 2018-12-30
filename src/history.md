@@ -1,3 +1,29 @@
+- 20181230
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 7,223]__
+    - [rrweb-io / rrweb](https://github.com/rrweb-io/rrweb) record and replay the web __[⭐ 1,207]__
+    - [fabiospampinato / notable](https://github.com/fabiospampinato/notable) The markdown-based note-taking app that doesn't suck. __[⭐ 2,779]__
+    - [BrainJS / brain.js](https://github.com/BrainJS/brain.js) 🤖 Neural networks in JavaScript __[⭐ 7,818]__
+    - [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲 __[⭐ 3,113]__
+    - [sdmg15 / Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) 🔗 Some useful websites for programmers. __[⭐ 24,245]__
+    - [2d-inc / HistoryOfEverything](https://github.com/2d-inc/HistoryOfEverything) Flutter Launch Timeline Demo __[⭐ 1,110]__
+    - [THUNLP-MT / MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List) A machine translation reading list maintained by Tsinghua Natural Language Processing Group __[⭐ 244]__
+    - [trekhleb / homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained __[⭐ 2,484]__
+    - [openvenues / libpostal](https://github.com/openvenues/libpostal) A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data. __[⭐ 1,813]__
+    - [avinashpaliwal / Super-SloMo](https://github.com/avinashpaliwal/Super-SloMo) PyTorch implementation of Super SloMo by Jiang et al. __[⭐ 821]__
+    - [rsms / inter](https://github.com/rsms/inter) The Inter UI font family __[⭐ 5,379]__
+    - [getActivity / EmojiPackage](https://github.com/getActivity/EmojiPackage) A rich emoji package resources __[⭐ 362]__
+    - [ulid / spec](https://github.com/ulid/spec) The canonical spec for ulid __[⭐ 771]__
+    - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers. __[⭐ 9,251]__
+    - [FavioVazquez / ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) List of Data Science Cheatsheets to rule the world __[⭐ 2,845]__
+    - [fish-shell / fish-shell](https://github.com/fish-shell/fish-shell) The user-friendly command line shell. __[⭐ 11,405]__
+    - [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) 📚A practical approach to learning machine learning. __[⭐ 11,650]__
+    - [thunlp / GNNPapers](https://github.com/thunlp/GNNPapers) Must-read papers on graph neural networks (GNN) __[⭐ 1,067]__
+    - [i0natan / nodebestpractices](https://github.com/i0natan/nodebestpractices) The largest Node.JS best practices list (November 2018) __[⭐ 21,628]__
+    - [sdushantha / sherlock](https://github.com/sdushantha/sherlock) 🔎 Find usernames across social networks __[⭐ 1,131]__
+    - [m3sv / Flutter-for-Android-developers](https://github.com/m3sv/Flutter-for-Android-developers) Compilation of Flutter materials for Android developers __[⭐ 180]__
+    - [ant-design / ant-design](https://github.com/ant-design/ant-design) 🐜 A UI Design Language __[⭐ 40,238]__
+    - [mahmoud / awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) 💿 Free software that works great, and also happens to be open-source Python. __[⭐ 4,157]__
+    - [Tencent / matrix](https://github.com/Tencent/matrix) Matrix is a plugin style, non-invasive APM system developed by WeChat. __[⭐ 2,487]__
 - 20181229
     - [fabiospampinato / notable](https://github.com/fabiospampinato/notable) The markdown-based note-taking app that doesn't suck. __[⭐ 2,327]__
     - [2d-inc / HistoryOfEverything](https://github.com/2d-inc/HistoryOfEverything) Flutter Launch Timeline Demo __[⭐ 884]__
