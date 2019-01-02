@@ -1,3 +1,29 @@
+- 20190102
+    - [MaximAbramchuck / awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) A curated awesome list of lists of interview questions. Feel free to contribute! 🎓 __[⭐ 23,012]__
+    - [fabiospampinato / notable](https://github.com/fabiospampinato/notable) The markdown-based note-taking app that doesn't suck. __[⭐ 3,793]__
+    - [Ne0nd0g / merlin](https://github.com/Ne0nd0g/merlin) Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang. __[⭐ 1,226]__
+    - [dylanbeattie / rockstar](https://github.com/dylanbeattie/rockstar) The Rockstar programming language specification __[⭐ 4,969]__
+    - [iina / iina](https://github.com/iina/iina) The modern video player for macOS. __[⭐ 15,523]__
+    - [rrweb-io / rrweb](https://github.com/rrweb-io/rrweb) record and replay the web __[⭐ 1,829]__
+    - [jonatasbaldin / awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome) Awesome list of repositories of awesome lists 🤷‍♀️ __[⭐ 809]__
+    - [ecthros / uncaptcha2](https://github.com/ecthros/uncaptcha2) defeating the latest version of ReCaptcha with 91% accuracy __[⭐ 260]__
+    - [rsms / inter](https://github.com/rsms/inter) The Inter UI font family __[⭐ 5,981]__
+    - [trekhleb / homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained __[⭐ 2,904]__
+    - [GitHubDaily / GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。 __[⭐ 216]__
+    - [sw-yx / react-typescript-cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet) a cheatsheet for react users using typescript with react for the first (or nth!) time __[⭐ 2,682]__
+    - [floodsung / Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech! __[⭐ 20,875]__
+    - [THUNLP-MT / MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List) A machine translation reading list maintained by Tsinghua Natural Language Processing Group __[⭐ 573]__
+    - [sdmg15 / Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) 🔗 Some useful websites for programmers. __[⭐ 24,625]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 7,547]__
+    - [hoya012 / deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection) A paper list of object detection using deep learning. __[⭐ 2,575]__
+    - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers. __[⭐ 9,549]__
+    - [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) 📚A practical approach to learning machine learning. __[⭐ 11,937]__
+    - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a web developer in 2019 __[⭐ 63,921]__
+    - [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲 __[⭐ 3,358]__
+    - [TheYahya / sherlock](https://github.com/TheYahya/sherlock) 🔎 Find usernames across social networks __[⭐ 1,390]__
+    - [2d-inc / HistoryOfEverything](https://github.com/2d-inc/HistoryOfEverything) Flutter Launch Timeline Demo __[⭐ 1,400]__
+    - [home-assistant / home-assistant](https://github.com/home-assistant/home-assistant) 🏡 Open source home automation that puts local control and privacy first __[⭐ 20,160]__
+    - [BrainJS / brain.js](https://github.com/BrainJS/brain.js) 🤖 Neural networks in JavaScript __[⭐ 8,143]__
 - 20181230
     - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 7,223]__
     - [rrweb-io / rrweb](https://github.com/rrweb-io/rrweb) record and replay the web __[⭐ 1,207]__
