@@ -1,3 +1,29 @@
+- 20190103
+    - [trekhleb / homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained __[⭐ 4,407]__
+    - [zalandoresearch / flair](https://github.com/zalandoresearch/flair) A very simple framework for state-of-the-art Natural Language Processing (NLP) __[⭐ 2,907]__
+    - [MaximAbramchuck / awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) A curated awesome list of lists of interview questions. Feel free to contribute! 🎓 __[⭐ 23,757]__
+    - [fabiospampinato / notable](https://github.com/fabiospampinato/notable) The markdown-based note-taking app that doesn't suck. __[⭐ 4,393]__
+    - [dwyl / learn-json-web-tokens](https://github.com/dwyl/learn-json-web-tokens) 🔐 Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!) __[⭐ 1,933]__
+    - [ecthros / uncaptcha2](https://github.com/ecthros/uncaptcha2) defeating the latest version of ReCaptcha with 91% accuracy __[⭐ 727]__
+    - [rrweb-io / rrweb](https://github.com/rrweb-io/rrweb) record and replay the web __[⭐ 2,277]__
+    - [iina / iina](https://github.com/iina/iina) The modern video player for macOS. __[⭐ 15,884]__
+    - [crossoverJie / cim](https://github.com/crossoverJie/cim) 📲cim(cross IM) 适用于开发者的即时通讯系统 __[⭐ 692]__
+    - [Ne0nd0g / merlin](https://github.com/Ne0nd0g/merlin) Merlin is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in golang. __[⭐ 1,570]__
+    - [TheYahya / sherlock](https://github.com/TheYahya/sherlock) 🔎 Find usernames across social networks __[⭐ 1,790]__
+    - [jeffgerickson / algorithms](https://github.com/jeffgerickson/algorithms) Bug-tracking for Jeff's algorithms book, notes, etc. __[⭐ 430]__
+    - [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲 __[⭐ 3,676]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 7,873]__
+    - [GitHubDaily / GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。 __[⭐ 460]__
+    - [sdmg15 / Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) 🔗 Some useful websites for programmers. __[⭐ 24,858]__
+    - [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) 📚A practical approach to learning machine learning. __[⭐ 12,152]__
+    - [google / flutter-desktop-embedding](https://github.com/google/flutter-desktop-embedding) Desktop implementations of the Flutter embedding API __[⭐ 2,984]__
+    - [floodsung / Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech! __[⭐ 21,065]__
+    - [rsms / inter](https://github.com/rsms/inter) The Inter UI font family __[⭐ 6,175]__
+    - [agalwood / Motrix](https://github.com/agalwood/Motrix) A full-featured download manger. __[⭐ 726]__
+    - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a web developer in 2019 __[⭐ 64,107]__
+    - [sw-yx / react-typescript-cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet) a cheatsheet for react users using typescript with react for the first (or nth!) time __[⭐ 2,863]__
+    - [jonatasbaldin / awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome) Awesome list of repositories of awesome lists 🤷‍♀️ __[⭐ 988]__
+    - [HackerPoet / MarbleMarcher](https://github.com/HackerPoet/MarbleMarcher) A Fractal Physics Game __[⭐ 210]__
 - 20190102
     - [MaximAbramchuck / awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) A curated awesome list of lists of interview questions. Feel free to contribute! 🎓 __[⭐ 23,012]__
     - [fabiospampinato / notable](https://github.com/fabiospampinato/notable) The markdown-based note-taking app that doesn't suck. __[⭐ 3,793]__
