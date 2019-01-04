@@ -1,3 +1,29 @@
+- 20190104
+    - [trekhleb / homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained __[⭐ 5,095]__
+    - [jeffgerickson / algorithms](https://github.com/jeffgerickson/algorithms) Bug-tracking for Jeff's algorithms book, notes, etc. __[⭐ 1,230]__
+    - [dwyl / learn-json-web-tokens](https://github.com/dwyl/learn-json-web-tokens) 🔐 Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!) __[⭐ 2,479]__
+    - [zalandoresearch / flair](https://github.com/zalandoresearch/flair) A very simple framework for state-of-the-art Natural Language Processing (NLP) __[⭐ 3,282]__
+    - [MaximAbramchuck / awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) A curated awesome list of lists of interview questions. Feel free to contribute! 🎓 __[⭐ 24,092]__
+    - [fabiospampinato / notable](https://github.com/fabiospampinato/notable) The markdown-based note-taking app that doesn't suck. __[⭐ 4,717]__
+    - [Countly / countly-server](https://github.com/Countly/countly-server) Countly helps you get insights from your application. Available self-hosted or on private cloud. __[⭐ 3,320]__
+    - [crossoverJie / cim](https://github.com/crossoverJie/cim) 📲cim(cross IM) 适用于开发者的即时通讯系统 __[⭐ 887]__
+    - [TheYahya / sherlock](https://github.com/TheYahya/sherlock) 🔎 Find usernames across social networks __[⭐ 2,016]__
+    - [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲 __[⭐ 3,910]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 8,097]__
+    - [ecthros / uncaptcha2](https://github.com/ecthros/uncaptcha2) defeating the latest version of ReCaptcha with 91% accuracy __[⭐ 967]__
+    - [facebookincubator / fbt](https://github.com/facebookincubator/fbt) A JavaScript Internationalization Framework __[⭐ 460]__
+    - [rrweb-io / rrweb](https://github.com/rrweb-io/rrweb) record and replay the web __[⭐ 2,501]__
+    - [agalwood / Motrix](https://github.com/agalwood/Motrix) A full-featured download manger. __[⭐ 850]__
+    - [genuinetools / binctr](https://github.com/genuinetools/binctr) Fully static, unprivileged, self-contained, containers as executable binaries. __[⭐ 2,148]__
+    - [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) 📚A practical approach to learning machine learning. __[⭐ 12,298]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 48,598]__
+    - [HackerPoet / MarbleMarcher](https://github.com/HackerPoet/MarbleMarcher) A Fractal Physics Game __[⭐ 336]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 18,544]__
+    - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a web developer in 2019 __[⭐ 64,238]__
+    - [sdmg15 / Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) 🔗 Some useful websites for programmers. __[⭐ 24,992]__
+    - [iina / iina](https://github.com/iina/iina) The modern video player for macOS. __[⭐ 16,015]__
+    - [mahmoud / awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) 💿 Free software that works great, and also happens to be open-source Python. __[⭐ 4,614]__
+    - [zziz / pwc](https://github.com/zziz/pwc) Papers with code. Sorted by stars. Updated weekly. __[⭐ 7,379]__
 - 20190103
     - [trekhleb / homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained __[⭐ 4,407]__
     - [zalandoresearch / flair](https://github.com/zalandoresearch/flair) A very simple framework for state-of-the-art Natural Language Processing (NLP) __[⭐ 2,907]__
