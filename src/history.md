@@ -1,3 +1,29 @@
+- 20190106
+    - [ecthros / uncaptcha2](https://github.com/ecthros/uncaptcha2) defeating the latest version of ReCaptcha with 91% accuracy __[⭐ 2,208]__
+    - [windmilleng / tilt](https://github.com/windmilleng/tilt) Local Kubernetes development with no stress __[⭐ 505]__
+    - [testerSunshine / 12306](https://github.com/testerSunshine/12306) 12306智能刷票，订票 __[⭐ 1,067]__
+    - [trekhleb / homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained __[⭐ 6,058]__
+    - [facebookincubator / fbt](https://github.com/facebookincubator/fbt) A JavaScript Internationalization Framework __[⭐ 1,799]__
+    - [dwyl / learn-json-web-tokens](https://github.com/dwyl/learn-json-web-tokens) 🔐 Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!) __[⭐ 3,063]__
+    - [MaximAbramchuck / awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) A curated awesome list of lists of interview questions. Feel free to contribute! 🎓 __[⭐ 24,526]__
+    - [lni / dragonboat](https://github.com/lni/dragonboat) Dragonboat is a feature complete and high performance multi-group Raft library in Go. __[⭐ 556]__
+    - [jeffgerickson / algorithms](https://github.com/jeffgerickson/algorithms) Bug-tracking for Jeff's algorithms book, notes, etc. __[⭐ 1,892]__
+    - [knazeri / edge-connect](https://github.com/knazeri/edge-connect) EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning. https://arxiv.org/abs/1901.00212 __[⭐ 189]__
+    - [gaia-pipeline / gaia](https://github.com/gaia-pipeline/gaia) Build powerful pipelines in any programming language. __[⭐ 2,874]__
+    - [dbcli / litecli](https://github.com/dbcli/litecli) CLI for SQLite Databases with auto-completion and syntax highlighting __[⭐ 228]__
+    - [aceakash / string-similarity](https://github.com/aceakash/string-similarity) Finds degree of similarity between two strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance. __[⭐ 615]__
+    - [TwoLivesLeft / Menu](https://github.com/TwoLivesLeft/Menu) The iOS Menu __[⭐ 305]__
+    - [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) 📚A practical approach to learning machine learning. __[⭐ 12,644]__
+    - [KidkArolis / jetpack](https://github.com/KidkArolis/jetpack) 🚀 Jetpack – webpack made more convenient. __[⭐ 786]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 18,849]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 Computer Science Learning Notes __[⭐ 45,783]__
+    - [filipedeschamps / doom-fire-algorithm](https://github.com/filipedeschamps/doom-fire-algorithm) Fire effect from Doom implemented in plain JavaScript __[⭐ 143]__
+    - [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲 __[⭐ 4,246]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 8,521]__
+    - [iina / iina](https://github.com/iina/iina) The modern video player for macOS. __[⭐ 16,281]__
+    - [dpc / crev](https://github.com/dpc/crev) Scalable, social, Code REView and recommendation system that we desperately need __[⭐ 462]__
+    - [drcmda / react-with-gesture](https://github.com/drcmda/react-with-gesture) 👇Bread n butter utility for component-tied mouse/touch gestures in React __[⭐ 505]__
+    - [lexfridman / deeptraffic](https://github.com/lexfridman/deeptraffic) DeepTraffic is a deep reinforcement learning competition, part of the MIT Deep Learning series. __[⭐ 121]__
 - 20190105
     - [facebookincubator / fbt](https://github.com/facebookincubator/fbt) A JavaScript Internationalization Framework __[⭐ 1,655]__
     - [ecthros / uncaptcha2](https://github.com/ecthros/uncaptcha2) defeating the latest version of ReCaptcha with 91% accuracy __[⭐ 1,719]__
