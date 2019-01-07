@@ -1,3 +1,29 @@
+- 20190107
+    - [yyx990803 / build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) Build your own personal finance analytics using Plaid, Google Sheets and CircleCI. __[⭐ 727]__
+    - [ecthros / uncaptcha2](https://github.com/ecthros/uncaptcha2) defeating the latest version of ReCaptcha with 91% accuracy __[⭐ 2,726]__
+    - [windmilleng / tilt](https://github.com/windmilleng/tilt) Local Kubernetes development with no stress __[⭐ 946]__
+    - [lexfridman / deeptraffic](https://github.com/lexfridman/deeptraffic) DeepTraffic is a deep reinforcement learning competition, part of the MIT Deep Learning series. __[⭐ 428]__
+    - [trekhleb / homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained __[⭐ 6,369]__
+    - [testerSunshine / 12306](https://github.com/testerSunshine/12306) 12306智能刷票，订票 __[⭐ 1,400]__
+    - [dbcli / litecli](https://github.com/dbcli/litecli) CLI for SQLite Databases with auto-completion and syntax highlighting __[⭐ 478]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 19,113]__
+    - [mit-pdos / noria](https://github.com/mit-pdos/noria) Dynamically changing, partially-stateful data-flow for web application backends. __[⭐ 792]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 Computer Science Learning Notes __[⭐ 45,978]__
+    - [zadam / trilium](https://github.com/zadam/trilium) Build your personal knowledge base with Trilium Notes __[⭐ 790]__
+    - [aceakash / string-similarity](https://github.com/aceakash/string-similarity) Finds degree of similarity between two strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance. __[⭐ 817]__
+    - [jeffgerickson / algorithms](https://github.com/jeffgerickson/algorithms) Bug-tracking for Jeff's algorithms book, notes, etc. __[⭐ 2,116]__
+    - [MaximAbramchuck / awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) A curated awesome list of lists of interview questions. Feel free to contribute! 🎓 __[⭐ 24,706]__
+    - [TwoLivesLeft / Menu](https://github.com/TwoLivesLeft/Menu) The iOS Menu __[⭐ 505]__
+    - [facebookincubator / fbt](https://github.com/facebookincubator/fbt) A JavaScript Internationalization Framework __[⭐ 2,003]__
+    - [drcmda / react-with-gesture](https://github.com/drcmda/react-with-gesture) 👇Bread n butter utility for component-tied mouse/touch gestures in React __[⭐ 670]__
+    - [drk1wi / Modlishka](https://github.com/drk1wi/Modlishka) Modlishka. Reverse Proxy. Phishing NG. __[⭐ 283]__
+    - [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲 __[⭐ 4,405]__
+    - [zziz / pwc](https://github.com/zziz/pwc) Papers with code. Sorted by stars. Updated weekly. __[⭐ 7,694]__
+    - [caijinyc / Here](https://github.com/caijinyc/Here) Here Music 一个 使用 Electron + React 开发的音乐客户端 __[⭐ 312]__
+    - [zalando / skipper](https://github.com/zalando/skipper) An HTTP router and reverse proxy for service composition, including use cases like Kubernetes Ingress __[⭐ 1,473]__
+    - [dwyl / learn-json-web-tokens](https://github.com/dwyl/learn-json-web-tokens) 🔐 Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!) __[⭐ 3,210]__
+    - [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) 📚A practical approach to learning machine learning. __[⭐ 12,814]__
+    - [knazeri / edge-connect](https://github.com/knazeri/edge-connect) EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning. https://arxiv.org/abs/1901.00212 __[⭐ 323]__
 - 20190106
     - [ecthros / uncaptcha2](https://github.com/ecthros/uncaptcha2) defeating the latest version of ReCaptcha with 91% accuracy __[⭐ 2,208]__
     - [windmilleng / tilt](https://github.com/windmilleng/tilt) Local Kubernetes development with no stress __[⭐ 505]__
