@@ -1,3 +1,29 @@
+- 20190108
+    - [FiloSottile / mkcert](https://github.com/FiloSottile/mkcert) A simple zero-config tool to make locally trusted development certificates with any names you'd like. __[⭐ 13,419]__
+    - [zadam / trilium](https://github.com/zadam/trilium) Build your personal knowledge base with Trilium Notes __[⭐ 1,733]__
+    - [yyx990803 / build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) Build your own personal finance analytics using Plaid, Google Sheets and CircleCI. __[⭐ 1,235]__
+    - [testerSunshine / 12306](https://github.com/testerSunshine/12306) 12306智能刷票，订票 __[⭐ 1,815]__
+    - [ecthros / uncaptcha2](https://github.com/ecthros/uncaptcha2) defeating the latest version of ReCaptcha with 91% accuracy __[⭐ 3,107]__
+    - [trekhleb / homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained __[⭐ 6,738]__
+    - [hendricius / pizza-dough](https://github.com/hendricius/pizza-dough) This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza. __[⭐ 506]__
+    - [lexfridman / mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) Tutorials, assignments, and competitions for MIT Deep Learning related courses. __[⭐ 701]__
+    - [VincentSit / ChinaMobilePhoneNumberRegex](https://github.com/VincentSit/ChinaMobilePhoneNumberRegex) Regular expressions that match the mobile phone number in mainland China. / 一组匹配中国大陆手机号码的正则表达式。 __[⭐ 939]__
+    - [windmilleng / tilt](https://github.com/windmilleng/tilt) Local Kubernetes development with no stress __[⭐ 1,263]__
+    - [meolu / walle-web](https://github.com/meolu/walle-web) walle - 瓦力 开源项目代码部署平台 __[⭐ 5,500]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 19,344]__
+    - [lewagon / dotfiles](https://github.com/lewagon/dotfiles) Default configuration for Le Wagon's students __[⭐ 3,977]__
+    - [drk1wi / Modlishka](https://github.com/drk1wi/Modlishka) Modlishka. Reverse Proxy. Phishing NG. __[⭐ 530]__
+    - [facebookincubator / fbt](https://github.com/facebookincubator/fbt) A JavaScript Internationalization Framework __[⭐ 2,237]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 Computer Science Learning Notes __[⭐ 46,172]__
+    - [xumaohuai / Flutter-CuriosityApp](https://github.com/xumaohuai/Flutter-CuriosityApp) Flutter高仿好奇心日报 __[⭐ 286]__
+    - [lexfridman / deeptraffic](https://github.com/lexfridman/deeptraffic) DeepTraffic is a deep reinforcement learning competition, part of the MIT Deep Learning series. __[⭐ 645]__
+    - [aceakash / string-similarity](https://github.com/aceakash/string-similarity) Finds degree of similarity between two strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance. __[⭐ 1,028]__
+    - [MaximAbramchuck / awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) A curated awesome list of lists of interview questions. Feel free to contribute! 🎓 __[⭐ 24,918]__
+    - [unbug / codelf](https://github.com/unbug/codelf) Best GitHub stars, repositories tagger and organizer. Search over projects from Github, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project, GitLab to find real-world usage variable names __[⭐ 5,524]__
+    - [CommanderXL / Biu-blog](https://github.com/CommanderXL/Biu-blog) 个人博客 __[⭐ 221]__
+    - [TwoLivesLeft / Menu](https://github.com/TwoLivesLeft/Menu) The iOS Menu __[⭐ 702]__
+    - [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) 📚A practical approach to learning machine learning. __[⭐ 12,964]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 8,861]__
 - 20190107
     - [yyx990803 / build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) Build your own personal finance analytics using Plaid, Google Sheets and CircleCI. __[⭐ 727]__
     - [ecthros / uncaptcha2](https://github.com/ecthros/uncaptcha2) defeating the latest version of ReCaptcha with 91% accuracy __[⭐ 2,726]__
