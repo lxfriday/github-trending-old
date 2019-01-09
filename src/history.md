@@ -1,3 +1,29 @@
+- 20190109
+    - [FiloSottile / mkcert](https://github.com/FiloSottile/mkcert) A simple zero-config tool to make locally trusted development certificates with any names you'd like. __[⭐ 14,492]__
+    - [lexfridman / mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) Tutorials, assignments, and competitions for MIT Deep Learning related courses. __[⭐ 1,748]__
+    - [hendricius / pizza-dough](https://github.com/hendricius/pizza-dough) This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza. __[⭐ 1,320]__
+    - [zadam / trilium](https://github.com/zadam/trilium) Build your personal knowledge base with Trilium Notes __[⭐ 2,416]__
+    - [testerSunshine / 12306](https://github.com/testerSunshine/12306) 12306智能刷票，订票 __[⭐ 2,284]__
+    - [VincentSit / ChinaMobilePhoneNumberRegex](https://github.com/VincentSit/ChinaMobilePhoneNumberRegex) Regular expressions that match the mobile phone number in mainland China. / 一组匹配中国大陆手机号码的正则表达式。 __[⭐ 1,459]__
+    - [trekhleb / homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained __[⭐ 7,117]__
+    - [dandrews / nefarious-linkedin](https://github.com/dandrews/nefarious-linkedin) A look at how LinkedIn spies on its users. __[⭐ 456]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 9,206]__
+    - [ecthros / uncaptcha2](https://github.com/ecthros/uncaptcha2) defeating the latest version of ReCaptcha with 91% accuracy __[⭐ 3,420]__
+    - [yyx990803 / build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) Build your own personal finance analytics using Plaid, Google Sheets and CircleCI. __[⭐ 1,489]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 19,540]__
+    - [MaximAbramchuck / awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) A curated awesome list of lists of interview questions. Feel free to contribute! 🎓 __[⭐ 25,151]__
+    - [meolu / walle-web](https://github.com/meolu/walle-web) walle - 瓦力 开源项目代码部署平台 __[⭐ 5,738]__
+    - [xumaohuai / Flutter-CuriosityApp](https://github.com/xumaohuai/Flutter-CuriosityApp) Flutter高仿好奇心日报 __[⭐ 434]__
+    - [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) 📚A practical approach to learning machine learning. __[⭐ 13,158]__
+    - [elliottzheng / CopyTranslator](https://github.com/elliottzheng/CopyTranslator) Foreign paper reading and translation assistant based on copy and translate.(Latest: v0.0.7-Kylin-RC1) __[⭐ 558]__
+    - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers. __[⭐ 10,355]__
+    - [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲 __[⭐ 4,703]__
+    - [hollischuang / toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) To Be Top Javaer - Java工程师成神之路 __[⭐ 278]__
+    - [facebookincubator / fbt](https://github.com/facebookincubator/fbt) A JavaScript Internationalization Framework __[⭐ 2,399]__
+    - [windmilleng / tilt](https://github.com/windmilleng/tilt) Local Kubernetes development with no stress __[⭐ 1,416]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 49,186]__
+    - [lni / dragonboat](https://github.com/lni/dragonboat) Dragonboat is a feature complete and high performance multi-group Raft library in Go. __[⭐ 966]__
+    - [fabiospampinato / notable](https://github.com/fabiospampinato/notable) The markdown-based note-taking app that doesn't suck. __[⭐ 5,479]__
 - 20190108
     - [FiloSottile / mkcert](https://github.com/FiloSottile/mkcert) A simple zero-config tool to make locally trusted development certificates with any names you'd like. __[⭐ 13,419]__
     - [zadam / trilium](https://github.com/zadam/trilium) Build your personal knowledge base with Trilium Notes __[⭐ 1,733]__
