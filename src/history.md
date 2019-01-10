@@ -1,3 +1,29 @@
+- 20190110
+    - [sharkdp / hexyl](https://github.com/sharkdp/hexyl) A command-line hex viewer __[⭐ 2,004]__
+    - [yujiangshui / An-English-Guide-for-Programmers](https://github.com/yujiangshui/An-English-Guide-for-Programmers) 专为程序员编写的英语学习指南。v1.0 __[⭐ 1,586]__
+    - [alibaba / fescar](https://github.com/alibaba/fescar) fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution. __[⭐ 787]__
+    - [lancopku / pkuseg-python](https://github.com/lancopku/pkuseg-python) python版本：领域细分的中文分词工具，简单易用，跟现有开源工具相比提高了分词的准确率。 __[⭐ 1,767]__
+    - [alash3al / sqler](https://github.com/alash3al/sqler) write APIs using direct SQL queries with no hassle, let's rethink about SQL __[⭐ 1,033]__
+    - [arnehilmann / markdeck](https://github.com/arnehilmann/markdeck) presentations as code - author cool slide decks, text-only, offline-ready, collaborative __[⭐ 717]__
+    - [testerSunshine / 12306](https://github.com/testerSunshine/12306) 12306智能刷票，订票 __[⭐ 3,132]__
+    - [FiloSottile / mkcert](https://github.com/FiloSottile/mkcert) A simple zero-config tool to make locally trusted development certificates with any names you'd like. __[⭐ 15,389]__
+    - [alibaba / flutter-common-widgets-app](https://github.com/alibaba/flutter-common-widgets-app) flutter 开发者帮助 APP，包含 flutter 常用 130+ 组件的中文文档与 demo 演示 __[⭐ 685]__
+    - [chokcoco / CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) CSS Inspiration，在这里找到写 CSS 的灵感！ __[⭐ 727]__
+    - [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲 __[⭐ 5,131]__
+    - [HackerPoet / MarbleMarcher](https://github.com/HackerPoet/MarbleMarcher) A Fractal Physics Game __[⭐ 857]__
+    - [yoyoyo-yo / Gasyori100knock](https://github.com/yoyoyo-yo/Gasyori100knock)  __[⭐ 323]__
+    - [lexfridman / mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) Tutorials, assignments, and competitions for MIT Deep Learning related courses. __[⭐ 2,271]__
+    - [wesbos / dad-jokes](https://github.com/wesbos/dad-jokes) dad jokes __[⭐ 595]__
+    - [VincentSit / ChinaMobilePhoneNumberRegex](https://github.com/VincentSit/ChinaMobilePhoneNumberRegex) Regular expressions that match the mobile phone number in mainland China. / 一组匹配中国大陆手机号码的正则表达式。 __[⭐ 2,016]__
+    - [zadam / trilium](https://github.com/zadam/trilium) Build your personal knowledge base with Trilium Notes __[⭐ 2,828]__
+    - [trekhleb / homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained __[⭐ 7,512]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 19,877]__
+    - [hendricius / pizza-dough](https://github.com/hendricius/pizza-dough) This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza. __[⭐ 1,724]__
+    - [Cuberto / liquid-swipe](https://github.com/Cuberto/liquid-swipe)  __[⭐ 235]__
+    - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers. __[⭐ 10,672]__
+    - [elliottzheng / CopyTranslator](https://github.com/elliottzheng/CopyTranslator) Foreign paper reading and translation assistant based on copy and translate.(Latest: v0.0.7-Kylin-RC1) __[⭐ 810]__
+    - [meolu / walle-web](https://github.com/meolu/walle-web) walle - 瓦力 开源项目代码部署平台 __[⭐ 6,096]__
+    - [30-seconds / 30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less. __[⭐ 36,354]__
 - 20190109
     - [FiloSottile / mkcert](https://github.com/FiloSottile/mkcert) A simple zero-config tool to make locally trusted development certificates with any names you'd like. __[⭐ 14,492]__
     - [lexfridman / mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) Tutorials, assignments, and competitions for MIT Deep Learning related courses. __[⭐ 1,748]__
