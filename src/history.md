@@ -1,3 +1,29 @@
+- 20190111
+    - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a web developer in 2019 __[⭐ 66,210]__
+    - [alibaba / fescar](https://github.com/alibaba/fescar) Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution. __[⭐ 1,898]__
+    - [yujiangshui / An-English-Guide-for-Programmers](https://github.com/yujiangshui/An-English-Guide-for-Programmers) 专为程序员编写的英语学习指南。v1.0 __[⭐ 2,614]__
+    - [sharkdp / hexyl](https://github.com/sharkdp/hexyl) A command-line hex viewer __[⭐ 2,671]__
+    - [chokcoco / CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) CSS Inspiration，在这里找到写 CSS 的灵感！ __[⭐ 1,371]__
+    - [alibaba / flutter-go](https://github.com/alibaba/flutter-go) flutter 开发者帮助 APP，包含 flutter 常用 130+ 组件的中文文档与 demo 演示 __[⭐ 1,198]__
+    - [testerSunshine / 12306](https://github.com/testerSunshine/12306) 12306智能刷票，订票 __[⭐ 3,483]__
+    - [lancopku / pkuseg-python](https://github.com/lancopku/pkuseg-python) python版本：领域细分的中文分词工具，简单易用，跟现有开源工具相比提高了分词的准确率。 __[⭐ 2,072]__
+    - [jaywcjlove / awesome-mac](https://github.com/jaywcjlove/awesome-mac)  Now we have become very big, Different from the original idea. Collect premium software in various categories. __[⭐ 23,773]__
+    - [FiloSottile / mkcert](https://github.com/FiloSottile/mkcert) A simple zero-config tool to make locally trusted development certificates with any names you'd like. __[⭐ 15,676]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 20,083]__
+    - [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲 __[⭐ 5,335]__
+    - [alash3al / sqler](https://github.com/alash3al/sqler) write APIs using direct SQL queries with no hassle, let's rethink about SQL __[⭐ 1,263]__
+    - [zadam / trilium](https://github.com/zadam/trilium) Build your personal knowledge base with Trilium Notes __[⭐ 3,043]__
+    - [trekhleb / homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained __[⭐ 7,693]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 Computer Science Learning Notes __[⭐ 46,574]__
+    - [mmcloughlin / avo](https://github.com/mmcloughlin/avo) Generate x86 Assembly with Go __[⭐ 571]__
+    - [VincentSit / ChinaMobilePhoneNumberRegex](https://github.com/VincentSit/ChinaMobilePhoneNumberRegex) Regular expressions that match the mobile phone number in mainland China. / 一组匹配中国大陆手机号码的正则表达式。 __[⭐ 2,184]__
+    - [wesbos / dad-jokes](https://github.com/wesbos/dad-jokes) dad jokes __[⭐ 761]__
+    - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers. __[⭐ 10,851]__
+    - [vuejs / vue](https://github.com/vuejs/vue) 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 124,652]__
+    - [mikadosoftware / workstation](https://github.com/mikadosoftware/workstation) Docker based portable Workstation __[⭐ 174]__
+    - [kimiyoung / transformer-xl](https://github.com/kimiyoung/transformer-xl)  __[⭐ 171]__
+    - [jakubroztocil / httpie](https://github.com/jakubroztocil/httpie) As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp __[⭐ 39,146]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 9,686]__
 - 20190110
     - [sharkdp / hexyl](https://github.com/sharkdp/hexyl) A command-line hex viewer __[⭐ 2,004]__
     - [yujiangshui / An-English-Guide-for-Programmers](https://github.com/yujiangshui/An-English-Guide-for-Programmers) 专为程序员编写的英语学习指南。v1.0 __[⭐ 1,586]__
