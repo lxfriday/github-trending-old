@@ -1,3 +1,29 @@
+- 20190112
+    - [alibaba / fescar](https://github.com/alibaba/fescar) Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution. __[⭐ 2,023]__
+    - [yujiangshui / A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) 专为程序员编写的英语学习指南。v1.0 __[⭐ 2,783]__
+    - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a web developer in 2019 __[⭐ 66,533]__
+    - [chokcoco / CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) CSS Inspiration，在这里找到写 CSS 的灵感！ __[⭐ 1,464]__
+    - [sharkdp / hexyl](https://github.com/sharkdp/hexyl) A command-line hex viewer __[⭐ 2,884]__
+    - [alibaba / flutter-go](https://github.com/alibaba/flutter-go) flutter 开发者帮助 APP，包含 flutter 常用 130+ 组件的中文文档与 demo 演示 __[⭐ 1,279]__
+    - [jaywcjlove / awesome-mac](https://github.com/jaywcjlove/awesome-mac)  Now we have become very big, Different from the original idea. Collect premium software in various categories. __[⭐ 23,869]__
+    - [testerSunshine / 12306](https://github.com/testerSunshine/12306) 12306智能刷票，订票 __[⭐ 3,526]__
+    - [FiloSottile / mkcert](https://github.com/FiloSottile/mkcert) A simple zero-config tool to make locally trusted development certificates with any names you'd like. __[⭐ 15,855]__
+    - [lancopku / pkuseg-python](https://github.com/lancopku/pkuseg-python) python版本：领域细分的中文分词工具，简单易用，跟现有开源工具相比提高了分词的准确率。 __[⭐ 2,106]__
+    - [juliangarnier / anime](https://github.com/juliangarnier/anime) JavaScript animation engine __[⭐ 25,634]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 20,122]__
+    - [mikadosoftware / workstation](https://github.com/mikadosoftware/workstation) Docker based portable Workstation __[⭐ 274]__
+    - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers. __[⭐ 10,976]__
+    - [zadam / trilium](https://github.com/zadam/trilium) Build your personal knowledge base with Trilium Notes __[⭐ 3,153]__
+    - [apple / sourcekit-lsp](https://github.com/apple/sourcekit-lsp) Language Server Protocol implementation for Swift and C-based languages __[⭐ 1,185]__
+    - [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲 __[⭐ 5,361]__
+    - [ageron / tf2_course](https://github.com/ageron/tf2_course) Notebooks for my "Deep Learning with TensorFlow 2 and Keras" course __[⭐ 253]__
+    - [kimiyoung / transformer-xl](https://github.com/kimiyoung/transformer-xl)  __[⭐ 245]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 Computer Science Learning Notes __[⭐ 46,599]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 9,725]__
+    - [jsdf / little-virtual-computer](https://github.com/jsdf/little-virtual-computer) Learn how computers work by simulating them in Javascript __[⭐ 213]__
+    - [vuejs / vue](https://github.com/vuejs/vue) 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 124,703]__
+    - [alash3al / sqler](https://github.com/alash3al/sqler) write APIs using direct SQL queries with no hassle, let's rethink about SQL __[⭐ 1,321]__
+    - [VincentSit / ChinaMobilePhoneNumberRegex](https://github.com/VincentSit/ChinaMobilePhoneNumberRegex) Regular expressions that match the mobile phone number in mainland China. / 一组匹配中国大陆手机号码的正则表达式。 __[⭐ 2,201]__
 - 20190111
     - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a web developer in 2019 __[⭐ 66,210]__
     - [alibaba / fescar](https://github.com/alibaba/fescar) Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution. __[⭐ 1,898]__
