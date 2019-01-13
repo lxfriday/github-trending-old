@@ -1,3 +1,29 @@
+- 20190113
+    - [juliangarnier / anime](https://github.com/juliangarnier/anime) JavaScript animation engine __[⭐ 26,112]__
+    - [yujiangshui / A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) 专为程序员编写的英语学习指南。v1.0 __[⭐ 3,149]__
+    - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a web developer in 2019 __[⭐ 66,867]__
+    - [alibaba / fescar](https://github.com/alibaba/fescar) Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution. __[⭐ 2,261]__
+    - [chokcoco / CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) CSS Inspiration，在这里找到写 CSS 的灵感！ __[⭐ 1,727]__
+    - [alibaba / flutter-go](https://github.com/alibaba/flutter-go) flutter 开发者帮助 APP，包含 flutter 常用 130+ 组件的中文文档与 demo 演示 __[⭐ 1,504]__
+    - [testerSunshine / 12306](https://github.com/testerSunshine/12306) 12306智能刷票，订票 __[⭐ 3,736]__
+    - [sharkdp / hexyl](https://github.com/sharkdp/hexyl) A command-line hex viewer __[⭐ 3,088]__
+    - [FiloSottile / mkcert](https://github.com/FiloSottile/mkcert) A simple zero-config tool to make locally trusted development certificates with any names you'd like. __[⭐ 16,035]__
+    - [jaywcjlove / awesome-mac](https://github.com/jaywcjlove/awesome-mac)  Now we have become very big, Different from the original idea. Collect premium software in various categories. __[⭐ 24,042]__
+    - [jsdf / little-virtual-computer](https://github.com/jsdf/little-virtual-computer) Learn how computers work by simulating them in Javascript __[⭐ 394]__
+    - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers. __[⭐ 11,128]__
+    - [anvaka / sayit](https://github.com/anvaka/sayit) Visualization of related subreddits __[⭐ 228]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 20,228]__
+    - [microshow / RxFFmpeg](https://github.com/microshow/RxFFmpeg) RxFFmpeg 是基于 ( FFmpeg 4.0 + X264 + mp3lame + fdk-aac ) 编译的适用于 Android 平台的音视频编辑、视频剪辑的快速处理框架，包含以下功能（视频拼接，转码，压缩，裁剪，片头片尾，分离音视频，变速，添加静态贴纸和gif动态贴纸，添加字幕，添加滤镜，添加背景音乐，加速减速视频，倒放音视频，音频裁剪，变声，混音，图片合成视频，视频解码图片等主流特色功能 __[⭐ 238]__
+    - [zadam / trilium](https://github.com/zadam/trilium) Build your personal knowledge base with Trilium Notes __[⭐ 3,263]__
+    - [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) 📚A practical approach to learning machine learning. __[⭐ 13,651]__
+    - [ageron / tf2_course](https://github.com/ageron/tf2_course) Notebooks for my "Deep Learning with TensorFlow 2 and Keras" course __[⭐ 351]__
+    - [kimiyoung / transformer-xl](https://github.com/kimiyoung/transformer-xl)  __[⭐ 354]__
+    - [facebook / react](https://github.com/facebook/react) A declarative, efficient, and flexible JavaScript library for building user interfaces. __[⭐ 119,615]__
+    - [lancopku / pkuseg-python](https://github.com/lancopku/pkuseg-python) python版本：领域细分的中文分词工具，简单易用，跟现有开源工具相比提高了分词的准确率。 __[⭐ 2,194]__
+    - [learnbyexample / py_regular_expressions](https://github.com/learnbyexample/py_regular_expressions) Learn Python Regular Expressions step by step from beginner to advanced levels __[⭐ 158]__
+    - [ericalli / static-site-boilerplate](https://github.com/ericalli/static-site-boilerplate) A better workflow for building modern static websites. __[⭐ 551]__
+    - [lexfridman / mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) Tutorials, assignments, and competitions for MIT Deep Learning related courses. __[⭐ 2,514]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 面试必备基础知识 __[⭐ 46,670]__
 - 20190112
     - [alibaba / fescar](https://github.com/alibaba/fescar) Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution. __[⭐ 2,023]__
     - [yujiangshui / A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) 专为程序员编写的英语学习指南。v1.0 __[⭐ 2,783]__
