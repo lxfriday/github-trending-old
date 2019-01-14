@@ -1,3 +1,29 @@
+- 20190114
+    - [toshi-search / Toshi](https://github.com/toshi-search/Toshi) A full-text search engine in rust __[⭐ 970]__
+    - [juliangarnier / anime](https://github.com/juliangarnier/anime) JavaScript animation engine __[⭐ 26,630]__
+    - [alexkimxyz / nsfw_data_scrapper](https://github.com/alexkimxyz/nsfw_data_scrapper) Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier __[⭐ 574]__
+    - [chokcoco / CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) CSS Inspiration，在这里找到写 CSS 的灵感！ __[⭐ 2,160]__
+    - [yujiangshui / A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) 专为程序员编写的英语学习指南。v1.0 __[⭐ 3,568]__
+    - [testerSunshine / 12306](https://github.com/testerSunshine/12306) 12306智能刷票，订票 __[⭐ 4,156]__
+    - [alibaba / flutter-go](https://github.com/alibaba/flutter-go) flutter 开发者帮助 APP，包含 flutter 常用 130+ 组件的中文文档与 demo 演示 __[⭐ 1,860]__
+    - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a web developer in 2019 __[⭐ 67,167]__
+    - [jaywcjlove / awesome-mac](https://github.com/jaywcjlove/awesome-mac)  Now we have become very big, Different from the original idea. Collect premium software in various categories. __[⭐ 24,310]__
+    - [alibaba / fescar](https://github.com/alibaba/fescar) Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution. __[⭐ 2,491]__
+    - [mxcl / swift-sh](https://github.com/mxcl/swift-sh) Easily import third-party dependencies in your Swift scripts __[⭐ 289]__
+    - [tantivy-search / tantivy](https://github.com/tantivy-search/tantivy) Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust __[⭐ 1,647]__
+    - [zadam / trilium](https://github.com/zadam/trilium) Build your personal knowledge base with Trilium Notes __[⭐ 3,452]__
+    - [dreamans / syncd](https://github.com/dreamans/syncd) syncd是一款开源的代码部署工具，它具有简单、高效、易用等特点，可以提高团队的工作效率. __[⭐ 262]__
+    - [FiloSottile / mkcert](https://github.com/FiloSottile/mkcert) A simple zero-config tool to make locally trusted development certificates with any names you'd like. __[⭐ 16,215]__
+    - [GitHubDaily / GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。 __[⭐ 954]__
+    - [sharkdp / hexyl](https://github.com/sharkdp/hexyl) A command-line hex viewer __[⭐ 3,272]__
+    - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers. __[⭐ 11,306]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 面试必备基础知识 __[⭐ 46,815]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 20,380]__
+    - [jsdf / little-virtual-computer](https://github.com/jsdf/little-virtual-computer) Learn how computers work by simulating them in Javascript __[⭐ 534]__
+    - [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) 📚A practical approach to learning machine learning. __[⭐ 13,789]__
+    - [davidkpiano / xstate](https://github.com/davidkpiano/xstate) State machines and statecharts for the modern web. __[⭐ 4,186]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 9,945]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 49,733]__
 - 20190113
     - [juliangarnier / anime](https://github.com/juliangarnier/anime) JavaScript animation engine __[⭐ 26,112]__
     - [yujiangshui / A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) 专为程序员编写的英语学习指南。v1.0 __[⭐ 3,149]__
