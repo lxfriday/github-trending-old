@@ -1,3 +1,29 @@
+- 20190115
+    - [alexkimxyz / nsfw_data_scrapper](https://github.com/alexkimxyz/nsfw_data_scrapper) Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier __[⭐ 2,164]__
+    - [retroplasma / earth-reverse-engineering](https://github.com/retroplasma/earth-reverse-engineering) WIP __[⭐ 846]__
+    - [testerSunshine / 12306](https://github.com/testerSunshine/12306) 12306智能刷票，订票 __[⭐ 4,585]__
+    - [juliangarnier / anime](https://github.com/juliangarnier/anime) JavaScript animation engine __[⭐ 27,129]__
+    - [pjialin / py12306](https://github.com/pjialin/py12306) 🚂 12306 购票助手，支持分布式，多账号，多任务购票以及 Web 页面管理 __[⭐ 873]__
+    - [toshi-search / Toshi](https://github.com/toshi-search/Toshi) A full-text search engine in rust __[⭐ 1,362]__
+    - [twpayne / chezmoi](https://github.com/twpayne/chezmoi) Manage your dotfiles securely across multiple machines. __[⭐ 629]__
+    - [alibaba / flutter-go](https://github.com/alibaba/flutter-go) flutter 开发者帮助 APP，包含 flutter 常用 130+ 组件的中文文档与 demo 演示 __[⭐ 2,203]__
+    - [yujiangshui / A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) 专为程序员编写的英语学习指南。v1.0 __[⭐ 3,858]__
+    - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a web developer in 2019 __[⭐ 67,487]__
+    - [chokcoco / CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) CSS Inspiration，在这里找到写 CSS 的灵感！ __[⭐ 2,424]__
+    - [i0natan / nodebestpractices](https://github.com/i0natan/nodebestpractices) The largest Node.js best practices list (January 2019) __[⭐ 23,059]__
+    - [alibaba / fescar](https://github.com/alibaba/fescar) Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution. __[⭐ 2,732]__
+    - [dylanaraps / fff](https://github.com/dylanaraps/fff) 🚀 fucking fast file-manager __[⭐ 1,686]__
+    - [dreamans / syncd](https://github.com/dreamans/syncd) syncd是一款开源的代码部署工具，它具有简单、高效、易用等特点，可以提高团队的工作效率. __[⭐ 475]__
+    - [jaywcjlove / awesome-mac](https://github.com/jaywcjlove/awesome-mac)  Now we have become very big, Different from the original idea. Collect premium software in various categories. __[⭐ 24,502]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 20,613]__
+    - [lewagon / dotfiles](https://github.com/lewagon/dotfiles) Default configuration for Le Wagon's students __[⭐ 4,138]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 面试必备基础知识 __[⭐ 46,934]__
+    - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers. __[⭐ 11,475]__
+    - [FiloSottile / mkcert](https://github.com/FiloSottile/mkcert) A simple zero-config tool to make locally trusted development certificates with any names you'd like. __[⭐ 16,380]__
+    - [bjoernkarmann / project_alias](https://github.com/bjoernkarmann/project_alias) Alias is a teachable “parasite” that is designed to give users more control over their smart assistants, both when it comes to customisation and privacy. Through a simple app the user can train Alias to react on a custom wake-word/sound, and once trained, Alias can take control over your home assistant by activating it for you. __[⭐ 233]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 49,892]__
+    - [tantivy-search / tantivy](https://github.com/tantivy-search/tantivy) Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust __[⭐ 1,791]__
+    - [mxcl / swift-sh](https://github.com/mxcl/swift-sh) Easily import third-party dependencies in your Swift scripts __[⭐ 452]__
 - 20190114
     - [toshi-search / Toshi](https://github.com/toshi-search/Toshi) A full-text search engine in rust __[⭐ 970]__
     - [juliangarnier / anime](https://github.com/juliangarnier/anime) JavaScript animation engine __[⭐ 26,630]__
