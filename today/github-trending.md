@@ -1,28 +1,28 @@
-# 20181203-github-trending
+# 20190119-github-trending
 __25__ repos
 
-    - [ithinco / i-am-chinese-the-dragonfly-must-go-on](https://github.com/ithinco/i-am-chinese-the-dragonfly-must-go-on) A response to “We are Google employees, Google must drop DragonFly” __[⭐ 803]__
-    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 Computer Science Learning Notes __[⭐ 42,393]__
-    - [BcRikko / NES.css](https://github.com/BcRikko/NES.css) NES-style CSS Framework | ファミコン風CSSフレームワーク __[⭐ 5,745]__
-    - [pim-book / programmers-introduction-to-mathematics](https://github.com/pim-book/programmers-introduction-to-mathematics) Code for A Programmer's Introduction to Mathematics __[⭐ 575]__
-    - [ggerganov / kbd-audio](https://github.com/ggerganov/kbd-audio) Tools for capturing and analysing keyboard input paired with microphone capture __[⭐ 1,032]__
-    - [wagoodman / dive](https://github.com/wagoodman/dive) A tool for exploring each layer in a docker image __[⭐ 10,692]__
-    - [cssanimation / css-animation-101](https://github.com/cssanimation/css-animation-101) Learn how to bring animation to your web projects __[⭐ 1,981]__
-    - [leisurelicht / wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译 __[⭐ 1,806]__
-    - [AshampooSystems / boden](https://github.com/AshampooSystems/boden) Truly native C++ cross-platform framework for Android and iOS development __[⭐ 252]__
-    - [firecracker-microvm / firecracker](https://github.com/firecracker-microvm/firecracker) Secure and fast microVMs for serverless computing. __[⭐ 5,392]__
-    - [a54552239 / projectManage](https://github.com/a54552239/projectManage) 基于Vue.js实现的项目管理系统 __[⭐ 205]__
-    - [valentinxxx / nginxconfig.io](https://github.com/valentinxxx/nginxconfig.io) ⚙️ NGiИX config generator generator on steroids 💉 __[⭐ 5,170]__
-    - [gaearon / overreacted.io](https://github.com/gaearon/overreacted.io) Personal blog by Dan Abramov. __[⭐ 380]__
-    - [YugaByte / yugabyte-db](https://github.com/YugaByte/yugabyte-db) YugaByte DB is a transactional, high-performance database for building distributed cloud services. It supports Cassandra-compatible and Redis-compatible APIs, with PostgreSQL in Beta. __[⭐ 729]__
-    - [crazyandcoder / kindle_free_books](https://github.com/crazyandcoder/kindle_free_books) 免费的Kindle电子书资源，不定期更新... __[⭐ 427]__
-    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 14,486]__
-    - [pcottle / learnGitBranching](https://github.com/pcottle/learnGitBranching) An interactive git visualization to challenge and educate! __[⭐ 9,514]__
-    - [mthbernardes / GTRS](https://github.com/mthbernardes/GTRS) GTRS - Google Translator Reverse Shell __[⭐ 191]__
-    - [alibaba / arthas](https://github.com/alibaba/arthas) Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas __[⭐ 6,601]__
-    - [satwikkansal / wtfpython](https://github.com/satwikkansal/wtfpython) A collection of surprising Python snippets and lesser-known features. __[⭐ 9,465]__
-    - [afshinea / stanford-cs-230-deep-learning](https://github.com/afshinea/stanford-cs-230-deep-learning) VIP cheatsheets for Stanford's CS 230 Deep Learning __[⭐ 1,961]__
-    - [withspectrum / spectrum](https://github.com/withspectrum/spectrum) Simple, powerful online communities. __[⭐ 5,432]__
-    - [diveintodeeplearning / d2l-zh](https://github.com/diveintodeeplearning/d2l-zh) 《动手学深度学习》 __[⭐ 4,919]__
-    - [olifolkerd / tabulator](https://github.com/olifolkerd/tabulator) Interactive Tables and Data Grids for JavaScript __[⭐ 1,624]__
-    - [huxingyi / dust3d](https://github.com/huxingyi/dust3d) 🐪 Dust3D is a cross-platform open-source 3D modeling software. Auto UV unwrapping, auto rigging with PBR Material support, pose and motion authoring all in one. __[⭐ 534]__
+    - [charlax / professional-programming](https://github.com/charlax/professional-programming) A collection of full-stack resources for programmers. __[⭐ 3,000]__
+    - [schollz / howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) Count the number of people around you 👨‍👨‍👦 by monitoring wifi signals 📡 __[⭐ 4,709]__
+    - [nostalgic-css / NES.css](https://github.com/nostalgic-css/NES.css) NES-style CSS Framework | ファミコン風CSSフレームワーク __[⭐ 9,907]__
+    - [alexkimxyz / nsfw_data_scrapper](https://github.com/alexkimxyz/nsfw_data_scrapper) Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier __[⭐ 4,650]__
+    - [matvp91 / indigo-player](https://github.com/matvp91/indigo-player) Highly extensible, modern, JavaScript video player. Handles MPEG-Dash / HLS / MPEG-4 and is built on top of the HTML5 video element. __[⭐ 465]__
+    - [Microsoft / Recommenders](https://github.com/Microsoft/Recommenders) Recommender Systems __[⭐ 579]__
+    - [Drakirus / go-flutter-desktop-embedder](https://github.com/Drakirus/go-flutter-desktop-embedder) A Go (golang) Custom Flutter Engine Embedder for desktop __[⭐ 913]__
+    - [alibaba / euler](https://github.com/alibaba/euler) A distributed graph deep learning framework. __[⭐ 577]__
+    - [d5 / tengo](https://github.com/d5/tengo) A fast script language for Go __[⭐ 349]__
+    - [rikschennink / shiny](https://github.com/rikschennink/shiny) 🌟 Shiny reflections for mobile websites __[⭐ 1,848]__
+    - [pjialin / py12306](https://github.com/pjialin/py12306) 🚂 12306 购票助手，支持分布式，多账号，多任务购票以及 Web 页面管理 __[⭐ 2,417]__
+    - [Musish / Musish](https://github.com/Musish/Musish) Apple Music...ish __[⭐ 287]__
+    - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a web developer in 2019 __[⭐ 68,758]__
+    - [facebookincubator / spectrum](https://github.com/facebookincubator/spectrum) A client-side image transcoding library. __[⭐ 798]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 50,522]__
+    - [nektos / act](https://github.com/nektos/act) Run your GitHub Actions locally __[⭐ 942]__
+    - [yagiz / Bagel](https://github.com/yagiz/Bagel) a little native network debugging tool for iOS __[⭐ 968]__
+    - [nukeop / nuclear](https://github.com/nukeop/nuclear) Popcorn Time for music __[⭐ 2,521]__
+    - [alibaba / flutter-go](https://github.com/alibaba/flutter-go) flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档 __[⭐ 3,160]__
+    - [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) Free universal database tool and SQL client __[⭐ 7,403]__
+    - [typescript-eslint / typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) ✨ Monorepo for all the tooling which enables ESLint to support TypeScript __[⭐ 311]__
+    - [testerSunshine / 12306](https://github.com/testerSunshine/12306) 12306智能刷票，订票 __[⭐ 5,729]__
+    - [juliangarnier / anime](https://github.com/juliangarnier/anime) JavaScript animation engine __[⭐ 28,252]__
+    - [vuejs / vue](https://github.com/vuejs/vue) 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 125,477]__
+    - [hasura / graphql-engine](https://github.com/hasura/graphql-engine) Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events. __[⭐ 6,421]__

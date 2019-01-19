@@ -45,6 +45,11 @@ function task() {
 
     fs.writeFileSync(`./today/github-trending.md`, mdStr);
 
+    console.log('\r');
+    console.log(mdStr);
+    console.log('\r');
+
+
     // 更新 history
     fs.writeFileSync(`./src/history.md`, newHistory);
 
