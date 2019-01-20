@@ -1,3 +1,29 @@
+- 20190120
+    - [charlax / professional-programming](https://github.com/charlax/professional-programming) A collection of full-stack resources for programmers. __[⭐ 3,765]__
+    - [alexkimxyz / nsfw_data_scrapper](https://github.com/alexkimxyz/nsfw_data_scrapper) Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier __[⭐ 4,976]__
+    - [typescript-eslint / typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) ✨ Monorepo for all the tooling which enables ESLint to support TypeScript __[⭐ 687]__
+    - [Musish / Musish](https://github.com/Musish/Musish) Apple Music...ish __[⭐ 536]__
+    - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a web developer in 2019 __[⭐ 68,961]__
+    - [schollz / howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) Count the number of people around you 👨‍👨‍👦 by monitoring wifi signals 📡 __[⭐ 4,938]__
+    - [ForrestKnight / open-source-cs](https://github.com/ForrestKnight/open-source-cs)  __[⭐ 164]__
+    - [matvp91 / indigo-player](https://github.com/matvp91/indigo-player) Highly extensible, modern, JavaScript video player. Handles MPEG-Dash / HLS / MPEG-4 and is built on top of the HTML5 video element. __[⭐ 639]__
+    - [Microsoft / Recommenders](https://github.com/Microsoft/Recommenders) Recommender Systems __[⭐ 758]__
+    - [d5 / tengo](https://github.com/d5/tengo) A fast script language for Go __[⭐ 520]__
+    - [antonmedv / fx](https://github.com/antonmedv/fx) Command-line tool and terminal JSON viewer 🔥 __[⭐ 4,972]__
+    - [cschied / q2vkpt](https://github.com/cschied/q2vkpt) Real-time path tracer VKPT integrated into q2pro Quake 2 client. __[⭐ 261]__
+    - [rikschennink / shiny](https://github.com/rikschennink/shiny) 🌟 Shiny reflections for mobile websites __[⭐ 2,009]__
+    - [Drakirus / go-flutter-desktop-embedder](https://github.com/Drakirus/go-flutter-desktop-embedder) A Go (golang) Custom Flutter Engine Embedder for desktop __[⭐ 1,078]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 50,657]__
+    - [pjialin / py12306](https://github.com/pjialin/py12306) 🚂 12306 购票助手，支持分布式，多账号，多任务购票以及 Web 页面管理 __[⭐ 2,572]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 21,478]__
+    - [yagiz / Bagel](https://github.com/yagiz/Bagel) a little native network debugging tool for iOS __[⭐ 1,112]__
+    - [komeiji-satori / Dress](https://github.com/komeiji-satori/Dress) 好耶 是女装 __[⭐ 2,427]__
+    - [lexfridman / mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) Tutorials, assignments, and competitions for MIT Deep Learning related courses. __[⭐ 3,518]__
+    - [vuejs / vue](https://github.com/vuejs/vue) 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 125,578]__
+    - [testerSunshine / 12306](https://github.com/testerSunshine/12306) 12306智能刷票，订票 __[⭐ 5,843]__
+    - [osforscience / deep-learning-ocean](https://github.com/osforscience/deep-learning-ocean) 📡 All You Need to Know About Deep Learning - A kick-starter __[⭐ 1,325]__
+    - [alibaba / euler](https://github.com/alibaba/euler) A distributed graph deep learning framework. __[⭐ 687]__
+    - [m1ghtym0 / browser-pwn](https://github.com/m1ghtym0/browser-pwn) An updated collection of resources targeting browser-exploitation. __[⭐ 107]__
 - 20190119
     - [charlax / professional-programming](https://github.com/charlax/professional-programming) A collection of full-stack resources for programmers. __[⭐ 3,000]__
     - [schollz / howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) Count the number of people around you 👨‍👨‍👦 by monitoring wifi signals 📡 __[⭐ 4,709]__
