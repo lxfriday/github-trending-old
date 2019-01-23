@@ -1,3 +1,29 @@
+- 20190123
+    - [auchenberg / vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview) A real browser preview inside your editor that you can debug. __[⭐ 1,275]__
+    - [charlax / professional-programming](https://github.com/charlax/professional-programming) A collection of full-stack resources for programmers. __[⭐ 6,253]__
+    - [komeiji-satori / Dress](https://github.com/komeiji-satori/Dress) 好耶 是女装 __[⭐ 3,991]__
+    - [ForrestKnight / open-source-cs](https://github.com/ForrestKnight/open-source-cs) Video discussing this curriculum: __[⭐ 1,508]__
+    - [ssloy / tinyraytracer](https://github.com/ssloy/tinyraytracer) A brief computer graphics / rendering course __[⭐ 1,590]__
+    - [hjacobs / kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) Compilation of public failure/horror stories related to Kubernetes __[⭐ 1,235]__
+    - [osforscience / deep-learning-ocean](https://github.com/osforscience/deep-learning-ocean) 📡 All You Need to Know About Deep Learning - A kick-starter __[⭐ 2,281]__
+    - [react-spring / react-spring](https://github.com/react-spring/react-spring) ✌️ A spring physics based React animation library __[⭐ 9,911]__
+    - [alexkimxyz / nsfw_data_scrapper](https://github.com/alexkimxyz/nsfw_data_scrapper) Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier __[⭐ 5,659]__
+    - [fighting41love / funNLP](https://github.com/fighting41love/funNLP) 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具 __[⭐ 3,529]__
+    - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a web developer in 2019 __[⭐ 69,594]__
+    - [IdeasOnCanvas / Aiolos](https://github.com/IdeasOnCanvas/Aiolos) A floating panel for your iOS Apps __[⭐ 543]__
+    - [djc / quinn](https://github.com/djc/quinn) Futures-based QUIC implementation in Rust __[⭐ 586]__
+    - [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲 __[⭐ 6,916]__
+    - [Musish / Musish](https://github.com/Musish/Musish) Apple Music...ish __[⭐ 1,115]__
+    - [antonmedv / fx](https://github.com/antonmedv/fx) Command-line tool and terminal JSON viewer 🔥 __[⭐ 5,539]__
+    - [typescript-eslint / typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) ✨ Monorepo for all the tooling which enables ESLint to support TypeScript __[⭐ 1,329]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 51,039]__
+    - [MFatihMAR / Awesome-Game-Networking](https://github.com/MFatihMAR/Awesome-Game-Networking) A Curated List of Game Network Programming Resources __[⭐ 848]__
+    - [rikschennink / shiny](https://github.com/rikschennink/shiny) 🌟 Shiny reflections for mobile websites __[⭐ 2,457]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 21,832]__
+    - [pjialin / py12306](https://github.com/pjialin/py12306) 🚂 12306 购票助手，支持分布式，多账号，多任务购票以及 Web 页面管理 __[⭐ 2,976]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 11,351]__
+    - [lalamove / konfig](https://github.com/lalamove/konfig) Composable, observable and performant config handling for Go for the distributed processing era __[⭐ 224]__
+    - [Pagedraw / pagedraw](https://github.com/Pagedraw/pagedraw) a UI builder for React web apps __[⭐ 220]__
 - 20190121
     - [charlax / professional-programming](https://github.com/charlax/professional-programming) A collection of full-stack resources for programmers. __[⭐ 4,323]__
     - [komeiji-satori / Dress](https://github.com/komeiji-satori/Dress) 好耶 是女装 __[⭐ 2,814]__
