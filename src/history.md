@@ -1,3 +1,29 @@
+- 20190125
+    - [trimstray / the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) ⚡️ This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress. __[⭐ 2,274]__
+    - [cloudfetch / cloudquery](https://github.com/cloudfetch/cloudquery) Turn any website to serverless API (support SPA!) __[⭐ 769]__
+    - [charlax / professional-programming](https://github.com/charlax/professional-programming) A collection of full-stack resources for programmers. __[⭐ 7,778]__
+    - [komeiji-satori / Dress](https://github.com/komeiji-satori/Dress) 好耶 是女装 __[⭐ 5,250]__
+    - [Droogans / unmaintainable-code](https://github.com/Droogans/unmaintainable-code) A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html __[⭐ 6,942]__
+    - [auchenberg / vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview) A real browser preview inside your editor that you can debug. __[⭐ 2,632]__
+    - [Schniz / fnm](https://github.com/Schniz/fnm) 🚀 Fast and simple Node.js version manager, built in ReasonML __[⭐ 473]__
+    - [revery-ui / revery](https://github.com/revery-ui/revery) ⚡️ Native, high-performance, cross-platform desktop apps - built with Reason! __[⭐ 1,843]__
+    - [facebookresearch / LASER](https://github.com/facebookresearch/LASER) Language-Agnostic SEntence Representations __[⭐ 1,106]__
+    - [alibaba / fescar](https://github.com/alibaba/fescar) Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution. __[⭐ 4,015]__
+    - [skorokithakis / catt](https://github.com/skorokithakis/catt) Cast All The Things allows you to send videos from many, many online sources to your Chromecast. __[⭐ 1,374]__
+    - [QiShaoXuan / css_tricks](https://github.com/QiShaoXuan/css_tricks) some css tricks,一些css常用样式 __[⭐ 389]__
+    - [fighting41love / funNLP](https://github.com/fighting41love/funNLP) 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术… __[⭐ 4,081]__
+    - [alexkimxyz / nsfw_data_scrapper](https://github.com/alexkimxyz/nsfw_data_scrapper) Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier __[⭐ 6,322]__
+    - [alibaba / flutter-go](https://github.com/alibaba/flutter-go) flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档 __[⭐ 4,159]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 面试必备基础知识 __[⭐ 47,966]__
+    - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a web developer in 2019 __[⭐ 70,039]__
+    - [trekhleb / javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings __[⭐ 43,228]__
+    - [ForrestKnight / open-source-cs](https://github.com/ForrestKnight/open-source-cs) Video discussing this curriculum: __[⭐ 2,018]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 51,441]__
+    - [nukeop / nuclear](https://github.com/nukeop/nuclear) Popcorn Time for music __[⭐ 3,224]__
+    - [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲 __[⭐ 7,372]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 22,176]__
+    - [Pagedraw / pagedraw](https://github.com/Pagedraw/pagedraw) a UI builder for React web apps __[⭐ 767]__
+    - [vuejs / vue](https://github.com/vuejs/vue) 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 126,152]__
 - 20190124
     - [charlax / professional-programming](https://github.com/charlax/professional-programming) A collection of full-stack resources for programmers. __[⭐ 7,248]__
     - [auchenberg / vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview) A real browser preview inside your editor that you can debug. __[⭐ 2,311]__
