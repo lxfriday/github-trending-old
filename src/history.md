@@ -1,3 +1,29 @@
+- 20190127
+    - [joewalnes / websocketd](https://github.com/joewalnes/websocketd) Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets. __[⭐ 11,275]__
+    - [trimstray / the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) 🔥 This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress. __[⭐ 4,202]__
+    - [charlax / professional-programming](https://github.com/charlax/professional-programming) A collection of full-stack resources for programmers. __[⭐ 8,476]__
+    - [boazsegev / facil.io](https://github.com/boazsegev/facil.io) Your high performance web application C framework __[⭐ 628]__
+    - [revery-ui / revery](https://github.com/revery-ui/revery) ⚡️ Native, high-performance, cross-platform desktop apps - built with Reason! __[⭐ 2,568]__
+    - [github / hotkey](https://github.com/github/hotkey) Global DOM element activation __[⭐ 436]__
+    - [ForrestKnight / open-source-cs](https://github.com/ForrestKnight/open-source-cs) Video discussing this curriculum: __[⭐ 2,294]__
+    - [cloudfetch / cloudquery](https://github.com/cloudfetch/cloudquery) Turn any website to serverless API (support SPA!) __[⭐ 1,264]__
+    - [script-8 / script-8.github.io](https://github.com/script-8/script-8.github.io) A fantasy computer for making, sharing, and playing tiny retro-looking games. __[⭐ 227]__
+    - [joelparkerhenderson / queueing_theory](https://github.com/joelparkerhenderson/queueing_theory) Queueing theory: an introduction for software development __[⭐ 428]__
+    - [myshov / awesome-mobile-web-development](https://github.com/myshov/awesome-mobile-web-development) All that you need to create a great mobile web experience __[⭐ 176]__
+    - [alexkimxyz / nsfw_data_scrapper](https://github.com/alexkimxyz/nsfw_data_scrapper) Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier __[⭐ 6,509]__
+    - [komeiji-satori / Dress](https://github.com/komeiji-satori/Dress) 好耶 是女装 __[⭐ 5,400]__
+    - [kmario23 / deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) Drench yourself in Deep Learning & Reinforcement Learning by learning from these exciting lectures!! __[⭐ 128]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识 __[⭐ 48,116]__
+    - [ARMmbed / littlefs](https://github.com/ARMmbed/littlefs) A little fail-safe filesystem designed for microcontrollers __[⭐ 879]__
+    - [SebLague / Path-Creator](https://github.com/SebLague/Path-Creator) Path creation asset for Unity game development __[⭐ 105]__
+    - [tranbathanhtung / react-fiber-implement](https://github.com/tranbathanhtung/react-fiber-implement) re-implement react fiber __[⭐ 116]__
+    - [QiShaoXuan / css_tricks](https://github.com/QiShaoXuan/css_tricks) Some CSS tricks,一些 CSS 常用样式 __[⭐ 576]__
+    - [schlae / snark-barker](https://github.com/schlae/snark-barker) A 100% compatible replica of the famed SB 1.0 sound card __[⭐ 148]__
+    - [fighting41love / funNLP](https://github.com/fighting41love/funNLP) 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术… __[⭐ 4,234]__
+    - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a web developer in 2019 __[⭐ 70,192]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 11,770]__
+    - [westerndigitalcorporation / swerv_eh1](https://github.com/westerndigitalcorporation/swerv_eh1) A directory of Western Digital’s RISC-V SweRV Cores __[⭐ SystemVerilog]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 51,592]__
 - 20190126
     - [trimstray / the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) ⚡️ This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress. __[⭐ 3,538]__
     - [revery-ui / revery](https://github.com/revery-ui/revery) ⚡️ Native, high-performance, cross-platform desktop apps - built with Reason! __[⭐ 2,282]__
