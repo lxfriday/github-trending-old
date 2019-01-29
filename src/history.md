@@ -1,3 +1,29 @@
+- 20190129
+    - [myliang / x-spreadsheet](https://github.com/myliang/x-spreadsheet) a javascript spreadsheet for web __[⭐ 1,040]__
+    - [vadimdemedes / ink](https://github.com/vadimdemedes/ink) 🌈 React for interactive command-line apps __[⭐ 7,519]__
+    - [trimstray / the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) 🔥 This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress. __[⭐ 5,251]__
+    - [ssloy / tinykaboom](https://github.com/ssloy/tinykaboom) A brief computer graphics / rendering course __[⭐ 1,043]__
+    - [charlax / professional-programming](https://github.com/charlax/professional-programming) A collection of full-stack resources for programmers. __[⭐ 9,307]__
+    - [shengxinjing / programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) 🙈程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 __[⭐ 10,760]__
+    - [joewalnes / websocketd](https://github.com/joewalnes/websocketd) Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets. __[⭐ 12,206]__
+    - [apache / flink](https://github.com/apache/flink) Apache Flink __[⭐ 6,606]__
+    - [wuyouzhuguli / FEBS-Vue](https://github.com/wuyouzhuguli/FEBS-Vue) SpringBoot，Shiro，JWT，Vue & Ant Design 前后端分离权限管理系统，预览地址（小油管，初次加载较慢）： __[⭐ 403]__
+    - [dieegom / brumadinho_location](https://github.com/dieegom/brumadinho_location) Criamos uma primeira versão de uma ferramenta para colocar latitude e longitude dos desaparecidos e, com base no fluxo de rejeitos, estimar a possível localização da pessoa. __[⭐ 344]__
+    - [ForrestKnight / open-source-cs](https://github.com/ForrestKnight/open-source-cs) Video discussing this curriculum: __[⭐ 2,989]__
+    - [kevinschaich / mintable](https://github.com/kevinschaich/mintable) Roll-your own Mint clone for managing personal finances using the Google Sheets and Plaid APIs. __[⭐ 331]__
+    - [didi / chameleon](https://github.com/didi/chameleon) 真正专注于让一套代码运行多端的开发框架，提供标准的MVVM架构开发模式统一各类终端 __[⭐ 720]__
+    - [google / haskell-trainings](https://github.com/google/haskell-trainings) Haskell 101 and 102: slides and codelabs __[⭐ 330]__
+    - [fighting41love / funNLP](https://github.com/fighting41love/funNLP) 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术… __[⭐ 4,687]__
+    - [komeiji-satori / Dress](https://github.com/komeiji-satori/Dress) 好耶 是女装 __[⭐ 5,768]__
+    - [revery-ui / revery](https://github.com/revery-ui/revery) ⚡️ Native, high-performance, cross-platform desktop apps - built with Reason! __[⭐ 2,940]__
+    - [myshov / awesome-mobile-web-development](https://github.com/myshov/awesome-mobile-web-development) All that you need to create a great mobile web experience __[⭐ 594]__
+    - [yodaos-project / yodaos](https://github.com/yodaos-project/yodaos) AI OS for Web Community __[⭐ 266]__
+    - [github / hotkey](https://github.com/github/hotkey) Global DOM element activation __[⭐ 845]__
+    - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a web developer in 2019 __[⭐ 70,602]__
+    - [antonmedv / fx](https://github.com/antonmedv/fx) Command-line tool and terminal JSON viewer 🔥 __[⭐ 6,189]__
+    - [alibaba / flutter-go](https://github.com/alibaba/flutter-go) flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档 __[⭐ 4,567]__
+    - [laynefyc / xhgui-branch](https://github.com/laynefyc/xhgui-branch) PHP非侵入式监控平台- 优化性能，定位Bug的神器，别再让你的PHP程序裸奔。---提交问题请带上操作系统和PHP版本等信息 __[⭐ 428]__
+    - [phodal / techlead](https://github.com/phodal/techlead) 迈向 Tech Lead 之路。Path to Tech Lead __[⭐ 224]__
 - 20190128
     - [joewalnes / websocketd](https://github.com/joewalnes/websocketd) Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets. __[⭐ 11,697]__
     - [trimstray / the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) 🔥 This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress. __[⭐ 4,580]__
