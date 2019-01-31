@@ -1,3 +1,29 @@
+- 20190131
+    - [rShetty / awesome-podcasts](https://github.com/rShetty/awesome-podcasts) Collection of awesome podcasts __[⭐ 6,075]__
+    - [shengxinjing / programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) 🙈程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞 __[⭐ 12,603]__
+    - [myliang / x-spreadsheet](https://github.com/myliang/x-spreadsheet) a javascript spreadsheet for web __[⭐ 2,524]__
+    - [ForrestKnight / open-source-cs](https://github.com/ForrestKnight/open-source-cs) Video discussing this curriculum: __[⭐ 3,647]__
+    - [uber / aresdb](https://github.com/uber/aresdb) A GPU-powered real-time analytics storage and query engine. __[⭐ 767]__
+    - [aylei / interview](https://github.com/aylei/interview) 写在19年初的后端社招面试经历🤑 __[⭐ 760]__
+    - [caronc / apprise](https://github.com/caronc/apprise) Apprise - Push Notifications that work with just about every platform! __[⭐ 1,249]__
+    - [trimstray / the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) 🔥 This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress. __[⭐ 6,077]__
+    - [charlax / professional-programming](https://github.com/charlax/professional-programming) A collection of full-stack resources for programmers. __[⭐ 10,019]__
+    - [didi / chameleon](https://github.com/didi/chameleon) 真正专注于让一套代码运行多端的开发框架，提供标准的MVVM架构开发模式统一各类终端 __[⭐ 1,443]__
+    - [egoist / import-http](https://github.com/egoist/import-http) Import modules from URL instead of local node_modules __[⭐ 548]__
+    - [TuSimple / simpledet](https://github.com/TuSimple/simpledet) A Simple and Versatile Framework for Object Detection and Instance Recognition __[⭐ 676]__
+    - [fabiospampinato / notable](https://github.com/fabiospampinato/notable) The markdown-based note-taking app that doesn't suck. __[⭐ 7,020]__
+    - [opensec-cn / kunpeng](https://github.com/opensec-cn/kunpeng) kunpeng是一个Golang编写的开源POC检测框架，以动态链接库的形式提供各种语言调用，通过此项目可快速对目标进行安全漏洞检测，比攻击者快一步发现风险漏洞。 __[⭐ 227]__
+    - [guolindev / giffun](https://github.com/guolindev/giffun) 一款开源的GIF在线分享App，乐趣就要和世界分享。 __[⭐ 1,210]__
+    - [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer) Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. __[⭐ 56,013]__
+    - [joewalnes / websocketd](https://github.com/joewalnes/websocketd) Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets. __[⭐ 12,715]__
+    - [Ridter / Intranet_Penetration_Tips](https://github.com/Ridter/Intranet_Penetration_Tips) 2018年初整理的一些内网渗透TIPS，后面更新的慢，所以公开出来希望跟小伙伴们一起更新维护~ __[⭐ 422]__
+    - [steffest / BassoonTracker](https://github.com/steffest/BassoonTracker) Webbased old-school Amiga music tracker in plain old javascript - Plays and edits Amiga Mod files and FastTracker XM files __[⭐ 308]__
+    - [komeiji-satori / Dress](https://github.com/komeiji-satori/Dress) 好耶 是女装 __[⭐ 6,291]__
+    - [minimaxir / big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. __[⭐ 31,527]__
+    - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a web developer in 2019 __[⭐ 70,948]__
+    - [apache / flink](https://github.com/apache/flink) Apache Flink __[⭐ 7,045]__
+    - [b3log / symphony](https://github.com/b3log/symphony) 🎶 一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。https://hacpai.com __[⭐ 10,272]__
+    - [stanfordnlp / stanfordnlp](https://github.com/stanfordnlp/stanfordnlp) Official Stanford NLP Python Library for Many Human Languages __[⭐ 170]__
 - 20190129
     - [myliang / x-spreadsheet](https://github.com/myliang/x-spreadsheet) a javascript spreadsheet for web __[⭐ 1,040]__
     - [vadimdemedes / ink](https://github.com/vadimdemedes/ink) 🌈 React for interactive command-line apps __[⭐ 7,519]__
