@@ -1,3 +1,29 @@
+- 20190201
+    - [shengxinjing / programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) 🙈程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞 __[⭐ 13,806]__
+    - [tyroprogrammer / learn-react-app](https://github.com/tyroprogrammer/learn-react-app) Application that will help you learn React fundamentals. Install this application locally - there's guided tutorial as well as guided exercises. __[⭐ 732]__
+    - [ForrestKnight / open-source-cs](https://github.com/ForrestKnight/open-source-cs) Video discussing this curriculum: __[⭐ 4,338]__
+    - [rShetty / awesome-podcasts](https://github.com/rShetty/awesome-podcasts) Collection of awesome podcasts __[⭐ 6,879]__
+    - [stanfordnlp / stanfordnlp](https://github.com/stanfordnlp/stanfordnlp) Official Stanford NLP Python Library for Many Human Languages __[⭐ 628]__
+    - [idea4good / GuiLite](https://github.com/idea4good/GuiLite) ✔️The smallest UI framework for all platform -- 5K lines code __[⭐ 1,154]__
+    - [fabiospampinato / notable](https://github.com/fabiospampinato/notable) The markdown-based note-taking app that doesn't suck. __[⭐ 7,419]__
+    - [aylei / interview](https://github.com/aylei/interview) 写在19年初的后端社招面试经历🤑 __[⭐ 1,096]__
+    - [charlax / professional-programming](https://github.com/charlax/professional-programming) A collection of full-stack resources for programmers. __[⭐ 10,348]__
+    - [myliang / x-spreadsheet](https://github.com/myliang/x-spreadsheet) a javascript spreadsheet for web __[⭐ 2,851]__
+    - [didi / DoraemonKit](https://github.com/didi/DoraemonKit) A full-featured APP ( iOS & Android ) development assistant. You deserve it. __[⭐ 1,226]__
+    - [uber / aresdb](https://github.com/uber/aresdb) A GPU-powered real-time analytics storage and query engine. __[⭐ 1,051]__
+    - [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲 __[⭐ 7,982]__
+    - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a web developer in 2019 __[⭐ 71,189]__
+    - [trimstray / the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) 🔥 This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress. __[⭐ 6,348]__
+    - [shimohq / chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) 中国程序员容易发音错误的单词 __[⭐ 7,747]__
+    - [egoist / import-http](https://github.com/egoist/import-http) Import modules from URL instead of local node_modules __[⭐ 794]__
+    - [march08 / animated-burgers](https://github.com/march08/animated-burgers) Collection of animated burgers for React, also available as HTML+CSS __[⭐ 296]__
+    - [JakeWharton / dagger-reflect](https://github.com/JakeWharton/dagger-reflect) A reflection-based implementation of the Dagger dependency injection library. __[⭐ 237]__
+    - [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer) Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. __[⭐ 56,217]__
+    - [caronc / apprise](https://github.com/caronc/apprise) Apprise - Push Notifications that work with just about every platform! __[⭐ 1,462]__
+    - [GitHubDaily / GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。 __[⭐ 1,650]__
+    - [Ridter / Intranet_Penetration_Tips](https://github.com/Ridter/Intranet_Penetration_Tips) 2018年初整理的一些内网渗透TIPS，后面更新的慢，所以公开出来希望跟小伙伴们一起更新维护~ __[⭐ 624]__
+    - [minimaxir / big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. __[⭐ 31,741]__
+    - [joewalnes / websocketd](https://github.com/joewalnes/websocketd) Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets. __[⭐ 12,893]__
 - 20190131
     - [rShetty / awesome-podcasts](https://github.com/rShetty/awesome-podcasts) Collection of awesome podcasts __[⭐ 6,075]__
     - [shengxinjing / programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) 🙈程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞 __[⭐ 12,603]__
