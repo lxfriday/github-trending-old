@@ -1,3 +1,29 @@
+- 20190202
+    - [tyroprogrammer / learn-react-app](https://github.com/tyroprogrammer/learn-react-app) Application that will help you learn React fundamentals. Install this application locally - there's guided tutorial as well as guided exercises. __[⭐ 1,315]__
+    - [shengxinjing / programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) 🙈程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞 __[⭐ 13,959]__
+    - [idea4good / GuiLite](https://github.com/idea4good/GuiLite) ✔️The smallest UI framework for all platform -- 5K lines code __[⭐ 1,474]__
+    - [rShetty / awesome-podcasts](https://github.com/rShetty/awesome-podcasts) Collection of awesome podcasts __[⭐ 7,101]__
+    - [ForrestKnight / open-source-cs](https://github.com/ForrestKnight/open-source-cs) Video discussing this curriculum: __[⭐ 4,524]__
+    - [stanfordnlp / stanfordnlp](https://github.com/stanfordnlp/stanfordnlp) Official Stanford NLP Python Library for Many Human Languages __[⭐ 722]__
+    - [gothinkster / realworld](https://github.com/gothinkster/realworld) "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 __[⭐ 22,089]__
+    - [didi / DoraemonKit](https://github.com/didi/DoraemonKit) A full-featured APP ( iOS & Android ) development assistant. You deserve it. __[⭐ 1,320]__
+    - [aylei / interview](https://github.com/aylei/interview) 写在19年初的后端社招面试经历🤑 __[⭐ 1,168]__
+    - [fabiospampinato / notable](https://github.com/fabiospampinato/notable) The markdown-based note-taking app that doesn't suck. __[⭐ 7,499]__
+    - [charlax / professional-programming](https://github.com/charlax/professional-programming) A collection of full-stack resources for programmers. __[⭐ 10,460]__
+    - [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲 __[⭐ 8,056]__
+    - [myliang / x-spreadsheet](https://github.com/myliang/x-spreadsheet) a javascript spreadsheet for web __[⭐ 2,948]__
+    - [nextapps-de / flexsearch](https://github.com/nextapps-de/flexsearch) Next-Generation full text search library for Browser and Node.js __[⭐ 462]__
+    - [shimohq / chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) 中国程序员容易发音错误的单词 __[⭐ 7,794]__
+    - [GitHubDaily / GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。 __[⭐ 1,706]__
+    - [joewalnes / websocketd](https://github.com/joewalnes/websocketd) Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets. __[⭐ 12,995]__
+    - [trimstray / the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) 🔥 This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress. __[⭐ 6,424]__
+    - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a web developer in 2019 __[⭐ 71,250]__
+    - [caronc / apprise](https://github.com/caronc/apprise) Apprise - Push Notifications that work with just about every platform! __[⭐ 1,536]__
+    - [bbc / bbplot](https://github.com/bbc/bbplot) R package that helps create and export ggplot2 charts in the style used by the BBC News data team __[⭐ 185]__
+    - [uber / aresdb](https://github.com/uber/aresdb) A GPU-powered real-time analytics storage and query engine. __[⭐ 1,109]__
+    - [egoist / import-http](https://github.com/egoist/import-http) Import modules from URL instead of local node_modules __[⭐ 857]__
+    - [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer) Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. __[⭐ 56,263]__
+    - [march08 / animated-burgers](https://github.com/march08/animated-burgers) Collection of animated burgers for React, also available as HTML+CSS __[⭐ 346]__
 - 20190201
     - [shengxinjing / programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) 🙈程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞 __[⭐ 13,806]__
     - [tyroprogrammer / learn-react-app](https://github.com/tyroprogrammer/learn-react-app) Application that will help you learn React fundamentals. Install this application locally - there's guided tutorial as well as guided exercises. __[⭐ 732]__
