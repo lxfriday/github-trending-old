@@ -1,3 +1,29 @@
+- 20190206
+    - [toddmotto / public-apis](https://github.com/toddmotto/public-apis) A collective list of free APIs for use in software and web development. __[⭐ 48,514]__
+    - [gto76 / python-cheatsheet](https://github.com/gto76/python-cheatsheet) Comprehensive Python Cheatsheet __[⭐ 1,595]__
+    - [rsms / inter](https://github.com/rsms/inter) The Inter font family __[⭐ 7,256]__
+    - [nextapps-de / flexsearch](https://github.com/nextapps-de/flexsearch) Next-Generation full text search library for Browser and Node.js __[⭐ 2,455]__
+    - [isacikgoz / gitin](https://github.com/isacikgoz/gitin) commit/branch/workdir explorer for git __[⭐ 573]__
+    - [labs42io / clean-code-typescript](https://github.com/labs42io/clean-code-typescript) Clean Code concepts adapted for TypeScript __[⭐ 449]__
+    - [kmario23 / deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!! __[⭐ 1,251]__
+    - [NVlabs / stylegan](https://github.com/NVlabs/stylegan) StyleGAN - Official TensorFlow Implementation __[⭐ 265]__
+    - [kleampa / not-paid](https://github.com/kleampa/not-paid) Client did not pay? Add opacity to the body tag and increase it every day until their site completely fades away __[⭐ 311]__
+    - [RustPython / RustPython](https://github.com/RustPython/RustPython) A Python Interpreter written in Rust __[⭐ 2,242]__
+    - [skywind3000 / z.lua](https://github.com/skywind3000/z.lua) A new cd command that helps you navigate faster by learning your habits ⚡️ __[⭐ 602]__
+    - [tyroprogrammer / learn-react-app](https://github.com/tyroprogrammer/learn-react-app) Application that will help you learn React fundamentals. Install this application locally - there's tutorial, code snippets and exercises. The main objective of this project is to help you get off the ground with React! __[⭐ 2,239]__
+    - [derailed / k9s](https://github.com/derailed/k9s) 🐶 Kubernetes CLI To Manage Your Clusters In Style! __[⭐ 587]__
+    - [rShetty / awesome-podcasts](https://github.com/rShetty/awesome-podcasts) Collection of awesome podcasts __[⭐ 7,854]__
+    - [NVlabs / ffhq-dataset](https://github.com/NVlabs/ffhq-dataset) Flickr-Faces-HQ Dataset (FFHQ) __[⭐ 195]__
+    - [ForrestKnight / open-source-cs](https://github.com/ForrestKnight/open-source-cs) Video discussing this curriculum: __[⭐ 5,162]__
+    - [graykode / nlp-tutorial](https://github.com/graykode/nlp-tutorial) Natural Language Processing Tutorial for Deep Learning Researchers __[⭐ 857]__
+    - [facebook / react](https://github.com/facebook/react) A declarative, efficient, and flexible JavaScript library for building user interfaces. __[⭐ 121,578]__
+    - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a web developer in 2019 __[⭐ 71,646]__
+    - [vietnguyen91 / QuickDraw](https://github.com/vietnguyen91/QuickDraw) Implementation of Quickdraw - an online game developed by Google __[⭐ 262]__
+    - [charlax / professional-programming](https://github.com/charlax/professional-programming) A collection of full-stack resources for programmers. __[⭐ 11,043]__
+    - [deepmind / hanabi-learning-environment](https://github.com/deepmind/hanabi-learning-environment)  __[⭐ 167]__
+    - [cjbassi / gotop](https://github.com/cjbassi/gotop) A terminal based graphical activity monitor inspired by gtop and vtop __[⭐ 3,362]__
+    - [istio / istio](https://github.com/istio/istio) Connect, secure, control, and observe services. __[⭐ 15,094]__
+    - [stylelint / stylelint](https://github.com/stylelint/stylelint) A mighty, modern style linter __[⭐ 6,103]__
 - 20190202
     - [tyroprogrammer / learn-react-app](https://github.com/tyroprogrammer/learn-react-app) Application that will help you learn React fundamentals. Install this application locally - there's guided tutorial as well as guided exercises. __[⭐ 1,315]__
     - [shengxinjing / programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) 🙈程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞 __[⭐ 13,959]__
