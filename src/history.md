@@ -1,3 +1,29 @@
+- 20190207
+    - [pomber / github-history](https://github.com/pomber/github-history) Browse the history of any file from GitHub with style __[⭐ 1,462]__
+    - [kleampa / not-paid](https://github.com/kleampa/not-paid) Client did not pay? Add opacity to the body tag and increase it every day until their site completely fades away __[⭐ 1,121]__
+    - [rsms / inter](https://github.com/rsms/inter) The Inter font family __[⭐ 7,965]__
+    - [NVlabs / stylegan](https://github.com/NVlabs/stylegan) StyleGAN - Official TensorFlow Implementation __[⭐ 790]__
+    - [toddmotto / public-apis](https://github.com/toddmotto/public-apis) A collective list of free APIs for use in software and web development. __[⭐ 48,980]__
+    - [labs42io / clean-code-typescript](https://github.com/labs42io/clean-code-typescript) Clean Code concepts adapted for TypeScript __[⭐ 844]__
+    - [The-Art-of-Hacking / h4cker](https://github.com/The-Art-of-Hacking/h4cker) This repository is primarily maintained by Omar Santos and includes resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. __[⭐ 1,192]__
+    - [isacikgoz / gitin](https://github.com/isacikgoz/gitin) commit/branch/workdir explorer for git __[⭐ 947]__
+    - [gto76 / python-cheatsheet](https://github.com/gto76/python-cheatsheet) Comprehensive Python Cheatsheet __[⭐ 1,932]__
+    - [nextapps-de / flexsearch](https://github.com/nextapps-de/flexsearch) Next-Generation full text search library for Browser and Node.js __[⭐ 2,732]__
+    - [cjbassi / gotop](https://github.com/cjbassi/gotop) A terminal based graphical activity monitor inspired by gtop and vtop __[⭐ 3,562]__
+    - [laravel / laravel](https://github.com/laravel/laravel) A PHP framework for web artisans __[⭐ 49,165]__
+    - [RustPython / RustPython](https://github.com/RustPython/RustPython) A Python Interpreter written in Rust __[⭐ 2,416]__
+    - [notion-cli / notion](https://github.com/notion-cli/notion) Notion: the hassle-free JavaScript toolchain manager __[⭐ 345]__
+    - [apexcharts / apexcharts.js](https://github.com/apexcharts/apexcharts.js) 📊 Interactive SVG Charts __[⭐ 4,917]__
+    - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a web developer in 2019 __[⭐ 71,799]__
+    - [diegohaz / constate](https://github.com/diegohaz/constate) Scalable state manager using React Hooks & Context __[⭐ 956]__
+    - [facebook / react](https://github.com/facebook/react) A declarative, efficient, and flexible JavaScript library for building user interfaces. __[⭐ 121,715]__
+    - [kentcdodds / react-testing-library](https://github.com/kentcdodds/react-testing-library) 🐐 Simple and complete React DOM testing utilities that encourage good testing practices. __[⭐ 5,125]__
+    - [charlax / professional-programming](https://github.com/charlax/professional-programming) A collection of full-stack resources for programmers. __[⭐ 11,178]__
+    - [rShetty / awesome-podcasts](https://github.com/rShetty/awesome-podcasts) Collection of awesome podcasts __[⭐ 7,986]__
+    - [kmario23 / deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!! __[⭐ 1,377]__
+    - [graykode / nlp-tutorial](https://github.com/graykode/nlp-tutorial) Natural Language Processing Tutorial for Deep Learning Researchers __[⭐ 977]__
+    - [tyroprogrammer / learn-react-app](https://github.com/tyroprogrammer/learn-react-app) Application that will help you learn React fundamentals. Install this application locally - there's tutorial, code snippets and exercises. The main objective of this project is to help you get off the ground with React! __[⭐ 2,348]__
+    - [facebookresearch / XLM](https://github.com/facebookresearch/XLM) PyTorch original implementation of Cross-lingual Language Model Pretraining. __[⭐ 225]__
 - 20190206
     - [toddmotto / public-apis](https://github.com/toddmotto/public-apis) A collective list of free APIs for use in software and web development. __[⭐ 48,514]__
     - [gto76 / python-cheatsheet](https://github.com/gto76/python-cheatsheet) Comprehensive Python Cheatsheet __[⭐ 1,595]__
