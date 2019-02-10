@@ -1,3 +1,29 @@
+- 20190210
+    - [trimstray / nginx-quick-reference](https://github.com/trimstray/nginx-quick-reference) ⚡️ This notes describes how to improve Nginx performance, security and other important things; ssllabs A+ 100%. __[⭐ 2,482]__
+    - [pomber / git-history](https://github.com/pomber/git-history) Quickly browse the history of any GitHub file __[⭐ 4,132]__
+    - [kleampa / not-paid](https://github.com/kleampa/not-paid) Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away __[⭐ 3,915]__
+    - [google / clusterfuzz](https://github.com/google/clusterfuzz) All your bug are belong to us. __[⭐ 1,680]__
+    - [instantpage / instant.page](https://github.com/instantpage/instant.page) Make your site’s pages instant in 1 minute and improve your conversion rate by 1% __[⭐ 320]__
+    - [klaussinani / qoa](https://github.com/klaussinani/qoa) 💬 Minimal interactive command-line prompts __[⭐ 268]__
+    - [toddmotto / public-apis](https://github.com/toddmotto/public-apis) A collective list of free APIs for use in software and web development. __[⭐ 49,707]__
+    - [usefathom / fathom](https://github.com/usefathom/fathom) Fathom. Simple, trustworthy website analytics. Built with Golang & Preact. __[⭐ 4,256]__
+    - [gto76 / python-cheatsheet](https://github.com/gto76/python-cheatsheet) Comprehensive Python Cheatsheet __[⭐ 2,423]__
+    - [react-native-community / react-native-hooks](https://github.com/react-native-community/react-native-hooks) React Native APIs turned into React Hooks for use in functional React components __[⭐ 520]__
+    - [callstack / linaria](https://github.com/callstack/linaria) Zero-runtime CSS in JS library __[⭐ 2,533]__
+    - [transloadit / uppy](https://github.com/transloadit/uppy) The next open source file uploader for web browsers 🐶 __[⭐ 13,090]__
+    - [cjbassi / gotop](https://github.com/cjbassi/gotop) A terminal based graphical activity monitor inspired by gtop and vtop __[⭐ 3,888]__
+    - [elastic / go-elasticsearch](https://github.com/elastic/go-elasticsearch) The official Go client for Elasticsearch __[⭐ 501]__
+    - [TheBerkin / rant](https://github.com/TheBerkin/rant) Rant – The all-purpose procedural text library __[⭐ 2,699]__
+    - [google / jsonnet](https://github.com/google/jsonnet) Jsonnet - The data templating language __[⭐ 2,253]__
+    - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a web developer in 2019 __[⭐ 72,189]__
+    - [pikapkg / pack](https://github.com/pikapkg/pack) 📦⚡️ npm package building, reimagined. https://www.pikapkg.com/blog/introducing-pika-pack/ __[⭐ 676]__
+    - [skanehira / docui](https://github.com/skanehira/docui) TUI Tool for Docker __[⭐ 620]__
+    - [postlight / mercury-parser](https://github.com/postlight/mercury-parser) 📜 Extracting content from the chaos of the web. __[⭐ 467]__
+    - [The-Art-of-Hacking / h4cker](https://github.com/The-Art-of-Hacking/h4cker) This repository is primarily maintained by Omar Santos and includes resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. __[⭐ 1,705]__
+    - [nextapps-de / flexsearch](https://github.com/nextapps-de/flexsearch) Next-Generation full text search library for Browser and Node.js __[⭐ 3,237]__
+    - [felixrieseberg / windows95](https://github.com/felixrieseberg/windows95) 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows. __[⭐ 14,259]__
+    - [facebook / react](https://github.com/facebook/react) A declarative, efficient, and flexible JavaScript library for building user interfaces. __[⭐ 121,960]__
+    - [Microsoft / vscode](https://github.com/Microsoft/vscode) Visual Studio Code __[⭐ 68,863]__
 - 20190207
     - [pomber / github-history](https://github.com/pomber/github-history) Browse the history of any file from GitHub with style __[⭐ 1,462]__
     - [kleampa / not-paid](https://github.com/kleampa/not-paid) Client did not pay? Add opacity to the body tag and increase it every day until their site completely fades away __[⭐ 1,121]__
