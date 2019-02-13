@@ -1,3 +1,29 @@
+- 20190213
+    - [uber / ludwig](https://github.com/uber/ludwig) Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code. __[⭐ 1,142]__
+    - [pomber / git-history](https://github.com/pomber/git-history) Quickly browse the history of any GitHub file __[⭐ 6,509]__
+    - [trimstray / nginx-quick-reference](https://github.com/trimstray/nginx-quick-reference) ⚡️ This notes describes how to improve Nginx performance, security and other important things; ssllabs A+ 100%. __[⭐ 4,125]__
+    - [kmario23 / deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!! __[⭐ 2,710]__
+    - [b3log / vditor](https://github.com/b3log/vditor) ♏ 一款浏览器端的 Markdown 编辑器。 __[⭐ 890]__
+    - [imthenachoman / How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) An evolving how-to guide for securing a Linux server. __[⭐ 1,072]__
+    - [didi / DoraemonKit](https://github.com/didi/DoraemonKit) 一款功能齐全的客户端（iOS、Android）研发助手，你值得拥有。 __[⭐ 2,066]__
+    - [instantpage / instant.page](https://github.com/instantpage/instant.page) Make your site’s pages instant in 1 minute and improve your conversion rate by 1% __[⭐ 1,658]__
+    - [felixrieseberg / windows95](https://github.com/felixrieseberg/windows95) 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows. __[⭐ 14,943]__
+    - [swc-project / swc](https://github.com/swc-project/swc) Super-fast javascript to javascript compiler written in rust __[⭐ 4,449]__
+    - [toddmotto / public-apis](https://github.com/toddmotto/public-apis) A collective list of free APIs for use in software and web development. __[⭐ 50,501]__
+    - [kleampa / not-paid](https://github.com/kleampa/not-paid) Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away __[⭐ 4,768]__
+    - [brightmart / nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus) 大规模中文自然语言处理语料 Large Scale Chinese Corpus for NLP __[⭐ 496]__
+    - [transloadit / uppy](https://github.com/transloadit/uppy) The next open source file uploader for web browsers 🐶 __[⭐ 13,736]__
+    - [eranyanay / 1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) handling 1M websockets connections in Go __[⭐ 367]__
+    - [gto76 / python-cheatsheet](https://github.com/gto76/python-cheatsheet) Comprehensive Python Cheatsheet __[⭐ 3,056]__
+    - [klaussinani / qoa](https://github.com/klaussinani/qoa) 💬 Minimal interactive command-line prompts __[⭐ 952]__
+    - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a web developer in 2019 __[⭐ 72,874]__
+    - [duke7553 / files-uwp](https://github.com/duke7553/files-uwp) The work done by Luke Blevins to create a modern File Explorer __[⭐ 276]__
+    - [google / clusterfuzz](https://github.com/google/clusterfuzz) All your bug are belong to us. __[⭐ 2,513]__
+    - [alexanderperrin / threejs-ballooning](https://github.com/alexanderperrin/threejs-ballooning) Buffer geometry merging, procedural terrains and shadow mapper research with Three.js __[⭐ 231]__
+    - [postlight / mercury-parser](https://github.com/postlight/mercury-parser) 📜 Extracting content from the chaos of the web. __[⭐ 967]__
+    - [lukakerr / twig](https://github.com/lukakerr/twig) A modern macOS markdown editor - themeable, tabs, sidebar, github flavored markdown, exporting, latex and more __[⭐ 1,005]__
+    - [NVlabs / stylegan](https://github.com/NVlabs/stylegan) StyleGAN - Official TensorFlow Implementation __[⭐ 1,681]__
+    - [nathan / pax](https://github.com/nathan/pax) The fastest JavaScript bundler in the galaxy. __[⭐ 1,746]__
 - 20190210
     - [trimstray / nginx-quick-reference](https://github.com/trimstray/nginx-quick-reference) ⚡️ This notes describes how to improve Nginx performance, security and other important things; ssllabs A+ 100%. __[⭐ 2,482]__
     - [pomber / git-history](https://github.com/pomber/git-history) Quickly browse the history of any GitHub file __[⭐ 4,132]__
