@@ -1,3 +1,29 @@
+- 20190214
+    - [alibaba / flutter-go](https://github.com/alibaba/flutter-go) flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档 __[⭐ 6,445]__
+    - [eranyanay / 1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) handling 1M websockets connections in Go __[⭐ 1,363]__
+    - [didi / DoraemonKit](https://github.com/didi/DoraemonKit) 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。 __[⭐ 3,030]__
+    - [pomber / git-history](https://github.com/pomber/git-history) Quickly browse the history of any GitHub file __[⭐ 7,353]__
+    - [EBazarov / nsfw_data_source_urls](https://github.com/EBazarov/nsfw_data_source_urls) Collection of NSFW images URLs for the purposes of training an NSFW Image Classifier __[⭐ 474]__
+    - [uber / ludwig](https://github.com/uber/ludwig) Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code. __[⭐ 1,979]__
+    - [agalwood / Motrix](https://github.com/agalwood/Motrix) A full-featured download manager. __[⭐ 2,332]__
+    - [trimstray / nginx-quick-reference](https://github.com/trimstray/nginx-quick-reference) ⚡️ This notes describes how to improve Nginx performance, security and other important things; ssllabs A+ 100%. __[⭐ 4,799]__
+    - [NVlabs / stylegan](https://github.com/NVlabs/stylegan) StyleGAN - Official TensorFlow Implementation __[⭐ 2,206]__
+    - [alexkimxyz / nsfw_data_scrapper](https://github.com/alexkimxyz/nsfw_data_scrapper) Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier __[⭐ 7,670]__
+    - [WOA-Project / WoA-Installer](https://github.com/WOA-Project/WoA-Installer) The tool that will help you install Windows ARM64 with ease! __[⭐ 575]__
+    - [brightmart / nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus) 大规模中文自然语言处理语料 Large Scale Chinese Corpus for NLP __[⭐ 916]__
+    - [toddmotto / public-apis](https://github.com/toddmotto/public-apis) A collective list of free APIs for use in software and web development. __[⭐ 50,885]__
+    - [imthenachoman / How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) An evolving how-to guide for securing a Linux server. __[⭐ 1,474]__
+    - [kleampa / not-paid](https://github.com/kleampa/not-paid) Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away __[⭐ 5,099]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 23,829]__
+    - [zserge / lorca](https://github.com/zserge/lorca) Build cross-platform modern desktop apps in Go + HTML5 __[⭐ 3,501]__
+    - [b3log / vditor](https://github.com/b3log/vditor) ♏ 一款浏览器端的 Markdown 编辑器。 __[⭐ 1,194]__
+    - [patr0nus / DeskGap](https://github.com/patr0nus/DeskGap) A cross-platform desktop app framework based on Node.js and the system webview __[⭐ 419]__
+    - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a web developer in 2019 __[⭐ 73,147]__
+    - [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲 __[⭐ 9,024]__
+    - [transloadit / uppy](https://github.com/transloadit/uppy) The next open source file uploader for web browsers 🐶 __[⭐ 13,998]__
+    - [didi / chameleon](https://github.com/didi/chameleon) 🦎 一套代码运行多端，一端所见即多端所见 __[⭐ 2,165]__
+    - [instantpage / instant.page](https://github.com/instantpage/instant.page) Make your site’s pages instant in 1 minute and improve your conversion rate by 1% __[⭐ 1,915]__
+    - [kmario23 / deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!! __[⭐ 2,993]__
 - 20190213
     - [uber / ludwig](https://github.com/uber/ludwig) Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code. __[⭐ 1,142]__
     - [pomber / git-history](https://github.com/pomber/git-history) Quickly browse the history of any GitHub file __[⭐ 6,509]__
