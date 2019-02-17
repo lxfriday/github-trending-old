@@ -1,3 +1,29 @@
+- 20190217
+    - [imthenachoman / How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) An evolving how-to guide for securing a Linux server. __[⭐ 2,920]__
+    - [leon-ai / leon](https://github.com/leon-ai/leon) 🧠 Leon is your open-source personal assistant. __[⭐ 1,558]__
+    - [openai / gpt-2](https://github.com/openai/gpt-2) Code for the paper "Language Models are Unsupervised Multitask Learners" __[⭐ 1,912]__
+    - [GoogleCloudPlatform / microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus. Provided for illustration and demo purposes. __[⭐ 2,297]__
+    - [NVlabs / stylegan](https://github.com/NVlabs/stylegan) StyleGAN - Official TensorFlow Implementation __[⭐ 2,970]__
+    - [dgraph-io / dgraph](https://github.com/dgraph-io/dgraph) Fast, Distributed Graph DB __[⭐ 7,907]__
+    - [LisaDziuba / Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) The best design tools for everything. __[⭐ 642]__
+    - [autonomy / talos](https://github.com/autonomy/talos) A modern Linux distribution for Kubernetes. __[⭐ 436]__
+    - [ssloy / tinyraycaster](https://github.com/ssloy/tinyraycaster) 486 lines of C++: old-school FPS in a weekend __[⭐ 714]__
+    - [jdneo / vscode-leetcode](https://github.com/jdneo/vscode-leetcode) Solve LeetCode problems in VS Code __[⭐ 951]__
+    - [sveinbjornt / Sloth](https://github.com/sveinbjornt/Sloth) Mac app that shows all open files and sockets in use by all running processes. Nice GUI for lsof. __[⭐ 2,786]__
+    - [eranyanay / 1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) handling 1M websockets connections in Go __[⭐ 2,311]__
+    - [EBazarov / nsfw_data_source_urls](https://github.com/EBazarov/nsfw_data_source_urls) Collection of NSFW images URLs for the purposes of training an NSFW Image Classifier __[⭐ 1,053]__
+    - [uber / ludwig](https://github.com/uber/ludwig) Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code. __[⭐ 2,516]__
+    - [alibaba / flutter-go](https://github.com/alibaba/flutter-go) flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档 __[⭐ 7,134]__
+    - [pomber / git-history](https://github.com/pomber/git-history) Quickly browse the history of any GitHub file __[⭐ 7,936]__
+    - [trimstray / nginx-quick-reference](https://github.com/trimstray/nginx-quick-reference) ⚡️ This notes describes how to improve Nginx performance, security and other important things; ssllabs A+ 100%. __[⭐ 5,285]__
+    - [google-research / planet](https://github.com/google-research/planet) Deep Planning Network: Control from pixels by latent planning with learned dynamics __[⭐ 189]__
+    - [zergtant / pytorch-handbook](https://github.com/zergtant/pytorch-handbook) pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行 __[⭐ 1,289]__
+    - [cortexlabs / cortex](https://github.com/cortexlabs/cortex) Machine learning infrastructure for developers __[⭐ 178]__
+    - [transloadit / uppy](https://github.com/transloadit/uppy) The next open source file uploader for web browsers 🐶 __[⭐ 14,358]__
+    - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a web developer in 2019 __[⭐ 73,551]__
+    - [didi / DoraemonKit](https://github.com/didi/DoraemonKit) 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。 __[⭐ 3,639]__
+    - [toddmotto / public-apis](https://github.com/toddmotto/public-apis) A collective list of free APIs for use in software and web development. __[⭐ 51,190]__
+    - [agalwood / Motrix](https://github.com/agalwood/Motrix) A full-featured download manager. __[⭐ 2,768]__
 - 20190216
     - [leon-ai / leon](https://github.com/leon-ai/leon) 🧠 Leon is your open-source personal assistant. __[⭐ 1,255]__
     - [openai / gpt-2](https://github.com/openai/gpt-2) Code for the paper "Language Models are Unsupervised Multitask Learners" __[⭐ 1,673]__
