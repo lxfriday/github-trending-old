@@ -1,3 +1,29 @@
+- 20190218
+    - [deepfakes / faceswap](https://github.com/deepfakes/faceswap) Non official project based on original /r/Deepfakes thread. Many thanks to him! __[⭐ 10,451]__
+    - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐️ A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. __[⭐ 13,838]__
+    - [imthenachoman / How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) An evolving how-to guide for securing a Linux server. __[⭐ 3,632]__
+    - [dakshshah96 / awesome-startup-credits](https://github.com/dakshshah96/awesome-startup-credits) ✨ A collection of awesome companies offering free/discounted plans for eligible startups __[⭐ 738]__
+    - [leon-ai / leon](https://github.com/leon-ai/leon) 🧠 Leon is your open-source personal assistant. __[⭐ 1,963]__
+    - [swisskyrepo / PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) A list of useful payloads and bypass for Web Application Security and Pentest/CTF __[⭐ 5,696]__
+    - [openai / gpt-2](https://github.com/openai/gpt-2) Code for the paper "Language Models are Unsupervised Multitask Learners" __[⭐ 2,256]__
+    - [LisaDziuba / Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) The best design tools for everything. __[⭐ 975]__
+    - [apachecn / awesome-algorithm](https://github.com/apachecn/awesome-algorithm) LeetCode, HackRank, 剑指offer, classic algorithm implementation __[⭐ 8,588]__
+    - [jdneo / vscode-leetcode](https://github.com/jdneo/vscode-leetcode) Solve LeetCode problems in VS Code __[⭐ 1,271]__
+    - [vinta / awesome-python](https://github.com/vinta/awesome-python) A curated list of awesome Python frameworks, libraries, software and resources __[⭐ 61,836]__
+    - [nas5w / 100-days-of-code-frontend](https://github.com/nas5w/100-days-of-code-frontend) Curriculum for learning front-end development during #100DaysOfCode. __[⭐ 362]__
+    - [dgraph-io / dgraph](https://github.com/dgraph-io/dgraph) Fast, Distributed Graph DB __[⭐ 8,128]__
+    - [GoogleCloudPlatform / microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus. Provided for illustration and demo purposes. __[⭐ 2,500]__
+    - [zergtant / pytorch-handbook](https://github.com/zergtant/pytorch-handbook) pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行 __[⭐ 1,502]__
+    - [taki0112 / Tensorflow-Cookbook](https://github.com/taki0112/Tensorflow-Cookbook) Simple Tensorflow Cookbook for easy-to-use __[⭐ 219]__
+    - [NVlabs / stylegan](https://github.com/NVlabs/stylegan) StyleGAN - Official TensorFlow Implementation __[⭐ 3,173]__
+    - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a web developer in 2019 __[⭐ 73,730]__
+    - [charlax / professional-programming](https://github.com/charlax/professional-programming) A collection of full-stack resources for programmers. __[⭐ 12,029]__
+    - [transloadit / uppy](https://github.com/transloadit/uppy) The next open source file uploader for web browsers 🐶 __[⭐ 14,515]__
+    - [sveinbjornt / Sloth](https://github.com/sveinbjornt/Sloth) Mac app that shows all open files and sockets in use by all running processes. Nice GUI for lsof. __[⭐ 2,931]__
+    - [autonomy / talos](https://github.com/autonomy/talos) A modern Linux distribution for Kubernetes. __[⭐ 567]__
+    - [pomber / git-history](https://github.com/pomber/git-history) Quickly browse the history of any GitHub file __[⭐ 8,077]__
+    - [pedrommcarrasco / Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) 🍎 Screensaver inspired by Apple's Event on October 30, 2018 __[⭐ 515]__
+    - [trimstray / nginx-quick-reference](https://github.com/trimstray/nginx-quick-reference) ⚡️ This notes describes how to improve Nginx performance, security and other important things; ssllabs A+ 100%. __[⭐ 5,425]__
 - 20190217
     - [imthenachoman / How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) An evolving how-to guide for securing a Linux server. __[⭐ 2,920]__
     - [leon-ai / leon](https://github.com/leon-ai/leon) 🧠 Leon is your open-source personal assistant. __[⭐ 1,558]__
