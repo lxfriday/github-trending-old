@@ -1,3 +1,29 @@
+- 20190219
+    - [deepfakes / faceswap](https://github.com/deepfakes/faceswap) Non official project based on original /r/Deepfakes thread. Many thanks to him! __[⭐ 11,663]__
+    - [imthenachoman / How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) An evolving how-to guide for securing a Linux server. __[⭐ 4,530]__
+    - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐️ A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. __[⭐ 14,546]__
+    - [leon-ai / leon](https://github.com/leon-ai/leon) 🧠 Leon is your open-source personal assistant. __[⭐ 2,503]__
+    - [LisaDziuba / Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) The best design tools for everything. __[⭐ 1,450]__
+    - [taki0112 / Tensorflow-Cookbook](https://github.com/taki0112/Tensorflow-Cookbook) Simple Tensorflow Cookbook for easy-to-use __[⭐ 688]__
+    - [openai / gpt-2](https://github.com/openai/gpt-2) Code for the paper "Language Models are Unsupervised Multitask Learners" __[⭐ 2,625]__
+    - [jdneo / vscode-leetcode](https://github.com/jdneo/vscode-leetcode) Solve LeetCode problems in VS Code __[⭐ 1,616]__
+    - [vinta / awesome-python](https://github.com/vinta/awesome-python) A curated list of awesome Python frameworks, libraries, software and resources __[⭐ 62,113]__
+    - [swisskyrepo / PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) A list of useful payloads and bypass for Web Application Security and Pentest/CTF __[⭐ 5,949]__
+    - [dakshshah96 / awesome-startup-credits](https://github.com/dakshshah96/awesome-startup-credits) ✨ A collection of awesome companies offering free/discounted plans for eligible startups __[⭐ 1,000]__
+    - [alibaba / flutter-go](https://github.com/alibaba/flutter-go) flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档 __[⭐ 7,549]__
+    - [vueComponent / ant-design-vue](https://github.com/vueComponent/ant-design-vue) An enterprise-class UI components based on Ant Design and Vue. 🐜 __[⭐ 4,568]__
+    - [didi / DoraemonKit](https://github.com/didi/DoraemonKit) 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。 __[⭐ 4,001]__
+    - [trimstray / nginx-quick-reference](https://github.com/trimstray/nginx-quick-reference) ⚡️ This notes describes how to improve Nginx performance, security and other important things; ssllabs A+ 100%. __[⭐ 5,732]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 24,548]__
+    - [nas5w / 100-days-of-code-frontend](https://github.com/nas5w/100-days-of-code-frontend) Curriculum for learning front-end development during #100DaysOfCode. __[⭐ 587]__
+    - [zergtant / pytorch-handbook](https://github.com/zergtant/pytorch-handbook) pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行 __[⭐ 1,715]__
+    - [Advanced-Frontend / Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) 工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。 __[⭐ 459]__
+    - [GoogleCloudPlatform / microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus. Provided for illustration and demo purposes. __[⭐ 2,708]__
+    - [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲 __[⭐ 9,683]__
+    - [transloadit / uppy](https://github.com/transloadit/uppy) The next open source file uploader for web browsers 🐶 __[⭐ 14,704]__
+    - [plasma-umass / Mesh](https://github.com/plasma-umass/Mesh) A memory allocator that automatically reduces the memory footprint of C/C++ applications. __[⭐ 324]__
+    - [dgraph-io / dgraph](https://github.com/dgraph-io/dgraph) Fast, Distributed Graph DB __[⭐ 8,301]__
+    - [pomber / git-history](https://github.com/pomber/git-history) Quickly browse the history of any GitHub file __[⭐ 8,249]__
 - 20190218
     - [deepfakes / faceswap](https://github.com/deepfakes/faceswap) Non official project based on original /r/Deepfakes thread. Many thanks to him! __[⭐ 10,451]__
     - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐️ A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. __[⭐ 13,838]__
