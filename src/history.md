@@ -1,3 +1,29 @@
+- 20190220
+    - [Micropoor / Micro8](https://github.com/Micropoor/Micro8)  __[⭐ 1,136]__
+    - [imthenachoman / How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) An evolving how-to guide for securing a Linux server. __[⭐ 5,398]__
+    - [deepfakes / faceswap](https://github.com/deepfakes/faceswap) Non official project based on original /r/Deepfakes thread. Many thanks to him! __[⭐ 12,330]__
+    - [LisaDziuba / Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) The best design tools for everything. __[⭐ 2,089]__
+    - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐️ A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. __[⭐ 15,106]__
+    - [alexellis / inlets](https://github.com/alexellis/inlets) Expose your local endpoints to the Internet __[⭐ 740]__
+    - [leon-ai / leon](https://github.com/leon-ai/leon) 🧠 Leon is your open-source personal assistant. __[⭐ 2,991]__
+    - [vinta / awesome-python](https://github.com/vinta/awesome-python) A curated list of awesome Python frameworks, libraries, software and resources __[⭐ 62,442]__
+    - [openai / gpt-2](https://github.com/openai/gpt-2) Code for the paper "Language Models are Unsupervised Multitask Learners" __[⭐ 2,952]__
+    - [trimstray / nginx-quick-reference](https://github.com/trimstray/nginx-quick-reference) ⚡️ This notes describes how to improve Nginx performance, security and other important things; ssllabs A+ 100%. __[⭐ 6,064]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 24,817]__
+    - [babluboy / bookworm](https://github.com/babluboy/bookworm) A simple ebook reader for Elementary OS __[⭐ 657]__
+    - [js-newbee / taro-yanxuan](https://github.com/js-newbee/taro-yanxuan) 首个 Taro 多端统一实例 - 网易严选（小程序 + H5 + React Native） - By 趣店 FED __[⭐ 357]__
+    - [pedrommcarrasco / Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) 🍎 Screensaver inspired by Apple's Event on October 30, 2018 __[⭐ 903]__
+    - [Bogdan-Lyashenko / codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing. __[⭐ 389]__
+    - [transloadit / uppy](https://github.com/transloadit/uppy) The next open source file uploader for web browsers 🐶 __[⭐ 14,970]__
+    - [octobanana / fltrdr](https://github.com/octobanana/fltrdr) A TUI text reader for the terminal. __[⭐ 280]__
+    - [taki0112 / Tensorflow-Cookbook](https://github.com/taki0112/Tensorflow-Cookbook) Simple Tensorflow Cookbook for easy-to-use __[⭐ 951]__
+    - [vueComponent / ant-design-vue](https://github.com/vueComponent/ant-design-vue) An enterprise-class UI components based on Ant Design and Vue. 🐜 __[⭐ 4,814]__
+    - [thangchung / awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) 🐝 A collection of awesome .NET core libraries, tools, frameworks and software __[⭐ 7,780]__
+    - [alibaba / flutter-go](https://github.com/alibaba/flutter-go) flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档 __[⭐ 7,782]__
+    - [Advanced-Frontend / Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) 工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。 __[⭐ 689]__
+    - [macrozheng / mall](https://github.com/macrozheng/mall) mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 __[⭐ 6,626]__
+    - [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲 __[⭐ 9,873]__
+    - [jdneo / vscode-leetcode](https://github.com/jdneo/vscode-leetcode) Solve LeetCode problems in VS Code __[⭐ 1,825]__
 - 20190219
     - [deepfakes / faceswap](https://github.com/deepfakes/faceswap) Non official project based on original /r/Deepfakes thread. Many thanks to him! __[⭐ 11,663]__
     - [imthenachoman / How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) An evolving how-to guide for securing a Linux server. __[⭐ 4,530]__
