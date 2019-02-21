@@ -1,3 +1,29 @@
+- 20190221
+    - [Micropoor / Micro8](https://github.com/Micropoor/Micro8)  __[⭐ 3,470]__
+    - [imthenachoman / How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) An evolving how-to guide for securing a Linux server. __[⭐ 6,103]__
+    - [LisaDziuba / Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) The best design tools for everything. __[⭐ 2,803]__
+    - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐️ A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. __[⭐ 15,684]__
+    - [deepfakes / faceswap](https://github.com/deepfakes/faceswap) Non official project based on original /r/Deepfakes thread. Many thanks to him! __[⭐ 12,802]__
+    - [github / personal-website](https://github.com/github/personal-website) Code that'll help you kickstart a personal website that showcases your work as a software developer. __[⭐ 584]__
+    - [alexellis / inlets](https://github.com/alexellis/inlets) Expose your local endpoints to the Internet __[⭐ 1,169]__
+    - [leon-ai / leon](https://github.com/leon-ai/leon) 🧠 Leon is your open-source personal assistant. __[⭐ 3,372]__
+    - [vinta / awesome-python](https://github.com/vinta/awesome-python) A curated list of awesome Python frameworks, libraries, software and resources __[⭐ 62,730]__
+    - [trimstray / nginx-quick-reference](https://github.com/trimstray/nginx-quick-reference) ⚡️ This notes describes how to improve Nginx performance, security and other important things; ssllabs A+ 100%. __[⭐ 6,350]__
+    - [taki0112 / Tensorflow-Cookbook](https://github.com/taki0112/Tensorflow-Cookbook) Simple Tensorflow Cookbook for easy-to-use __[⭐ 1,248]__
+    - [Bogdan-Lyashenko / codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing. __[⭐ 654]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 25,039]__
+    - [Advanced-Frontend / Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) 工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。 __[⭐ 991]__
+    - [transloadit / uppy](https://github.com/transloadit/uppy) The next open source file uploader for web browsers 🐶 __[⭐ 15,195]__
+    - [openai / gpt-2](https://github.com/openai/gpt-2) Code for the paper "Language Models are Unsupervised Multitask Learners" __[⭐ 3,172]__
+    - [alibaba / flutter-go](https://github.com/alibaba/flutter-go) flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档 __[⭐ 7,959]__
+    - [GoogleCloudPlatform / microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus. Provided for illustration and demo purposes. __[⭐ 3,118]__
+    - [js-newbee / taro-yanxuan](https://github.com/js-newbee/taro-yanxuan) 首个 Taro 多端统一实例 - 网易严选（小程序 + H5 + React Native） - By 趣店 FED __[⭐ 516]__
+    - [pedrommcarrasco / Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) 🍎 Screensaver inspired by Apple's Event on October 30, 2018 __[⭐ 1,062]__
+    - [mxcl / Workbench](https://github.com/mxcl/Workbench) Seamless, automatic, “dotfile” sync to iCloud. __[⭐ 240]__
+    - [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲 __[⭐ 10,028]__
+    - [kmario23 / deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!! __[⭐ 3,562]__
+    - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 22,084]__
+    - [vueComponent / ant-design-vue](https://github.com/vueComponent/ant-design-vue) An enterprise-class UI components based on Ant Design and Vue. 🐜 __[⭐ 4,946]__
 - 20190220
     - [Micropoor / Micro8](https://github.com/Micropoor/Micro8)  __[⭐ 1,136]__
     - [imthenachoman / How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) An evolving how-to guide for securing a Linux server. __[⭐ 5,398]__
