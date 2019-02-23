@@ -1,3 +1,29 @@
+- 20190223
+    - [Micropoor / Micro8](https://github.com/Micropoor/Micro8) Gitbook __[⭐ 6,650]__
+    - [lemire / simdjson](https://github.com/lemire/simdjson) Parsing gigabytes of JSON per second __[⭐ 3,097]__
+    - [creativetimofficial / material-kit](https://github.com/creativetimofficial/material-kit) Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design __[⭐ 3,976]__
+    - [MiCode / Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) Xiaomi Mobile Phone Kernel OpenSource __[⭐ 3,248]__
+    - [HarisIqbal88 / PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) Latex code for making neural networks diagrams __[⭐ 2,766]__
+    - [github / personal-website](https://github.com/github/personal-website) Code that'll help you kickstart a personal website that showcases your work as a software developer. __[⭐ 1,560]__
+    - [JoYoungjoo / SC-FEGAN](https://github.com/JoYoungjoo/SC-FEGAN) SC-FEGAN : Face Editing Generative Adversarial Network with User's Sketch and Color __[⭐ 1,036]__
+    - [kdeldycke / awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) 💊 Curated list of falsehoods programmers believe in. __[⭐ 9,421]__
+    - [LisaDziuba / Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) The best design tools for everything. __[⭐ 3,669]__
+    - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐️ A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. __[⭐ 16,261]__
+    - [Advanced-Frontend / Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) 工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。 __[⭐ 1,542]__
+    - [imthenachoman / How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) An evolving how-to guide for securing a Linux server. __[⭐ 6,733]__
+    - [leon-ai / leon](https://github.com/leon-ai/leon) 🧠 Leon is your open-source personal assistant. __[⭐ 3,883]__
+    - [uNetworking / uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) TypeScript web server - 15x faster than Deno __[⭐ 1,057]__
+    - [521xueweihan / HelloGitHub](https://github.com/521xueweihan/HelloGitHub) 分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目⭐️ __[⭐ 9,615]__
+    - [cool2528 / baiduCDP](https://github.com/cool2528/baiduCDP) 百度网盘下载神器 __[⭐ 412]__
+    - [deepfakes / faceswap](https://github.com/deepfakes/faceswap) Non official project based on original /r/Deepfakes thread. Many thanks to him! __[⭐ 13,279]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 25,401]__
+    - [alexellis / inlets](https://github.com/alexellis/inlets) Expose your local endpoints to the Internet __[⭐ 1,719]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 😋 技术面试必备基础知识 __[⭐ 50,319]__
+    - [ovh / cds](https://github.com/ovh/cds) Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform __[⭐ 590]__
+    - [greybax / awesome-IT-films](https://github.com/greybax/awesome-IT-films) 📺 A curated list of awesome films about IT & geek people. __[⭐ 254]__
+    - [Bogdan-Lyashenko / codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing. __[⭐ 1,044]__
+    - [pomber / git-history](https://github.com/pomber/git-history) Quickly browse the history of a file from any git repository __[⭐ 8,774]__
+    - [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲 __[⭐ 10,290]__
 - 20190222
     - [Micropoor / Micro8](https://github.com/Micropoor/Micro8)  __[⭐ 5,470]__
     - [lemire / simdjson](https://github.com/lemire/simdjson) Parsing gigabytes of JSON per second __[⭐ 2,169]__
