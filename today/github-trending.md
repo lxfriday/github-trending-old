@@ -1,28 +1,28 @@
-# 20190121-github-trending
+# 20190224-github-trending
 __25__ repos
 
-    - [charlax / professional-programming](https://github.com/charlax/professional-programming) A collection of full-stack resources for programmers. __[⭐ 4,323]__
-    - [komeiji-satori / Dress](https://github.com/komeiji-satori/Dress) 好耶 是女装 __[⭐ 2,814]__
-    - [ForrestKnight / open-source-cs](https://github.com/ForrestKnight/open-source-cs)  __[⭐ 486]__
-    - [alexkimxyz / nsfw_data_scrapper](https://github.com/alexkimxyz/nsfw_data_scrapper) Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier __[⭐ 5,156]__
-    - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a web developer in 2019 __[⭐ 69,150]__
-    - [osforscience / deep-learning-ocean](https://github.com/osforscience/deep-learning-ocean) 📡 All You Need to Know About Deep Learning - A kick-starter __[⭐ 1,545]__
-    - [typescript-eslint / typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) ✨ Monorepo for all the tooling which enables ESLint to support TypeScript __[⭐ 921]__
-    - [antonmedv / fx](https://github.com/antonmedv/fx) Command-line tool and terminal JSON viewer 🔥 __[⭐ 5,179]__
-    - [hjacobs / kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) Compilation of public failure/horror stories related to Kubernetes __[⭐ 274]__
-    - [Musish / Musish](https://github.com/Musish/Musish) Apple Music...ish __[⭐ 694]__
-    - [go-task / task](https://github.com/go-task/task) A task runner / simpler Make alternative written in Go __[⭐ 1,322]__
-    - [rikschennink / shiny](https://github.com/rikschennink/shiny) 🌟 Shiny reflections for mobile websites __[⭐ 2,137]__
-    - [schollz / howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) Count the number of people around you 👨‍👨‍👦 by monitoring wifi signals 📡 __[⭐ 5,060]__
-    - [yagiz / Bagel](https://github.com/yagiz/Bagel) a little native network debugging tool for iOS __[⭐ 1,236]__
-    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 21,566]__
-    - [lexfridman / mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) Tutorials, assignments, and competitions for MIT Deep Learning related courses. __[⭐ 3,600]__
-    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 50,745]__
-    - [vuejs / vue](https://github.com/vuejs/vue) 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 125,662]__
-    - [SpaceVim / SpaceVim](https://github.com/SpaceVim/SpaceVim) A community-driven modular vim distribution - The ultimate vim configuration __[⭐ 8,803]__
-    - [pjialin / py12306](https://github.com/pjialin/py12306) 🚂 12306 购票助手，支持分布式，多账号，多任务购票以及 Web 页面管理 __[⭐ 2,678]__
-    - [Drakirus / go-flutter-desktop-embedder](https://github.com/Drakirus/go-flutter-desktop-embedder) A Go (golang) Custom Flutter Engine Embedder for desktop __[⭐ 1,159]__
-    - [juliangarnier / anime](https://github.com/juliangarnier/anime) JavaScript animation engine __[⭐ 28,417]__
-    - [calebwin / pipelines](https://github.com/calebwin/pipelines) framework & language for scripting massively parrallel pipelines with Python __[⭐ 177]__
-    - [cschied / q2vkpt](https://github.com/cschied/q2vkpt) Real-time path tracer VKPT integrated into q2pro Quake 2 client. __[⭐ 332]__
-    - [yaoguangluo / DETA_DataBase](https://github.com/yaoguangluo/DETA_DataBase) 部署在德塔HTTP服务器/http server的德塔数据库系统/data base，全面采用VPC和VPCS架构引擎。基于VPC架构的无死锁，高并发，json，碎片，对象，rest map, 量子数据库。作者：罗瑶光 __[⭐ 196]__
+    - [mbinary / USTC-CS-Courses-Resource](https://github.com/mbinary/USTC-CS-Courses-Resource) ❤️中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/) __[⭐ 2,447]__
+    - [Micropoor / Micro8](https://github.com/Micropoor/Micro8) Gitbook __[⭐ 7,239]__
+    - [amzeratul / halley](https://github.com/amzeratul/halley) A lightweight game engine written in modern C++ __[⭐ 863]__
+    - [creativetimofficial / material-kit](https://github.com/creativetimofficial/material-kit) Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design __[⭐ 4,270]__
+    - [lemire / simdjson](https://github.com/lemire/simdjson) Parsing gigabytes of JSON per second __[⭐ 3,377]__
+    - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐️ A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. __[⭐ 16,501]__
+    - [MiCode / Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) Xiaomi Mobile Phone Kernel OpenSource __[⭐ 3,422]__
+    - [HarisIqbal88 / PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) Latex code for making neural networks diagrams __[⭐ 2,956]__
+    - [pwn20wndstuff / Undecimus](https://github.com/pwn20wndstuff/Undecimus) unc0ver jailbreak for iOS 11.0 - 12.1.2 __[⭐ 1,122]__
+    - [github / personal-website](https://github.com/github/personal-website) Code that'll help you kickstart a personal website that showcases your work as a software developer. __[⭐ 1,704]__
+    - [LisaDziuba / Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) The best design tools for everything. __[⭐ 3,824]__
+    - [imthenachoman / How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) An evolving how-to guide for securing a Linux server. __[⭐ 6,888]__
+    - [kdeldycke / awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) 💊 Curated list of falsehoods programmers believe in. __[⭐ 9,562]__
+    - [ovh / cds](https://github.com/ovh/cds) Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform __[⭐ 744]__
+    - [Advanced-Frontend / Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) 工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。 __[⭐ 1,672]__
+    - [JoYoungjoo / SC-FEGAN](https://github.com/JoYoungjoo/SC-FEGAN) SC-FEGAN : Face Editing Generative Adversarial Network with User's Sketch and Color __[⭐ 1,154]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 😋 技术面试必备基础知识 __[⭐ 50,416]__
+    - [521xueweihan / HelloGitHub](https://github.com/521xueweihan/HelloGitHub) 分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目⭐️ __[⭐ 9,722]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 25,491]__
+    - [greybax / awesome-IT-films](https://github.com/greybax/awesome-IT-films) 📺 A curated list of awesome films about IT & geek people. __[⭐ 366]__
+    - [deepfakes / faceswap](https://github.com/deepfakes/faceswap) Non official project based on original /r/Deepfakes thread. Many thanks to him! __[⭐ 13,374]__
+    - [uNetworking / uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) TypeScript web server - 15x faster than Deno __[⭐ 1,158]__
+    - [GoogleCloudPlatform / microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus. Provided for illustration and demo purposes. __[⭐ 3,397]__
+    - [Bogdan-Lyashenko / codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing. __[⭐ 1,135]__
+    - [leon-ai / leon](https://github.com/leon-ai/leon) 🧠 Leon is your open-source personal assistant. __[⭐ 3,966]__
