@@ -1,3 +1,29 @@
+- 20190226
+    - [mbinary / USTC-CS-Courses-Resource](https://github.com/mbinary/USTC-CS-Courses-Resource) ❤️中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/) __[⭐ 4,985]__
+    - [imhuay / Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记 __[⭐ 15,408]__
+    - [nosir / cleave.js](https://github.com/nosir/cleave.js) Format input text content when you are typing... __[⭐ 11,699]__
+    - [Micropoor / Micro8](https://github.com/Micropoor/Micro8) Gitbook __[⭐ 8,084]__
+    - [lemire / simdjson](https://github.com/lemire/simdjson) Parsing gigabytes of JSON per second __[⭐ 4,128]__
+    - [infinitered / nsfwjs](https://github.com/infinitered/nsfwjs) NSFW detection on the client-side via Tensorflow JS __[⭐ 956]__
+    - [agalwood / Motrix](https://github.com/agalwood/Motrix) A full-featured download manager. __[⭐ 3,513]__
+    - [amzeratul / halley](https://github.com/amzeratul/halley) A lightweight game engine written in modern C++ __[⭐ 1,593]__
+    - [github / personal-website](https://github.com/github/personal-website) Code that'll help you kickstart a personal website that showcases your work as a software developer. __[⭐ 2,087]__
+    - [k8gege / K8tools](https://github.com/k8gege/K8tools) K8工具(内网渗透/提权工具/远程溢出/漏洞利用/Exploit/APT/0day/Shellcode/Payload/priviledge/OverFlow/WebShell/PenTest) __[⭐ 316]__
+    - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐️ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. __[⭐ 16,985]__
+    - [deepfakes / faceswap](https://github.com/deepfakes/faceswap) Non official project based on original /r/Deepfakes thread. Many thanks to him! __[⭐ 13,711]__
+    - [ovh / cds](https://github.com/ovh/cds) Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform __[⭐ 1,134]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 25,837]__
+    - [creativetimofficial / material-kit](https://github.com/creativetimofficial/material-kit) Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design __[⭐ 4,675]__
+    - [Advanced-Frontend / Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) 工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。 __[⭐ 2,034]__
+    - [imthenachoman / How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) An evolving how-to guide for securing a Linux server. __[⭐ 7,244]__
+    - [Bogdan-Lyashenko / codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing. __[⭐ 1,468]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 😋 技术面试必备基础知识 __[⭐ 50,676]__
+    - [mdibaiee / awesome-lite-websites](https://github.com/mdibaiee/awesome-lite-websites) A list of awesome lightweight websites without all the bloat __[⭐ 580]__
+    - [didi / chameleon](https://github.com/didi/chameleon) 🦎 一套代码运行多端，一端所见即多端所见 __[⭐ 2,956]__
+    - [LisaDziuba / Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) The best design tools for everything. __[⭐ 4,135]__
+    - [MiCode / Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) Xiaomi Mobile Phone Kernel OpenSource __[⭐ 3,678]__
+    - [pwn20wndstuff / Undecimus](https://github.com/pwn20wndstuff/Undecimus) unc0ver jailbreak for iOS 11.0 - 12.1.2 __[⭐ 1,438]__
+    - [qqfly / how-to-learn-robotics](https://github.com/qqfly/how-to-learn-robotics) 开源机器人学学习指南 __[⭐ 194]__
 - 20190225
     - [mbinary / USTC-CS-Courses-Resource](https://github.com/mbinary/USTC-CS-Courses-Resource) ❤️中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/) __[⭐ 3,380]__
     - [nosir / cleave.js](https://github.com/nosir/cleave.js) Format input text content when you are typing... __[⭐ 10,880]__
