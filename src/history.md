@@ -1,3 +1,29 @@
+- 20190227
+    - [mbinary / USTC-CS-Courses-Resource](https://github.com/mbinary/USTC-CS-Courses-Resource) ❤️中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/) __[⭐ 6,913]__
+    - [smacke / subsync](https://github.com/smacke/subsync) Automagically synchronize subtitles with video. __[⭐ 1,818]__
+    - [Microsoft / frontend-bootcamp](https://github.com/Microsoft/frontend-bootcamp) Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux __[⭐ 1,197]__
+    - [imhuay / Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记 __[⭐ 16,036]__
+    - [remoteinterview / zero](https://github.com/remoteinterview/zero) Zero is a web server to simplify web development. __[⭐ 771]__
+    - [Mckinsey666 / bullet](https://github.com/Mckinsey666/bullet) 🚅 Beautiful Python prompts made simple. __[⭐ 727]__
+    - [nosir / cleave.js](https://github.com/nosir/cleave.js) Format input text content when you are typing... __[⭐ 12,122]__
+    - [wasmerio / wasmer](https://github.com/wasmerio/wasmer) Universal Binaries Powered by WebAssembly __[⭐ 2,210]__
+    - [LisaDziuba / Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) The best design tools for everything. __[⭐ 4,614]__
+    - [infinitered / nsfwjs](https://github.com/infinitered/nsfwjs) NSFW detection on the client-side via Tensorflow JS __[⭐ 1,318]__
+    - [Micropoor / Micro8](https://github.com/Micropoor/Micro8) Gitbook __[⭐ 8,390]__
+    - [lemire / simdjson](https://github.com/lemire/simdjson) Parsing gigabytes of JSON per second __[⭐ 4,444]__
+    - [github / personal-website](https://github.com/github/personal-website) Code that'll help you kickstart a personal website that showcases your work as a software developer. __[⭐ 2,340]__
+    - [li-xiaojun / XPopup](https://github.com/li-xiaojun/XPopup) 🔥功能强大，UI简洁，交互优雅的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！(Powerful and Beautiful Popup，can absolutely replace Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner. With built-in animators , very easy to custom Popup View.) __[⭐ 1,102]__
+    - [tensorflow / lingvo](https://github.com/tensorflow/lingvo) Lingvo __[⭐ 592]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 26,072]__
+    - [deepfakes / faceswap](https://github.com/deepfakes/faceswap) Non official project based on original /r/Deepfakes thread. Many thanks to him! __[⭐ 13,946]__
+    - [0xInfection / Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) 🔥 A curated list of awesome web-app firewall (WAF) stuff. __[⭐ 259]__
+    - [didi / chameleon](https://github.com/didi/chameleon) 🦎 一套代码运行多端，一端所见即多端所见 __[⭐ 3,163]__
+    - [Advanced-Frontend / Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) 工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。 __[⭐ 2,228]__
+    - [kmario23 / deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!! __[⭐ 4,023]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 😋 技术面试必备基础知识 __[⭐ 50,832]__
+    - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐️ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. __[⭐ 17,160]__
+    - [agalwood / Motrix](https://github.com/agalwood/Motrix) A full-featured download manager. __[⭐ 3,671]__
+    - [aliyr / Nodejs-Developer-Roadmap](https://github.com/aliyr/Nodejs-Developer-Roadmap) A Developer Roadmap to becoming a Node.js developer in 2019 __[⭐ 342]__
 - 20190226
     - [mbinary / USTC-CS-Courses-Resource](https://github.com/mbinary/USTC-CS-Courses-Resource) ❤️中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/) __[⭐ 4,985]__
     - [imhuay / Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记 __[⭐ 15,408]__
