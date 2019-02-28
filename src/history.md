@@ -1,3 +1,29 @@
+- 20190228
+    - [Microsoft / frontend-bootcamp](https://github.com/Microsoft/frontend-bootcamp) Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux __[⭐ 2,941]__
+    - [mbinary / USTC-CS-Courses-Resource](https://github.com/mbinary/USTC-CS-Courses-Resource) ❤️中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/) __[⭐ 8,319]__
+    - [rancher / k3s](https://github.com/rancher/k3s) Lightweight Kubernetes. 5 less than k8s. __[⭐ 2,550]__
+    - [remoteinterview / zero](https://github.com/remoteinterview/zero) Zero is a web server to simplify web development. __[⭐ 1,741]__
+    - [Luolc / AdaBound](https://github.com/Luolc/AdaBound) An optimizer that trains as fast as Adam and as good as SGD. __[⭐ 1,056]__
+    - [imhuay / Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记 __[⭐ 16,722]__
+    - [pi-hole / pi-hole](https://github.com/pi-hole/pi-hole) A black hole for Internet advertisements __[⭐ 13,481]__
+    - [smacke / subsync](https://github.com/smacke/subsync) Automagically synchronize subtitles with video. __[⭐ 2,320]__
+    - [deepfakes / faceswap](https://github.com/deepfakes/faceswap) Non official project based on original /r/Deepfakes thread. Many thanks to him! __[⭐ 14,381]__
+    - [0xInfection / Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) 🔥 A curated list of awesome web-app firewall (WAF) stuff. __[⭐ 729]__
+    - [cablespaghetti / kubeadm-aws](https://github.com/cablespaghetti/kubeadm-aws) Really cheap Kubernetes cluster on AWS with kubeadm __[⭐ 602]__
+    - [drcmda / react-three-fiber](https://github.com/drcmda/react-three-fiber) 👌React-fiber renderer for THREE.js __[⭐ 615]__
+    - [agalwood / Motrix](https://github.com/agalwood/Motrix) A full-featured download manager. __[⭐ 4,052]__
+    - [Mckinsey666 / bullet](https://github.com/Mckinsey666/bullet) 🚅 Beautiful Python prompts made simple. Build a prompt like stacking blocks. __[⭐ 1,094]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 26,378]__
+    - [Micropoor / Micro8](https://github.com/Micropoor/Micro8) Gitbook __[⭐ 8,671]__
+    - [nosir / cleave.js](https://github.com/nosir/cleave.js) Format input text content when you are typing... __[⭐ 12,434]__
+    - [ityouknow / spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 __[⭐ 8,683]__
+    - [lemire / simdjson](https://github.com/lemire/simdjson) Parsing gigabytes of JSON per second __[⭐ 4,730]__
+    - [LisaDziuba / Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) The best design tools for everything. __[⭐ 4,897]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 54,563]__
+    - [aliyr / Nodejs-Developer-Roadmap](https://github.com/aliyr/Nodejs-Developer-Roadmap) A Developer Roadmap to becoming a Node.js developer in 2019 __[⭐ 578]__
+    - [github / personal-website](https://github.com/github/personal-website) Code that'll help you kickstart a personal website that showcases your work as a software developer. __[⭐ 2,535]__
+    - [CyC2018 / CyC-Notes](https://github.com/CyC2018/CyC-Notes) 😋 技术面试必备基础知识 __[⭐ 51,014]__
+    - [infinitered / nsfwjs](https://github.com/infinitered/nsfwjs) NSFW detection on the client-side via Tensorflow JS __[⭐ 1,535]__
 - 20190227
     - [mbinary / USTC-CS-Courses-Resource](https://github.com/mbinary/USTC-CS-Courses-Resource) ❤️中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/) __[⭐ 6,913]__
     - [smacke / subsync](https://github.com/smacke/subsync) Automagically synchronize subtitles with video. __[⭐ 1,818]__
