@@ -5,9 +5,140 @@ date: 2018-11-30 09:34:11
 categories: 资源
 tags: github-trending
 img: http://qiniu1.lxfriday.xyz/blog/githubtrending.jpeg
+top: true
 ---
 
 ## 2019
+- 20190302
+    - [mbinary / USTC-CS-Courses-Resource](https://github.com/mbinary/USTC-CS-Courses-Resource) ❤️中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/) __[⭐ 12,247]__
+    - [Microsoft / frontend-bootcamp](https://github.com/Microsoft/frontend-bootcamp) Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux __[⭐ 4,372]__
+    - [Microsoft / nni](https://github.com/Microsoft/nni) An open source AutoML toolkit for neural architecture search and hyper-parameter tuning. __[⭐ 1,782]__
+    - [LisaDziuba / Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) The best design tools for everything. __[⭐ 5,596]__
+    - [remoteinterview / zero](https://github.com/remoteinterview/zero) Zero is a web server to simplify web development. __[⭐ 2,684]__
+    - [imhuay / Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记 __[⭐ 17,511]__
+    - [dreamingechoes / awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) A curated list of awesome articles, websites and resources about mental health in the software industry. __[⭐ 937]__
+    - [rancher / k3s](https://github.com/rancher/k3s) Lightweight Kubernetes. 5 less than k8s. __[⭐ 3,722]__
+    - [chiphuyen / lazynlp](https://github.com/chiphuyen/lazynlp) Library to scrape and clean web pages to create massive datasets. __[⭐ Python]__
+    - [gpujs / gpu.js](https://github.com/gpujs/gpu.js) GPU Accelerated JavaScript __[⭐ 7,738]__
+    - [Micropoor / Micro8](https://github.com/Micropoor/Micro8) Gitbook __[⭐ 9,446]__
+    - [aiven / pghoard](https://github.com/aiven/pghoard) PostgreSQL backup and restore service __[⭐ 660]__
+    - [pikapkg / web](https://github.com/pikapkg/web) 📦 ✨ Install npm dependencies that run directly in the browser. No Browserify, Webpack or import maps required. __[⭐ TypeScript]__
+    - [agalwood / Motrix](https://github.com/agalwood/Motrix) A full-featured download manager. __[⭐ 4,572]__
+    - [artf / grapesjs](https://github.com/artf/grapesjs) Free and Open source Web Builder Framework. Next generation tool for building templates without coding __[⭐ 7,876]__
+    - [weilanwl / ColorUI](https://github.com/weilanwl/ColorUI) 鲜亮的高饱和色彩，专注视觉的小程序组件库 __[⭐ 1,505]__
+    - [toddmotto / public-apis](https://github.com/toddmotto/public-apis) A collective list of free APIs for use in software and web development. __[⭐ 52,521]__
+    - [Mckinsey666 / bullet](https://github.com/Mckinsey666/bullet) 🚅 Beautiful Python prompts made simple. Build a prompt like stacking blocks. __[⭐ 1,540]__
+    - [nosir / cleave.js](https://github.com/nosir/cleave.js) Format input text content when you are typing... __[⭐ 12,842]__
+    - [smacke / subsync](https://github.com/smacke/subsync) Automagically synchronize subtitles with video. __[⭐ 2,725]__
+    - [ityouknow / spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 __[⭐ 9,348]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 26,938]__
+    - [iliakan / javascript-tutorial-en](https://github.com/iliakan/javascript-tutorial-en) Modern JavaScript Tutorial __[⭐ 4,746]__
+    - [Pagedraw / pagedraw](https://github.com/Pagedraw/pagedraw) a UI builder for React web apps __[⭐ 1,612]__
+    - [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people. __[⭐ JavaScript]__
+- 20190228
+    - [Microsoft / frontend-bootcamp](https://github.com/Microsoft/frontend-bootcamp) Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux __[⭐ 2,941]__
+    - [mbinary / USTC-CS-Courses-Resource](https://github.com/mbinary/USTC-CS-Courses-Resource) ❤️中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/) __[⭐ 8,319]__
+    - [rancher / k3s](https://github.com/rancher/k3s) Lightweight Kubernetes. 5 less than k8s. __[⭐ 2,550]__
+    - [remoteinterview / zero](https://github.com/remoteinterview/zero) Zero is a web server to simplify web development. __[⭐ 1,741]__
+    - [Luolc / AdaBound](https://github.com/Luolc/AdaBound) An optimizer that trains as fast as Adam and as good as SGD. __[⭐ 1,056]__
+    - [imhuay / Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记 __[⭐ 16,722]__
+    - [pi-hole / pi-hole](https://github.com/pi-hole/pi-hole) A black hole for Internet advertisements __[⭐ 13,481]__
+    - [smacke / subsync](https://github.com/smacke/subsync) Automagically synchronize subtitles with video. __[⭐ 2,320]__
+    - [deepfakes / faceswap](https://github.com/deepfakes/faceswap) Non official project based on original /r/Deepfakes thread. Many thanks to him! __[⭐ 14,381]__
+    - [0xInfection / Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) 🔥 A curated list of awesome web-app firewall (WAF) stuff. __[⭐ 729]__
+    - [cablespaghetti / kubeadm-aws](https://github.com/cablespaghetti/kubeadm-aws) Really cheap Kubernetes cluster on AWS with kubeadm __[⭐ 602]__
+    - [drcmda / react-three-fiber](https://github.com/drcmda/react-three-fiber) 👌React-fiber renderer for THREE.js __[⭐ 615]__
+    - [agalwood / Motrix](https://github.com/agalwood/Motrix) A full-featured download manager. __[⭐ 4,052]__
+    - [Mckinsey666 / bullet](https://github.com/Mckinsey666/bullet) 🚅 Beautiful Python prompts made simple. Build a prompt like stacking blocks. __[⭐ 1,094]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 26,378]__
+    - [Micropoor / Micro8](https://github.com/Micropoor/Micro8) Gitbook __[⭐ 8,671]__
+    - [nosir / cleave.js](https://github.com/nosir/cleave.js) Format input text content when you are typing... __[⭐ 12,434]__
+    - [ityouknow / spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 __[⭐ 8,683]__
+    - [lemire / simdjson](https://github.com/lemire/simdjson) Parsing gigabytes of JSON per second __[⭐ 4,730]__
+    - [LisaDziuba / Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) The best design tools for everything. __[⭐ 4,897]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 54,563]__
+    - [aliyr / Nodejs-Developer-Roadmap](https://github.com/aliyr/Nodejs-Developer-Roadmap) A Developer Roadmap to becoming a Node.js developer in 2019 __[⭐ 578]__
+    - [github / personal-website](https://github.com/github/personal-website) Code that'll help you kickstart a personal website that showcases your work as a software developer. __[⭐ 2,535]__
+    - [CyC2018 / CyC-Notes](https://github.com/CyC2018/CyC-Notes) 😋 技术面试必备基础知识 __[⭐ 51,014]__
+    - [infinitered / nsfwjs](https://github.com/infinitered/nsfwjs) NSFW detection on the client-side via Tensorflow JS __[⭐ 1,535]__
+- 20190227
+    - [mbinary / USTC-CS-Courses-Resource](https://github.com/mbinary/USTC-CS-Courses-Resource) ❤️中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/) __[⭐ 6,913]__
+    - [smacke / subsync](https://github.com/smacke/subsync) Automagically synchronize subtitles with video. __[⭐ 1,818]__
+    - [Microsoft / frontend-bootcamp](https://github.com/Microsoft/frontend-bootcamp) Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux __[⭐ 1,197]__
+    - [imhuay / Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记 __[⭐ 16,036]__
+    - [remoteinterview / zero](https://github.com/remoteinterview/zero) Zero is a web server to simplify web development. __[⭐ 771]__
+    - [Mckinsey666 / bullet](https://github.com/Mckinsey666/bullet) 🚅 Beautiful Python prompts made simple. __[⭐ 727]__
+    - [nosir / cleave.js](https://github.com/nosir/cleave.js) Format input text content when you are typing... __[⭐ 12,122]__
+    - [wasmerio / wasmer](https://github.com/wasmerio/wasmer) Universal Binaries Powered by WebAssembly __[⭐ 2,210]__
+    - [LisaDziuba / Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) The best design tools for everything. __[⭐ 4,614]__
+    - [infinitered / nsfwjs](https://github.com/infinitered/nsfwjs) NSFW detection on the client-side via Tensorflow JS __[⭐ 1,318]__
+    - [Micropoor / Micro8](https://github.com/Micropoor/Micro8) Gitbook __[⭐ 8,390]__
+    - [lemire / simdjson](https://github.com/lemire/simdjson) Parsing gigabytes of JSON per second __[⭐ 4,444]__
+    - [github / personal-website](https://github.com/github/personal-website) Code that'll help you kickstart a personal website that showcases your work as a software developer. __[⭐ 2,340]__
+    - [li-xiaojun / XPopup](https://github.com/li-xiaojun/XPopup) 🔥功能强大，UI简洁，交互优雅的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件，自带十几种效果良好的动画， 支持完全的UI和动画自定义！(Powerful and Beautiful Popup，can absolutely replace Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner. With built-in animators , very easy to custom Popup View.) __[⭐ 1,102]__
+    - [tensorflow / lingvo](https://github.com/tensorflow/lingvo) Lingvo __[⭐ 592]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 26,072]__
+    - [deepfakes / faceswap](https://github.com/deepfakes/faceswap) Non official project based on original /r/Deepfakes thread. Many thanks to him! __[⭐ 13,946]__
+    - [0xInfection / Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) 🔥 A curated list of awesome web-app firewall (WAF) stuff. __[⭐ 259]__
+    - [didi / chameleon](https://github.com/didi/chameleon) 🦎 一套代码运行多端，一端所见即多端所见 __[⭐ 3,163]__
+    - [Advanced-Frontend / Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) 工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。 __[⭐ 2,228]__
+    - [kmario23 / deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!! __[⭐ 4,023]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 😋 技术面试必备基础知识 __[⭐ 50,832]__
+    - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐️ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. __[⭐ 17,160]__
+    - [agalwood / Motrix](https://github.com/agalwood/Motrix) A full-featured download manager. __[⭐ 3,671]__
+    - [aliyr / Nodejs-Developer-Roadmap](https://github.com/aliyr/Nodejs-Developer-Roadmap) A Developer Roadmap to becoming a Node.js developer in 2019 __[⭐ 342]__
+- 20190226
+    - [mbinary / USTC-CS-Courses-Resource](https://github.com/mbinary/USTC-CS-Courses-Resource) ❤️中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/) __[⭐ 4,985]__
+    - [imhuay / Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记 __[⭐ 15,408]__
+    - [nosir / cleave.js](https://github.com/nosir/cleave.js) Format input text content when you are typing... __[⭐ 11,699]__
+    - [Micropoor / Micro8](https://github.com/Micropoor/Micro8) Gitbook __[⭐ 8,084]__
+    - [lemire / simdjson](https://github.com/lemire/simdjson) Parsing gigabytes of JSON per second __[⭐ 4,128]__
+    - [infinitered / nsfwjs](https://github.com/infinitered/nsfwjs) NSFW detection on the client-side via Tensorflow JS __[⭐ 956]__
+    - [agalwood / Motrix](https://github.com/agalwood/Motrix) A full-featured download manager. __[⭐ 3,513]__
+    - [amzeratul / halley](https://github.com/amzeratul/halley) A lightweight game engine written in modern C++ __[⭐ 1,593]__
+    - [github / personal-website](https://github.com/github/personal-website) Code that'll help you kickstart a personal website that showcases your work as a software developer. __[⭐ 2,087]__
+    - [k8gege / K8tools](https://github.com/k8gege/K8tools) K8工具(内网渗透/提权工具/远程溢出/漏洞利用/Exploit/APT/0day/Shellcode/Payload/priviledge/OverFlow/WebShell/PenTest) __[⭐ 316]__
+    - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐️ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. __[⭐ 16,985]__
+    - [deepfakes / faceswap](https://github.com/deepfakes/faceswap) Non official project based on original /r/Deepfakes thread. Many thanks to him! __[⭐ 13,711]__
+    - [ovh / cds](https://github.com/ovh/cds) Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform __[⭐ 1,134]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 25,837]__
+    - [creativetimofficial / material-kit](https://github.com/creativetimofficial/material-kit) Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design __[⭐ 4,675]__
+    - [Advanced-Frontend / Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) 工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。 __[⭐ 2,034]__
+    - [imthenachoman / How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) An evolving how-to guide for securing a Linux server. __[⭐ 7,244]__
+    - [Bogdan-Lyashenko / codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing. __[⭐ 1,468]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 😋 技术面试必备基础知识 __[⭐ 50,676]__
+    - [mdibaiee / awesome-lite-websites](https://github.com/mdibaiee/awesome-lite-websites) A list of awesome lightweight websites without all the bloat __[⭐ 580]__
+    - [didi / chameleon](https://github.com/didi/chameleon) 🦎 一套代码运行多端，一端所见即多端所见 __[⭐ 2,956]__
+    - [LisaDziuba / Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) The best design tools for everything. __[⭐ 4,135]__
+    - [MiCode / Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) Xiaomi Mobile Phone Kernel OpenSource __[⭐ 3,678]__
+    - [pwn20wndstuff / Undecimus](https://github.com/pwn20wndstuff/Undecimus) unc0ver jailbreak for iOS 11.0 - 12.1.2 __[⭐ 1,438]__
+    - [qqfly / how-to-learn-robotics](https://github.com/qqfly/how-to-learn-robotics) 开源机器人学学习指南 __[⭐ 194]__
+- 20190225
+    - [mbinary / USTC-CS-Courses-Resource](https://github.com/mbinary/USTC-CS-Courses-Resource) ❤️中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/) __[⭐ 3,380]__
+    - [nosir / cleave.js](https://github.com/nosir/cleave.js) Format input text content when you are typing... __[⭐ 10,880]__
+    - [imhuay / Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记 __[⭐ 14,617]__
+    - [amzeratul / halley](https://github.com/amzeratul/halley) A lightweight game engine written in modern C++ __[⭐ 1,282]__
+    - [Micropoor / Micro8](https://github.com/Micropoor/Micro8) Gitbook __[⭐ 7,597]__
+    - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐️ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. __[⭐ 16,726]__
+    - [lemire / simdjson](https://github.com/lemire/simdjson) Parsing gigabytes of JSON per second __[⭐ 3,597]__
+    - [creativetimofficial / material-kit](https://github.com/creativetimofficial/material-kit) Free and Open Source UI Kit for Bootstrap 4, React, Vue.js, React Native and Sketch based on Google's Material Design __[⭐ 4,452]__
+    - [pwn20wndstuff / Undecimus](https://github.com/pwn20wndstuff/Undecimus) unc0ver jailbreak for iOS 11.0 - 12.1.2 __[⭐ 1,283]__
+    - [mdibaiee / awesome-lite-websites](https://github.com/mdibaiee/awesome-lite-websites) A list of awesome lite websites without all the bloat __[⭐ 396]__
+    - [github / personal-website](https://github.com/github/personal-website) Code that'll help you kickstart a personal website that showcases your work as a software developer. __[⭐ 1,844]__
+    - [JoYoungjoo / SC-FEGAN](https://github.com/JoYoungjoo/SC-FEGAN) SC-FEGAN : Face Editing Generative Adversarial Network with User's Sketch and Color __[⭐ 1,315]__
+    - [imthenachoman / How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) An evolving how-to guide for securing a Linux server. __[⭐ 7,037]__
+    - [ovh / cds](https://github.com/ovh/cds) Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform __[⭐ 884]__
+    - [infinitered / nsfwjs](https://github.com/infinitered/nsfwjs) NSFW detection on the client-side via Tensorflow JS __[⭐ 478]__
+    - [HarisIqbal88 / PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) Latex code for making neural networks diagrams __[⭐ 3,084]__
+    - [LisaDziuba / Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) The best design tools for everything. __[⭐ 3,953]__
+    - [Advanced-Frontend / Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) 工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。 __[⭐ 1,805]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 25,599]__
+    - [deepfakes / faceswap](https://github.com/deepfakes/faceswap) Non official project based on original /r/Deepfakes thread. Many thanks to him! __[⭐ 13,476]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 😋 技术面试必备基础知识 __[⭐ 50,506]__
+    - [Bogdan-Lyashenko / codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing. __[⭐ 1,247]__
+    - [greybax / awesome-IT-films](https://github.com/greybax/awesome-IT-films) 📺 A curated list of awesome films about IT & geek people. __[⭐ 466]__
+    - [buefy / buefy](https://github.com/buefy/buefy) Lightweight UI components for Vue.js based on Bulma __[⭐ 4,816]__
+    - [MiCode / Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) Xiaomi Mobile Phone Kernel OpenSource __[⭐ 3,529]__
 - 20190224
     - [mbinary / USTC-CS-Courses-Resource](https://github.com/mbinary/USTC-CS-Courses-Resource) ❤️中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/) __[⭐ 2,447]__
     - [Micropoor / Micro8](https://github.com/Micropoor/Micro8) Gitbook __[⭐ 7,239]__

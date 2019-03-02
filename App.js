@@ -23,6 +23,7 @@ function getPageData(url) {
           const list = [];
           $('.repo-list').children('li').each(function (ind, el) {
             const itemInfo = {};
+            console.log($(this).find('svg.octicon-star').next().text);
             $(el).children('div').each(function (ind2, el2) {
               if (ind2 === 0) {
                 const target = $(this).find('a');
@@ -39,9 +40,13 @@ function getPageData(url) {
                       itemInfo.stars = $(this).text().trim();
                     } else if (ind3 === 1) {
                       itemInfo.forks = $(this).text().trim();
-                    } else if (ind3 === 3) {
-                      itemInfo.starsToday = $(this).text().trim().match(/(\d+[,\d+]*)/)[1];
                     }
+                    //  else if (ind3 === 3) {
+                    //   console.log(itemInfo);
+                    //   console.log($(this).text().trim());
+
+                    //   itemInfo.starsToday = $(this).text().trim().match(/(\d+[,\d+]*)/)[1];
+                    // }
                   });
                 } else {
                   // length === 5 包含language

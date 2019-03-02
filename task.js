@@ -92,4 +92,5 @@ function start(ignore = false) {
   });
 }
 
+// start(true); // 不做文件最近更改时间检测
 start();
