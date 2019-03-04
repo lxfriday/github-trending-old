@@ -23,7 +23,7 @@ function getPageData(url) {
           const list = [];
           $('.repo-list').children('li').each(function (ind, el) {
             const itemInfo = {};
-            console.log($(this).find('svg.octicon-star').next().text);
+            // console.log($(this).find('svg.octicon-star').next().text);
             $(el).children('div').each(function (ind2, el2) {
               if (ind2 === 0) {
                 const target = $(this).find('a');
