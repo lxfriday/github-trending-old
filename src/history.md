@@ -1,3 +1,29 @@
+- 20190305
+    - [mbinary / USTC-CS-Courses-Resource](https://github.com/mbinary/USTC-CS-Courses-Resource) ❤️中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/) __[⭐ 13,947]__
+    - [jakevdp / PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) Python Data Science Handbook: full text in Jupyter Notebooks __[⭐ 15,299]__
+    - [Micropoor / Micro8](https://github.com/Micropoor/Micro8) Gitbook __[⭐ 10,321]__
+    - [pikapkg / web](https://github.com/pikapkg/web) 📦 ✨ Install npm dependencies that run directly in the browser. No Browserify, Webpack or import maps required. __[⭐ 1,707]__
+    - [trimstray / htrace.sh](https://github.com/trimstray/htrace.sh) My simple Swiss Army knife for http/https troubleshooting and profiling. __[⭐ 1,134]__
+    - [Microsoft / frontend-bootcamp](https://github.com/Microsoft/frontend-bootcamp) Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux __[⭐ 5,174]__
+    - [poteto / hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) ⭐️ Companies that don't have a broken hiring process __[⭐ 11,075]__
+    - [bitsadmin / wesng](https://github.com/bitsadmin/wesng) Windows Exploit Suggester - Next Generation __[⭐ 468]__
+    - [rancher / k3s](https://github.com/rancher/k3s) Lightweight Kubernetes. 5 less than k8s. __[⭐ 4,303]__
+    - [emilbaehr / automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page) A Jekyll theme for automatically generating and deploying landing page sites for mobile apps. __[⭐ 562]__
+    - [imhuay / Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记 __[⭐ 18,042]__
+    - [inters / vita](https://github.com/inters/vita) Vita: simple and fast VPN gateway __[⭐ 400]__
+    - [remoteinterview / zero](https://github.com/remoteinterview/zero) Zero is a web server to simplify web development. __[⭐ 3,344]__
+    - [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer) Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. __[⭐ 58,481]__
+    - [joelparkerhenderson / queueing_theory](https://github.com/joelparkerhenderson/queueing_theory) Queueing theory: an introduction for software development __[⭐ 910]__
+    - [LisaDziuba / Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) The best design tools for everything. __[⭐ 6,041]__
+    - [aphyr / distsys-class](https://github.com/aphyr/distsys-class) Class materials for a distributed systems lecture series __[⭐ 5,671]__
+    - [didi / DoraemonKit](https://github.com/didi/DoraemonKit) 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。 __[⭐ 5,272]__
+    - [alibaba / coobjc](https://github.com/alibaba/coobjc) coobjc provides coroutine support for Objective-C and Swift. We added await method、generator and actor model like C#、Javascript and Kotlin. For convenience, we added coroutine categories for some Foundation and UIKit API in cokit framework like NSFileManager, JSON, NSData, UIImage etc. We also add tuple support in coobjc. __[⭐ 2,391]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 27,297]__
+    - [gpujs / gpu.js](https://github.com/gpujs/gpu.js) GPU Accelerated JavaScript __[⭐ 8,163]__
+    - [kyren / luster](https://github.com/kyren/luster) An experimental Lua VM implemented in pure Rust __[⭐ 401]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 😋 技术面试必备基础知识 __[⭐ 51,630]__
+    - [chiphuyen / lazynlp](https://github.com/chiphuyen/lazynlp) Library to scrape and clean web pages to create massive datasets. __[⭐ 1,010]__
+    - [vuejs / vue-dev-server](https://github.com/vuejs/vue-dev-server) A POC dev server that allows you to import `*.vue` files via native ES modules imports. __[⭐ 362]__
 - 20190304
     - [mbinary / USTC-CS-Courses-Resource](https://github.com/mbinary/USTC-CS-Courses-Resource) ❤️中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/) __[⭐ 13,032]__
     - [pikapkg / web](https://github.com/pikapkg/web) 📦 ✨ Install npm dependencies that run directly in the browser. No Browserify, Webpack or import maps required. __[⭐ 1,126]__
