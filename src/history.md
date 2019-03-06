@@ -1,3 +1,29 @@
+- 20190306
+    - [kenwoodjw / python_interview_question](https://github.com/kenwoodjw/python_interview_question) 关于python的面试题 __[⭐ 972]__
+    - [BayesWitnesses / m2cgen](https://github.com/BayesWitnesses/m2cgen) Transform ML models into a native code (Java, C, Python, etc.) with zero dependencies __[⭐ 710]__
+    - [trimstray / htrace.sh](https://github.com/trimstray/htrace.sh) My simple Swiss Army knife for http/https troubleshooting and profiling. __[⭐ 1,703]__
+    - [Microsoft / frontend-bootcamp](https://github.com/Microsoft/frontend-bootcamp) Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux __[⭐ 5,725]__
+    - [Micropoor / Micro8](https://github.com/Micropoor/Micro8) Gitbook __[⭐ 10,787]__
+    - [jakevdp / PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) Python Data Science Handbook: full text in Jupyter Notebooks __[⭐ 15,612]__
+    - [codercom / code-server](https://github.com/codercom/code-server) Run VS Code remotely. __[⭐ 574]__
+    - [tidwall / tile38](https://github.com/tidwall/tile38) Tile38 is a geospatial database, spatial index, and realtime geofence. 🌐 __[⭐ 5,792]__
+    - [zjhuang22 / maskscoring_rcnn](https://github.com/zjhuang22/maskscoring_rcnn) Codes for paper "Mask Scoring R-CNN". __[⭐ 481]__
+    - [imhuay / Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记 __[⭐ 18,346]__
+    - [pikapkg / web](https://github.com/pikapkg/web) 📦 ✨ Install npm dependencies that run directly in the browser. No Browserify, Webpack or import maps required. __[⭐ 1,997]__
+    - [openai / neural-mmo](https://github.com/openai/neural-mmo) Neural MMO - A Massively Multiagent Game Environment __[⭐ 420]__
+    - [LisaDziuba / Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) The best design tools for everything. __[⭐ 6,379]__
+    - [SmirkCao / Lihang](https://github.com/SmirkCao/Lihang) Statistical learning methods, 统计学习方法 [李航] 值得反复读. [笔记, 代码, notebook, 参考文献, Errata] __[⭐ 577]__
+    - [uber / kraken](https://github.com/uber/kraken) P2P docker registry capable of distributing TBs of data in seconds __[⭐ 400]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 27,550]__
+    - [rancher / k3s](https://github.com/rancher/k3s) Lightweight Kubernetes. 5 less than k8s. __[⭐ 4,536]__
+    - [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra)  __[⭐ 858]__
+    - [inters / vita](https://github.com/inters/vita) Vita: simple and fast VPN gateway __[⭐ 577]__
+    - [bitsadmin / wesng](https://github.com/bitsadmin/wesng) Windows Exploit Suggester - Next Generation __[⭐ 651]__
+    - [emilbaehr / automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page) A Jekyll theme for automatically generating and deploying landing page sites for mobile apps. __[⭐ 753]__
+    - [poteto / hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) ⭐️ Companies that don't have a broken hiring process __[⭐ 11,258]__
+    - [vuejs / vue](https://github.com/vuejs/vue) 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 129,733]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 😋 技术面试必备基础知识 __[⭐ 51,780]__
+    - [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people. __[⭐ JavaScript]__
 - 20190305
     - [mbinary / USTC-CS-Courses-Resource](https://github.com/mbinary/USTC-CS-Courses-Resource) ❤️中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/) __[⭐ 13,947]__
     - [jakevdp / PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) Python Data Science Handbook: full text in Jupyter Notebooks __[⭐ 15,299]__
