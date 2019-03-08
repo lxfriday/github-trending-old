@@ -1,3 +1,29 @@
+- 20190308
+    - [Microsoft / calculator](https://github.com/Microsoft/calculator) Windows Calculator: A simple yet powerful calculator that ships with Windows __[⭐ 6,228]__
+    - [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) Ghidra is a software reverse engineering (SRE) framework __[⭐ 7,291]__
+    - [codercom / code-server](https://github.com/codercom/code-server) Run VS Code on a remote server. __[⭐ 3,017]__
+    - [ccyyycy / ycy](https://github.com/ccyyycy/ycy) Welcome！Hello YCY __[⭐ 969]__
+    - [CriseLYJ / awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model) 😮python各大网站登陆方式与一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟 __[⭐ 971]__
+    - [Micropoor / Micro8](https://github.com/Micropoor/Micro8) Gitbook __[⭐ 11,666]__
+    - [hamukazu / lets-get-arrested](https://github.com/hamukazu/lets-get-arrested) This project is intended to protest against the police in Japan __[⭐ 938]__
+    - [alibaba / fish-redux](https://github.com/alibaba/fish-redux) An assembled flutter application framework. __[⭐ 2,120]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 28,023]__
+    - [uber / kraken](https://github.com/uber/kraken) P2P docker registry capable of distributing TBs of data in seconds __[⭐ 1,329]__
+    - [Microsoft / frontend-bootcamp](https://github.com/Microsoft/frontend-bootcamp) Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux __[⭐ 6,385]__
+    - [vadimdemedes / ink](https://github.com/vadimdemedes/ink) 🌈 React for interactive command-line apps __[⭐ 9,281]__
+    - [USTC-Resource / USTC-Course](https://github.com/USTC-Resource/USTC-Course) ❤️中国科学技术大学课程资源(https://ustc-resource.github.io/USTC-Course) __[⭐ 510]__
+    - [kenwoodjw / python_interview_question](https://github.com/kenwoodjw/python_interview_question) 关于python的面试题 __[⭐ 1,506]__
+    - [tensorflow / tensorflow](https://github.com/tensorflow/tensorflow) An Open Source Machine Learning Framework for Everyone __[⭐ 122,096]__
+    - [LisaDziuba / Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) The best design tools for everything. __[⭐ 6,921]__
+    - [Giphy / celeb-detection-oss](https://github.com/Giphy/celeb-detection-oss) GIPHY's Open-Source Celebrity Detection Deep Learning Model __[⭐ 265]__
+    - [github / personal-website](https://github.com/github/personal-website) Code that'll help you kickstart a personal website that showcases your work as a software developer. __[⭐ 3,160]__
+    - [Microsoft / vscode](https://github.com/Microsoft/vscode) Visual Studio Code __[⭐ 70,540]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 😋 技术面试必备基础知识 __[⭐ 52,061]__
+    - [jask-oss / reaviz](https://github.com/jask-oss/reaviz) 📊 ReactJS Data Visualization Library based on D3.js __[⭐ 310]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 55,592]__
+    - [typpo / quickchart](https://github.com/typpo/quickchart) Google Image Charts alternative __[⭐ 249]__
+    - [alibaba / flutter_boost](https://github.com/alibaba/flutter_boost) FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts __[⭐ 192]__
+    - [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people. __[⭐ JavaScript]__
 - 20190306
     - [kenwoodjw / python_interview_question](https://github.com/kenwoodjw/python_interview_question) 关于python的面试题 __[⭐ 972]__
     - [BayesWitnesses / m2cgen](https://github.com/BayesWitnesses/m2cgen) Transform ML models into a native code (Java, C, Python, etc.) with zero dependencies __[⭐ 710]__
