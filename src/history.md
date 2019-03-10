@@ -1,3 +1,29 @@
+- 20190310
+    - [Microsoft / calculator](https://github.com/Microsoft/calculator) Windows Calculator: A simple yet powerful calculator that ships with Windows __[⭐ 9,795]__
+    - [codercom / code-server](https://github.com/codercom/code-server) Run VS Code on a remote server. __[⭐ 4,594]__
+    - [hamukazu / lets-get-arrested](https://github.com/hamukazu/lets-get-arrested) This project is intended to protest against the police in Japan __[⭐ 1,761]__
+    - [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) Ghidra is a software reverse engineering (SRE) framework __[⭐ 8,723]__
+    - [pirate / ArchiveBox](https://github.com/pirate/ArchiveBox) 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more... __[⭐ 2,358]__
+    - [gotify / server](https://github.com/gotify/server) A simple server for sending and receiving messages in real-time per web socket. (Includes a sleek web-ui) __[⭐ 1,043]__
+    - [rusty1s / pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) Geometric Deep Learning Extension Library for PyTorch __[⭐ 1,840]__
+    - [CypherpunkArmory / UserLAnd](https://github.com/CypherpunkArmory/UserLAnd) Main UserLAnd Repository __[⭐ 749]__
+    - [pjimenezmateo / curriculum-bootloader](https://github.com/pjimenezmateo/curriculum-bootloader) Here I share the code of my CV, which is also a bootable bootloader :) __[⭐ 221]__
+    - [Micropoor / Micro8](https://github.com/Micropoor/Micro8) Gitbook __[⭐ 12,203]__
+    - [github / personal-website](https://github.com/github/personal-website) Code that'll help you kickstart a personal website that showcases your work as a software developer. __[⭐ 3,520]__
+    - [CriseLYJ / awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model) 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟 __[⭐ 1,764]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 28,368]__
+    - [agalwood / Motrix](https://github.com/agalwood/Motrix) A full-featured download manager. __[⭐ 5,383]__
+    - [Microsoft / frontend-bootcamp](https://github.com/Microsoft/frontend-bootcamp) Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux __[⭐ 6,724]__
+    - [viatsko / awesome-vscode](https://github.com/viatsko/awesome-vscode) 🎨 A curated list of delightful VS Code packages and resources. __[⭐ 13,832]__
+    - [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer) Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. __[⭐ 58,980]__
+    - [vadimdemedes / ink](https://github.com/vadimdemedes/ink) 🌈 React for interactive command-line apps __[⭐ 9,591]__
+    - [Microsoft / vscode](https://github.com/Microsoft/vscode) Visual Studio Code __[⭐ 70,831]__
+    - [tensorflow / tensorflow](https://github.com/tensorflow/tensorflow) An Open Source Machine Learning Framework for Everyone __[⭐ 122,339]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 😋 技术面试必备基础知识 __[⭐ 52,321]__
+    - [vuejs / vue](https://github.com/vuejs/vue) 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 130,172]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 55,854]__
+    - [alibaba / fish-redux](https://github.com/alibaba/fish-redux) An assembled flutter application framework. __[⭐ 2,545]__
+    - [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people. __[⭐ JavaScript]__
 - 20190309
     - [Microsoft / calculator](https://github.com/Microsoft/calculator) Windows Calculator: A simple yet powerful calculator that ships with Windows __[⭐ 8,778]__
     - [codercom / code-server](https://github.com/codercom/code-server) Run VS Code on a remote server. __[⭐ 4,116]__
