@@ -1,3 +1,29 @@
+- 20190312
+    - [marcan / takeover.sh](https://github.com/marcan/takeover.sh) Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to. __[⭐ 4,852]__
+    - [ityouknow / spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 __[⭐ 11,088]__
+    - [Microsoft / calculator](https://github.com/Microsoft/calculator) Windows Calculator: A simple yet powerful calculator that ships with Windows __[⭐ 11,281]__
+    - [codercom / code-server](https://github.com/codercom/code-server) Run VS Code on a remote server. __[⭐ 5,849]__
+    - [gotify / server](https://github.com/gotify/server) A simple server for sending and receiving messages in real-time per web socket. (Includes a sleek web-ui) __[⭐ 2,613]__
+    - [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) Ghidra is a software reverse engineering (SRE) framework __[⭐ 9,662]__
+    - [hamukazu / lets-get-arrested](https://github.com/hamukazu/lets-get-arrested) This project is intended to protest against the police in Japan __[⭐ 2,640]__
+    - [pirate / ArchiveBox](https://github.com/pirate/ArchiveBox) 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more... __[⭐ 3,290]__
+    - [CriseLYJ / awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model) 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟 __[⭐ 2,546]__
+    - [ffhelicopter / Go42](https://github.com/ffhelicopter/Go42) 写《Go语言四十二章经》，纯粹是因为开发过程中碰到过的一些问题，踩到过的一些坑，感觉在Go语言学习使用过程中，有必要深刻理解这门语言的核心思维、清晰掌握语言的细节规范以及反复琢磨标准包代码设计模式，于是才有了这本书。 __[⭐ 843]__
+    - [rusty1s / pytorch_geometric](https://github.com/rusty1s/pytorch_geometric) Geometric Deep Learning Extension Library for PyTorch __[⭐ 2,317]__
+    - [zhaoolee / ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) 🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ __[⭐ 898]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 28,783]__
+    - [donavon / hook-flow](https://github.com/donavon/hook-flow) A flowchart that explains the new lifecycle of a Hooks component. __[⭐ 343]__
+    - [curv3d / curv](https://github.com/curv3d/curv) a language for making art using mathematics __[⭐ 403]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 😋 技术面试必备基础知识 __[⭐ 52,663]__
+    - [retroplasma / flyover-reverse-engineering](https://github.com/retroplasma/flyover-reverse-engineering) Reversing Apple's 3D satellite mode __[⭐ 320]__
+    - [bvaughn / react-window](https://github.com/bvaughn/react-window) React components for efficiently rendering large lists and tabular data __[⭐ 3,695]__
+    - [Micropoor / Micro8](https://github.com/Micropoor/Micro8) Gitbook __[⭐ 12,625]__
+    - [USTC-Resource / USTC-Course](https://github.com/USTC-Resource/USTC-Course) ❤️中国科学技术大学课程资源 __[⭐ 1,142]__
+    - [olive-editor / olive](https://github.com/olive-editor/olive) Professional open-source NLE video editor __[⭐ 954]__
+    - [pr0g / cmake-examples](https://github.com/pr0g/cmake-examples) A collection of as simple as possible, modern CMake projects __[⭐ 354]__
+    - [github / personal-website](https://github.com/github/personal-website) Code that'll help you kickstart a personal website that showcases your work as a software developer. __[⭐ 3,821]__
+    - [traduora / traduora](https://github.com/traduora/traduora) Translation management platform for teams __[⭐ 231]__
+    - [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people. __[⭐ JavaScript]__
 - 20190311
     - [gotify / server](https://github.com/gotify/server) A simple server for sending and receiving messages in real-time per web socket. (Includes a sleek web-ui) __[⭐ 1,872]__
     - [Microsoft / calculator](https://github.com/Microsoft/calculator) Windows Calculator: A simple yet powerful calculator that ships with Windows __[⭐ 10,488]__
