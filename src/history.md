@@ -1,3 +1,29 @@
+- 20190313
+    - [codercom / code-server](https://github.com/codercom/code-server) Run VS Code on a remote server. __[⭐ 6,621]__
+    - [marcan / takeover.sh](https://github.com/marcan/takeover.sh) Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to. __[⭐ 5,334]__
+    - [timvisee / ffsend](https://github.com/timvisee/ffsend) 📬 Easily and securely share files from the command line. A fully featured Firefox Send client. __[⭐ 981]__
+    - [Microsoft / calculator](https://github.com/Microsoft/calculator) Windows Calculator: A simple yet powerful calculator that ships with Windows __[⭐ 11,690]__
+    - [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) Ghidra is a software reverse engineering (SRE) framework __[⭐ 10,075]__
+    - [ityouknow / spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 __[⭐ 11,267]__
+    - [mozilla / send](https://github.com/mozilla/send) File Sharing Experiment __[⭐ 3,789]__
+    - [drcmda / react-three-fiber](https://github.com/drcmda/react-three-fiber) 👌A React-renderer for Three.js __[⭐ 1,882]__
+    - [JohnSully / KeyDB](https://github.com/JohnSully/KeyDB) A Multithreaded Fork of Redis __[⭐ 528]__
+    - [CriseLYJ / awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model) 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟 __[⭐ 2,787]__
+    - [gotify / server](https://github.com/gotify/server) A simple server for sending and receiving messages in real-time per web socket. (Includes a sleek web-ui) __[⭐ 2,862]__
+    - [hamukazu / lets-get-arrested](https://github.com/hamukazu/lets-get-arrested) This project is intended to protest against the police in Japan __[⭐ 2,835]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 28,945]__
+    - [Inventitech / strans](https://github.com/Inventitech/strans) Performs string manipulation tasks by learning from the provided example(s), instead of having to program them out explicitly. __[⭐ 325]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 😋 技术面试必备基础知识 __[⭐ 52,838]__
+    - [ffhelicopter / Go42](https://github.com/ffhelicopter/Go42) 写《Go语言四十二章经》，纯粹是因为开发过程中碰到过的一些问题，踩到过的一些坑，感觉在Go语言学习使用过程中，有必要深刻理解这门语言的核心思维、清晰掌握语言的细节规范以及反复琢磨标准包代码设计模式，于是才有了这本书。 __[⭐ 1,051]__
+    - [traduora / traduora](https://github.com/traduora/traduora) Translation management platform for teams __[⭐ 432]__
+    - [pirate / ArchiveBox](https://github.com/pirate/ArchiveBox) 🗃 The open source self-hosted web archive. Takes browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more... __[⭐ 3,490]__
+    - [zhaoolee / ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) 🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ __[⭐ 1,062]__
+    - [Micropoor / Micro8](https://github.com/Micropoor/Micro8) Gitbook __[⭐ 12,754]__
+    - [donavon / hook-flow](https://github.com/donavon/hook-flow) A flowchart that explains the new lifecycle of a Hooks component. __[⭐ 513]__
+    - [vsouza / awesome-ios](https://github.com/vsouza/awesome-ios) A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects __[⭐ 30,234]__
+    - [sjsdfg / CS-Notes-PDF](https://github.com/sjsdfg/CS-Notes-PDF) https://github.com/CyC2018/CS-Notes PDF版本离线阅读 __[⭐ 720]__
+    - [USTC-Resource / USTC-Course](https://github.com/USTC-Resource/USTC-Course) ❤️中国科学技术大学课程资源 __[⭐ 1,254]__
+    - [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people. __[⭐ JavaScript]__
 - 20190312
     - [marcan / takeover.sh](https://github.com/marcan/takeover.sh) Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to. __[⭐ 4,852]__
     - [ityouknow / spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 __[⭐ 11,088]__
