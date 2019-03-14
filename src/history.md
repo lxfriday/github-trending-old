@@ -1,3 +1,29 @@
+- 20190314
+    - [mozilla / send](https://github.com/mozilla/send) Simple, private file sharing from the makers of Firefox __[⭐ 4,764]__
+    - [timvisee / ffsend](https://github.com/timvisee/ffsend) 📬 Easily and securely share files from the command line. A fully featured Firefox Send client. __[⭐ 1,956]__
+    - [Microsoft / calculator](https://github.com/Microsoft/calculator) Windows Calculator: A simple yet powerful calculator that ships with Windows __[⭐ 12,244]__
+    - [codercom / code-server](https://github.com/codercom/code-server) Run VS Code on a remote server. __[⭐ 7,136]__
+    - [JohnSully / KeyDB](https://github.com/JohnSully/KeyDB) A Multithreaded Fork of Redis __[⭐ 932]__
+    - [ffhelicopter / Go42](https://github.com/ffhelicopter/Go42) 写《Go语言四十二章经》，纯粹是因为开发过程中碰到过的一些问题，踩到过的一些坑，感觉在Go语言学习使用过程中，有必要深刻理解这门语言的核心思维、清晰掌握语言的细节规范以及反复琢磨标准包代码设计模式，于是才有了这本书。 __[⭐ 1,400]__
+    - [jkup / awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) A delightful list of personal tech blogs __[⭐ 794]__
+    - [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) Ghidra is a software reverse engineering (SRE) framework __[⭐ 10,391]__
+    - [CriseLYJ / awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model) 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟 __[⭐ 3,052]__
+    - [rancher / submariner](https://github.com/rancher/submariner) Connect all your Kubernetes clusters, no matter where they are in the world. __[⭐ 413]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 29,158]__
+    - [marcan / takeover.sh](https://github.com/marcan/takeover.sh) Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to. __[⭐ 5,595]__
+    - [radicle-dev / radicle](https://github.com/radicle-dev/radicle) A peer-to-peer stack for code collaboration __[⭐ 402]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 😋 技术面试必备基础知识 __[⭐ 53,014]__
+    - [gotify / server](https://github.com/gotify/server) A simple server for sending and receiving messages in real-time per web socket. (Includes a sleek web-ui) __[⭐ 3,044]__
+    - [zhaoolee / ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) 🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ __[⭐ 1,239]__
+    - [hamukazu / lets-get-arrested](https://github.com/hamukazu/lets-get-arrested) This project is intended to protest against the police in Japan __[⭐ 2,988]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 56,386]__
+    - [drcmda / react-three-fiber](https://github.com/drcmda/react-three-fiber) 👌A React-renderer for Three.js __[⭐ 2,054]__
+    - [tensorflow / tensorflow](https://github.com/tensorflow/tensorflow) An Open Source Machine Learning Framework for Everyone __[⭐ 122,734]__
+    - [vuejs / vue](https://github.com/vuejs/vue) 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 130,642]__
+    - [googlesamples / android-ConstraintLayoutExamples](https://github.com/googlesamples/android-ConstraintLayoutExamples) Repository of examples that showcase the various features of ConstraintLayout __[⭐ 1,614]__
+    - [ityouknow / spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 __[⭐ 11,404]__
+    - [indico / indico](https://github.com/indico/indico) Indico - A complete event management system __[⭐ 601]__
+    - [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people. __[⭐ JavaScript]__
 - 20190313
     - [codercom / code-server](https://github.com/codercom/code-server) Run VS Code on a remote server. __[⭐ 6,621]__
     - [marcan / takeover.sh](https://github.com/marcan/takeover.sh) Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to. __[⭐ 5,334]__
