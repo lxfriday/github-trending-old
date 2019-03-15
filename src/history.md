@@ -1,3 +1,29 @@
+- 20190315
+    - [codercom / code-server](https://github.com/codercom/code-server) Run VS Code on a remote server. __[⭐ 8,201]__
+    - [ShiqiYu / libfacedetection](https://github.com/ShiqiYu/libfacedetection) An open source library for face detection in images. The face detection speed can reach 1500FPS. __[⭐ 3,069]__
+    - [mozilla / send](https://github.com/mozilla/send) Simple, private file sharing from the makers of Firefox __[⭐ 5,435]__
+    - [Microsoft / calculator](https://github.com/Microsoft/calculator) Windows Calculator: A simple yet powerful calculator that ships with Windows __[⭐ 12,699]__
+    - [jkup / awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) A delightful list of personal tech blogs __[⭐ 1,262]__
+    - [timvisee / ffsend](https://github.com/timvisee/ffsend) 📬 Easily and securely share files from the command line. A fully featured Firefox Send client. __[⭐ 2,433]__
+    - [sindresorhus / type-fest](https://github.com/sindresorhus/type-fest) A collection of essential TypeScript types __[⭐ 536]__
+    - [phoenixframework / phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) Rich, real-time user experiences with server-rendered HTML __[⭐ 279]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 29,408]__
+    - [CriseLYJ / awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model) 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟 __[⭐ 3,323]__
+    - [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) Ghidra is a software reverse engineering (SRE) framework __[⭐ 10,656]__
+    - [slackhq / PanModal](https://github.com/slackhq/PanModal) PanModal is an elegant and highly customizable presentation API for constructing bottom sheet modals on iOS. __[⭐ 255]__
+    - [alexfoxy / laxxx](https://github.com/alexfoxy/laxxx) Simple & light weight vanilla javascript plugin to create beautiful animations things when you scrolllll!! Harness the power of the most intuitive interaction and make your websites come alive! __[⭐ 236]__
+    - [dcloudio / uni-app](https://github.com/dcloudio/uni-app) 使用 Vue.js 开发跨平台应用的前端框架 __[⭐ 3,202]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 😋 技术面试必备基础知识 __[⭐ 53,211]__
+    - [openacid / slim](https://github.com/openacid/slim) Unbelievably space efficient data structures in Golang. __[⭐ 591]__
+    - [hasura / graphql-engine](https://github.com/hasura/graphql-engine) Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events. __[⭐ 7,727]__
+    - [zhaoolee / ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) 🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ __[⭐ 1,459]__
+    - [ffhelicopter / Go42](https://github.com/ffhelicopter/Go42) 写《Go语言四十二章经》，纯粹是因为开发过程中碰到过的一些问题，踩到过的一些坑，感觉在Go语言学习使用过程中，有必要深刻理解这门语言的核心思维、清晰掌握语言的细节规范以及反复琢磨标准包代码设计模式，于是才有了这本书。 __[⭐ 1,615]__
+    - [tensorflow / tensorflow](https://github.com/tensorflow/tensorflow) An Open Source Machine Learning Framework for Everyone __[⭐ 122,889]__
+    - [Micropoor / Micro8](https://github.com/Micropoor/Micro8) Gitbook __[⭐ 13,018]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 56,556]__
+    - [fitzgen / dodrio](https://github.com/fitzgen/dodrio) A fast, bump-allocated virtual DOM library for Rust and WebAssembly. __[⭐ 251]__
+    - [JohnSully / KeyDB](https://github.com/JohnSully/KeyDB) A Multithreaded Fork of Redis __[⭐ 1,115]__
+    - [gotify / server](https://github.com/gotify/server) A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui) __[⭐ 3,219]__
 - 20190314
     - [mozilla / send](https://github.com/mozilla/send) Simple, private file sharing from the makers of Firefox __[⭐ 4,764]__
     - [timvisee / ffsend](https://github.com/timvisee/ffsend) 📬 Easily and securely share files from the command line. A fully featured Firefox Send client. __[⭐ 1,956]__
