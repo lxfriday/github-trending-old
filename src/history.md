@@ -1,3 +1,29 @@
+- 20190316
+    - [selfteaching / the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) One has no future if he couldn't teach himself. __[⭐ 1,096]__
+    - [ShiqiYu / libfacedetection](https://github.com/ShiqiYu/libfacedetection) An open source library for face detection in images. The face detection speed can reach 1500FPS. __[⭐ 4,217]__
+    - [codercom / code-server](https://github.com/codercom/code-server) Run VS Code on a remote server. __[⭐ 8,881]__
+    - [alexfoxy / laxxx](https://github.com/alexfoxy/laxxx) Simple & light weight (2kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive! __[⭐ 753]__
+    - [phoenixframework / phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) Rich, real-time user experiences with server-rendered HTML __[⭐ 657]__
+    - [mozilla / send](https://github.com/mozilla/send) Simple, private file sharing from the makers of Firefox __[⭐ 5,769]__
+    - [Microsoft / calculator](https://github.com/Microsoft/calculator) Windows Calculator: A simple yet powerful calculator that ships with Windows __[⭐ 12,938]__
+    - [jkup / awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) A delightful list of personal tech blogs __[⭐ 1,464]__
+    - [sindresorhus / type-fest](https://github.com/sindresorhus/type-fest) A collection of essential TypeScript types __[⭐ 717]__
+    - [slackhq / PanModal](https://github.com/slackhq/PanModal) PanModal is an elegant and highly customizable presentation API for constructing bottom sheet modals on iOS. __[⭐ 434]__
+    - [dcloudio / uni-app](https://github.com/dcloudio/uni-app) 使用 Vue.js 开发跨平台应用的前端框架 __[⭐ 3,345]__
+    - [thebluedoc / bluedoc](https://github.com/thebluedoc/bluedoc) An open-source Document management tool for enterprise self host. __[⭐ 258]__
+    - [timvisee / ffsend](https://github.com/timvisee/ffsend) 📬 Easily and securely share files from the command line. A fully featured Firefox Send client. __[⭐ 2,615]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 29,544]__
+    - [fitzgen / dodrio](https://github.com/fitzgen/dodrio) A fast, bump-allocated virtual DOM library for Rust and WebAssembly. __[⭐ 420]__
+    - [clone95 / Machine-Learning-Study-Path-March-2019](https://github.com/clone95/Machine-Learning-Study-Path-March-2019) A complete ML study path, focused on TensorFlow and Scikit-Learn __[⭐ 294]__
+    - [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) Ghidra is a software reverse engineering (SRE) framework __[⭐ 10,826]__
+    - [openacid / slim](https://github.com/openacid/slim) Unbelievably space efficient data structures in Golang. __[⭐ 743]__
+    - [zhaoolee / ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) 🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ __[⭐ 1,585]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 😋 技术面试必备基础知识 __[⭐ 53,333]__
+    - [CriseLYJ / awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model) 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟 __[⭐ 3,433]__
+    - [dgryski / go-perfbook](https://github.com/dgryski/go-perfbook) Thoughts on Go performance optimization __[⭐ 3,500]__
+    - [ffhelicopter / Go42](https://github.com/ffhelicopter/Go42) 写《Go语言四十二章经》，纯粹是因为开发过程中碰到过的一些问题，踩到过的一些坑，感觉在Go语言学习使用过程中，有必要深刻理解这门语言的核心思维、清晰掌握语言的细节规范以及反复琢磨标准包代码设计模式，于是才有了这本书。 __[⭐ 1,714]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 56,663]__
+    - [lyricat / wechat-format](https://github.com/lyricat/wechat-format) 微信公众号排版编辑器，转化 Markdown 微信特制的 HTML __[⭐ 292]__
 - 20190315
     - [codercom / code-server](https://github.com/codercom/code-server) Run VS Code on a remote server. __[⭐ 8,201]__
     - [ShiqiYu / libfacedetection](https://github.com/ShiqiYu/libfacedetection) An open source library for face detection in images. The face detection speed can reach 1500FPS. __[⭐ 3,069]__
