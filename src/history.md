@@ -1,3 +1,29 @@
+- 20190321
+    - [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 __[⭐ 19,433]__
+    - [NVlabs / SPADE](https://github.com/NVlabs/SPADE)  __[⭐ 1,636]__
+    - [selfteaching / the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) One has no future if one couldn't teach themself. __[⭐ 4,678]__
+    - [Wookai / paper-tips-and-tricks](https://github.com/Wookai/paper-tips-and-tricks) Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab. __[⭐ 1,594]__
+    - [cirosantilli / x86-bare-metal-examples](https://github.com/cirosantilli/x86-bare-metal-examples) Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/x86-assembly-cheat ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup __[⭐ 2,293]__
+    - [alexfoxy / laxxx](https://github.com/alexfoxy/laxxx) Simple & light weight (2kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive! __[⭐ 3,005]__
+    - [twhite96 / js-dev-reads](https://github.com/twhite96/js-dev-reads) A list of books 📚and articles 📝 for the discerning web developer to read. __[⭐ 2,177]__
+    - [clone95 / Machine-Learning-Study-Path-March-2019](https://github.com/clone95/Machine-Learning-Study-Path-March-2019) A complete ML study path, focused on TensorFlow and Scikit-Learn __[⭐ 1,793]__
+    - [syhyz1990 / baiduyun](https://github.com/syhyz1990/baiduyun) 油猴脚本 直接下载百度网盘和百度网盘分享的文件,直链下载超级加速 __[⭐ 1,828]__
+    - [google / sandboxed-api](https://github.com/google/sandboxed-api) Sandboxed API automatically generates sandboxes for C/C++ libraries __[⭐ 743]__
+    - [codercom / code-server](https://github.com/codercom/code-server) Run VS Code on a remote server. __[⭐ 10,472]__
+    - [jfcoz / postgresqltuner](https://github.com/jfcoz/postgresqltuner) Simple script to analyse your PostgreSQL database configuration, and give tuning advice __[⭐ 1,424]__
+    - [CriseLYJ / awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model) 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟 __[⭐ 4,134]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 30,350]__
+    - [wesbos / awesome-uses](https://github.com/wesbos/awesome-uses) Awesome Uses Page __[⭐ 772]__
+    - [apple / swift-log](https://github.com/apple/swift-log) A Logging API package for Swift 5. __[⭐ 631]__
+    - [Snowming04 / The-Hacker-Playbook-3-Translation](https://github.com/Snowming04/The-Hacker-Playbook-3-Translation) 对 The Hacker Playbook 3 的翻译。 __[⭐ 677]__
+    - [vuejs / vue](https://github.com/vuejs/vue) 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 131,490]__
+    - [Webiny / webiny-js](https://github.com/Webiny/webiny-js) Serverless CMS (GraphQL + React) __[⭐ 475]__
+    - [dcloudio / uni-app](https://github.com/dcloudio/uni-app) 使用 Vue.js 开发跨平台应用的前端框架 __[⭐ 3,872]__
+    - [zhaoolee / ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) 🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ __[⭐ 2,299]__
+    - [Microsoft / calculator](https://github.com/Microsoft/calculator) Windows Calculator: A simple yet powerful calculator that ships with Windows __[⭐ 13,708]__
+    - [ShiqiYu / libfacedetection](https://github.com/ShiqiYu/libfacedetection) An open source library for face detection in images. The face detection speed can reach 1500FPS. __[⭐ 5,702]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 57,271]__
+    - [godotengine / godot](https://github.com/godotengine/godot) Godot Engine – Multi-platform 2D and 3D game engine __[⭐ 20,550]__
 - 20190320
     - [cirosantilli / x86-bare-metal-examples](https://github.com/cirosantilli/x86-bare-metal-examples) Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host and real hardware. Userland cheat at: https://github.com/cirosantilli/x86-assembly-cheat ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup __[⭐ 1,934]__
     - [selfteaching / the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) One has no future if one couldn't teach themself. __[⭐ 4,296]__
