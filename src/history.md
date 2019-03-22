@@ -1,3 +1,29 @@
+- 20190322
+    - [clone95 / Machine-Learning-Study-Path-March-2019](https://github.com/clone95/Machine-Learning-Study-Path-March-2019) A complete ML study path, focused on TensorFlow and Scikit-Learn __[⭐ 2,838]__
+    - [selfteaching / the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) One has no future if one couldn't teach themself. __[⭐ 5,320]__
+    - [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 __[⭐ 19,921]__
+    - [NVlabs / SPADE](https://github.com/NVlabs/SPADE)  __[⭐ 2,028]__
+    - [alibaba / dragonwell8](https://github.com/alibaba/dragonwell8) Alibaba Dragonwell8 JDK __[⭐ 602]__
+    - [alexfoxy / laxxx](https://github.com/alexfoxy/laxxx) Simple & light weight (2kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive! __[⭐ 3,373]__
+    - [codercom / code-server](https://github.com/codercom/code-server) Run VS Code on a remote server. __[⭐ 10,781]__
+    - [vuejs / vue](https://github.com/vuejs/vue) 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 131,780]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 30,569]__
+    - [radareorg / cutter](https://github.com/radareorg/cutter) Free and open-source GUI for radare2 reverse engineering framework __[⭐ 4,628]__
+    - [Wookai / paper-tips-and-tricks](https://github.com/Wookai/paper-tips-and-tricks) Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab. __[⭐ 1,823]__
+    - [twhite96 / js-dev-reads](https://github.com/twhite96/js-dev-reads) A list of books 📚and articles 📝 for the discerning web developer to read. __[⭐ 2,403]__
+    - [syhyz1990 / baiduyun](https://github.com/syhyz1990/baiduyun) 油猴脚本 直接下载百度网盘和百度网盘分享的文件,直链下载超级加速 __[⭐ 2,065]__
+    - [googleprojectzero / fuzzilli](https://github.com/googleprojectzero/fuzzilli) A JavaScript Engine Fuzzer __[⭐ Swift]__
+    - [dcloudio / uni-app](https://github.com/dcloudio/uni-app) 使用 Vue.js 开发跨平台应用的前端框架 __[⭐ 4,089]__
+    - [wesbos / awesome-uses](https://github.com/wesbos/awesome-uses) Awesome Uses Page __[⭐ 978]__
+    - [CriseLYJ / awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model) 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟 __[⭐ 4,329]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 57,424]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 😋 技术面试必备基础知识 __[⭐ 54,009]__
+    - [Microsoft / calculator](https://github.com/Microsoft/calculator) Windows Calculator: A simple yet powerful calculator that ships with Windows __[⭐ 13,866]__
+    - [mas-cli / mas](https://github.com/mas-cli/mas) 📦 Mac App Store command line interface __[⭐ 5,622]__
+    - [tektoncd / pipeline](https://github.com/tektoncd/pipeline) A K8s-native Pipeline resource. __[⭐ 917]__
+    - [tiangolo / fastapi](https://github.com/tiangolo/fastapi) FastAPI framework, high performance, easy to learn, fast to code, ready for production __[⭐ 870]__
+    - [godotengine / godot](https://github.com/godotengine/godot) Godot Engine – Multi-platform 2D and 3D game engine __[⭐ 20,703]__
+    - [ShiqiYu / libfacedetection](https://github.com/ShiqiYu/libfacedetection) An open source library for face detection in images. The face detection speed can reach 1500FPS. __[⭐ 5,854]__
 - 20190321
     - [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 __[⭐ 19,433]__
     - [NVlabs / SPADE](https://github.com/NVlabs/SPADE)  __[⭐ 1,636]__
