@@ -1,3 +1,29 @@
+- 20190323
+    - [selfteaching / the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) One has no future if one couldn't teach themself. __[⭐ 6,024]__
+    - [clone95 / Machine-Learning-Study-Path-March-2019](https://github.com/clone95/Machine-Learning-Study-Path-March-2019) A complete ML study path, focused on TensorFlow and Scikit-Learn __[⭐ 3,319]__
+    - [fyne-io / fyne](https://github.com/fyne-io/fyne) Cross platform GUI in Go based on Material Design __[⭐ 1,515]__
+    - [vuejs / vue](https://github.com/vuejs/vue) 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 132,166]__
+    - [tiangolo / fastapi](https://github.com/tiangolo/fastapi) FastAPI framework, high performance, easy to learn, fast to code, ready for production __[⭐ 1,183]__
+    - [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 __[⭐ 20,183]__
+    - [alexfoxy / laxxx](https://github.com/alexfoxy/laxxx) Simple & light weight (2kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive! __[⭐ 3,635]__
+    - [codercom / code-server](https://github.com/codercom/code-server) Run VS Code on a remote server. __[⭐ 11,066]__
+    - [syhyz1990 / baiduyun](https://github.com/syhyz1990/baiduyun) 油猴脚本 直接下载百度网盘和百度网盘分享的文件,直链下载超级加速 __[⭐ 2,279]__
+    - [lyricat / wechat-format](https://github.com/lyricat/wechat-format) 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML __[⭐ 1,258]__
+    - [encode / requests-async](https://github.com/encode/requests-async) async-await support for `requests`. 🍰 __[⭐ 282]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 30,722]__
+    - [aaronthecodpro / Reddit-Privacy-Megathread](https://github.com/aaronthecodpro/Reddit-Privacy-Megathread)  __[⭐ 230]__
+    - [NVlabs / SPADE](https://github.com/NVlabs/SPADE)  __[⭐ 2,187]__
+    - [twhite96 / js-dev-reads](https://github.com/twhite96/js-dev-reads) A list of books 📚and articles 📝 for the discerning web developer to read. __[⭐ 2,562]__
+    - [CriseLYJ / awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model) 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟 __[⭐ 4,465]__
+    - [ajbrock / BigGAN-PyTorch](https://github.com/ajbrock/BigGAN-PyTorch) The author's officially unofficial PyTorch BigGAN implementation. __[⭐ 189]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 57,558]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 😋 技术面试必备基础知识 __[⭐ 54,131]__
+    - [alibaba / dragonwell8](https://github.com/alibaba/dragonwell8) Alibaba Dragonwell8 JDK __[⭐ 720]__
+    - [dcloudio / uni-app](https://github.com/dcloudio/uni-app) 使用 Vue.js 开发跨平台应用的前端框架 __[⭐ 4,205]__
+    - [huggingface / pytorch-pretrained-BigGAN](https://github.com/huggingface/pytorch-pretrained-BigGAN) 🦋A PyTorch implementation of BigGAN with pretrained weights and conversion scripts. __[⭐ 184]__
+    - [facebook / react](https://github.com/facebook/react) A declarative, efficient, and flexible JavaScript library for building user interfaces. __[⭐ 125,061]__
+    - [Microsoft / calculator](https://github.com/Microsoft/calculator) Windows Calculator: A simple yet powerful calculator that ships with Windows __[⭐ 13,993]__
+    - [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people. __[⭐ JavaScript]__
 - 20190322
     - [clone95 / Machine-Learning-Study-Path-March-2019](https://github.com/clone95/Machine-Learning-Study-Path-March-2019) A complete ML study path, focused on TensorFlow and Scikit-Learn __[⭐ 2,838]__
     - [selfteaching / the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) One has no future if one couldn't teach themself. __[⭐ 5,320]__
