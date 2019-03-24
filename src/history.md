@@ -1,3 +1,29 @@
+- 20190324
+    - [valeriansaliou / sonic](https://github.com/valeriansaliou/sonic) 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. __[⭐ 1,169]__
+    - [Microsoft / pyright](https://github.com/Microsoft/pyright) Static type checker for Python __[⭐ 806]__
+    - [qri-io / qri](https://github.com/qri-io/qri) you're invited to a data party! __[⭐ 501]__
+    - [selfteaching / the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) One has no future if one couldn't teach themself. __[⭐ 6,442]__
+    - [leeoniya / dropcss](https://github.com/leeoniya/dropcss) A simple, thorough and fast unused-CSS cleaner __[⭐ 448]__
+    - [clone95 / Machine-Learning-Study-Path-March-2019](https://github.com/clone95/Machine-Learning-Study-Path-March-2019) A complete ML study path, focused on TensorFlow and Scikit-Learn __[⭐ 3,656]__
+    - [skeeto / endlessh](https://github.com/skeeto/endlessh) SSH tarpit that slowly sends an endless banner __[⭐ 390]__
+    - [fyne-io / fyne](https://github.com/fyne-io/fyne) Cross platform GUI in Go based on Material Design __[⭐ 1,856]__
+    - [ajbrock / BigGAN-PyTorch](https://github.com/ajbrock/BigGAN-PyTorch) The author's officially unofficial PyTorch BigGAN implementation. __[⭐ 641]__
+    - [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 __[⭐ 20,455]__
+    - [google / crfs](https://github.com/google/crfs) CRFS: Container Registry Filesystem __[⭐ 357]__
+    - [HarisIqbal88 / PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) Latex code for making neural networks diagrams __[⭐ 4,224]__
+    - [klaussinani / taskbook](https://github.com/klaussinani/taskbook) 📓 Tasks, boards & notes for the command-line habitat __[⭐ 6,063]__
+    - [vuejs / vue](https://github.com/vuejs/vue) 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 132,378]__
+    - [codercom / code-server](https://github.com/codercom/code-server) Run VS Code on a remote server. __[⭐ 11,288]__
+    - [teamprevue / PreVue](https://github.com/teamprevue/PreVue) 🎨 All in One Prototyping Tool For Vue Developers. __[⭐ 191]__
+    - [tiangolo / fastapi](https://github.com/tiangolo/fastapi) FastAPI framework, high performance, easy to learn, fast to code, ready for production __[⭐ 1,414]__
+    - [t9tio / open-source-jobs](https://github.com/t9tio/open-source-jobs) Open Source Jobs: A list of Open Source projects offering jobs. For who want to work on open source and get paid. __[⭐ 263]__
+    - [changtuiqie / WeChatAgreement.WebApi.Simple](https://github.com/changtuiqie/WeChatAgreement.WebApi.Simple) 微信mac/ipad协议，webapi封装好的实现方案，免IIS一键部署。 可实现微信80%功能；支持62数据登录、扫码登录、收发朋友圈、查看朋友圈、微信建群、微信拉人进群、微信公众号阅读、微信消息收发、微信附近的人定位、微信添加好友、微信红包接收、微信防撤回、分享小程序、微信加粉、微信收藏、微信标签等 __[⭐ 602]__
+    - [abhat222 / Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) Cheat Sheets __[⭐ 554]__
+    - [alexfoxy / laxxx](https://github.com/alexfoxy/laxxx) Simple & light weight (2kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive! __[⭐ 3,816]__
+    - [Microsoft / calculator](https://github.com/Microsoft/calculator) Windows Calculator: A simple yet powerful calculator that ships with Windows __[⭐ 14,164]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 30,898]__
+    - [veonim / veonim](https://github.com/veonim/veonim) simple modal IDE built on neovim __[⭐ 814]__
+    - [NVlabs / SPADE](https://github.com/NVlabs/SPADE)  __[⭐ 2,335]__
 - 20190323
     - [selfteaching / the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) One has no future if one couldn't teach themself. __[⭐ 6,024]__
     - [clone95 / Machine-Learning-Study-Path-March-2019](https://github.com/clone95/Machine-Learning-Study-Path-March-2019) A complete ML study path, focused on TensorFlow and Scikit-Learn __[⭐ 3,319]__
