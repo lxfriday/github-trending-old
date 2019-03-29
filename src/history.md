@@ -1,3 +1,29 @@
+- 20190329
+    - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 76,596]__
+    - [formulahendry / 955.WLB](https://github.com/formulahendry/955.WLB) 955 不加班的公司名单 __[⭐ 1,841]__
+    - [ShizukuIchi / winXP](https://github.com/ShizukuIchi/winXP) 🏁 Web based Windows XP desktop recreation. __[⭐ 888]__
+    - [Advanced-Frontend / Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) 工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。 __[⭐ 5,008]__
+    - [cloudflare / boringtun](https://github.com/cloudflare/boringtun) Userspace WireGuard® Implementation in Rust __[⭐ 970]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识 __[⭐ 55,071]__
+    - [Raathigesh / majestic](https://github.com/Raathigesh/majestic) ⚡ Zero config GUI for Jest __[⭐ 3,600]__
+    - [youyuge34 / PI-REC](https://github.com/youyuge34/PI-REC) 🔥 PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain. 🔥 图像翻译，条件GAN，AI绘画 __[⭐ 486]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 31,797]__
+    - [shengxinjing / programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) 🙈程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞 __[⭐ 16,995]__
+    - [fastly / lucet](https://github.com/fastly/lucet) Lucet, the Sandboxing WebAssembly Compiler. __[⭐ 463]__
+    - [clone95 / Virgilio](https://github.com/clone95/Virgilio) Your new Mentor for Data Science E-Learning. __[⭐ 6,299]__
+    - [codercom / code-server](https://github.com/codercom/code-server) Run VS Code on a remote server. __[⭐ 12,287]__
+    - [networknt / light-4j](https://github.com/networknt/light-4j) A fast, lightweight and more productive microservices framework __[⭐ 1,755]__
+    - [chaosblade-io / chaosblade](https://github.com/chaosblade-io/chaosblade) An easy to use and powerful chaos engineering experiment toolkit.（一款简单易用、功能强大的混沌实验注入工具） __[⭐ 396]__
+    - [xiaolai / everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) 人人都能用英语 __[⭐ 646]__
+    - [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 __[⭐ 21,581]__
+    - [jezen / is-thirteen](https://github.com/jezen/is-thirteen) Check if a number is equal to 13. __[⭐ 4,287]__
+    - [vuejs / vue](https://github.com/vuejs/vue) 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 133,255]__
+    - [valeriansaliou / sonic](https://github.com/valeriansaliou/sonic) 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. __[⭐ 3,873]__
+    - [Microsoft / pyright](https://github.com/Microsoft/pyright) Static type checker for Python __[⭐ 2,594]__
+    - [selfteaching / the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) One has no future if one couldn't teach themself. __[⭐ 7,385]__
+    - [Tnfe / TNFE-Weekly](https://github.com/Tnfe/TNFE-Weekly) 每周为你提供高质量的关于小程序、h5等前端领域的文章和项目 __[⭐ 1,349]__
+    - [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲 __[⭐ 13,645]__
+    - [QSCTech / zju-icicles](https://github.com/QSCTech/zju-icicles) 浙江大学课程攻略共享计划 __[⭐ 3,237]__
 - 20190324
     - [valeriansaliou / sonic](https://github.com/valeriansaliou/sonic) 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. __[⭐ 1,169]__
     - [Microsoft / pyright](https://github.com/Microsoft/pyright) Static type checker for Python __[⭐ 806]__
