@@ -1,3 +1,29 @@
+- 20190330
+    - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 117,409]__
+    - [formulahendry / 955.WLB](https://github.com/formulahendry/955.WLB) 955 不加班的公司名单 __[⭐ 5,787]__
+    - [fastly / lucet](https://github.com/fastly/lucet) Lucet, the Sandboxing WebAssembly Compiler. __[⭐ 1,177]__
+    - [Tonejs / Tone.js](https://github.com/Tonejs/Tone.js) A Web Audio framework for making interactive music in the browser. __[⭐ 7,154]__
+    - [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books) 📚 Freely available programming books __[⭐ 119,914]__
+    - [ShizukuIchi / winXP](https://github.com/ShizukuIchi/winXP) 🏁 Web based Windows XP desktop recreation. __[⭐ 1,494]__
+    - [fireeye / commando-vm](https://github.com/fireeye/commando-vm)  __[⭐ 520]__
+    - [Raathigesh / majestic](https://github.com/Raathigesh/majestic) ⚡ Zero config GUI for Jest __[⭐ 4,040]__
+    - [vugu / vugu](https://github.com/vugu/vugu) Vugu: A modern UI library for Go+WebAssembly (experimental) __[⭐ 372]__
+    - [Y1ran / 996.Law](https://github.com/Y1ran/996.Law) 联合仲裁发起地 | 法律板块(主站996.ICU) __[⭐ 496]__
+    - [CriseLYJ / awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model) 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟 __[⭐ 5,499]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识 __[⭐ 55,495]__
+    - [995icu / 996ICU](https://github.com/995icu/996ICU) 996ICU 995ICU 工作996 生病ICU 加班不规范 亲人两行泪 __[⭐ 609]__
+    - [codercom / code-server](https://github.com/codercom/code-server) Run VS Code on a remote server. __[⭐ 12,664]__
+    - [CriseLYJ / Python-crawler-tutorial-starts-from-zero](https://github.com/CriseLYJ/Python-crawler-tutorial-starts-from-zero) python爬虫教程，带你从零到一，包含js逆向，selenium, tesseract OCR识别,mongodb的使用，以及scrapy框架 __[⭐ 316]__
+    - [vuejs / vue](https://github.com/vuejs/vue) 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 133,598]__
+    - [streamich / react-use](https://github.com/streamich/react-use) React Hooks — 👍 __[⭐ 3,171]__
+    - [Advanced-Frontend / Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) 工作日每天一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。 __[⭐ 5,426]__
+    - [lyft / cartography](https://github.com/lyft/cartography) Cartography is a Python tool that consolidates infrastructure assets and the relationships between them in an intuitive graph view powered by a Neo4j database. __[⭐ 559]__
+    - [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 __[⭐ 21,917]__
+    - [dheera / rosshow](https://github.com/dheera/rosshow) Visualize ROS topics inside a terminal with Unicode/ASCII art __[⭐ 409]__
+    - [clone95 / Virgilio](https://github.com/clone95/Virgilio) Your new Mentor for Data Science E-Learning. __[⭐ 6,544]__
+    - [QSCTech / zju-icicles](https://github.com/QSCTech/zju-icicles) 浙江大学课程攻略共享计划 __[⭐ 3,545]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 32,093]__
+    - [xiaolai / everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) 人人都能用英语 __[⭐ 916]__
 - 20190329
     - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 76,596]__
     - [formulahendry / 955.WLB](https://github.com/formulahendry/955.WLB) 955 不加班的公司名单 __[⭐ 1,841]__
