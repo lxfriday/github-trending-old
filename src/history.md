@@ -1,3 +1,29 @@
+- 20190401
+    - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 141,384]__
+    - [formulahendry / 955.WLB](https://github.com/formulahendry/955.WLB) 955 不加班的公司名单 __[⭐ 8,259]__
+    - [nefe / You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript. __[⭐ 15,430]__
+    - [8483 / notes](https://github.com/8483/notes) Full-stack web development notes. __[⭐ 509]__
+    - [CriseLYJ / Python-crawler-tutorial-starts-from-zero](https://github.com/CriseLYJ/Python-crawler-tutorial-starts-from-zero) python爬虫教程，带你从零到一，包含js逆向，selenium, tesseract OCR识别,mongodb的使用，以及scrapy框架 __[⭐ 1,070]__
+    - [myliang / x-spreadsheet](https://github.com/myliang/x-spreadsheet) A web-based JavaScript（canvas） spreadsheet __[⭐ 5,104]__
+    - [facebook / react](https://github.com/facebook/react) A declarative, efficient, and flexible JavaScript library for building user interfaces. __[⭐ 126,157]__
+    - [neoclide / coc.nvim](https://github.com/neoclide/coc.nvim) Intellisense engine for vim8 & neovim, full language server protocol support as VSCode __[⭐ 2,696]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 32,524]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识 __[⭐ 55,955]__
+    - [zhui-team / zhui](https://github.com/zhui-team/zhui) 🚀 A Chinese style component library of react https://zhui-team.github.io/zhui/ __[⭐ 313]__
+    - [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books) 📚 Freely available programming books __[⭐ 120,434]__
+    - [ShizukuIchi / winXP](https://github.com/ShizukuIchi/winXP) 🏁 Web based Windows XP desktop recreation. __[⭐ 1,971]__
+    - [valeriansaliou / sonic](https://github.com/valeriansaliou/sonic) 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. __[⭐ 4,461]__
+    - [shengxinjing / programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) 🙈程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞 __[⭐ 17,529]__
+    - [awesomekling / serenity](https://github.com/awesomekling/serenity) Serenity Operating System (x86) __[⭐ 287]__
+    - [xiaolai / everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) 人人都能用英语 __[⭐ 1,319]__
+    - [vuejs / vue](https://github.com/vuejs/vue) 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 133,940]__
+    - [codercom / code-server](https://github.com/codercom/code-server) Run VS Code on a remote server. __[⭐ 13,102]__
+    - [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 __[⭐ 22,243]__
+    - [995icu / 996ICU](https://github.com/995icu/996ICU) 996ICU 995ICU 工作996 生病ICU 加班不规范 亲人两行泪 __[⭐ 995]__
+    - [CriseLYJ / awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model) 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟 __[⭐ 5,946]__
+    - [streamich / react-use](https://github.com/streamich/react-use) React Hooks — 👍 __[⭐ 3,540]__
+    - [fyne-io / fyne](https://github.com/fyne-io/fyne) Cross platform GUI in Go based on Material Design __[⭐ 4,639]__
+    - [clone95 / Virgilio](https://github.com/clone95/Virgilio) Your new Mentor for Data Science E-Learning. __[⭐ 6,910]__
 - 20190331
     - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 123,317]__
     - [formulahendry / 955.WLB](https://github.com/formulahendry/955.WLB) 955 不加班的公司名单 __[⭐ 6,424]__
