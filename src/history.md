@@ -1,3 +1,29 @@
+- 20190402
+    - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 146,276]__
+    - [formulahendry / 955.WLB](https://github.com/formulahendry/955.WLB) 955 不加班的公司名单 __[⭐ 8,740]__
+    - [chrisdickinson / git-rs](https://github.com/chrisdickinson/git-rs) git, implemented in rust, for fun and education 🦀 __[⭐ 731]__
+    - [nefe / You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript. __[⭐ 15,795]__
+    - [shengxinjing / programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) 🙈程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞 __[⭐ 17,883]__
+    - [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲 __[⭐ 14,503]__
+    - [8483 / notes](https://github.com/8483/notes) Full-stack web development notes. __[⭐ 712]__
+    - [zhui-team / zhui](https://github.com/zhui-team/zhui) 🚀 A Chinese style component library of react https://zhui-team.github.io/zhui/ __[⭐ 507]__
+    - [cnlh / nps](https://github.com/cnlh/nps) 一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。 __[⭐ 1,848]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 32,688]__
+    - [myliang / x-spreadsheet](https://github.com/myliang/x-spreadsheet) A web-based JavaScript（canvas） spreadsheet __[⭐ 5,234]__
+    - [ShizukuIchi / winXP](https://github.com/ShizukuIchi/winXP) 🏁 Web based Windows XP desktop recreation. __[⭐ 2,115]__
+    - [CriseLYJ / Python-crawler-tutorial-starts-from-zero](https://github.com/CriseLYJ/Python-crawler-tutorial-starts-from-zero) python爬虫教程，带你从零到一，包含js逆向，selenium, tesseract OCR识别,mongodb的使用，以及scrapy框架 __[⭐ 1,192]__
+    - [andrewbihl / bsed](https://github.com/andrewbihl/bsed) Simple SQL-like syntax on top of Perl text processing. __[⭐ 281]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识 __[⭐ 56,062]__
+    - [EbookFoundation / free-programming-books](https://github.com/EbookFoundation/free-programming-books) 📚 Freely available programming books __[⭐ 120,555]__
+    - [codercom / code-server](https://github.com/codercom/code-server) Run VS Code on a remote server. __[⭐ 13,264]__
+    - [spotify / NFHTTP](https://github.com/spotify/NFHTTP) A cross platform C++ HTTP library that interfaces natively to other platforms. __[⭐ 271]__
+    - [awesomekling / serenity](https://github.com/awesomekling/serenity) Serenity Operating System (x86) __[⭐ 394]__
+    - [xiaolai / everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) 人人都能用英语 __[⭐ 1,434]__
+    - [vuejs / vue](https://github.com/vuejs/vue) 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 134,042]__
+    - [Raathigesh / majestic](https://github.com/Raathigesh/majestic) ⚡ Zero config GUI for Jest __[⭐ 4,491]__
+    - [neoclide / coc.nvim](https://github.com/neoclide/coc.nvim) Intellisense engine for vim8 & neovim, full language server protocol support as VSCode __[⭐ 2,780]__
+    - [streamich / react-use](https://github.com/streamich/react-use) React Hooks — 👍 __[⭐ 3,639]__
+    - [valeriansaliou / sonic](https://github.com/valeriansaliou/sonic) 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. __[⭐ 4,568]__
 - 20190401
     - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 141,384]__
     - [formulahendry / 955.WLB](https://github.com/formulahendry/955.WLB) 955 不加班的公司名单 __[⭐ 8,259]__
