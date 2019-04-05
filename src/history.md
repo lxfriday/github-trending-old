@@ -1,3 +1,29 @@
+- 20190405
+    - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 177,507]__
+    - [davebs / AgileLite](https://github.com/davebs/AgileLite) Agile software development without all the burnout. __[⭐ 968]__
+    - [datawhalechina / pumpkin-book](https://github.com/datawhalechina/pumpkin-book) 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book __[⭐ 2,485]__
+    - [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) Ghidra is a software reverse engineering (SRE) framework __[⭐ 13,002]__
+    - [codex-team / editor.js](https://github.com/codex-team/editor.js) A block-styled editor with clean JSON output __[⭐ 3,907]__
+    - [keenanwoodall / Deform](https://github.com/keenanwoodall/Deform) A fully-featured deformer system for Unity. __[⭐ 498]__
+    - [formulahendry / 955.WLB](https://github.com/formulahendry/955.WLB) 955 不加班的公司名单 __[⭐ 11,038]__
+    - [MariaLetta / free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more. __[⭐ 344]__
+    - [shengxinjing / programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) 🙈程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞 __[⭐ 20,195]__
+    - [Accenture / AmpliGraph](https://github.com/Accenture/AmpliGraph) Python library for Representation Learning on Knowledge Graphs __[⭐ 383]__
+    - [deepmind / mathematics_dataset](https://github.com/deepmind/mathematics_dataset)  __[⭐ 603]__
+    - [codercom / code-server](https://github.com/codercom/code-server) Run VS Code on a remote server. __[⭐ 14,115]__
+    - [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲 __[⭐ 15,904]__
+    - [tensorflow / mlir](https://github.com/tensorflow/mlir) "Multi-Level Intermediate Representation" Compiler Infrastructure __[⭐ 399]__
+    - [pigigaldi / Pock](https://github.com/pigigaldi/Pock) Display macOS Dock in Touch Bar __[⭐ 2,100]__
+    - [valeriansaliou / sonic](https://github.com/valeriansaliou/sonic) 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. __[⭐ 5,268]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 33,544]__
+    - [WarpPrism / AutoPiano](https://github.com/WarpPrism/AutoPiano) 自由钢琴 AutoPiano，喜欢可以star ( http://crystalworld.gitee.io/qpiano/#/ ) __[⭐ JavaScript]__
+    - [toddmotto / public-apis](https://github.com/toddmotto/public-apis) A collective list of free APIs for use in software and web development. __[⭐ 55,174]__
+    - [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 __[⭐ 22,875]__
+    - [995icu / 996ICU](https://github.com/995icu/996ICU) 996ICU 995ICU 工作996 生病ICU 加班不规范 亲人两行泪 __[⭐ 1,968]__
+    - [facebookresearch / PyTorch-BigGraph](https://github.com/facebookresearch/PyTorch-BigGraph) Software used for generating embeddings from large-scale graph-structured data. __[⭐ 811]__
+    - [vuejs / vue](https://github.com/vuejs/vue) 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 134,566]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识 __[⭐ 56,727]__
+    - [hnginternship5 / hng.tech](https://github.com/hnginternship5/hng.tech) HNG 5.0 Project 🔥 __[⭐ 58]__
 - 20190403
     - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 156,353]__
     - [codex-team / editor.js](https://github.com/codex-team/editor.js) A block-styled editor with clean JSON output __[⭐ 1,207]__
