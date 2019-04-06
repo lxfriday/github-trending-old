@@ -1,3 +1,29 @@
+- 20190406
+    - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 180,709]__
+    - [LisaDziuba / Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) The best design tools for everything 👉 __[⭐ 11,356]__
+    - [citybound / citybound](https://github.com/citybound/citybound) A work-in-progress, open-source, multi-player city simulation game. __[⭐ 3,244]__
+    - [datawhalechina / pumpkin-book](https://github.com/datawhalechina/pumpkin-book) 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book __[⭐ 2,848]__
+    - [cstack / db_tutorial](https://github.com/cstack/db_tutorial) Writing a sqlite clone from scratch in C __[⭐ 2,856]__
+    - [davebs / AgileLite](https://github.com/davebs/AgileLite) Agile software development without all the burnout. __[⭐ 1,297]__
+    - [xyproto / algernon](https://github.com/xyproto/algernon) 🎩 Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support __[⭐ 1,161]__
+    - [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) Ghidra is a software reverse engineering (SRE) framework __[⭐ 13,251]__
+    - [codex-team / editor.js](https://github.com/codex-team/editor.js) A block-styled editor with clean JSON output __[⭐ 4,154]__
+    - [nefe / You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript. __[⭐ 16,744]__
+    - [shengxinjing / programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) 🙈程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞 __[⭐ 20,433]__
+    - [Unknwon / the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN) 《The Way to Go》中文译本，中文正式名《Go 入门指南》 __[⭐ 12,628]__
+    - [formulahendry / 955.WLB](https://github.com/formulahendry/955.WLB) 955 不加班的公司名单 __[⭐ 11,251]__
+    - [codercom / code-server](https://github.com/codercom/code-server) Run VS Code on a remote server. __[⭐ 14,319]__
+    - [MariaLetta / free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more. __[⭐ 544]__
+    - [keenanwoodall / Deform](https://github.com/keenanwoodall/Deform) A fully-featured deformer system for Unity. __[⭐ 679]__
+    - [pigigaldi / Pock](https://github.com/pigigaldi/Pock) Display macOS Dock in Touch Bar __[⭐ 2,259]__
+    - [jondot / goweight](https://github.com/jondot/goweight) A tool to analyze and troubleshoot a Go binary size. __[⭐ 669]__
+    - [florinpop17 / app-ideas](https://github.com/florinpop17/app-ideas) A Collection of application ideas which can be used to improve your coding skills. __[⭐ 677]__
+    - [kognise / water.css](https://github.com/kognise/water.css) A just-add-css collection of styles to make simple websites just a little nicer __[⭐ 245]__
+    - [JohnSundell / Sweep](https://github.com/JohnSundell/Sweep) Fast and powerful Swift string scanning made simple __[⭐ 152]__
+    - [ryansolid / solid](https://github.com/ryansolid/solid) A declarative, efficient, and flexible JavaScript library for building user interfaces. __[⭐ 228]__
+    - [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 __[⭐ 22,986]__
+    - [Accenture / AmpliGraph](https://github.com/Accenture/AmpliGraph) Python library for Representation Learning on Knowledge Graphs __[⭐ 498]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 33,650]__
 - 20190405
     - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 177,507]__
     - [davebs / AgileLite](https://github.com/davebs/AgileLite) Agile software development without all the burnout. __[⭐ 968]__
