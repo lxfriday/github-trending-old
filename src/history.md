@@ -1,3 +1,29 @@
+- 20190409
+    - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 193,645]__
+    - [nndl / nndl.github.io](https://github.com/nndl/nndl.github.io) 《神经网络与深度学习》 Neural Network and Deep Learning __[⭐ 3,737]__
+    - [formulahendry / 955.WLB](https://github.com/formulahendry/955.WLB) 955 不加班的公司名单 __[⭐ 12,577]__
+    - [kognise / water.css](https://github.com/kognise/water.css) A just-add-css collection of styles to make simple websites just a little nicer __[⭐ 2,070]__
+    - [florinpop17 / app-ideas](https://github.com/florinpop17/app-ideas) A Collection of application ideas which can be used to improve your coding skills. __[⭐ 1,819]__
+    - [clone95 / Virgilio](https://github.com/clone95/Virgilio) Your new Mentor for Data Science E-Learning. __[⭐ 8,078]__
+    - [OWASP / CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. __[⭐ 3,362]__
+    - [uswds / public-sans](https://github.com/uswds/public-sans) A strong, neutral, principles-driven, open-source typeface for text or display __[⭐ 747]__
+    - [wuyouzhuguli / SpringAll](https://github.com/wuyouzhuguli/SpringAll) 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud和Spring Security，博客Spring系列源码 __[⭐ 2,832]__
+    - [datawhalechina / pumpkin-book](https://github.com/datawhalechina/pumpkin-book) 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book __[⭐ 3,692]__
+    - [shengxinjing / programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) 🙈程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞 __[⭐ 21,229]__
+    - [LisaDziuba / Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) The best design tools for everything 👉 __[⭐ 12,423]__
+    - [codex-team / editor.js](https://github.com/codex-team/editor.js) A block-styled editor with clean JSON output __[⭐ 4,903]__
+    - [citybound / citybound](https://github.com/citybound/citybound) A work-in-progress, open-source, multi-player city simulation game. __[⭐ 4,479]__
+    - [nefe / You-Dont-Need-jQuery](https://github.com/nefe/You-Dont-Need-jQuery) Examples of how to do query, style, dom, ajax, event etc like jQuery with plain javascript. __[⭐ 17,301]__
+    - [lewagon / dotfiles](https://github.com/lewagon/dotfiles) Default configuration for Le Wagon's students __[⭐ 4,570]__
+    - [fireeye / commando-vm](https://github.com/fireeye/commando-vm) Complete Mandiant Offensive VM (Commando VM), the first full Windows-based penetration testing virtual machine distribution. The security community recognizes Kali Linux as the go-to penetration testing platform for those that prefer Linux. Commando VM is for penetration testers that prefer Windows. We know that building a Windows penetration te… __[⭐ 1,577]__
+    - [lib-pku / libpku](https://github.com/lib-pku/libpku) 北京大学课程资料整理 __[⭐ 2,986]__
+    - [995icu / 996ICU](https://github.com/995icu/996ICU) 996ICU 995ICU 工作996 生病ICU 加班不规范 亲人两行泪 __[⭐ 2,486]__
+    - [ericdrowell / ElGrapho](https://github.com/ericdrowell/ElGrapho)  __[⭐ 508]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 34,041]__
+    - [nickmqb / muon](https://github.com/nickmqb/muon) Modern low-level programming language __[⭐ 355]__
+    - [623637646 / 996.Leave](https://github.com/623637646/996.Leave) 逃离996 __[⭐ 748]__
+    - [MariaLetta / free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more. __[⭐ 1,019]__
+    - [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) Ghidra is a software reverse engineering (SRE) framework __[⭐ 13,729]__
 - 20190406
     - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 180,709]__
     - [LisaDziuba / Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) The best design tools for everything 👉 __[⭐ 11,356]__
