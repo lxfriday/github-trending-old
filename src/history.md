@@ -1,3 +1,29 @@
+- 20190411
+    - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 206,351]__
+    - [lib-pku / libpku](https://github.com/lib-pku/libpku) 贵校课程资料民间整理 __[⭐ 9,529]__
+    - [QSCTech / zju-icicles](https://github.com/QSCTech/zju-icicles) 浙江大学课程攻略共享计划 __[⭐ 6,445]__
+    - [PKUanonym / REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University __[⭐ C++]__
+    - [jhuangtw-dev / xg2xg](https://github.com/jhuangtw-dev/xg2xg) by ex-googlers, for ex-googlers - a lookup table of similar tech & services __[⭐ 2,292]__
+    - [USTC-Resource / USTC-Course](https://github.com/USTC-Resource/USTC-Course) ❤️中国科学技术大学课程资源 __[⭐ 3,641]__
+    - [nndl / nndl.github.io](https://github.com/nndl/nndl.github.io) 《神经网络与深度学习》 Neural Network and Deep Learning __[⭐ 5,261]__
+    - [jeffgerickson / algorithms](https://github.com/jeffgerickson/algorithms) Bug-tracking for Jeff's algorithms book, notes, etc. __[⭐ 4,785]__
+    - [formulahendry / 955.WLB](https://github.com/formulahendry/955.WLB) 955 不加班的公司名单 __[⭐ 13,570]__
+    - [zhaoolee / ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) 🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ __[⭐ 3,956]__
+    - [LisaDziuba / Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) The best design tools for everything 👉 __[⭐ 13,232]__
+    - [datawhalechina / pumpkin-book](https://github.com/datawhalechina/pumpkin-book) 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book __[⭐ 4,364]__
+    - [uswds / public-sans](https://github.com/uswds/public-sans) A strong, neutral, principles-driven, open-source typeface for text or display __[⭐ 2,194]__
+    - [codex-team / editor.js](https://github.com/codex-team/editor.js) A block-styled editor with clean JSON output __[⭐ 5,706]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 34,556]__
+    - [florinpop17 / app-ideas](https://github.com/florinpop17/app-ideas) A Collection of application ideas which can be used to improve your coding skills. __[⭐ 2,459]__
+    - [1c7 / chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 __[⭐ 12,145]__
+    - [r0f1 / datascience](https://github.com/r0f1/datascience) Curated list of Python resources for data science. __[⭐ 776]__
+    - [Awesome-Windows / Awesome](https://github.com/Awesome-Windows/Awesome) 💻 An awesome & curated list of best applications and tools for Windows. __[⭐ 6,776]__
+    - [TencentYoutuResearch / FaceDetection-DSFD](https://github.com/TencentYoutuResearch/FaceDetection-DSFD)  __[⭐ 713]__
+    - [facebookresearch / pytorch_GAN_zoo](https://github.com/facebookresearch/pytorch_GAN_zoo) A mix of GAN implementations including progressive growing __[⭐ 278]__
+    - [shengxinjing / programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) 🙈程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞 __[⭐ 21,823]__
+    - [kognise / water.css](https://github.com/kognise/water.css) A just-add-css collection of styles to make simple websites just a little nicer __[⭐ 2,594]__
+    - [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲 __[⭐ 16,569]__
+    - [fireeye / commando-vm](https://github.com/fireeye/commando-vm) Complete Mandiant Offensive VM (Commando VM), the first full Windows-based penetration testing virtual machine distribution. The security community recognizes Kali Linux as the go-to penetration testing platform for those that prefer Linux. Commando VM is for penetration testers that prefer Windows. We know that building a Windows penetration te… __[⭐ 1,885]__
 - 20190409
     - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 193,645]__
     - [nndl / nndl.github.io](https://github.com/nndl/nndl.github.io) 《神经网络与深度学习》 Neural Network and Deep Learning __[⭐ 3,737]__
