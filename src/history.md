@@ -1,3 +1,29 @@
+- 20190413
+    - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 212,606]__
+    - [achael / eht-imaging](https://github.com/achael/eht-imaging) Imaging, analysis, and simulation software for radio interferometry __[⭐ 2,555]__
+    - [lib-pku / libpku](https://github.com/lib-pku/libpku) 贵校课程资料民间整理 __[⭐ 11,170]__
+    - [jhuangtw-dev / xg2xg](https://github.com/jhuangtw-dev/xg2xg) by ex-googlers, for ex-googlers - a lookup table of similar tech & services __[⭐ 3,180]__
+    - [PKUanonym / REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University __[⭐ C++]__
+    - [QSCTech / zju-icicles](https://github.com/QSCTech/zju-icicles) 浙江大学课程攻略共享计划 __[⭐ 7,354]__
+    - [nndl / nndl.github.io](https://github.com/nndl/nndl.github.io) 《神经网络与深度学习》 Neural Network and Deep Learning __[⭐ 5,873]__
+    - [stackshareio / awesome-stacks](https://github.com/stackshareio/awesome-stacks) A curated list of tech stacks for building different applications & features __[⭐ 657]__
+    - [codex-team / editor.js](https://github.com/codex-team/editor.js) A block-styled editor with clean JSON output __[⭐ 6,338]__
+    - [521xueweihan / git-tips](https://github.com/521xueweihan/git-tips) Git的奇技淫巧 __[⭐ 3,312]__
+    - [zhaoolee / ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) 🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ __[⭐ 4,642]__
+    - [ctripcorp / CRN](https://github.com/ctripcorp/CRN) CRN是Ctrip React Native简称，由携程无线平台研发团队基于React Native框架优化，定制成稳定性和性能更佳、也更适合业务场景的跨平台开发框架。 __[⭐ 406]__
+    - [imhuay / Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记 __[⭐ 21,758]__
+    - [USTC-Resource / USTC-Course](https://github.com/USTC-Resource/USTC-Course) ❤️中国科学技术大学课程资源 __[⭐ 4,169]__
+    - [LisaDziuba / Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) The best design tools for everything 👉 __[⭐ 13,769]__
+    - [tboox / tbox](https://github.com/tboox/tbox) 🎁 A glib-like multi-platform c library __[⭐ 2,693]__
+    - [formulahendry / 955.WLB](https://github.com/formulahendry/955.WLB) 955 不加班的公司名单 __[⭐ 14,071]__
+    - [datawhalechina / pumpkin-book](https://github.com/datawhalechina/pumpkin-book) 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book __[⭐ 4,771]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 34,972]__
+    - [carykh / jumpcutter](https://github.com/carykh/jumpcutter) Automatically edits vidx. Explanation here: https://www.youtube.com/watch?v=DQ8orIurGxw __[⭐ 607]__
+    - [jaywcjlove / linux-command](https://github.com/jaywcjlove/linux-command) Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux __[⭐ 3,676]__
+    - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 25,007]__
+    - [majikarp / awesome-programming-books](https://github.com/majikarp/awesome-programming-books) 📚 A curated list of awesome programming books __[⭐ 418]__
+    - [Awesome-Windows / Awesome](https://github.com/Awesome-Windows/Awesome) 💻 An awesome & curated list of best applications and tools for Windows. __[⭐ 7,165]__
+    - [edgedb / edgedb](https://github.com/edgedb/edgedb) The next generation object-relational database. A @MagicStack project. __[⭐ 1,442]__
 - 20190412
     - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 209,912]__
     - [lib-pku / libpku](https://github.com/lib-pku/libpku) 贵校课程资料民间整理 __[⭐ 10,553]__
