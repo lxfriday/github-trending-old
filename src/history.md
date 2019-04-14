@@ -1,3 +1,29 @@
+- 20190414
+    - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 214,814]__
+    - [achael / eht-imaging](https://github.com/achael/eht-imaging) Imaging, analysis, and simulation software for radio interferometry __[⭐ 3,278]__
+    - [jhuangtw-dev / xg2xg](https://github.com/jhuangtw-dev/xg2xg) by ex-googlers, for ex-googlers - a lookup table of similar tech & services __[⭐ 3,835]__
+    - [lib-pku / libpku](https://github.com/lib-pku/libpku) 贵校课程资料民间整理 __[⭐ 11,570]__
+    - [VSCodium / vscodium](https://github.com/VSCodium/vscodium) binary releases of VS Code without MS branding/telemetry/licensing __[⭐ 2,888]__
+    - [521xueweihan / git-tips](https://github.com/521xueweihan/git-tips) Git的奇技淫巧 __[⭐ 3,614]__
+    - [PKUanonym / REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University __[⭐ C++]__
+    - [nerdgeneration / www.sh](https://github.com/nerdgeneration/www.sh) Web framework in Bash __[⭐ 278]__
+    - [formulahendry / 955.WLB](https://github.com/formulahendry/955.WLB) 955 不加班的公司名单 __[⭐ 14,329]__
+    - [QSCTech / zju-icicles](https://github.com/QSCTech/zju-icicles) 浙江大学课程攻略共享计划 __[⭐ 7,559]__
+    - [FrontendMasters / front-end-handbook-2019](https://github.com/FrontendMasters/front-end-handbook-2019) [Book] 2019 edition of our front-end development handbook __[⭐ 215]__
+    - [carykh / jumpcutter](https://github.com/carykh/jumpcutter) Automatically edits vidx. Explanation here: https://www.youtube.com/watch?v=DQ8orIurGxw __[⭐ 777]__
+    - [nndl / nndl.github.io](https://github.com/nndl/nndl.github.io) 《神经网络与深度学习》 Neural Network and Deep Learning __[⭐ 6,025]__
+    - [codex-team / editor.js](https://github.com/codex-team/editor.js) A block-styled editor with clean JSON output __[⭐ 6,503]__
+    - [twitter / twemoji](https://github.com/twitter/twemoji) Emoji for everyone. https://twemoji.twitter.com/ __[⭐ 9,306]__
+    - [majikarp / awesome-programming-books](https://github.com/majikarp/awesome-programming-books) 📚 A curated list of awesome programming books __[⭐ 566]__
+    - [stackshareio / awesome-stacks](https://github.com/stackshareio/awesome-stacks) A curated list of tech stacks for building different applications & features __[⭐ 795]__
+    - [USTC-Resource / USTC-Course](https://github.com/USTC-Resource/USTC-Course) ❤️中国科学技术大学课程资源 __[⭐ 4,285]__
+    - [LisaDziuba / Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) The best design tools for everything 👉 __[⭐ 13,895]__
+    - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 25,119]__
+    - [jaywcjlove / linux-command](https://github.com/jaywcjlove/linux-command) Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux __[⭐ 3,799]__
+    - [jeffgerickson / algorithms](https://github.com/jeffgerickson/algorithms) Bug-tracking for Jeff's algorithms book, notes, etc. __[⭐ 5,115]__
+    - [zhaoolee / ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) 🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ __[⭐ 4,757]__
+    - [ZXZxin / ZXBlog](https://github.com/ZXZxin/ZXBlog) 记录各种学习笔记(算法、Java、数据库、并发......) __[⭐ 899]__
+    - [datawhalechina / pumpkin-book](https://github.com/datawhalechina/pumpkin-book) 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book __[⭐ 4,864]__
 - 20190413
     - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 212,606]__
     - [achael / eht-imaging](https://github.com/achael/eht-imaging) Imaging, analysis, and simulation software for radio interferometry __[⭐ 2,555]__
