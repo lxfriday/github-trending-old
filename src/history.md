@@ -1,3 +1,29 @@
+- 20190416
+    - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 219,985]__
+    - [521xueweihan / git-tips](https://github.com/521xueweihan/git-tips) Git的奇技淫巧 __[⭐ 4,533]__
+    - [jhuangtw-dev / xg2xg](https://github.com/jhuangtw-dev/xg2xg) by ex-googlers, for ex-googlers - a lookup table of similar tech & services __[⭐ 4,746]__
+    - [SqueezerIO / squeezer](https://github.com/SqueezerIO/squeezer) Squeezer Framework - Build serverless dApps __[⭐ 1,432]__
+    - [ovity / octotree](https://github.com/ovity/octotree) GitHub code tree on steroids __[⭐ 16,127]__
+    - [achael / eht-imaging](https://github.com/achael/eht-imaging) Imaging, analysis, and simulation software for radio interferometry __[⭐ 4,127]__
+    - [lib-pku / libpku](https://github.com/lib-pku/libpku) 贵校课程资料民间整理 __[⭐ 12,254]__
+    - [Schachte / Mermrender](https://github.com/Schachte/Mermrender) 🧜‍♀️ RESTful rendering pipeline for generating sequence and UML diagrams using Mermaid for Markdown docs (Diagrams as a Service) __[⭐ 461]__
+    - [seek-oss / playroom](https://github.com/seek-oss/playroom) Design with JSX, powered by your own component library. __[⭐ 1,552]__
+    - [FrontendMasters / front-end-handbook-2019](https://github.com/FrontendMasters/front-end-handbook-2019) [Book] 2019 edition of our front-end development handbook __[⭐ 746]__
+    - [PKUanonym / REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University __[⭐ C++]__
+    - [VSCodium / vscodium](https://github.com/VSCodium/vscodium) binary releases of VS Code without MS branding/telemetry/licensing __[⭐ 3,339]__
+    - [ZXZxin / ZXBlog](https://github.com/ZXZxin/ZXBlog) 记录各种学习笔记(算法、Java、数据库、并发......) __[⭐ 1,277]__
+    - [QSCTech / zju-icicles](https://github.com/QSCTech/zju-icicles) 浙江大学课程攻略共享计划 __[⭐ 7,925]__
+    - [airuikun / Weekly-FE-Interview](https://github.com/airuikun/Weekly-FE-Interview) 每周十道前端大厂面试题，并收集大家在大厂面试中遇到的难题，一起共同成长。 __[⭐ 561]__
+    - [Awesome-Windows / Awesome](https://github.com/Awesome-Windows/Awesome) 💻 An awesome & curated list of best applications and tools for Windows. __[⭐ 7,516]__
+    - [NVlabs / SPADE](https://github.com/NVlabs/SPADE) Semantic Image Synthesis with SPADE __[⭐ 3,335]__
+    - [spaceuptech / space-cloud](https://github.com/spaceuptech/space-cloud) Space Cloud is an open source, web server that provides instant Realtime APIs on any database of your choice. Build highly scalable apps with the agility of a prototype! __[⭐ 696]__
+    - [nndl / nndl.github.io](https://github.com/nndl/nndl.github.io) 《神经网络与深度学习》 Neural Network and Deep Learning __[⭐ 6,385]__
+    - [formulahendry / 955.WLB](https://github.com/formulahendry/955.WLB) 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡) __[⭐ 14,691]__
+    - [org-rs / org-rs](https://github.com/org-rs/org-rs) org-mode parser rewrite in Rust __[⭐ 403]__
+    - [codex-team / editor.js](https://github.com/codex-team/editor.js) A block-styled editor with clean JSON output __[⭐ 6,831]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 35,301]__
+    - [zhaoolee / ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) 🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ __[⭐ 5,046]__
+    - [carykh / jumpcutter](https://github.com/carykh/jumpcutter) Automatically edits vidx. Explanation here: https://www.youtube.com/watch?v=DQ8orIurGxw __[⭐ 1,100]__
 - 20190415
     - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 217,646]__
     - [jhuangtw-dev / xg2xg](https://github.com/jhuangtw-dev/xg2xg) by ex-googlers, for ex-googlers - a lookup table of similar tech & services __[⭐ 4,438]__
