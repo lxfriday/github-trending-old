@@ -1,3 +1,29 @@
+- 20190423
+    - [cool-RR / PySnooper](https://github.com/cool-RR/PySnooper) Never use print for debugging again __[⭐ 2,375]__
+    - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 230,058]__
+    - [chrismaltby / gb-studio](https://github.com/chrismaltby/gb-studio) Visual retro game maker __[⭐ 1,973]__
+    - [bilibili / kratos](https://github.com/bilibili/kratos) Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。 __[⭐ 1,304]__
+    - [3b1b / manim](https://github.com/3b1b/manim) Animation engine for explanatory math videos __[⭐ 8,375]__
+    - [RomuloOliveira / commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide) A guide to understand the importance of commit messages and how to write them well __[⭐ 2,584]__
+    - [codercom / sshcode](https://github.com/codercom/sshcode) Run VS Code on any server over SSH. __[⭐ 1,082]__
+    - [Louiszhai / tool](https://github.com/Louiszhai/tool) 开发效率提升：Mac生产力工具链推荐 __[⭐ 1,746]__
+    - [apachecn / AiLearning](https://github.com/apachecn/AiLearning) AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP __[⭐ 11,650]__
+    - [Microsoft / BosqueLanguage](https://github.com/Microsoft/BosqueLanguage) The Bosque programming language is an experiment in regularized design for a machine assisted rapid and reliable software development lifecycle. __[⭐ 3,110]__
+    - [521xueweihan / git-tips](https://github.com/521xueweihan/git-tips) Git的奇技淫巧 __[⭐ 7,600]__
+    - [mikolajdobrucki / ikonate](https://github.com/mikolajdobrucki/ikonate) fully customisable & accessible vector icons __[⭐ 1,754]__
+    - [leandromoreira / linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) Learn where some of the network sysctl variables fit into the Linux/Kernel network flow __[⭐ 1,003]__
+    - [lib-pku / libpku](https://github.com/lib-pku/libpku) 贵校课程资料民间整理 __[⭐ 15,040]__
+    - [jaywcjlove / linux-command](https://github.com/jaywcjlove/linux-command) Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux __[⭐ 4,398]__
+    - [tmrts / go-patterns](https://github.com/tmrts/go-patterns) Curated list of Go design patterns, recipes and idioms __[⭐ 9,160]__
+    - [QSCTech / zju-icicles](https://github.com/QSCTech/zju-icicles) 浙江大学课程攻略共享计划 __[⭐ 9,964]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 36,407]__
+    - [Alikhll / golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) Roadmap to becoming a Go developer in 2019 __[⭐ 1,904]__
+    - [CPdogson / 996action](https://github.com/CPdogson/996action)  __[⭐ 483]__
+    - [kasuganosoras / cxk-ball](https://github.com/kasuganosoras/cxk-ball) 🏀 Javascript 实现的 CXK 打篮球游戏 __[⭐ 604]__
+    - [codercom / code-server](https://github.com/codercom/code-server) Run VS Code on a remote server. __[⭐ 16,670]__
+    - [zhaoolee / ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) 🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ __[⭐ 6,413]__
+    - [Unknwon / the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN) 《The Way to Go》中文译本，中文正式名《Go 入门指南》 __[⭐ 13,918]__
+    - [sveltejs / svelte](https://github.com/sveltejs/svelte) Cybernetically enhanced web apps __[⭐ 10,047]__
 - 20190422
     - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 229,446]__
     - [chrismaltby / gb-studio](https://github.com/chrismaltby/gb-studio) Visual retro game maker __[⭐ 1,120]__
