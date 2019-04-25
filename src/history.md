@@ -1,3 +1,29 @@
+- 20190425
+    - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 236,831]__
+    - [MSWorkers / support.996.ICU](https://github.com/MSWorkers/support.996.ICU) Microsoft and GitHub Workers Support 996.ICU __[⭐ 6,919]__
+    - [cool-RR / PySnooper](https://github.com/cool-RR/PySnooper) Never use print for debugging again __[⭐ 6,652]__
+    - [gcla / termshark](https://github.com/gcla/termshark) A terminal UI for tshark, inspired by Wireshark __[⭐ 2,833]__
+    - [Alikhll / golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) Roadmap to becoming a Go developer in 2019 __[⭐ 2,886]__
+    - [sveltejs / svelte](https://github.com/sveltejs/svelte) Cybernetically enhanced web apps __[⭐ 11,460]__
+    - [EtherDream / jsproxy](https://github.com/EtherDream/jsproxy) 一个基于浏览器端 JS 实现的在线代理 __[⭐ 2,303]__
+    - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 7,317]__
+    - [github / dmca](https://github.com/github/dmca) Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at __[⭐ 2,500]__
+    - [cloudkj / layer](https://github.com/cloudkj/layer) Neural network inference the Unix way __[⭐ 367]__
+    - [dotnet / spark](https://github.com/dotnet/spark) .NET for Apache® Spark™ makes Apache Spark™ easily accessible to .NET developers. __[⭐ 355]__
+    - [uber / cadence](https://github.com/uber/cadence) Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way. __[⭐ 1,596]__
+    - [chrismaltby / gb-studio](https://github.com/chrismaltby/gb-studio) Visual retro game maker __[⭐ 3,115]__
+    - [alex-cory / use-http](https://github.com/alex-cory/use-http) 🐶 React hook for making isomorphic http requests __[⭐ 427]__
+    - [bilibili / kratos](https://github.com/bilibili/kratos) Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。 __[⭐ 2,408]__
+    - [RomuloOliveira / commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide) A guide to understand the importance of commit messages and how to write them well __[⭐ 3,347]__
+    - [521xueweihan / git-tips](https://github.com/521xueweihan/git-tips) Git的奇技淫巧 __[⭐ 8,312]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 36,961]__
+    - [arturbien / React95](https://github.com/arturbien/React95) 🌈🕹 Refreshed Windows 95 style UI components for your React app __[⭐ 2,301]__
+    - [delta-io / delta](https://github.com/delta-io/delta) An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads. __[⭐ 446]__
+    - [Louiszhai / tool](https://github.com/Louiszhai/tool) 开发效率提升：Mac生产力工具链推荐 __[⭐ 2,420]__
+    - [Quorafind / golang-developer-roadmap-cn](https://github.com/Quorafind/golang-developer-roadmap-cn) 在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。 __[⭐ 82]__
+    - [php-is-the-best-language-in-the-world / php-is-the-best-language-in-the-world.com](https://github.com/php-is-the-best-language-in-the-world/php-is-the-best-language-in-the-world.com) PHP is the best language in the world. __[⭐ 229]__
+    - [swituo / openbilibili-go-common](https://github.com/swituo/openbilibili-go-common) 🙈！🙉！🙊！我不清楚这些是啥… 道德心泛滥的麻烦出门右转关注996.icu！ __[⭐ Go]__
+    - [GitSquared / edex-ui](https://github.com/GitSquared/edex-ui) A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. __[⭐ 8,957]__
 - 20190423
     - [cool-RR / PySnooper](https://github.com/cool-RR/PySnooper) Never use print for debugging again __[⭐ 2,375]__
     - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 230,058]__
