@@ -1,3 +1,29 @@
+- 20190426
+    - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 237,542]__
+    - [MSWorkers / support.996.ICU](https://github.com/MSWorkers/support.996.ICU) Microsoft and GitHub Workers Support 996.ICU __[⭐ 7,325]__
+    - [cool-RR / PySnooper](https://github.com/cool-RR/PySnooper) Never use print for debugging again __[⭐ 7,044]__
+    - [Alikhll / golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) Roadmap to becoming a Go developer in 2019 __[⭐ 3,239]__
+    - [rhysd / vim.wasm](https://github.com/rhysd/vim.wasm) Vim editor ported to WebAssembly __[⭐ 3,733]__
+    - [gcla / termshark](https://github.com/gcla/termshark) A terminal UI for tshark, inspired by Wireshark __[⭐ 3,082]__
+    - [Quorafind / golang-developer-roadmap-cn](https://github.com/Quorafind/golang-developer-roadmap-cn) 在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。 __[⭐ 110]__
+    - [sveltejs / svelte](https://github.com/sveltejs/svelte) Cybernetically enhanced web apps __[⭐ 11,747]__
+    - [dotnet / spark](https://github.com/dotnet/spark) .NET for Apache® Spark™ makes Apache Spark™ easily accessible to .NET developers. __[⭐ 575]__
+    - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 26,127]__
+    - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 7,492]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 61,237]__
+    - [nubank / fklearn](https://github.com/nubank/fklearn) fklearn: Functional Machine Learning __[⭐ 487]__
+    - [agalwood / Motrix](https://github.com/agalwood/Motrix) A full-featured download manager. __[⭐ 8,495]__
+    - [Louiszhai / tool](https://github.com/Louiszhai/tool) 开发效率提升：Mac生产力工具链推荐 __[⭐ 2,566]__
+    - [EtherDream / jsproxy](https://github.com/EtherDream/jsproxy) 一个基于浏览器端 JS 实现的在线代理 __[⭐ 2,411]__
+    - [haoel / leetcode](https://github.com/haoel/leetcode) LeetCode Problems' Solutions __[⭐ 9,871]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 37,091]__
+    - [GitSquared / edex-ui](https://github.com/GitSquared/edex-ui) A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. __[⭐ 9,094]__
+    - [bilibili / kratos](https://github.com/bilibili/kratos) Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。 __[⭐ 2,529]__
+    - [RomuloOliveira / commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide) A guide to understand the importance of commit messages and how to write them well __[⭐ 3,513]__
+    - [delta-io / delta](https://github.com/delta-io/delta) An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads. __[⭐ 553]__
+    - [chrismaltby / gb-studio](https://github.com/chrismaltby/gb-studio) Visual retro game maker __[⭐ 3,239]__
+    - [521xueweihan / git-tips](https://github.com/521xueweihan/git-tips) Git的奇技淫巧 __[⭐ 8,409]__
+    - [arturbien / React95](https://github.com/arturbien/React95) 🌈🕹 Refreshed Windows 95 style UI components for your React app __[⭐ 2,427]__
 - 20190425
     - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 236,831]__
     - [MSWorkers / support.996.ICU](https://github.com/MSWorkers/support.996.ICU) Microsoft and GitHub Workers Support 996.ICU __[⭐ 6,919]__
