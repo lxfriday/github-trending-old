@@ -1,3 +1,29 @@
+- 20190428
+    - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 27,619]__
+    - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 238,697]__
+    - [transloadit / uppy](https://github.com/transloadit/uppy) The next open source file uploader for web browsers 🐶 __[⭐ 17,005]__
+    - [cool-RR / PySnooper](https://github.com/cool-RR/PySnooper) Never use print for debugging again __[⭐ 7,792]__
+    - [sveltejs / svelte](https://github.com/sveltejs/svelte) Cybernetically enhanced web apps __[⭐ 12,341]__
+    - [vsoch / watchme](https://github.com/vsoch/watchme) Reproducible watchers for research __[⭐ 510]__
+    - [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) leetcode题解，记录自己的leecode解题之路。 __[⭐ 740]__
+    - [leggett / simplify](https://github.com/leggett/simplify) Chrome extension to simplify Gmail's interface __[⭐ 781]__
+    - [taylorconor / quinesnake](https://github.com/taylorconor/quinesnake) A quine that plays snake over its own source! __[⭐ 243]__
+    - [uber-web / baseui](https://github.com/uber-web/baseui) A React Component library implementing the Base design language __[⭐ 996]__
+    - [MSWorkers / support.996.ICU](https://github.com/MSWorkers/support.996.ICU) Microsoft and GitHub Workers Support 996.ICU __[⭐ 7,836]__
+    - [gcla / termshark](https://github.com/gcla/termshark) A terminal UI for tshark, inspired by Wireshark __[⭐ 3,497]__
+    - [caneco / design-tips](https://github.com/caneco/design-tips) The “🔥 Design Tips” series, now in TailwindCSS __[⭐ 224]__
+    - [shipshapecode / shepherd](https://github.com/shipshapecode/shepherd) Guide your users through a tour of your app __[⭐ 6,310]__
+    - [RomuloOliveira / commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide) A guide to understand the importance of commit messages and how to write them well __[⭐ 3,867]__
+    - [Alikhll / golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) Roadmap to becoming a Go developer in 2019 __[⭐ 3,653]__
+    - [dexon-foundation / dexon](https://github.com/dexon-foundation/dexon) Official golang DEXON fullnode implementation __[⭐ 307]__
+    - [ivanceras / sauron](https://github.com/ivanceras/sauron) Sauron is an html web framework for building web-apps. It is heavily inspired by elm. __[⭐ 515]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 37,335]__
+    - [Quorafind / golang-developer-roadmap-cn](https://github.com/Quorafind/golang-developer-roadmap-cn) 在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。 __[⭐ 135]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 61,495]__
+    - [abhat222 / Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) Cheat Sheets __[⭐ 2,344]__
+    - [nhooyr / websocket](https://github.com/nhooyr/websocket) A minimal and idiomatic WebSocket library for Go __[⭐ 182]__
+    - [bilibili / kratos](https://github.com/bilibili/kratos) Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。 __[⭐ 2,874]__
+    - [GitSquared / edex-ui](https://github.com/GitSquared/edex-ui) A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. __[⭐ 9,389]__
 - 20190427
     - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 238,397]__
     - [cool-RR / PySnooper](https://github.com/cool-RR/PySnooper) Never use print for debugging again __[⭐ 7,588]__
