@@ -1,3 +1,29 @@
+- 20190429
+    - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 31,569]__
+    - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 239,823]__
+    - [abhat222 / Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) Cheat Sheets __[⭐ 3,138]__
+    - [transloadit / uppy](https://github.com/transloadit/uppy) The next open source file uploader for web browsers 🐶 __[⭐ 17,826]__
+    - [didi / DoraemonKit](https://github.com/didi/DoraemonKit) 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。 __[⭐ 7,398]__
+    - [MSWorkers / support.996.ICU](https://github.com/MSWorkers/support.996.ICU) Microsoft and GitHub Workers Support 996.ICU __[⭐ 8,461]__
+    - [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) leetcode题解，记录自己的leecode解题之路。 __[⭐ 1,379]__
+    - [cool-RR / PySnooper](https://github.com/cool-RR/PySnooper) Never use print for debugging again __[⭐ 8,353]__
+    - [cknd / stackprinter](https://github.com/cknd/stackprinter) Debugging-friendly tracebacks for Python __[⭐ 339]__
+    - [jaywcjlove / linux-command](https://github.com/jaywcjlove/linux-command) Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux __[⭐ 5,133]__
+    - [Quorafind / golang-developer-roadmap-cn](https://github.com/Quorafind/golang-developer-roadmap-cn) 在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。 __[⭐ 173]__
+    - [shipshapecode / shepherd](https://github.com/shipshapecode/shepherd) Guide your users through a tour of your app __[⭐ 6,706]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 37,678]__
+    - [sveltejs / svelte](https://github.com/sveltejs/svelte) Cybernetically enhanced web apps __[⭐ 12,663]__
+    - [kaina404 / FlutterDouBan](https://github.com/kaina404/FlutterDouBan) 🔥🔥🔥Flutter豆瓣客户端,全网最100%还原豆瓣客户端。首页、书影音、小组、市集及个人中心，一个不拉 https://img.xuvip.top/douyademo.mp4 __[⭐ 377]__
+    - [Louiszhai / tool](https://github.com/Louiszhai/tool) 开发效率提升：Mac生产力工具链推荐 __[⭐ 3,124]__
+    - [nhooyr / websocket](https://github.com/nhooyr/websocket) A minimal and idiomatic WebSocket library for Go __[⭐ 497]__
+    - [bilibili / kratos](https://github.com/bilibili/kratos) Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。 __[⭐ 3,176]__
+    - [apache / skywalking](https://github.com/apache/skywalking) APM, Application Performance Monitoring System __[⭐ 7,902]__
+    - [kezhenxu94 / mini-github](https://github.com/kezhenxu94/mini-github) GitHub WeChat Mini Program (可能是功能最全的 GitHub 微信小程序) __[⭐ 685]__
+    - [Binaryify / NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) 网易云音乐 Node.js API service __[⭐ 8,555]__
+    - [H4ckForJob / dirmap](https://github.com/H4ckForJob/dirmap) An advanced web directory scanning tool that will be more powerful than DirBuster, Dirsearch, cansina, and Yu Jian.一个高级web目录扫描工具，功能将会强于DirBuster、Dirsearch、cansina、御剑。 __[⭐ 281]__
+    - [taylorconor / quinesnake](https://github.com/taylorconor/quinesnake) A quine that plays snake over its own source! __[⭐ 482]__
+    - [zincPower / UI2018](https://github.com/zincPower/UI2018) 安卓高级UI代码整理和博客代码Demo __[⭐ 567]__
+    - [ZXZxin / ZXBlog](https://github.com/ZXZxin/ZXBlog) 记录各种学习笔记(算法、Java、数据库、并发......) __[⭐ 2,058]__
 - 20190428
     - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 27,619]__
     - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 238,697]__
