@@ -1,3 +1,29 @@
+- 20190501
+    - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 33,307]__
+    - [robb0wen / synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) Synthwave inspired colour theme for VS Code 🌅🕶 __[⭐ 843]__
+    - [palmerhq / tsdx](https://github.com/palmerhq/tsdx) Zero-config CLI for TypeScript package development __[⭐ 905]__
+    - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 240,604]__
+    - [abhat222 / Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) Cheat Sheets __[⭐ 3,916]__
+    - [S-March / smarchWatch_PUBLIC](https://github.com/S-March/smarchWatch_PUBLIC)  __[⭐ 389]__
+    - [transloadit / uppy](https://github.com/transloadit/uppy) The next open source file uploader for web browsers 🐶 __[⭐ 18,463]__
+    - [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) leetcode题解，记录自己的leecode解题之路。 __[⭐ 1,853]__
+    - [jaywcjlove / linux-command](https://github.com/jaywcjlove/linux-command) Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux __[⭐ 5,482]__
+    - [sveltejs / svelte](https://github.com/sveltejs/svelte) Cybernetically enhanced web apps __[⭐ 13,040]__
+    - [vadimdemedes / pastel](https://github.com/vadimdemedes/pastel) 🎨 Framework for effortlessly building Ink apps __[⭐ 260]__
+    - [shipshapecode / shepherd](https://github.com/shipshapecode/shepherd) Guide your users through a tour of your app __[⭐ 7,034]__
+    - [soul-lang / SOUL](https://github.com/soul-lang/SOUL) The SOUL programming language and API __[⭐ 416]__
+    - [Microsoft / SymCrypt](https://github.com/Microsoft/SymCrypt) Cryptographic library __[⭐ 225]__
+    - [MSWorkers / support.996.ICU](https://github.com/MSWorkers/support.996.ICU) Microsoft and GitHub Workers Support 996.ICU __[⭐ 8,755]__
+    - [vislyhq / stretch](https://github.com/vislyhq/stretch) High performance flexbox implementation written in rust __[⭐ 657]__
+    - [mwouts / jupytext](https://github.com/mwouts/jupytext) Jupyter notebooks as Markdown documents, Julia, Python or R scripts __[⭐ 2,043]__
+    - [cknd / stackprinter](https://github.com/cknd/stackprinter) Debugging-friendly tracebacks for Python __[⭐ 627]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识 __[⭐ 59,130]__
+    - [p-ranav / pprint](https://github.com/p-ranav/pprint) Pretty Printer for Modern C++ __[⭐ 336]__
+    - [Quorafind / golang-developer-roadmap-cn](https://github.com/Quorafind/golang-developer-roadmap-cn) 在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。 __[⭐ 192]__
+    - [cool-RR / PySnooper](https://github.com/cool-RR/PySnooper) Never use print for debugging again __[⭐ 8,649]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 37,874]__
+    - [RomuloOliveira / commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide) A guide to understand the importance of commit messages and how to write them well __[⭐ 4,255]__
+    - [kaina404 / FlutterDouBan](https://github.com/kaina404/FlutterDouBan) 🔥🔥🔥Flutter豆瓣客户端,全网最100%还原豆瓣客户端。首页、书影音、小组、市集及个人中心，一个不拉 https://img.xuvip.top/douyademo.mp4 __[⭐ 604]__
 - 20190429
     - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 31,569]__
     - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 239,823]__
