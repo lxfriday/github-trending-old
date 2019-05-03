@@ -1,3 +1,29 @@
+- 20190503
+    - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 9,284]__
+    - [robb0wen / synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) Synthwave inspired colour theme for VS Code 🌅🕶 __[⭐ 1,872]__
+    - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 34,226]__
+    - [abhat222 / Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) Cheat Sheets __[⭐ 4,606]__
+    - [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) leetcode题解，记录自己的leecode解题之路。 __[⭐ 2,710]__
+    - [pytorch / botorch](https://github.com/pytorch/botorch) Bayesian optimization in PyTorch __[⭐ 435]__
+    - [HFO4 / gameboy.live](https://github.com/HFO4/gameboy.live) 🕹️ A basic gameboy emulator with terminal "Cloud Gaming" support __[⭐ 673]__
+    - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 241,057]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 18,177]__
+    - [czy36mengfei / tensorflow2_tutorials_chinese](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese) tensorflow2中文教程，持续更新(当前版本:tensorflow2.0)，tag: tensorflow 2.0 tutorials __[⭐ 593]__
+    - [facebook / Ax](https://github.com/facebook/Ax) Adaptive Experimentation Platform __[⭐ 305]__
+    - [agentofuser / ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) Zero-Config CLI to Deploy Static Websites to IPFS __[⭐ 250]__
+    - [vadimdemedes / pastel](https://github.com/vadimdemedes/pastel) 🎨 Framework for effortlessly building Ink apps __[⭐ 654]__
+    - [Novvum / graphql-birdseye](https://github.com/Novvum/graphql-birdseye) View any GraphQL schema as a dynamic and interactive graph. 🦅 __[⭐ 390]__
+    - [sveltejs / svelte](https://github.com/sveltejs/svelte) Cybernetically enhanced web apps __[⭐ 13,305]__
+    - [jaywcjlove / linux-command](https://github.com/jaywcjlove/linux-command) Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux __[⭐ 5,721]__
+    - [palmerhq / tsdx](https://github.com/palmerhq/tsdx) Zero-config CLI for TypeScript package development __[⭐ 1,240]__
+    - [RomuloOliveira / commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide) A guide to understand the importance of commit messages and how to write them well __[⭐ 4,494]__
+    - [jefflombard / ui-libraries](https://github.com/jefflombard/ui-libraries) A collection of UI Frameworks and their platform implementations. __[⭐ 346]__
+    - [transloadit / uppy](https://github.com/transloadit/uppy) The next open source file uploader for web browsers 🐶 __[⭐ 18,713]__
+    - [cool-RR / PySnooper](https://github.com/cool-RR/PySnooper) Never use print for debugging again __[⭐ 8,877]__
+    - [faastjs / faast.js](https://github.com/faastjs/faast.js) Serverless batch computing made simple. __[⭐ 366]__
+    - [S-March / smarchWatch_PUBLIC](https://github.com/S-March/smarchWatch_PUBLIC)  __[⭐ 729]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识 __[⭐ 59,303]__
+    - [dexon-foundation / dexon](https://github.com/dexon-foundation/dexon) Official golang DEXON fullnode implementation __[⭐ 396]__
 - 20190502
     - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 33,728]__
     - [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) leetcode题解，记录自己的leecode解题之路。 __[⭐ 2,323]__
