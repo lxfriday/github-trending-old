@@ -1,3 +1,29 @@
+- 20190504
+    - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 10,258]__
+    - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 34,801]__
+    - [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) leetcode题解，记录自己的leetcode解题之路。 __[⭐ 3,098]__
+    - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 241,378]__
+    - [indragiek / InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger) A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging __[⭐ 452]__
+    - [faastjs / faast.js](https://github.com/faastjs/faast.js) Serverless batch computing made simple. __[⭐ 709]__
+    - [abhat222 / Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) Cheat Sheets __[⭐ 4,892]__
+    - [robb0wen / synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) Synthwave inspired colour theme for VS Code 🌅🕶 __[⭐ 2,158]__
+    - [liamg / tml](https://github.com/liamg/tml) 🌈💻🎨 A tiny markup language for terminal output. Makes formatting output in CLI apps easier! __[⭐ 269]__
+    - [alex-cory / use-http](https://github.com/alex-cory/use-http) 🐶 React hook for making isomorphic http requests __[⭐ 746]__
+    - [HFO4 / gameboy.live](https://github.com/HFO4/gameboy.live) 🕹️ A basic gameboy emulator with terminal "Cloud Gaming" support __[⭐ 911]__
+    - [dexon-foundation / dexon](https://github.com/dexon-foundation/dexon) Official golang DEXON fullnode implementation __[⭐ 625]__
+    - [nondanee / UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) Revive unavailable songs for Netease Cloud Music __[⭐ 1,197]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 18,383]__
+    - [RomuloOliveira / commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide) A guide to understand the importance of commit messages and how to write them well __[⭐ 4,675]__
+    - [czy36mengfei / tensorflow2_tutorials_chinese](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese) tensorflow2中文教程，持续更新(当前版本:tensorflow2.0)，tag: tensorflow 2.0 tutorials __[⭐ 789]__
+    - [GoogleCloudPlatform / terraformer](https://github.com/GoogleCloudPlatform/terraformer) CLI tool to generate terraform files from existing infrastructure (reverse Terraform). __[⭐ 229]__
+    - [mum4k / termdash](https://github.com/mum4k/termdash) Terminal based dashboard. __[⭐ 385]__
+    - [i0natan / nodebestpractices](https://github.com/i0natan/nodebestpractices) ✅ The largest Node.js best practices list (April 2019) __[⭐ 27,578]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计 __[⭐ 59,448]__
+    - [maddiestone / AndroidAppRE](https://github.com/maddiestone/AndroidAppRE) Android App Reverse Engineering Workshop __[⭐ 253]__
+    - [sveltejs / svelte](https://github.com/sveltejs/svelte) Cybernetically enhanced web apps __[⭐ 13,441]__
+    - [jaywcjlove / linux-command](https://github.com/jaywcjlove/linux-command) Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux __[⭐ 5,862]__
+    - [codex-team / editor.js](https://github.com/codex-team/editor.js) A block-styled editor with clean JSON output __[⭐ 7,789]__
+    - [lib-pku / libpku](https://github.com/lib-pku/libpku) 贵校课程资料民间整理 __[⭐ 16,075]__
 - 20190503
     - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 9,284]__
     - [robb0wen / synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) Synthwave inspired colour theme for VS Code 🌅🕶 __[⭐ 1,872]__
