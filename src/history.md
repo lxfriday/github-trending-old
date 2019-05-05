@@ -1,3 +1,29 @@
+- 20190505
+    - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 11,433]__
+    - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 35,259]__
+    - [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) leetcode题解，记录自己的leetcode解题之路。 __[⭐ 3,531]__
+    - [mlabouardy / komiser](https://github.com/mlabouardy/komiser) AWS Environment Inspector 👮 __[⭐ 1,009]__
+    - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 241,668]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 18,685]__
+    - [dexon-foundation / dexon](https://github.com/dexon-foundation/dexon) Official golang DEXON fullnode implementation __[⭐ 854]__
+    - [indragiek / InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger) A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging __[⭐ 718]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计 __[⭐ 59,622]__
+    - [manifold-systems / manifold](https://github.com/manifold-systems/manifold) Manifold re-energizes Java with powerful features like Type-safe Metaprogramming, Structural Typing, and Extension Methods. __[⭐ 347]__
+    - [HFO4 / gameboy.live](https://github.com/HFO4/gameboy.live) 🕹️ A basic gameboy emulator with terminal "Cloud Gaming" support __[⭐ 1,090]__
+    - [robb0wen / synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) Synthwave inspired colour theme for VS Code 🌅🕶 __[⭐ 2,313]__
+    - [lib-pku / libpku](https://github.com/lib-pku/libpku) 贵校课程资料民间整理 __[⭐ 16,232]__
+    - [jaywcjlove / linux-command](https://github.com/jaywcjlove/linux-command) Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux __[⭐ 6,013]__
+    - [nondanee / UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) Revive unavailable songs for Netease Cloud Music __[⭐ 1,349]__
+    - [GoogleCloudPlatform / terraformer](https://github.com/GoogleCloudPlatform/terraformer) CLI tool to generate terraform files from existing infrastructure (reverse Terraform). __[⭐ 396]__
+    - [czy36mengfei / tensorflow2_tutorials_chinese](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese) tensorflow2中文教程，持续更新(当前版本:tensorflow2.0)，tag: tensorflow 2.0 tutorials __[⭐ 958]__
+    - [i0natan / nodebestpractices](https://github.com/i0natan/nodebestpractices) ✅ The largest Node.js best practices list (April 2019) __[⭐ 27,718]__
+    - [monzo / response](https://github.com/monzo/response) Monzo's real-time incident response and reporting tool ⚡️ __[⭐ 265]__
+    - [faastjs / faast.js](https://github.com/faastjs/faast.js) Serverless batch computing made simple. __[⭐ 840]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 38,188]__
+    - [liamg / tml](https://github.com/liamg/tml) 🌈💻🎨 A tiny markup language for terminal output. Makes formatting output in CLI apps easier! __[⭐ 382]__
+    - [firmai / industry-machine-learning](https://github.com/firmai/industry-machine-learning) A curated list of applied machine learning and data science notebooks and libraries accross different industries. __[⭐ 226]__
+    - [aimerforreimu / auxpi](https://github.com/aimerforreimu/auxpi) 🍭 集合多家 API 的新一代图床 __[⭐ 696]__
+    - [sveltejs / svelte](https://github.com/sveltejs/svelte) Cybernetically enhanced web apps __[⭐ 13,557]__
 - 20190504
     - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 10,258]__
     - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 34,801]__
