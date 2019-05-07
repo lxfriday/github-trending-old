@@ -1,3 +1,29 @@
+- 20190507
+    - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 14,776]__
+    - [microsoft / Terminal](https://github.com/microsoft/Terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 4,442]__
+    - [dexon-foundation / dexon](https://github.com/dexon-foundation/dexon) Official golang DEXON fullnode implementation __[⭐ 2,019]__
+    - [dgryski / go-perfbook](https://github.com/dgryski/go-perfbook) Thoughts on Go performance optimization __[⭐ 5,178]__
+    - [dexon-foundation / dexon-consensus](https://github.com/dexon-foundation/dexon-consensus) DEXON consensus Implementation & Simulation __[⭐ 1,132]__
+    - [alibaba / MNN](https://github.com/alibaba/MNN) MNN is a lightweight deep neural network inference engine. __[⭐ 794]__
+    - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 36,290]__
+    - [sql-machine-learning / sqlflow](https://github.com/sql-machine-learning/sqlflow) Brings SQL and AI together. __[⭐ 695]__
+    - [microsoft / react-native-windows](https://github.com/microsoft/react-native-windows) A framework for building native Windows apps with React. __[⭐ 6,705]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 19,674]__
+    - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 242,337]__
+    - [wildfirechat / server](https://github.com/wildfirechat/server) 全开源即时通讯(IM)系统 __[⭐ 1,494]__
+    - [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) __[⭐ 4,331]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计 __[⭐ 60,138]__
+    - [mlabouardy / komiser](https://github.com/mlabouardy/komiser) AWS Environment Inspector 👮 __[⭐ 1,474]__
+    - [i0natan / nodebestpractices](https://github.com/i0natan/nodebestpractices) ✅ The largest Node.js best practices list (April 2019) __[⭐ 28,093]__
+    - [eBay / beam](https://github.com/eBay/beam) A distributed knowledge graph store __[⭐ 1,042]__
+    - [cdr / code-server](https://github.com/cdr/code-server) Run VS Code on a remote server. __[⭐ 18,323]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 38,491]__
+    - [lionsoul2014 / ip2region](https://github.com/lionsoul2014/ip2region) Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is less then 5Mb with all ip address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm __[⭐ 6,160]__
+    - [sveltejs / svelte](https://github.com/sveltejs/svelte) Cybernetically enhanced web apps __[⭐ 13,889]__
+    - [robb0wen / synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) Synthwave inspired colour theme for VS Code 🌅🕶 __[⭐ 2,630]__
+    - [txthinking / mr2](https://github.com/txthinking/mr2) Expose local server to external network __[⭐ 416]__
+    - [aimerforreimu / auxpi](https://github.com/aimerforreimu/auxpi) 🍭 集合多家 API 的新一代图床 __[⭐ 1,185]__
+    - [indragiek / InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger) A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging __[⭐ 1,060]__
 - 20190505
     - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 11,433]__
     - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 35,259]__
