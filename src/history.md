@@ -1,3 +1,29 @@
+- 20190508
+    - [microsoft / Terminal](https://github.com/microsoft/Terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 23,868]__
+    - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 17,920]__
+    - [flutter / flutter_web](https://github.com/flutter/flutter_web) Bring your Flutter code to web browsers __[⭐ 1,082]__
+    - [microsoft / react-native-windows](https://github.com/microsoft/react-native-windows) A framework for building native Windows apps with React. __[⭐ 7,988]__
+    - [dgryski / go-perfbook](https://github.com/dgryski/go-perfbook) Thoughts on Go performance optimization __[⭐ 6,458]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 20,633]__
+    - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 37,199]__
+    - [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) __[⭐ 5,157]__
+    - [sql-machine-learning / sqlflow](https://github.com/sql-machine-learning/sqlflow) Brings SQL and AI together. __[⭐ 1,354]__
+    - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 242,883]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计 __[⭐ 60,597]__
+    - [microsoft / PowerToys](https://github.com/microsoft/PowerToys) Windows system utilities to maximize productivity __[⭐ 601]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 62,555]__
+    - [alibaba / MNN](https://github.com/alibaba/MNN) MNN is a lightweight deep neural network inference engine. __[⭐ 1,251]__
+    - [kedacore / keda](https://github.com/kedacore/keda) KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes __[⭐ 530]__
+    - [microsoft / vscode](https://github.com/microsoft/vscode) Visual Studio Code __[⭐ 75,283]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 38,807]__
+    - [JackJiang2011 / MobileIMSDK](https://github.com/JackJiang2011/MobileIMSDK) 一个专为移动端开发的原创即时通讯框架，超轻量级、高度提炼，完全基于UDP协议，支持iOS、Android、标准Java平台，服务端基于Mina和Netty编写。 __[⭐ 2,115]__
+    - [devias-io / react-material-dashboard](https://github.com/devias-io/react-material-dashboard) React Dashboard made with Material UI’s components, React and of course create-react-app to boost your app development process! __[⭐ 428]__
+    - [i0natan / nodebestpractices](https://github.com/i0natan/nodebestpractices) ✅ The largest Node.js best practices list (April 2019) __[⭐ 28,394]__
+    - [wildfirechat / server](https://github.com/wildfirechat/server) 全开源即时通讯(IM)系统 __[⭐ 1,827]__
+    - [baidu / amis](https://github.com/baidu/amis) 一种基于特定 JSON 格式生成 MIS 页面的工具 __[⭐ 458]__
+    - [zeit / hyper](https://github.com/zeit/hyper) A terminal built on web technologies __[⭐ 28,907]__
+    - [cool-RR / PySnooper](https://github.com/cool-RR/PySnooper) Never use print for debugging again __[⭐ 9,593]__
+    - [cdr / code-server](https://github.com/cdr/code-server) Run VS Code on a remote server. __[⭐ 18,577]__
 - 20190507
     - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 14,776]__
     - [microsoft / Terminal](https://github.com/microsoft/Terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 4,442]__
