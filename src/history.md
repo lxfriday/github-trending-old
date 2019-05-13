@@ -1,3 +1,29 @@
+- 20190513
+    - [microsoft / Terminal](https://github.com/microsoft/Terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 34,694]__
+    - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 22,809]__
+    - [machinelearningmindset / machine-learning-course](https://github.com/machinelearningmindset/machine-learning-course) 💬 Machine Learning Course with Python __[⭐ 1,120]__
+    - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 38,637]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 22,873]__
+    - [GoogleChromeLabs / comlink](https://github.com/GoogleChromeLabs/comlink) Comlink makes WebWorkers enjoyable. __[⭐ 2,778]__
+    - [jolaleye / cssfx](https://github.com/jolaleye/cssfx) ✨ Beautifully simple click-to-copy CSS effects __[⭐ 2,727]__
+    - [HFO4 / gameboy.live](https://github.com/HFO4/gameboy.live) 🕹️ A basic gameboy emulator with terminal "Cloud Gaming" support __[⭐ 2,089]__
+    - [microsoft / PowerToys](https://github.com/microsoft/PowerToys) Windows system utilities to maximize productivity __[⭐ 2,618]__
+    - [commaai / openpilot](https://github.com/commaai/openpilot) open source driving agent __[⭐ 10,472]__
+    - [go101 / go101](https://github.com/go101/go101) An online book focusing on Go syntax/semantics. __[⭐ 1,671]__
+    - [victorvoid / dinoql](https://github.com/victorvoid/dinoql) A customizable GraphQL style query language for interacting with JavaScript objects. __[⭐ 481]__
+    - [kkuchta / css-only-chat](https://github.com/kkuchta/css-only-chat) A truly monstrous async web chat using no JS whatsoever on the frontend __[⭐ 4,008]__
+    - [hiroppy / fusuma](https://github.com/hiroppy/fusuma) ✍️Fusuma makes slides with Markdown easily. __[⭐ 1,868]__
+    - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 243,678]__
+    - [dgryski / go-perfbook](https://github.com/dgryski/go-perfbook) Thoughts on Go performance optimization __[⭐ 7,196]__
+    - [chvin / react-tetris](https://github.com/chvin/react-tetris) Use React, Redux, Immutable to code Tetris. 🎮 __[⭐ 4,550]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计 __[⭐ 61,485]__
+    - [tensorflow / graphics](https://github.com/tensorflow/graphics) TensorFlow Graphics: Differentiable Graphics Layers for TensorFlow __[⭐ 1,074]__
+    - [flutter / flutter_web](https://github.com/flutter/flutter_web) Bring your Flutter code to web browsers __[⭐ 2,519]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 63,519]__
+    - [TDAmeritrade / stumpy](https://github.com/TDAmeritrade/stumpy) STUMPY is a powerful and scalable Python library that can be used for a variety of time series data mining tasks __[⭐ 154]__
+    - [sql-machine-learning / sqlflow](https://github.com/sql-machine-learning/sqlflow) Brings SQL and AI together. __[⭐ 2,086]__
+    - [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) __[⭐ 5,892]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 39,314]__
 - 20190512
     - [microsoft / Terminal](https://github.com/microsoft/Terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 33,777]__
     - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 22,203]__
