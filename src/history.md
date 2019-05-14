@@ -1,3 +1,29 @@
+- 20190514
+    - [lettier / 3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) 🎮 A step-by-step guide on how to implement SSAO, depth of field, lighting, normal mapping, and more for your 3D game. __[⭐ 1,988]__
+    - [microsoft / Terminal](https://github.com/microsoft/Terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 36,002]__
+    - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 23,874]__
+    - [machinelearningmindset / machine-learning-course](https://github.com/machinelearningmindset/machine-learning-course) 💬 Machine Learning Course with Python __[⭐ 1,965]__
+    - [Rocketseat / unform](https://github.com/Rocketseat/unform) ReactJS form library to create uncontrolled form structures with nested fields, validations and much more! __[⭐ 590]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 23,432]__
+    - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 39,072]__
+    - [HFO4 / gameboy.live](https://github.com/HFO4/gameboy.live) 🕹️ A basic gameboy emulator with terminal "Cloud Gaming" support __[⭐ 2,615]__
+    - [STVIR / pysot](https://github.com/STVIR/pysot) SenseTime Research platform for single object tracking, implementing algorithms like SiamRPN and SiamMask. __[⭐ 1,143]__
+    - [GoogleChromeLabs / comlink](https://github.com/GoogleChromeLabs/comlink) Comlink makes WebWorkers enjoyable. __[⭐ 3,147]__
+    - [jolaleye / cssfx](https://github.com/jolaleye/cssfx) ✨ Beautifully simple click-to-copy CSS effects __[⭐ 3,089]__
+    - [andycall / RCRE](https://github.com/andycall/RCRE) Build complex applications without tears __[⭐ 320]__
+    - [commaai / openpilot](https://github.com/commaai/openpilot) open source driving agent __[⭐ 10,823]__
+    - [wandb / client](https://github.com/wandb/client) The official cli and python API client for W&B __[⭐ 331]__
+    - [hiroppy / fusuma](https://github.com/hiroppy/fusuma) ✍️Fusuma makes slides with Markdown easily. __[⭐ 2,182]__
+    - [microsoft / PowerToys](https://github.com/microsoft/PowerToys) Windows system utilities to maximize productivity __[⭐ 2,892]__
+    - [samplepks / instantnews](https://github.com/samplepks/instantnews)  __[⭐ Built by]__
+    - [chvin / react-tetris](https://github.com/chvin/react-tetris) Use React, Redux, Immutable to code Tetris. 🎮 __[⭐ 4,817]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 39,537]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计 __[⭐ 61,716]__
+    - [INTERMT / Awesome-PyTorch-Chinese](https://github.com/INTERMT/Awesome-PyTorch-Chinese) 【干货】史上最全的PyTorch学习资源汇总 __[⭐ 546]__
+    - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 243,878]__
+    - [kkuchta / css-only-chat](https://github.com/kkuchta/css-only-chat) A truly monstrous async web chat using no JS whatsoever on the frontend __[⭐ 4,214]__
+    - [KunMinX / Linkage-RecyclerView](https://github.com/KunMinX/Linkage-RecyclerView) 即使不用饿了么订餐，也请务必收藏好该库！🔥 一行代码即可接入，二级联动订餐列表 - Even if you don't order by Eleme, please be sure to collect the library! 🔥 This secondary linkage list widget can be accessed by only one line of code. Supporting by RecyclerView & AndroidX. __[⭐ 518]__
+    - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 63,724]__
 - 20190513
     - [microsoft / Terminal](https://github.com/microsoft/Terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 34,694]__
     - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 22,809]__
