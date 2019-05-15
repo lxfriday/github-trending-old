@@ -1,3 +1,29 @@
+- 20190515
+    - [dwmkerr / hacker-laws](https://github.com/dwmkerr/hacker-laws) 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. __[⭐ 1,390]__
+    - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 24,535]__
+    - [microsoft / terminal](https://github.com/microsoft/terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 36,685]__
+    - [lettier / 3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) 🎮 A step-by-step guide on how to implement SSAO, depth of field, lighting, normal mapping, and more for your 3D game. __[⭐ 2,570]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 23,778]__
+    - [nunomaduro / phpinsights](https://github.com/nunomaduro/phpinsights) 💡Instant PHP quality checks from your console __[⭐ 532]__
+    - [machinelearningmindset / machine-learning-course](https://github.com/machinelearningmindset/machine-learning-course) 💬 Machine Learning Course with Python __[⭐ 2,314]__
+    - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 39,365]__
+    - [Rocketseat / unform](https://github.com/Rocketseat/unform) ReactJS form library to create uncontrolled form structures with nested fields, validations and much more! __[⭐ 871]__
+    - [jolaleye / cssfx](https://github.com/jolaleye/cssfx) ✨ Beautifully simple click-to-copy CSS effects __[⭐ 3,344]__
+    - [andycall / RCRE](https://github.com/andycall/RCRE) Build complex applications without tears __[⭐ 575]__
+    - [HFO4 / gameboy.live](https://github.com/HFO4/gameboy.live) 🕹️ A basic gameboy emulator with terminal "Cloud Gaming" support __[⭐ 2,857]__
+    - [wandb / client](https://github.com/wandb/client) The official cli and python API client for W&B __[⭐ 575]__
+    - [team-reactype / ReacType](https://github.com/team-reactype/ReacType) 🧪 Prototyping Tool for exporting React/Typescript Applications! __[⭐ 285]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计 __[⭐ 61,872]__
+    - [teddysun / shadowsocks_install](https://github.com/teddysun/shadowsocks_install) Auto Install Shadowsocks Server for CentOS/Debian/Ubuntu __[⭐ 6,259]__
+    - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 243,994]__
+    - [zenghongtu / Mob](https://github.com/zenghongtu/Mob) Mob - 一个基于 Electron 开发的喜马拉雅 FM 桌面客户端，支持 Mac、Win 和 Linux __[⭐ 375]__
+    - [FudanNLP / nlp-beginner](https://github.com/FudanNLP/nlp-beginner) NLP上手教程 __[⭐ 502]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 39,661]__
+    - [numcl / numcl](https://github.com/numcl/numcl) Numpy clone in Common Lisp __[⭐ 323]__
+    - [microsoft / PowerToys](https://github.com/microsoft/PowerToys) Windows system utilities to maximize productivity __[⭐ 3,055]__
+    - [glauberfc / awesome-react-hooks](https://github.com/glauberfc/awesome-react-hooks) A curated list about React Hooks __[⭐ 296]__
+    - [macrozheng / mall](https://github.com/macrozheng/mall) mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 __[⭐ 12,534]__
+    - [commaai / openpilot](https://github.com/commaai/openpilot) open source driving agent __[⭐ 10,954]__
 - 20190514
     - [lettier / 3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) 🎮 A step-by-step guide on how to implement SSAO, depth of field, lighting, normal mapping, and more for your 3D game. __[⭐ 1,988]__
     - [microsoft / Terminal](https://github.com/microsoft/Terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 36,002]__
