@@ -1,3 +1,29 @@
+- 20190516
+    - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 26,205]__
+    - [dwmkerr / hacker-laws](https://github.com/dwmkerr/hacker-laws) 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. __[⭐ 2,772]__
+    - [stewartmcgown / uds](https://github.com/stewartmcgown/uds) Unlimited Drive Storage by splitting binary files into base64 __[⭐ 1,644]__
+    - [microsoft / terminal](https://github.com/microsoft/terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 37,361]__
+    - [microsoft / SPTAG](https://github.com/microsoft/SPTAG) A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario. __[⭐ 785]__
+    - [machinelearningmindset / machine-learning-course](https://github.com/machinelearningmindset/machine-learning-course) 💬 Machine Learning Course with Python __[⭐ 2,797]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 24,208]__
+    - [lettier / 3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) 🎮 A step-by-step guide on how to implement SSAO, depth of field, lighting, normal mapping, and more for your 3D game. __[⭐ 2,986]__
+    - [nunomaduro / phpinsights](https://github.com/nunomaduro/phpinsights) 💡Instant PHP quality checks from your console __[⭐ 940]__
+    - [containership / konstellate](https://github.com/containership/konstellate) Free and Open Source GUI to Visualize Kubernetes Applications. __[⭐ 532]__
+    - [reakit / reakit](https://github.com/reakit/reakit) Toolkit for building accessible rich web apps with React __[⭐ 2,300]__
+    - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 39,657]__
+    - [microsoft / PowerToys](https://github.com/microsoft/PowerToys) Windows system utilities to maximize productivity __[⭐ 3,397]__
+    - [reZach / my-budget](https://github.com/reZach/my-budget) Free, open source offline cross-platform budgeting solution built with Electron. __[⭐ 397]__
+    - [FudanNLP / nlp-beginner](https://github.com/FudanNLP/nlp-beginner) NLP上手教程 __[⭐ 755]__
+    - [IAIK / ZombieLoad](https://github.com/IAIK/ZombieLoad) Proof-of-concept for the ZombieLoad attack __[⭐ C]__
+    - [jolaleye / cssfx](https://github.com/jolaleye/cssfx) ✨ Beautifully simple click-to-copy CSS effects __[⭐ 3,598]__
+    - [sveltejs / svelte](https://github.com/sveltejs/svelte) Cybernetically enhanced web apps __[⭐ 14,853]__
+    - [coolsnowwolf / lede](https://github.com/coolsnowwolf/lede) Lean's OpenWrt source __[⭐ 2,738]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计 __[⭐ 62,066]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 39,850]__
+    - [timsainb / tensorflow2-generative-models](https://github.com/timsainb/tensorflow2-generative-models) Implementations of a number of generative models in Tensorflow 2. GAN, VAE, Seq2Seq, VAEGAN, GAIA, Spectrogram Inversion. Everything is self contained in a jupyter notebook for easy export to colab. __[⭐ 298]__
+    - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 244,125]__
+    - [lorin / resilience-engineering](https://github.com/lorin/resilience-engineering) Resilience Engineering Notes __[⭐ 967]__
+    - [team-reactype / ReacType](https://github.com/team-reactype/ReacType) 🧪 Prototyping Tool for exporting React/Typescript Applications! __[⭐ 451]__
 - 20190515
     - [dwmkerr / hacker-laws](https://github.com/dwmkerr/hacker-laws) 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. __[⭐ 1,390]__
     - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 24,535]__
