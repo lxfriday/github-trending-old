@@ -1,3 +1,29 @@
+- 20190518
+    - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 27,949]__
+    - [dwmkerr / hacker-laws](https://github.com/dwmkerr/hacker-laws) 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. __[⭐ 3,926]__
+    - [microsoft / SPTAG](https://github.com/microsoft/SPTAG) A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario. __[⭐ 2,192]__
+    - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 40,314]__
+    - [microsoft / terminal](https://github.com/microsoft/terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 38,230]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 24,993]__
+    - [stewartmcgown / uds](https://github.com/stewartmcgown/uds) Unlimited Drive Storage by splitting binary files into base64 __[⭐ 2,549]__
+    - [nusr / hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. (对开发人员有用的定律、理论、原则和模式。) __[⭐ 564]__
+    - [python / black](https://github.com/python/black) The uncompromising Python code formatter __[⭐ 9,823]__
+    - [machinelearningmindset / machine-learning-course](https://github.com/machinelearningmindset/machine-learning-course) 💬 Machine Learning Course with Python __[⭐ 3,369]__
+    - [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) __[⭐ 6,731]__
+    - [knqyf263 / trivy](https://github.com/knqyf263/trivy) A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI __[⭐ 505]__
+    - [nunomaduro / phpinsights](https://github.com/nunomaduro/phpinsights) 💡Instant PHP quality checks from your console __[⭐ 1,650]__
+    - [yuanming-hu / taichi](https://github.com/yuanming-hu/taichi) Computer Graphics R&D Infrastructure __[⭐ 2,409]__
+    - [reactiveops / polaris](https://github.com/reactiveops/polaris) Validation of best practices in your Kubernetes clusters __[⭐ 295]__
+    - [rigtorp / awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) A collection of resources on modern C++ __[⭐ 4,194]__
+    - [Rocketseat / unform](https://github.com/Rocketseat/unform) ReactJS form library to create uncontrolled form structures with nested fields, validations and much more! __[⭐ 1,434]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计 __[⭐ 62,369]__
+    - [sveltejs / svelte](https://github.com/sveltejs/svelte) Cybernetically enhanced web apps __[⭐ 15,311]__
+    - [lettier / 3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) 🎮 A step-by-step guide on how to implement SSAO, depth of field, lighting, normal mapping, and more for your 3D game. __[⭐ 3,347]__
+    - [reakit / reakit](https://github.com/reakit/reakit) Toolkit for building accessible rich web apps with React __[⭐ 2,668]__
+    - [yadox666 / The-Hackers-Hardware-Toolkit](https://github.com/yadox666/The-Hackers-Hardware-Toolkit) The best hacker's gadgets for Red Team pentesters and security researchers. __[⭐ 236]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 40,075]__
+    - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 244,309]__
+    - [lorin / resilience-engineering](https://github.com/lorin/resilience-engineering) Resilience Engineering Notes __[⭐ 1,351]__
 - 20190517
     - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 27,127]__
     - [microsoft / SPTAG](https://github.com/microsoft/SPTAG) A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario. __[⭐ 1,645]__
