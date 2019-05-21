@@ -1,3 +1,29 @@
+- 20190521
+    - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 30,502]__
+    - [imfunniee / gitfolio](https://github.com/imfunniee/gitfolio) personal website + blog for every github user __[⭐ 1,428]__
+    - [microsoft / terminal](https://github.com/microsoft/terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 39,356]__
+    - [nusr / hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. (对开发人员有用的定律、理论、原则和模式。) __[⭐ 1,599]__
+    - [nokia / memory-profiler](https://github.com/nokia/memory-profiler)  __[⭐ 1,214]__
+    - [weskerfoot / DeleteFB](https://github.com/weskerfoot/DeleteFB) Selenium script to delete all of your Facebook wall posts __[⭐ 467]__
+    - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 41,145]__
+    - [dwmkerr / hacker-laws](https://github.com/dwmkerr/hacker-laws) 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. __[⭐ 4,892]__
+    - [developer-learning / reading-go](https://github.com/developer-learning/reading-go) Go 夜读 > 每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在 微信/Slack 上及时沟通交流编程技术话题。 __[⭐ 3,385]__
+    - [franciscop / ola](https://github.com/franciscop/ola) 🌊 Smooth animation library for interpolating numbers __[⭐ 1,072]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 25,861]__
+    - [machinelearningmindset / machine-learning-course](https://github.com/machinelearningmindset/machine-learning-course) 💬 Machine Learning Course with Python __[⭐ 4,151]__
+    - [PavelDoGreat / WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) Play with fluids in your browser (works even on mobile) __[⭐ 777]__
+    - [beizhedenglong / weird-fonts](https://github.com/beizhedenglong/weird-fonts) 𝑨 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 𝒑𝒂𝒄𝒌𝒂𝒈𝒆 𝒕𝒉𝒂𝒕 𝒕𝒖𝒓𝒏 𝒂𝒍𝒑𝒉𝒂𝒏𝒖𝒎𝒆𝒓𝒊𝒄 𝒄𝒉𝒂𝒓𝒂𝒄𝒕𝒆𝒓𝒔 𝒊𝒏𝒕𝒐 𝒘𝒆𝒊𝒓𝒅 𝒇𝒐𝒏𝒕 𝒔𝒕𝒚𝒍𝒆. __[⭐ 338]__
+    - [sustrik / uxy](https://github.com/sustrik/uxy)  __[⭐ 356]__
+    - [andkret / Cookbook](https://github.com/andkret/Cookbook)  __[⭐ 303]__
+    - [macrozheng / mall](https://github.com/macrozheng/mall) mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 __[⭐ 13,252]__
+    - [sveltejs / svelte](https://github.com/sveltejs/svelte) Cybernetically enhanced web apps __[⭐ 15,948]__
+    - [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) __[⭐ 7,352]__
+    - [Bypass007 / Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes) 应急响应实战笔记，一个安全工程师的自我修养。 __[⭐ 275]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计 __[⭐ 62,789]__
+    - [microsoft / SPTAG](https://github.com/microsoft/SPTAG) A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario. __[⭐ 2,785]__
+    - [digital-missiles / CVE-2019-0708-PoC-Hitting-Path](https://github.com/digital-missiles/CVE-2019-0708-PoC-Hitting-Path) It's only hitting vulnerable path in termdd.sys!!! NOT DOS __[⭐ 185]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 40,398]__
+    - [nunomaduro / phpinsights](https://github.com/nunomaduro/phpinsights) 💡Instant PHP quality checks from your console __[⭐ 2,002]__
 - 20190518
     - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 27,949]__
     - [dwmkerr / hacker-laws](https://github.com/dwmkerr/hacker-laws) 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. __[⭐ 3,926]__
