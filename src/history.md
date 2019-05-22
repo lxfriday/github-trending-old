@@ -1,3 +1,29 @@
+- 20190522
+    - [weskerfoot / DeleteFB](https://github.com/weskerfoot/DeleteFB) Selenium script to delete all of your Facebook wall posts __[⭐ 1,556]__
+    - [PavelDoGreat / WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) Play with fluids in your browser (works even on mobile) __[⭐ 1,861]__
+    - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 31,419]__
+    - [Peltoche / lsd](https://github.com/Peltoche/lsd) The next gen ls command __[⭐ 2,190]__
+    - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 41,736]__
+    - [microsoft / terminal](https://github.com/microsoft/terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 39,861]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 26,375]__
+    - [Eugeny / terminus](https://github.com/Eugeny/terminus) A terminal for a more modern age __[⭐ 7,799]__
+    - [imfunniee / gitfolio](https://github.com/imfunniee/gitfolio) personal website + blog for every github user __[⭐ 1,855]__
+    - [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 41,415]__
+    - [nusr / hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. (对开发人员有用的定律、理论、原则和模式。) __[⭐ 1,933]__
+    - [dwmkerr / hacker-laws](https://github.com/dwmkerr/hacker-laws) 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. __[⭐ 5,185]__
+    - [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) __[⭐ 7,621]__
+    - [macrozheng / mall](https://github.com/macrozheng/mall) mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 __[⭐ 13,496]__
+    - [andkret / Cookbook](https://github.com/andkret/Cookbook)  __[⭐ 547]__
+    - [facebookresearch / pythia](https://github.com/facebookresearch/pythia) A modular framework for Visual Question Answering research from Facebook AI Research (FAIR) __[⭐ 1,064]__
+    - [google / zetasql](https://github.com/google/zetasql) ZetaSQL - Analyzer Framework for SQL __[⭐ C++]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计 __[⭐ 63,014]__
+    - [Bypass007 / Emergency-Response-Notes](https://github.com/Bypass007/Emergency-Response-Notes) 应急响应实战笔记，一个安全工程师的自我修养。 __[⭐ 545]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 40,591]__
+    - [xdspacelab / openvslam](https://github.com/xdspacelab/openvslam) A Versatile Visual SLAM Framework __[⭐ 239]__
+    - [sveltejs / svelte](https://github.com/sveltejs/svelte) Cybernetically enhanced web apps __[⭐ 16,162]__
+    - [developer-learning / reading-go](https://github.com/developer-learning/reading-go) Go 夜读 > 每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在 微信/Slack 上及时沟通交流编程技术话题。 __[⭐ 3,600]__
+    - [agalwood / Motrix](https://github.com/agalwood/Motrix) A full-featured download manager. __[⭐ 9,559]__
+    - [yadox666 / The-Hackers-Hardware-Toolkit](https://github.com/yadox666/The-Hackers-Hardware-Toolkit) The best hacker's gadgets for Red Team pentesters and security researchers. __[⭐ 738]__
 - 20190521
     - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 30,502]__
     - [imfunniee / gitfolio](https://github.com/imfunniee/gitfolio) personal website + blog for every github user __[⭐ 1,428]__
