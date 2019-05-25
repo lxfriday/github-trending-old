@@ -1,3 +1,29 @@
+- 20190525
+    - [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 46,167]__
+    - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 33,239]__
+    - [XiaoMi / Gaea](https://github.com/XiaoMi/Gaea) Gaea is a mysql proxy, it's developed by xiaomi b2c-systech team. __[⭐ 396]__
+    - [microsoft / terminal](https://github.com/microsoft/terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 40,849]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 27,280]__
+    - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 42,617]__
+    - [Eugeny / terminus](https://github.com/Eugeny/terminus) A terminal for a more modern age __[⭐ 8,633]__
+    - [imfunniee / gitfolio](https://github.com/imfunniee/gitfolio) personal website + blog for every github user __[⭐ 2,483]__
+    - [amejiarosario / dsa.js](https://github.com/amejiarosario/dsa.js) Data Structures and Algorithms explained and implemented in JavaScript __[⭐ 1,788]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 41,077]__
+    - [cloudkj / scar](https://github.com/cloudkj/scar) Deploy static websites in seconds - with HTTPS, a global CDN, and custom domains. __[⭐ 1,217]__
+    - [agalwood / Motrix](https://github.com/agalwood/Motrix) A full-featured download manager. __[⭐ 9,970]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计 __[⭐ 63,474]__
+    - [SerenityOS / serenity](https://github.com/SerenityOS/serenity) Serenity Operating System __[⭐ 1,318]__
+    - [wangzheng0822 / algo](https://github.com/wangzheng0822/algo) 数据结构和算法必知必会的50个代码实现 __[⭐ 5,259]__
+    - [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) __[⭐ 8,116]__
+    - [vuejs / vue](https://github.com/vuejs/vue) 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 139,407]__
+    - [xdspacelab / openvslam](https://github.com/xdspacelab/openvslam) A Versatile Visual SLAM Framework __[⭐ 733]__
+    - [macrozheng / mall](https://github.com/macrozheng/mall) mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 __[⭐ 13,909]__
+    - [scaleflex / js-cloudimage-360-view](https://github.com/scaleflex/js-cloudimage-360-view) Engage your customers with a stunning 360 view of your products __[⭐ 1,144]__
+    - [sveltejs / svelte](https://github.com/sveltejs/svelte) Cybernetically enhanced web apps __[⭐ 16,571]__
+    - [kognise / water.css](https://github.com/kognise/water.css) A just-add-css collection of styles to make simple websites just a little nicer __[⭐ 3,795]__
+    - [Remix-Design / RemixIcon](https://github.com/Remix-Design/RemixIcon) Open source neutral style icon system __[⭐ 653]__
+    - [SandboxEscaper / polarbearrepo](https://github.com/SandboxEscaper/polarbearrepo)  __[⭐ 685]__
+    - [facebookresearch / pythia](https://github.com/facebookresearch/pythia) A modular framework for Visual Question Answering research from Facebook AI Research (FAIR) __[⭐ 2,048]__
 - 20190524
     - [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 45,583]__
     - [benmahr / RenZhengfei](https://github.com/benmahr/RenZhengfei) 任正非思想 __[⭐ 3,087]__
