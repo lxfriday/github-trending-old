@@ -1,3 +1,29 @@
+- 20190526
+    - [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 46,597]__
+    - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 33,524]__
+    - [videoflow / videoflow](https://github.com/videoflow/videoflow) Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment. __[⭐ 421]__
+    - [wangzheng0822 / algo](https://github.com/wangzheng0822/algo) 数据结构和算法必知必会的50个代码实现 __[⭐ 5,455]__
+    - [scrumpy / tiptap](https://github.com/scrumpy/tiptap) A rich-text editor for Vue.js __[⭐ 3,847]__
+    - [microsoft / terminal](https://github.com/microsoft/terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 41,053]__
+    - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 42,812]__
+    - [sveltejs / svelte](https://github.com/sveltejs/svelte) Cybernetically enhanced web apps __[⭐ 16,777]__
+    - [afshinea / stanford-cs-221-artificial-intelligence](https://github.com/afshinea/stanford-cs-221-artificial-intelligence) VIP cheatsheets for Stanford's CS 221 Artificial Intelligence __[⭐ 283]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 27,412]__
+    - [binhnguyennus / awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems __[⭐ 15,997]__
+    - [dwmkerr / hacker-laws](https://github.com/dwmkerr/hacker-laws) 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. __[⭐ 5,911]__
+    - [Eugeny / terminus](https://github.com/Eugeny/terminus) A terminal for a more modern age __[⭐ 8,746]__
+    - [imfunniee / gitfolio](https://github.com/imfunniee/gitfolio) personal website + blog for every github user __[⭐ 2,609]__
+    - [pixijs / pixi.js](https://github.com/pixijs/pixi.js) The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. __[⭐ 23,697]__
+    - [cloudkj / scar](https://github.com/cloudkj/scar) Deploy static websites in seconds - with HTTPS, a global CDN, and custom domains. __[⭐ 1,333]__
+    - [agalwood / Motrix](https://github.com/agalwood/Motrix) A full-featured download manager. __[⭐ 10,061]__
+    - [STVIR / pysot](https://github.com/STVIR/pysot) SenseTime Research platform for single object tracking, implementing algorithms like SiamRPN and SiamMask. __[⭐ 1,662]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 41,163]__
+    - [jogendra / LoadingShimmer](https://github.com/jogendra/LoadingShimmer) An easy way to add a shimmering effect to any view with just one line of code. It is useful as an unobtrusive loading indicator. __[⭐ 494]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计 __[⭐ 63,537]__
+    - [XiaoMi / Gaea](https://github.com/XiaoMi/Gaea) Gaea is a mysql proxy, it's developed by xiaomi b2c-systech team. __[⭐ 463]__
+    - [shunliz / Machine-Learning](https://github.com/shunliz/Machine-Learning) 机器学习原理 __[⭐ 161]__
+    - [amejiarosario / dsa.js](https://github.com/amejiarosario/dsa.js) Data Structures and Algorithms explained and implemented in JavaScript __[⭐ 1,860]__
+    - [chris104957 / maildown](https://github.com/chris104957/maildown) A super simple CLI for sending emails __[⭐ 267]__
 - 20190525
     - [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 46,167]__
     - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 33,239]__
