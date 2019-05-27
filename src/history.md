@@ -1,3 +1,29 @@
+- 20190527
+    - [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 47,197]__
+    - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 33,908]__
+    - [sghall / react-vertex](https://github.com/sghall/react-vertex) ◾️ React Vertex | Hooks-based WebGL library for React __[⭐ 434]__
+    - [binhnguyennus / awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems __[⭐ 16,344]__
+    - [scrumpy / tiptap](https://github.com/scrumpy/tiptap) A rich-text editor for Vue.js __[⭐ 4,177]__
+    - [microsoft / terminal](https://github.com/microsoft/terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 41,283]__
+    - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 43,011]__
+    - [jaywcjlove / linux-command](https://github.com/jaywcjlove/linux-command) Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux __[⭐ 8,042]__
+    - [benmahr / RenZhengfei](https://github.com/benmahr/RenZhengfei) 任正非思想 __[⭐ 284]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 27,597]__
+    - [afshinea / stanford-cs-221-artificial-intelligence](https://github.com/afshinea/stanford-cs-221-artificial-intelligence) VIP cheatsheets for Stanford's CS 221 Artificial Intelligence __[⭐ 482]__
+    - [wangzheng0822 / algo](https://github.com/wangzheng0822/algo) 数据结构和算法必知必会的50个代码实现 __[⭐ 5,671]__
+    - [dwmkerr / hacker-laws](https://github.com/dwmkerr/hacker-laws) 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. __[⭐ 6,071]__
+    - [seungeunrho / minimalRL](https://github.com/seungeunrho/minimalRL) Implementations of basic RL algorithms with minimal lines of codes! (pytorch based) __[⭐ 308]__
+    - [chris104957 / maildown](https://github.com/chris104957/maildown) A super simple CLI for sending emails __[⭐ 399]__
+    - [pixijs / pixi.js](https://github.com/pixijs/pixi.js) The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. __[⭐ 23,837]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 41,274]__
+    - [agalwood / Motrix](https://github.com/agalwood/Motrix) A full-featured download manager. __[⭐ 10,193]__
+    - [sveltejs / svelte](https://github.com/sveltejs/svelte) Cybernetically enhanced web apps __[⭐ 16,920]__
+    - [shunliz / Machine-Learning](https://github.com/shunliz/Machine-Learning) 机器学习原理 __[⭐ 300]__
+    - [videoflow / videoflow](https://github.com/videoflow/videoflow) Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment. __[⭐ 536]__
+    - [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) __[⭐ 8,297]__
+    - [imfunniee / gitfolio](https://github.com/imfunniee/gitfolio) personal website + blog for every github user __[⭐ 2,713]__
+    - [jaywcjlove / awesome-mac](https://github.com/jaywcjlove/awesome-mac)  Now we have become very big, Different from the original idea. Collect premium software in various categories. __[⭐ 28,637]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计 __[⭐ 63,646]__
 - 20190526
     - [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 46,597]__
     - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 33,524]__
