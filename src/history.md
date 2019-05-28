@@ -1,3 +1,29 @@
+- 20190528
+    - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 34,728]__
+    - [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 47,976]__
+    - [binhnguyennus / awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems __[⭐ 16,879]__
+    - [seungeunrho / minimalRL](https://github.com/seungeunrho/minimalRL) Implementations of basic RL algorithms with minimal lines of codes! (pytorch based) __[⭐ 691]__
+    - [synox / youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive) Interactively select the quality and format for youtube-dl __[⭐ 383]__
+    - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 27,932]__
+    - [jaywcjlove / linux-command](https://github.com/jaywcjlove/linux-command) Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux __[⭐ 8,366]__
+    - [sghall / react-vertex](https://github.com/sghall/react-vertex) ◾️ React Vertex | Hooks-based WebGL library for React __[⭐ 752]__
+    - [microsoft / terminal](https://github.com/microsoft/terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 41,554]__
+    - [afshinea / stanford-cs-221-artificial-intelligence](https://github.com/afshinea/stanford-cs-221-artificial-intelligence) VIP cheatsheets for Stanford's CS 221 Artificial Intelligence __[⭐ 754]__
+    - [anacoimbrag / android-developer-roadmap](https://github.com/anacoimbrag/android-developer-roadmap) Android Developer Roadmap 2019 __[⭐ 392]__
+    - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 43,238]__
+    - [smooth-code / xstyled](https://github.com/smooth-code/xstyled) Consistent theme based CSS for styled-components 💅 __[⭐ 267]__
+    - [scrumpy / tiptap](https://github.com/scrumpy/tiptap) A rich-text editor for Vue.js __[⭐ 4,405]__
+    - [kezhenxu94 / mini-github](https://github.com/kezhenxu94/mini-github) GitHub WeChat Mini Program (可能是功能最全的 GitHub 微信小程序) __[⭐ 1,069]__
+    - [wangzheng0822 / algo](https://github.com/wangzheng0822/algo) 数据结构和算法必知必会的50个代码实现 __[⭐ 5,890]__
+    - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计 __[⭐ 63,833]__
+    - [jaywcjlove / awesome-mac](https://github.com/jaywcjlove/awesome-mac)  Now we have become very big, Different from the original idea. Collect premium software in various categories. __[⭐ 28,842]__
+    - [smallnest / dive-to-gosync-workshop](https://github.com/smallnest/dive-to-gosync-workshop) 深入Go并发编程研讨课 __[⭐ 312]__
+    - [ef-eng / graphql-query-rewriter](https://github.com/ef-eng/graphql-query-rewriter) Seamlessly turn breaking GraphQL changes into non-breaking changes __[⭐ 281]__
+    - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 41,432]__
+    - [macrozheng / mall](https://github.com/macrozheng/mall) mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 __[⭐ 14,161]__
+    - [sveltejs / svelte](https://github.com/sveltejs/svelte) Cybernetically enhanced web apps __[⭐ 17,097]__
+    - [pixijs / pixi.js](https://github.com/pixijs/pixi.js) The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. __[⭐ 24,007]__
+    - [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) __[⭐ 8,456]__
 - 20190527
     - [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 47,197]__
     - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 33,908]__
