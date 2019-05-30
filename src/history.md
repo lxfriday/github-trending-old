@@ -1,29 +1,30 @@
 ### 20190530
-- [metafizzy / zdog](https://github.com/metafizzy/zdog) Flat, round, designer-friendly pseudo-3D engine __[⭐ 2,512]__
+
+- [metafizzy / zdog](https://github.com/metafizzy/zdog) Flat, round, designer-friendly pseudo-3D engine __[⭐ 2,521]__
 - [pirate / wireguard-docs](https://github.com/pirate/wireguard-docs) The Missing WireGuard Documentation: Setup, Usage, Configuration, and a full example for server-to-server VPN with roaming clients & public peers. __[⭐ 906]__
-- [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 49,262]__
-- [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 35,813]__
-- [sdras / cssgridgenerator](https://github.com/sdras/cssgridgenerator) 🧮Generate basic CSS Grid code to make dynamic layouts! __[⭐ 1,075]__
-- [penrose / penrose](https://github.com/penrose/penrose) Create beautiful diagrams just by typing mathematical notation in plain text. __[⭐ 1,350]__
-- [binhnguyennus / awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems __[⭐ 17,774]__
-- [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 43,774]__
+- [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 49,265]__
+- [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 35,816]__
+- [sdras / cssgridgenerator](https://github.com/sdras/cssgridgenerator) 🧮Generate basic CSS Grid code to make dynamic layouts! __[⭐ 1,077]__
+- [penrose / penrose](https://github.com/penrose/penrose) Create beautiful diagrams just by typing mathematical notation in plain text. __[⭐ 1,351]__
+- [binhnguyennus / awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems __[⭐ 17,777]__
+- [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 43,776]__
 - [Raathigesh / fabulous](https://github.com/Raathigesh/fabulous) 🎨 CSS properties sidebar for VS Code __[⭐ 483]__
-- [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 28,486]__
+- [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 28,487]__
 - [microsoft / terminal](https://github.com/microsoft/terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 42,026]__
 - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 245,200]__
-- [learnbyexample / Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) ⚡️ From finding text to search and replace, from sorting to beautifying text and more 🎨 __[⭐ 8,358]__
-- [sveltejs / svelte](https://github.com/sveltejs/svelte) Cybernetically enhanced web apps __[⭐ 17,448]__
+- [learnbyexample / Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) ⚡️ From finding text to search and replace, from sorting to beautifying text and more 🎨 __[⭐ 8,360]__
+- [sveltejs / svelte](https://github.com/sveltejs/svelte) Cybernetically enhanced web apps __[⭐ 17,449]__
 - [streamich / react-use](https://github.com/streamich/react-use) React Hooks — 👍 __[⭐ 5,339]__
 - [eashish93 / imgsquash](https://github.com/eashish93/imgsquash) Simple image compression full website code written in node, react and next.js framework. Easy to deploy as a microservice. __[⭐ 597]__
-- [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 41,747]__
-- [synox / youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive) Interactively select the quality and format for youtube-dl __[⭐ 941]__
+- [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 41,749]__
+- [synox / youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive) Interactively select the quality and format for youtube-dl __[⭐ 942]__
 - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 65,522]__
-- [xuperchain / xuperunion](https://github.com/xuperchain/xuperunion) A highly flexible blockchain architecture with great transaction performance. __[⭐ 399]__
+- [xuperchain / xuperunion](https://github.com/xuperchain/xuperunion) A highly flexible blockchain architecture with great transaction performance. __[⭐ 400]__
 - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计 __[⭐ 64,112]__
-- [wangzheng0822 / algo](https://github.com/wangzheng0822/algo) 数据结构和算法必知必会的50个代码实现 __[⭐ 6,201]__
-- [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) __[⭐ 8,746]__
-- [FunctionScript / FunctionScript](https://github.com/FunctionScript/FunctionScript) A language and specification for turning JavaScript functions into typed HTTP APIs __[⭐ 178]__
-- [greymd / ojichat](https://github.com/greymd/ojichat) おじさんがLINEやメールで送ってきそうな文を生成する __[⭐ 193]__
+- [wangzheng0822 / algo](https://github.com/wangzheng0822/algo) 数据结构和算法必知必会的50个代码实现 __[⭐ 6,203]__
+- [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) __[⭐ 8,748]__
+- [FunctionScript / FunctionScript](https://github.com/FunctionScript/FunctionScript) A language and specification for turning JavaScript functions into typed HTTP APIs __[⭐ 183]__
+- [greymd / ojichat](https://github.com/greymd/ojichat) おじさんがLINEやメールで送ってきそうな文を生成する __[⭐ 200]__
 ### 20190529
 - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 35,278]__
 - [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 48,637]__
@@ -50,6 +51,7 @@
 - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 65,365]__
 - [seungeunrho / minimalRL](https://github.com/seungeunrho/minimalRL) Implementations of basic RL algorithms with minimal lines of codes! (pytorch based) __[⭐ 832]__
 - [wangzheng0822 / algo](https://github.com/wangzheng0822/algo) 数据结构和算法必知必会的50个代码实现 __[⭐ 6,034]__
+
 ### 20190528
 - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 34,728]__
 - [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 47,976]__
@@ -76,6 +78,7 @@
 - [sveltejs / svelte](https://github.com/sveltejs/svelte) Cybernetically enhanced web apps __[⭐ 17,097]__
 - [pixijs / pixi.js](https://github.com/pixijs/pixi.js) The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. __[⭐ 24,007]__
 - [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) __[⭐ 8,456]__
+
 ### 20190527
 - [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 47,197]__
 - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 33,908]__
@@ -102,6 +105,7 @@
 - [imfunniee / gitfolio](https://github.com/imfunniee/gitfolio) personal website + blog for every github user __[⭐ 2,713]__
 - [jaywcjlove / awesome-mac](https://github.com/jaywcjlove/awesome-mac)  Now we have become very big, Different from the original idea. Collect premium software in various categories. __[⭐ 28,637]__
 - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计 __[⭐ 63,646]__
+
 ### 20190526
 - [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 46,597]__
 - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 33,524]__
@@ -128,6 +132,7 @@
 - [shunliz / Machine-Learning](https://github.com/shunliz/Machine-Learning) 机器学习原理 __[⭐ 161]__
 - [amejiarosario / dsa.js](https://github.com/amejiarosario/dsa.js) Data Structures and Algorithms explained and implemented in JavaScript __[⭐ 1,860]__
 - [chris104957 / maildown](https://github.com/chris104957/maildown) A super simple CLI for sending emails __[⭐ 267]__
+
 ### 20190525
 - [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 46,167]__
 - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 33,239]__
@@ -154,6 +159,7 @@
 - [Remix-Design / RemixIcon](https://github.com/Remix-Design/RemixIcon) Open source neutral style icon system __[⭐ 653]__
 - [SandboxEscaper / polarbearrepo](https://github.com/SandboxEscaper/polarbearrepo)  __[⭐ 685]__
 - [facebookresearch / pythia](https://github.com/facebookresearch/pythia) A modular framework for Visual Question Answering research from Facebook AI Research (FAIR) __[⭐ 2,048]__
+
 ### 20190524
 - [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 45,583]__
 - [benmahr / RenZhengfei](https://github.com/benmahr/RenZhengfei) 任正非思想 __[⭐ 3,087]__
@@ -180,6 +186,7 @@
 - [macrozheng / mall](https://github.com/macrozheng/mall) mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 __[⭐ 13,871]__
 - [dwmkerr / hacker-laws](https://github.com/dwmkerr/hacker-laws) 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. __[⭐ 5,658]__
 - [djhworld / simple-computer](https://github.com/djhworld/simple-computer) the scott CPU from "But How Do It Know?" by J. Clark Scott __[⭐ 671]__
+
 ### 20190523
 - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 32,193]__
 - [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 42,615]__
@@ -206,6 +213,7 @@
 - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 40,779]__
 - [xdspacelab / openvslam](https://github.com/xdspacelab/openvslam) A Versatile Visual SLAM Framework __[⭐ 434]__
 - [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) __[⭐ 7,823]__
+
 ### 20190522
 - [weskerfoot / DeleteFB](https://github.com/weskerfoot/DeleteFB) Selenium script to delete all of your Facebook wall posts __[⭐ 1,556]__
 - [PavelDoGreat / WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) Play with fluids in your browser (works even on mobile) __[⭐ 1,861]__
@@ -232,6 +240,7 @@
 - [developer-learning / reading-go](https://github.com/developer-learning/reading-go) Go 夜读 > 每周通过 zoom 在线直播的方式分享 Go 相关的技术话题，每天大家在 微信/Slack 上及时沟通交流编程技术话题。 __[⭐ 3,600]__
 - [agalwood / Motrix](https://github.com/agalwood/Motrix) A full-featured download manager. __[⭐ 9,559]__
 - [yadox666 / The-Hackers-Hardware-Toolkit](https://github.com/yadox666/The-Hackers-Hardware-Toolkit) The best hacker's gadgets for Red Team pentesters and security researchers. __[⭐ 738]__
+
 ### 20190521
 - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 30,502]__
 - [imfunniee / gitfolio](https://github.com/imfunniee/gitfolio) personal website + blog for every github user __[⭐ 1,428]__
@@ -258,6 +267,7 @@
 - [digital-missiles / CVE-2019-0708-PoC-Hitting-Path](https://github.com/digital-missiles/CVE-2019-0708-PoC-Hitting-Path) It's only hitting vulnerable path in termdd.sys!!! NOT DOS __[⭐ 185]__
 - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 40,398]__
 - [nunomaduro / phpinsights](https://github.com/nunomaduro/phpinsights) 💡Instant PHP quality checks from your console __[⭐ 2,002]__
+
 ### 20190518
 - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 27,949]__
 - [dwmkerr / hacker-laws](https://github.com/dwmkerr/hacker-laws) 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. __[⭐ 3,926]__
@@ -284,6 +294,7 @@
 - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 40,075]__
 - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 244,309]__
 - [lorin / resilience-engineering](https://github.com/lorin/resilience-engineering) Resilience Engineering Notes __[⭐ 1,351]__
+
 ### 20190517
 - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 27,127]__
 - [microsoft / SPTAG](https://github.com/microsoft/SPTAG) A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario. __[⭐ 1,645]__
@@ -310,6 +321,7 @@
 - [wandb / client](https://github.com/wandb/client) The official cli and python API client for W&B __[⭐ 880]__
 - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 39,945]__
 - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 244,217]__
+
 ### 20190516
 - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 26,205]__
 - [dwmkerr / hacker-laws](https://github.com/dwmkerr/hacker-laws) 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. __[⭐ 2,772]__
@@ -336,6 +348,7 @@
 - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 244,125]__
 - [lorin / resilience-engineering](https://github.com/lorin/resilience-engineering) Resilience Engineering Notes __[⭐ 967]__
 - [team-reactype / ReacType](https://github.com/team-reactype/ReacType) 🧪 Prototyping Tool for exporting React/Typescript Applications! __[⭐ 451]__
+
 ### 20190515
 - [dwmkerr / hacker-laws](https://github.com/dwmkerr/hacker-laws) 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. __[⭐ 1,390]__
 - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 24,535]__
@@ -362,6 +375,7 @@
 - [glauberfc / awesome-react-hooks](https://github.com/glauberfc/awesome-react-hooks) A curated list about React Hooks __[⭐ 296]__
 - [macrozheng / mall](https://github.com/macrozheng/mall) mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 __[⭐ 12,534]__
 - [commaai / openpilot](https://github.com/commaai/openpilot) open source driving agent __[⭐ 10,954]__
+
 ### 20190514
 - [lettier / 3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) 🎮 A step-by-step guide on how to implement SSAO, depth of field, lighting, normal mapping, and more for your 3D game. __[⭐ 1,988]__
 - [microsoft / Terminal](https://github.com/microsoft/Terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 36,002]__
@@ -388,6 +402,7 @@
 - [kkuchta / css-only-chat](https://github.com/kkuchta/css-only-chat) A truly monstrous async web chat using no JS whatsoever on the frontend __[⭐ 4,214]__
 - [KunMinX / Linkage-RecyclerView](https://github.com/KunMinX/Linkage-RecyclerView) 即使不用饿了么订餐，也请务必收藏好该库！🔥 一行代码即可接入，二级联动订餐列表 - Even if you don't order by Eleme, please be sure to collect the library! 🔥 This secondary linkage list widget can be accessed by only one line of code. Supporting by RecyclerView & AndroidX. __[⭐ 518]__
 - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 63,724]__
+
 ### 20190513
 - [microsoft / Terminal](https://github.com/microsoft/Terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 34,694]__
 - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 22,809]__
@@ -414,6 +429,7 @@
 - [sql-machine-learning / sqlflow](https://github.com/sql-machine-learning/sqlflow) Brings SQL and AI together. __[⭐ 2,086]__
 - [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) __[⭐ 5,892]__
 - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 39,314]__
+
 ### 20190512
 - [microsoft / Terminal](https://github.com/microsoft/Terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 33,777]__
 - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 22,203]__
@@ -440,6 +456,7 @@
 - [intel / wasm-micro-runtime](https://github.com/intel/wasm-micro-runtime)  __[⭐ 694]__
 - [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) __[⭐ 5,787]__
 - [sql-machine-learning / sqlflow](https://github.com/sql-machine-learning/sqlflow) Brings SQL and AI together. __[⭐ 1,943]__
+
 ### 20190508
 - [microsoft / Terminal](https://github.com/microsoft/Terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 23,868]__
 - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 17,920]__
@@ -466,6 +483,7 @@
 - [zeit / hyper](https://github.com/zeit/hyper) A terminal built on web technologies __[⭐ 28,907]__
 - [cool-RR / PySnooper](https://github.com/cool-RR/PySnooper) Never use print for debugging again __[⭐ 9,593]__
 - [cdr / code-server](https://github.com/cdr/code-server) Run VS Code on a remote server. __[⭐ 18,577]__
+
 ### 20190507
 - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 14,776]__
 - [microsoft / Terminal](https://github.com/microsoft/Terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 4,442]__
@@ -492,6 +510,7 @@
 - [txthinking / mr2](https://github.com/txthinking/mr2) Expose local server to external network __[⭐ 416]__
 - [aimerforreimu / auxpi](https://github.com/aimerforreimu/auxpi) 🍭 集合多家 API 的新一代图床 __[⭐ 1,185]__
 - [indragiek / InAppViewDebugger](https://github.com/indragiek/InAppViewDebugger) A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging __[⭐ 1,060]__
+
 ### 20190505
 - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 11,433]__
 - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 35,259]__
@@ -518,6 +537,7 @@
 - [firmai / industry-machine-learning](https://github.com/firmai/industry-machine-learning) A curated list of applied machine learning and data science notebooks and libraries accross different industries. __[⭐ 226]__
 - [aimerforreimu / auxpi](https://github.com/aimerforreimu/auxpi) 🍭 集合多家 API 的新一代图床 __[⭐ 696]__
 - [sveltejs / svelte](https://github.com/sveltejs/svelte) Cybernetically enhanced web apps __[⭐ 13,557]__
+
 ### 20190504
 - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 10,258]__
 - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 34,801]__
@@ -544,6 +564,7 @@
 - [jaywcjlove / linux-command](https://github.com/jaywcjlove/linux-command) Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux __[⭐ 5,862]__
 - [codex-team / editor.js](https://github.com/codex-team/editor.js) A block-styled editor with clean JSON output __[⭐ 7,789]__
 - [lib-pku / libpku](https://github.com/lib-pku/libpku) 贵校课程资料民间整理 __[⭐ 16,075]__
+
 ### 20190503
 - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 9,284]__
 - [robb0wen / synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) Synthwave inspired colour theme for VS Code 🌅🕶 __[⭐ 1,872]__
@@ -570,6 +591,7 @@
 - [S-March / smarchWatch_PUBLIC](https://github.com/S-March/smarchWatch_PUBLIC)  __[⭐ 729]__
 - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识 __[⭐ 59,303]__
 - [dexon-foundation / dexon](https://github.com/dexon-foundation/dexon) Official golang DEXON fullnode implementation __[⭐ 396]__
+
 ### 20190502
 - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 33,728]__
 - [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) leetcode题解，记录自己的leecode解题之路。 __[⭐ 2,323]__
@@ -596,6 +618,7 @@
 - [MSWorkers / support.996.ICU](https://github.com/MSWorkers/support.996.ICU) Microsoft and GitHub Workers Support 996.ICU __[⭐ 8,816]__
 - [Helpsypoo / primer](https://github.com/Helpsypoo/primer) code that makes videos for this: youtube.com/c/primerlearning __[⭐ 281]__
 - [czy36mengfei / tensorflow2_tutorials_chinese](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese) tensorflow2中文教程，持续更新(当前版本:tensorflow2.0)，tag: tensorflow 2.0 tutorials __[⭐ 322]__
+
 ### 20190501
 - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 33,307]__
 - [robb0wen / synthwave-vscode](https://github.com/robb0wen/synthwave-vscode) Synthwave inspired colour theme for VS Code 🌅🕶 __[⭐ 843]__
@@ -622,6 +645,7 @@
 - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 37,874]__
 - [RomuloOliveira / commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide) A guide to understand the importance of commit messages and how to write them well __[⭐ 4,255]__
 - [kaina404 / FlutterDouBan](https://github.com/kaina404/FlutterDouBan) 🔥🔥🔥Flutter豆瓣客户端,全网最100%还原豆瓣客户端。首页、书影音、小组、市集及个人中心，一个不拉 https://img.xuvip.top/douyademo.mp4 __[⭐ 604]__
+
 ### 20190429
 - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 31,569]__
 - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 239,823]__
@@ -648,6 +672,7 @@
 - [taylorconor / quinesnake](https://github.com/taylorconor/quinesnake) A quine that plays snake over its own source! __[⭐ 482]__
 - [zincPower / UI2018](https://github.com/zincPower/UI2018) 安卓高级UI代码整理和博客代码Demo __[⭐ 567]__
 - [ZXZxin / ZXBlog](https://github.com/ZXZxin/ZXBlog) 记录各种学习笔记(算法、Java、数据库、并发......) __[⭐ 2,058]__
+
 ### 20190428
 - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 27,619]__
 - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 238,697]__
@@ -674,6 +699,7 @@
 - [nhooyr / websocket](https://github.com/nhooyr/websocket) A minimal and idiomatic WebSocket library for Go __[⭐ 182]__
 - [bilibili / kratos](https://github.com/bilibili/kratos) Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。 __[⭐ 2,874]__
 - [GitSquared / edex-ui](https://github.com/GitSquared/edex-ui) A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. __[⭐ 9,389]__
+
 ### 20190427
 - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 238,397]__
 - [cool-RR / PySnooper](https://github.com/cool-RR/PySnooper) Never use print for debugging again __[⭐ 7,588]__
@@ -700,6 +726,7 @@
 - [bet365 / jingo](https://github.com/bet365/jingo) This package provides the ability to encode golang structs to a buffer as JSON very quickly. __[⭐ 488]__
 - [codercom / code-server](https://github.com/codercom/code-server) Run VS Code on a remote server. __[⭐ 17,335]__
 - [uber-web / baseui](https://github.com/uber-web/baseui) A React Component library implementing the Base design language __[⭐ 885]__
+
 ### 20190426
 - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 237,542]__
 - [MSWorkers / support.996.ICU](https://github.com/MSWorkers/support.996.ICU) Microsoft and GitHub Workers Support 996.ICU __[⭐ 7,325]__
@@ -726,6 +753,7 @@
 - [chrismaltby / gb-studio](https://github.com/chrismaltby/gb-studio) Visual retro game maker __[⭐ 3,239]__
 - [521xueweihan / git-tips](https://github.com/521xueweihan/git-tips) Git的奇技淫巧 __[⭐ 8,409]__
 - [arturbien / React95](https://github.com/arturbien/React95) 🌈🕹 Refreshed Windows 95 style UI components for your React app __[⭐ 2,427]__
+
 ### 20190425
 - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 236,831]__
 - [MSWorkers / support.996.ICU](https://github.com/MSWorkers/support.996.ICU) Microsoft and GitHub Workers Support 996.ICU __[⭐ 6,919]__
@@ -752,6 +780,7 @@
 - [php-is-the-best-language-in-the-world / php-is-the-best-language-in-the-world.com](https://github.com/php-is-the-best-language-in-the-world/php-is-the-best-language-in-the-world.com) PHP is the best language in the world. __[⭐ 229]__
 - [swituo / openbilibili-go-common](https://github.com/swituo/openbilibili-go-common) 🙈！🙉！🙊！我不清楚这些是啥… 道德心泛滥的麻烦出门右转关注996.icu！ __[⭐ Go]__
 - [GitSquared / edex-ui](https://github.com/GitSquared/edex-ui) A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. __[⭐ 8,957]__
+
 ### 20190423
 - [cool-RR / PySnooper](https://github.com/cool-RR/PySnooper) Never use print for debugging again __[⭐ 2,375]__
 - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 230,058]__
@@ -778,6 +807,7 @@
 - [zhaoolee / ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) 🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ __[⭐ 6,413]__
 - [Unknwon / the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN) 《The Way to Go》中文译本，中文正式名《Go 入门指南》 __[⭐ 13,918]__
 - [sveltejs / svelte](https://github.com/sveltejs/svelte) Cybernetically enhanced web apps __[⭐ 10,047]__
+
 ### 20190422
 - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 229,446]__
 - [chrismaltby / gb-studio](https://github.com/chrismaltby/gb-studio) Visual retro game maker __[⭐ 1,120]__
@@ -804,6 +834,7 @@
 - [princeton-vl / CornerNet-Lite](https://github.com/princeton-vl/CornerNet-Lite)  __[⭐ 507]__
 - [codercom / code-server](https://github.com/codercom/code-server) Run VS Code on a remote server. __[⭐ 16,542]__
 - [kasuganosoras / cxk-ball](https://github.com/kasuganosoras/cxk-ball) Javascript 实现的 CXK 打篮球游戏 __[⭐ 497]__
+
 ### 20190416
 - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 219,985]__
 - [521xueweihan / git-tips](https://github.com/521xueweihan/git-tips) Git的奇技淫巧 __[⭐ 4,533]__
@@ -830,6 +861,7 @@
 - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 35,301]__
 - [zhaoolee / ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) 🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ __[⭐ 5,046]__
 - [carykh / jumpcutter](https://github.com/carykh/jumpcutter) Automatically edits vidx. Explanation here: https://www.youtube.com/watch?v=DQ8orIurGxw __[⭐ 1,100]__
+
 ### 20190415
 - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 217,646]__
 - [jhuangtw-dev / xg2xg](https://github.com/jhuangtw-dev/xg2xg) by ex-googlers, for ex-googlers - a lookup table of similar tech & services __[⭐ 4,438]__
@@ -856,6 +888,7 @@
 - [zhaoolee / ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) 🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ __[⭐ 4,922]__
 - [twitter / twemoji](https://github.com/twitter/twemoji) Emoji for everyone. https://twemoji.twitter.com/ __[⭐ 9,465]__
 - [jeffgerickson / algorithms](https://github.com/jeffgerickson/algorithms) Bug-tracking for Jeff's algorithms book, notes, etc. __[⭐ 5,278]__
+
 ### 20190414
 - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 214,814]__
 - [achael / eht-imaging](https://github.com/achael/eht-imaging) Imaging, analysis, and simulation software for radio interferometry __[⭐ 3,278]__
@@ -882,6 +915,7 @@
 - [zhaoolee / ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) 🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ __[⭐ 4,757]__
 - [ZXZxin / ZXBlog](https://github.com/ZXZxin/ZXBlog) 记录各种学习笔记(算法、Java、数据库、并发......) __[⭐ 899]__
 - [datawhalechina / pumpkin-book](https://github.com/datawhalechina/pumpkin-book) 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book __[⭐ 4,864]__
+
 ### 20190413
 - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 212,606]__
 - [achael / eht-imaging](https://github.com/achael/eht-imaging) Imaging, analysis, and simulation software for radio interferometry __[⭐ 2,555]__
@@ -908,6 +942,7 @@
 - [majikarp / awesome-programming-books](https://github.com/majikarp/awesome-programming-books) 📚 A curated list of awesome programming books __[⭐ 418]__
 - [Awesome-Windows / Awesome](https://github.com/Awesome-Windows/Awesome) 💻 An awesome & curated list of best applications and tools for Windows. __[⭐ 7,165]__
 - [edgedb / edgedb](https://github.com/edgedb/edgedb) The next generation object-relational database. A @MagicStack project. __[⭐ 1,442]__
+
 ### 20190412
 - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 209,912]__
 - [lib-pku / libpku](https://github.com/lib-pku/libpku) 贵校课程资料民间整理 __[⭐ 10,553]__
@@ -934,6 +969,7 @@
 - [1c7 / chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 __[⭐ 12,334]__
 - [majikarp / awesome-programming-books](https://github.com/majikarp/awesome-programming-books) 📚 A curated list of awesome programming books __[⭐ 217]__
 - [Awesome-Windows / Awesome](https://github.com/Awesome-Windows/Awesome) 💻 An awesome & curated list of best applications and tools for Windows. __[⭐ 6,982]__
+
 ### 20190411
 - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 206,351]__
 - [lib-pku / libpku](https://github.com/lib-pku/libpku) 贵校课程资料民间整理 __[⭐ 9,529]__
@@ -960,6 +996,7 @@
 - [kognise / water.css](https://github.com/kognise/water.css) A just-add-css collection of styles to make simple websites just a little nicer __[⭐ 2,594]__
 - [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲 __[⭐ 16,569]__
 - [fireeye / commando-vm](https://github.com/fireeye/commando-vm) Complete Mandiant Offensive VM (Commando VM), the first full Windows-based penetration testing virtual machine distribution. The security community recognizes Kali Linux as the go-to penetration testing platform for those that prefer Linux. Commando VM is for penetration testers that prefer Windows. We know that building a Windows penetration te… __[⭐ 1,885]__
+
 ### 20190409
 - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 193,645]__
 - [nndl / nndl.github.io](https://github.com/nndl/nndl.github.io) 《神经网络与深度学习》 Neural Network and Deep Learning __[⭐ 3,737]__
@@ -986,6 +1023,7 @@
 - [623637646 / 996.Leave](https://github.com/623637646/996.Leave) 逃离996 __[⭐ 748]__
 - [MariaLetta / free-gophers-pack](https://github.com/MariaLetta/free-gophers-pack) ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more. __[⭐ 1,019]__
 - [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) Ghidra is a software reverse engineering (SRE) framework __[⭐ 13,729]__
+
 ### 20190406
 - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 180,709]__
 - [LisaDziuba / Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) The best design tools for everything 👉 __[⭐ 11,356]__
@@ -1012,6 +1050,7 @@
 - [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 __[⭐ 22,986]__
 - [Accenture / AmpliGraph](https://github.com/Accenture/AmpliGraph) Python library for Representation Learning on Knowledge Graphs __[⭐ 498]__
 - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 33,650]__
+
 ### 20190405
 - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 177,507]__
 - [davebs / AgileLite](https://github.com/davebs/AgileLite) Agile software development without all the burnout. __[⭐ 968]__
@@ -1038,6 +1077,7 @@
 - [vuejs / vue](https://github.com/vuejs/vue) 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 134,566]__
 - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识 __[⭐ 56,727]__
 - [hnginternship5 / hng.tech](https://github.com/hnginternship5/hng.tech) HNG 5.0 Project 🔥 __[⭐ 58]__
+
 ### 20190403
 - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 156,353]__
 - [codex-team / editor.js](https://github.com/codex-team/editor.js) A block-styled editor with clean JSON output __[⭐ 1,207]__
@@ -1064,6 +1104,7 @@
 - [zhui-team / zhui](https://github.com/zhui-team/zhui) 🚀 A Chinese style component library of react https://zhui-team.github.io/zhui/ __[⭐ 689]__
 - [WarpPrism / AutoPiano](https://github.com/WarpPrism/AutoPiano) 自由钢琴 AutoPiano，喜欢可以star __[⭐ JavaScript]__
 - [valeriansaliou / sonic](https://github.com/valeriansaliou/sonic) 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. __[⭐ 4,781]__
+
 ### 20190402
 - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 146,276]__
 - [formulahendry / 955.WLB](https://github.com/formulahendry/955.WLB) 955 不加班的公司名单 __[⭐ 8,740]__
@@ -1090,6 +1131,7 @@
 - [neoclide / coc.nvim](https://github.com/neoclide/coc.nvim) Intellisense engine for vim8 & neovim, full language server protocol support as VSCode __[⭐ 2,780]__
 - [streamich / react-use](https://github.com/streamich/react-use) React Hooks — 👍 __[⭐ 3,639]__
 - [valeriansaliou / sonic](https://github.com/valeriansaliou/sonic) 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. __[⭐ 4,568]__
+
 ### 20190401
 - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 141,384]__
 - [formulahendry / 955.WLB](https://github.com/formulahendry/955.WLB) 955 不加班的公司名单 __[⭐ 8,259]__
@@ -1116,6 +1158,7 @@
 - [streamich / react-use](https://github.com/streamich/react-use) React Hooks — 👍 __[⭐ 3,540]__
 - [fyne-io / fyne](https://github.com/fyne-io/fyne) Cross platform GUI in Go based on Material Design __[⭐ 4,639]__
 - [clone95 / Virgilio](https://github.com/clone95/Virgilio) Your new Mentor for Data Science E-Learning. __[⭐ 6,910]__
+
 ### 20190331
 - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 123,317]__
 - [formulahendry / 955.WLB](https://github.com/formulahendry/955.WLB) 955 不加班的公司名单 __[⭐ 6,424]__
@@ -1142,6 +1185,7 @@
 - [selfteaching / the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) One has no future if one couldn't teach themself. __[⭐ 7,586]__
 - [Raathigesh / majestic](https://github.com/Raathigesh/majestic) ⚡ Zero config GUI for Jest __[⭐ 4,143]__
 - [torvalds / linux](https://github.com/torvalds/linux) Linux kernel source tree __[⭐ C]__
+
 ### 20190330
 - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 117,409]__
 - [formulahendry / 955.WLB](https://github.com/formulahendry/955.WLB) 955 不加班的公司名单 __[⭐ 5,787]__
@@ -1168,6 +1212,7 @@
 - [QSCTech / zju-icicles](https://github.com/QSCTech/zju-icicles) 浙江大学课程攻略共享计划 __[⭐ 3,545]__
 - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 32,093]__
 - [xiaolai / everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) 人人都能用英语 __[⭐ 916]__
+
 ### 20190329
 - [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 76,596]__
 - [formulahendry / 955.WLB](https://github.com/formulahendry/955.WLB) 955 不加班的公司名单 __[⭐ 1,841]__
@@ -1194,6 +1239,7 @@
 - [Tnfe / TNFE-Weekly](https://github.com/Tnfe/TNFE-Weekly) 每周为你提供高质量的关于小程序、h5等前端领域的文章和项目 __[⭐ 1,349]__
 - [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲 __[⭐ 13,645]__
 - [QSCTech / zju-icicles](https://github.com/QSCTech/zju-icicles) 浙江大学课程攻略共享计划 __[⭐ 3,237]__
+
 ### 20190324
 - [valeriansaliou / sonic](https://github.com/valeriansaliou/sonic) 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM. __[⭐ 1,169]__
 - [Microsoft / pyright](https://github.com/Microsoft/pyright) Static type checker for Python __[⭐ 806]__
@@ -1220,6 +1266,7 @@
 - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 30,898]__
 - [veonim / veonim](https://github.com/veonim/veonim) simple modal IDE built on neovim __[⭐ 814]__
 - [NVlabs / SPADE](https://github.com/NVlabs/SPADE)  __[⭐ 2,335]__
+
 ### 20190323
 - [selfteaching / the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) One has no future if one couldn't teach themself. __[⭐ 6,024]__
 - [clone95 / Machine-Learning-Study-Path-March-2019](https://github.com/clone95/Machine-Learning-Study-Path-March-2019) A complete ML study path, focused on TensorFlow and Scikit-Learn __[⭐ 3,319]__
@@ -1246,6 +1293,7 @@
 - [facebook / react](https://github.com/facebook/react) A declarative, efficient, and flexible JavaScript library for building user interfaces. __[⭐ 125,061]__
 - [Microsoft / calculator](https://github.com/Microsoft/calculator) Windows Calculator: A simple yet powerful calculator that ships with Windows __[⭐ 13,993]__
 - [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people. __[⭐ JavaScript]__
+
 ### 20190322
 - [clone95 / Machine-Learning-Study-Path-March-2019](https://github.com/clone95/Machine-Learning-Study-Path-March-2019) A complete ML study path, focused on TensorFlow and Scikit-Learn __[⭐ 2,838]__
 - [selfteaching / the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) One has no future if one couldn't teach themself. __[⭐ 5,320]__
@@ -1272,6 +1320,7 @@
 - [tiangolo / fastapi](https://github.com/tiangolo/fastapi) FastAPI framework, high performance, easy to learn, fast to code, ready for production __[⭐ 870]__
 - [godotengine / godot](https://github.com/godotengine/godot) Godot Engine – Multi-platform 2D and 3D game engine __[⭐ 20,703]__
 - [ShiqiYu / libfacedetection](https://github.com/ShiqiYu/libfacedetection) An open source library for face detection in images. The face detection speed can reach 1500FPS. __[⭐ 5,854]__
+
 ### 20190321
 - [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 __[⭐ 19,433]__
 - [NVlabs / SPADE](https://github.com/NVlabs/SPADE)  __[⭐ 1,636]__
@@ -1298,6 +1347,7 @@
 - [ShiqiYu / libfacedetection](https://github.com/ShiqiYu/libfacedetection) An open source library for face detection in images. The face detection speed can reach 1500FPS. __[⭐ 5,702]__
 - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 57,271]__
 - [godotengine / godot](https://github.com/godotengine/godot) Godot Engine – Multi-platform 2D and 3D game engine __[⭐ 20,550]__
+
 ### 20190320
 - [cirosantilli / x86-bare-metal-examples](https://github.com/cirosantilli/x86-bare-metal-examples) Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host and real hardware. Userland cheat at: https://github.com/cirosantilli/x86-assembly-cheat ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup __[⭐ 1,934]__
 - [selfteaching / the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) One has no future if one couldn't teach themself. __[⭐ 4,296]__
@@ -1324,6 +1374,7 @@
 - [zhaoolee / ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) 🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ __[⭐ 2,153]__
 - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 57,118]__
 - [mozilla / send](https://github.com/mozilla/send) Simple, private file sharing from the makers of Firefox __[⭐ 6,459]__
+
 ### 20190319
 - [selfteaching / the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) One has no future if one couldn't teach themself. __[⭐ 3,501]__
 - [alexfoxy / laxxx](https://github.com/alexfoxy/laxxx) Simple & light weight (2kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive! __[⭐ 1,981]__
@@ -1350,6 +1401,7 @@
 - [zhaoolee / ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) 🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ __[⭐ 1,964]__
 - [Wookai / paper-tips-and-tricks](https://github.com/Wookai/paper-tips-and-tricks) Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab. __[⭐ 216]__
 - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 😋 技术面试必备基础知识 __[⭐ 53,646]__
+
 ### 20190318
 - [selfteaching / the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) One has no future if one couldn't teach themself. __[⭐ 3,134]__
 - [alexfoxy / laxxx](https://github.com/alexfoxy/laxxx) Simple & light weight (2kb minified & zipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll! Harness the power of the most intuitive interaction and make your websites come alive! __[⭐ 1,672]__
@@ -1376,6 +1428,7 @@
 - [infinimesh / kaf](https://github.com/infinimesh/kaf) Modern CLI for Apache Kafka, written in Go. __[⭐ 233]__
 - [vuejs / vue](https://github.com/vuejs/vue) 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 131,148]__
 - [timvisee / ffsend](https://github.com/timvisee/ffsend) 📬 Easily and securely share files from the command line. A fully featured Firefox Send client. __[⭐ 2,902]__
+
 ### 20190317
 - [selfteaching / the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) One has no future if one couldn't teach themself. __[⭐ 1,700]__
 - [ShiqiYu / libfacedetection](https://github.com/ShiqiYu/libfacedetection) An open source library for face detection in images. The face detection speed can reach 1500FPS. __[⭐ 4,728]__
@@ -1402,6 +1455,7 @@
 - [jkup / awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) A delightful list of personal tech blogs __[⭐ 1,559]__
 - [traduora / traduora](https://github.com/traduora/traduora) Translation management platform for teams __[⭐ 651]__
 - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 😋 技术面试必备基础知识 __[⭐ 53,410]__
+
 ### 20190316
 - [selfteaching / the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) One has no future if he couldn't teach himself. __[⭐ 1,096]__
 - [ShiqiYu / libfacedetection](https://github.com/ShiqiYu/libfacedetection) An open source library for face detection in images. The face detection speed can reach 1500FPS. __[⭐ 4,217]__
@@ -1428,6 +1482,7 @@
 - [ffhelicopter / Go42](https://github.com/ffhelicopter/Go42) 写《Go语言四十二章经》，纯粹是因为开发过程中碰到过的一些问题，踩到过的一些坑，感觉在Go语言学习使用过程中，有必要深刻理解这门语言的核心思维、清晰掌握语言的细节规范以及反复琢磨标准包代码设计模式，于是才有了这本书。 __[⭐ 1,714]__
 - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 56,663]__
 - [lyricat / wechat-format](https://github.com/lyricat/wechat-format) 微信公众号排版编辑器，转化 Markdown 微信特制的 HTML __[⭐ 292]__
+
 ### 20190315
 - [codercom / code-server](https://github.com/codercom/code-server) Run VS Code on a remote server. __[⭐ 8,201]__
 - [ShiqiYu / libfacedetection](https://github.com/ShiqiYu/libfacedetection) An open source library for face detection in images. The face detection speed can reach 1500FPS. __[⭐ 3,069]__
@@ -1454,6 +1509,7 @@
 - [fitzgen / dodrio](https://github.com/fitzgen/dodrio) A fast, bump-allocated virtual DOM library for Rust and WebAssembly. __[⭐ 251]__
 - [JohnSully / KeyDB](https://github.com/JohnSully/KeyDB) A Multithreaded Fork of Redis __[⭐ 1,115]__
 - [gotify / server](https://github.com/gotify/server) A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui) __[⭐ 3,219]__
+
 ### 20190314
 - [mozilla / send](https://github.com/mozilla/send) Simple, private file sharing from the makers of Firefox __[⭐ 4,764]__
 - [timvisee / ffsend](https://github.com/timvisee/ffsend) 📬 Easily and securely share files from the command line. A fully featured Firefox Send client. __[⭐ 1,956]__
@@ -1480,6 +1536,7 @@
 - [ityouknow / spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 __[⭐ 11,404]__
 - [indico / indico](https://github.com/indico/indico) Indico - A complete event management system __[⭐ 601]__
 - [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people. __[⭐ JavaScript]__
+
 ### 20190313
 - [codercom / code-server](https://github.com/codercom/code-server) Run VS Code on a remote server. __[⭐ 6,621]__
 - [marcan / takeover.sh](https://github.com/marcan/takeover.sh) Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to. __[⭐ 5,334]__
@@ -1506,6 +1563,7 @@
 - [sjsdfg / CS-Notes-PDF](https://github.com/sjsdfg/CS-Notes-PDF) https://github.com/CyC2018/CS-Notes PDF版本离线阅读 __[⭐ 720]__
 - [USTC-Resource / USTC-Course](https://github.com/USTC-Resource/USTC-Course) ❤️中国科学技术大学课程资源 __[⭐ 1,254]__
 - [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people. __[⭐ JavaScript]__
+
 ### 20190312
 - [marcan / takeover.sh](https://github.com/marcan/takeover.sh) Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to. __[⭐ 4,852]__
 - [ityouknow / spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 __[⭐ 11,088]__
@@ -1532,6 +1590,7 @@
 - [github / personal-website](https://github.com/github/personal-website) Code that'll help you kickstart a personal website that showcases your work as a software developer. __[⭐ 3,821]__
 - [traduora / traduora](https://github.com/traduora/traduora) Translation management platform for teams __[⭐ 231]__
 - [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people. __[⭐ JavaScript]__
+
 ### 20190311
 - [gotify / server](https://github.com/gotify/server) A simple server for sending and receiving messages in real-time per web socket. (Includes a sleek web-ui) __[⭐ 1,872]__
 - [Microsoft / calculator](https://github.com/Microsoft/calculator) Windows Calculator: A simple yet powerful calculator that ships with Windows __[⭐ 10,488]__
@@ -1558,6 +1617,7 @@
 - [agalwood / Motrix](https://github.com/agalwood/Motrix) A full-featured download manager. __[⭐ 5,500]__
 - [olive-editor / olive](https://github.com/olive-editor/olive) Professional open-source NLE video editor __[⭐ 715]__
 - [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer) Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. __[⭐ 59,093]__
+
 ### 20190310
 - [Microsoft / calculator](https://github.com/Microsoft/calculator) Windows Calculator: A simple yet powerful calculator that ships with Windows __[⭐ 9,795]__
 - [codercom / code-server](https://github.com/codercom/code-server) Run VS Code on a remote server. __[⭐ 4,594]__
@@ -1584,6 +1644,7 @@
 - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 55,854]__
 - [alibaba / fish-redux](https://github.com/alibaba/fish-redux) An assembled flutter application framework. __[⭐ 2,545]__
 - [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people. __[⭐ JavaScript]__
+
 ### 20190309
 - [Microsoft / calculator](https://github.com/Microsoft/calculator) Windows Calculator: A simple yet powerful calculator that ships with Windows __[⭐ 8,778]__
 - [codercom / code-server](https://github.com/codercom/code-server) Run VS Code on a remote server. __[⭐ 4,116]__
@@ -1610,6 +1671,7 @@
 - [kenwoodjw / python_interview_question](https://github.com/kenwoodjw/python_interview_question) 关于python的面试题 __[⭐ 1,632]__
 - [bagisto / bagisto](https://github.com/bagisto/bagisto) An eCommerce Framework built on laravel for All to build and scale your business. __[⭐ 474]__
 - [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people. __[⭐ JavaScript]__
+
 ### 20190308
 - [Microsoft / calculator](https://github.com/Microsoft/calculator) Windows Calculator: A simple yet powerful calculator that ships with Windows __[⭐ 6,228]__
 - [NationalSecurityAgency / ghidra](https://github.com/NationalSecurityAgency/ghidra) Ghidra is a software reverse engineering (SRE) framework __[⭐ 7,291]__
@@ -1636,6 +1698,7 @@
 - [typpo / quickchart](https://github.com/typpo/quickchart) Google Image Charts alternative __[⭐ 249]__
 - [alibaba / flutter_boost](https://github.com/alibaba/flutter_boost) FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts __[⭐ 192]__
 - [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people. __[⭐ JavaScript]__
+
 ### 20190306
 - [kenwoodjw / python_interview_question](https://github.com/kenwoodjw/python_interview_question) 关于python的面试题 __[⭐ 972]__
 - [BayesWitnesses / m2cgen](https://github.com/BayesWitnesses/m2cgen) Transform ML models into a native code (Java, C, Python, etc.) with zero dependencies __[⭐ 710]__
@@ -1662,6 +1725,7 @@
 - [vuejs / vue](https://github.com/vuejs/vue) 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 129,733]__
 - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 😋 技术面试必备基础知识 __[⭐ 51,780]__
 - [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people. __[⭐ JavaScript]__
+
 ### 20190305
 - [mbinary / USTC-CS-Courses-Resource](https://github.com/mbinary/USTC-CS-Courses-Resource) ❤️中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/) __[⭐ 13,947]__
 - [jakevdp / PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) Python Data Science Handbook: full text in Jupyter Notebooks __[⭐ 15,299]__
@@ -1688,6 +1752,7 @@
 - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 😋 技术面试必备基础知识 __[⭐ 51,630]__
 - [chiphuyen / lazynlp](https://github.com/chiphuyen/lazynlp) Library to scrape and clean web pages to create massive datasets. __[⭐ 1,010]__
 - [vuejs / vue-dev-server](https://github.com/vuejs/vue-dev-server) A POC dev server that allows you to import `*.vue` files via native ES modules imports. __[⭐ 362]__
+
 ### 20190304
 - [mbinary / USTC-CS-Courses-Resource](https://github.com/mbinary/USTC-CS-Courses-Resource) ❤️中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/) __[⭐ 13,032]__
 - [pikapkg / web](https://github.com/pikapkg/web) 📦 ✨ Install npm dependencies that run directly in the browser. No Browserify, Webpack or import maps required. __[⭐ 1,126]__
@@ -1714,6 +1779,7 @@
 - [toddmotto / public-apis](https://github.com/toddmotto/public-apis) A collective list of free APIs for use in software and web development. __[⭐ 52,667]__
 - [kenwoodjw / python_interview_question](https://github.com/kenwoodjw/python_interview_question) 关于python的面试题 __[⭐ 229]__
 - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 😋 技术面试必备基础知识 __[⭐ 51,472]__
+
 ### 20190303
 - [mbinary / USTC-CS-Courses-Resource](https://github.com/mbinary/USTC-CS-Courses-Resource) ❤️中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/) __[⭐ 12,509]__
 - [pikapkg / web](https://github.com/pikapkg/web) 📦 ✨ Install npm dependencies that run directly in the browser. No Browserify, Webpack or import maps required. __[⭐ 600]__
@@ -1740,6 +1806,7 @@
 - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 😋 技术面试必备基础知识 __[⭐ 51,398]__
 - [toddmotto / public-apis](https://github.com/toddmotto/public-apis) A collective list of free APIs for use in software and web development. __[⭐ 52,571]__
 - [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people. __[⭐ JavaScript]__
+
 ### 20190302
 - [mbinary / USTC-CS-Courses-Resource](https://github.com/mbinary/USTC-CS-Courses-Resource) ❤️中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/) __[⭐ 12,247]__
 - [Microsoft / frontend-bootcamp](https://github.com/Microsoft/frontend-bootcamp) Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux __[⭐ 4,372]__
@@ -1766,6 +1833,7 @@
 - [iliakan / javascript-tutorial-en](https://github.com/iliakan/javascript-tutorial-en) Modern JavaScript Tutorial __[⭐ 4,746]__
 - [Pagedraw / pagedraw](https://github.com/Pagedraw/pagedraw) a UI builder for React web apps __[⭐ 1,612]__
 - [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people. __[⭐ JavaScript]__
+
 ### 20190228
 - [Microsoft / frontend-bootcamp](https://github.com/Microsoft/frontend-bootcamp) Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux __[⭐ 2,941]__
 - [mbinary / USTC-CS-Courses-Resource](https://github.com/mbinary/USTC-CS-Courses-Resource) ❤️中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/) __[⭐ 8,319]__
@@ -1792,6 +1860,7 @@
 - [github / personal-website](https://github.com/github/personal-website) Code that'll help you kickstart a personal website that showcases your work as a software developer. __[⭐ 2,535]__
 - [CyC2018 / CyC-Notes](https://github.com/CyC2018/CyC-Notes) 😋 技术面试必备基础知识 __[⭐ 51,014]__
 - [infinitered / nsfwjs](https://github.com/infinitered/nsfwjs) NSFW detection on the client-side via Tensorflow JS __[⭐ 1,535]__
+
 ### 20190227
 - [mbinary / USTC-CS-Courses-Resource](https://github.com/mbinary/USTC-CS-Courses-Resource) ❤️中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/) __[⭐ 6,913]__
 - [smacke / subsync](https://github.com/smacke/subsync) Automagically synchronize subtitles with video. __[⭐ 1,818]__
@@ -1818,6 +1887,7 @@
 - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐️ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. __[⭐ 17,160]__
 - [agalwood / Motrix](https://github.com/agalwood/Motrix) A full-featured download manager. __[⭐ 3,671]__
 - [aliyr / Nodejs-Developer-Roadmap](https://github.com/aliyr/Nodejs-Developer-Roadmap) A Developer Roadmap to becoming a Node.js developer in 2019 __[⭐ 342]__
+
 ### 20190226
 - [mbinary / USTC-CS-Courses-Resource](https://github.com/mbinary/USTC-CS-Courses-Resource) ❤️中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/) __[⭐ 4,985]__
 - [imhuay / Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记 __[⭐ 15,408]__
@@ -1844,6 +1914,7 @@
 - [MiCode / Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) Xiaomi Mobile Phone Kernel OpenSource __[⭐ 3,678]__
 - [pwn20wndstuff / Undecimus](https://github.com/pwn20wndstuff/Undecimus) unc0ver jailbreak for iOS 11.0 - 12.1.2 __[⭐ 1,438]__
 - [qqfly / how-to-learn-robotics](https://github.com/qqfly/how-to-learn-robotics) 开源机器人学学习指南 __[⭐ 194]__
+
 ### 20190225
 - [mbinary / USTC-CS-Courses-Resource](https://github.com/mbinary/USTC-CS-Courses-Resource) ❤️中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/) __[⭐ 3,380]__
 - [nosir / cleave.js](https://github.com/nosir/cleave.js) Format input text content when you are typing... __[⭐ 10,880]__
@@ -1870,6 +1941,7 @@
 - [greybax / awesome-IT-films](https://github.com/greybax/awesome-IT-films) 📺 A curated list of awesome films about IT & geek people. __[⭐ 466]__
 - [buefy / buefy](https://github.com/buefy/buefy) Lightweight UI components for Vue.js based on Bulma __[⭐ 4,816]__
 - [MiCode / Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource) Xiaomi Mobile Phone Kernel OpenSource __[⭐ 3,529]__
+
 ### 20190224
 - [mbinary / USTC-CS-Courses-Resource](https://github.com/mbinary/USTC-CS-Courses-Resource) ❤️中国科学技术大学计算机学院课程资源(https://mbinary.xyz/ustc-cs/) __[⭐ 2,447]__
 - [Micropoor / Micro8](https://github.com/Micropoor/Micro8) Gitbook __[⭐ 7,239]__
@@ -1896,6 +1968,7 @@
 - [GoogleCloudPlatform / microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus. Provided for illustration and demo purposes. __[⭐ 3,397]__
 - [Bogdan-Lyashenko / codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing. __[⭐ 1,135]__
 - [leon-ai / leon](https://github.com/leon-ai/leon) 🧠 Leon is your open-source personal assistant. __[⭐ 3,966]__
+
 ### 20190223
 - [Micropoor / Micro8](https://github.com/Micropoor/Micro8) Gitbook __[⭐ 6,650]__
 - [lemire / simdjson](https://github.com/lemire/simdjson) Parsing gigabytes of JSON per second __[⭐ 3,097]__
@@ -1922,6 +1995,7 @@
 - [Bogdan-Lyashenko / codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing. __[⭐ 1,044]__
 - [pomber / git-history](https://github.com/pomber/git-history) Quickly browse the history of a file from any git repository __[⭐ 8,774]__
 - [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲 __[⭐ 10,290]__
+
 ### 20190222
 - [Micropoor / Micro8](https://github.com/Micropoor/Micro8)  __[⭐ 5,470]__
 - [lemire / simdjson](https://github.com/lemire/simdjson) Parsing gigabytes of JSON per second __[⭐ 2,169]__
@@ -1948,6 +2022,7 @@
 - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 22,226]__
 - [taki0112 / Tensorflow-Cookbook](https://github.com/taki0112/Tensorflow-Cookbook) Simple Tensorflow Cookbook for easy-to-use __[⭐ 1,387]__
 - [vinta / awesome-python](https://github.com/vinta/awesome-python) A curated list of awesome Python frameworks, libraries, software and resources __[⭐ 62,861]__
+
 ### 20190221
 - [Micropoor / Micro8](https://github.com/Micropoor/Micro8)  __[⭐ 3,470]__
 - [imthenachoman / How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) An evolving how-to guide for securing a Linux server. __[⭐ 6,103]__
@@ -1974,6 +2049,7 @@
 - [kmario23 / deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!! __[⭐ 3,562]__
 - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 22,084]__
 - [vueComponent / ant-design-vue](https://github.com/vueComponent/ant-design-vue) An enterprise-class UI components based on Ant Design and Vue. 🐜 __[⭐ 4,946]__
+
 ### 20190220
 - [Micropoor / Micro8](https://github.com/Micropoor/Micro8)  __[⭐ 1,136]__
 - [imthenachoman / How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) An evolving how-to guide for securing a Linux server. __[⭐ 5,398]__
@@ -2000,6 +2076,7 @@
 - [macrozheng / mall](https://github.com/macrozheng/mall) mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 __[⭐ 6,626]__
 - [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲 __[⭐ 9,873]__
 - [jdneo / vscode-leetcode](https://github.com/jdneo/vscode-leetcode) Solve LeetCode problems in VS Code __[⭐ 1,825]__
+
 ### 20190219
 - [deepfakes / faceswap](https://github.com/deepfakes/faceswap) Non official project based on original /r/Deepfakes thread. Many thanks to him! __[⭐ 11,663]__
 - [imthenachoman / How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) An evolving how-to guide for securing a Linux server. __[⭐ 4,530]__
@@ -2026,6 +2103,7 @@
 - [plasma-umass / Mesh](https://github.com/plasma-umass/Mesh) A memory allocator that automatically reduces the memory footprint of C/C++ applications. __[⭐ 324]__
 - [dgraph-io / dgraph](https://github.com/dgraph-io/dgraph) Fast, Distributed Graph DB __[⭐ 8,301]__
 - [pomber / git-history](https://github.com/pomber/git-history) Quickly browse the history of any GitHub file __[⭐ 8,249]__
+
 ### 20190218
 - [deepfakes / faceswap](https://github.com/deepfakes/faceswap) Non official project based on original /r/Deepfakes thread. Many thanks to him! __[⭐ 10,451]__
 - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) ⭐️ A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. __[⭐ 13,838]__
@@ -2052,6 +2130,7 @@
 - [pomber / git-history](https://github.com/pomber/git-history) Quickly browse the history of any GitHub file __[⭐ 8,077]__
 - [pedrommcarrasco / Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) 🍎 Screensaver inspired by Apple's Event on October 30, 2018 __[⭐ 515]__
 - [trimstray / nginx-quick-reference](https://github.com/trimstray/nginx-quick-reference) ⚡️ This notes describes how to improve Nginx performance, security and other important things; ssllabs A+ 100%. __[⭐ 5,425]__
+
 ### 20190217
 - [imthenachoman / How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) An evolving how-to guide for securing a Linux server. __[⭐ 2,920]__
 - [leon-ai / leon](https://github.com/leon-ai/leon) 🧠 Leon is your open-source personal assistant. __[⭐ 1,558]__
@@ -2078,6 +2157,7 @@
 - [didi / DoraemonKit](https://github.com/didi/DoraemonKit) 简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。 __[⭐ 3,639]__
 - [toddmotto / public-apis](https://github.com/toddmotto/public-apis) A collective list of free APIs for use in software and web development. __[⭐ 51,190]__
 - [agalwood / Motrix](https://github.com/agalwood/Motrix) A full-featured download manager. __[⭐ 2,768]__
+
 ### 20190216
 - [leon-ai / leon](https://github.com/leon-ai/leon) 🧠 Leon is your open-source personal assistant. __[⭐ 1,255]__
 - [openai / gpt-2](https://github.com/openai/gpt-2) Code for the paper "Language Models are Unsupervised Multitask Learners" __[⭐ 1,673]__
@@ -2104,6 +2184,7 @@
 - [instantpage / instant.page](https://github.com/instantpage/instant.page) Make your site’s pages instant in 1 minute and improve your conversion rate by 1% __[⭐ 2,165]__
 - [filecoin-project / go-filecoin](https://github.com/filecoin-project/go-filecoin) Filecoin Full Node Implementation in Go __[⭐ 457]__
 - [peripheryapp / periphery](https://github.com/peripheryapp/periphery) Eliminate Unused Swift Code. __[⭐ 362]__
+
 ### 20190215
 - [sveinbjornt / Sloth](https://github.com/sveinbjornt/Sloth) Mac app that shows all open files and sockets in use by all running processes. Nice GUI for lsof. __[⭐ 1,971]__
 - [eranyanay / 1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) handling 1M websockets connections in Go __[⭐ 1,778]__
@@ -2130,6 +2211,7 @@
 - [kleampa / not-paid](https://github.com/kleampa/not-paid) Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away __[⭐ 5,205]__
 - [toddmotto / public-apis](https://github.com/toddmotto/public-apis) A collective list of free APIs for use in software and web development. __[⭐ 50,973]__
 - [transloadit / uppy](https://github.com/transloadit/uppy) The next open source file uploader for web browsers 🐶 __[⭐ 14,104]__
+
 ### 20190214
 - [alibaba / flutter-go](https://github.com/alibaba/flutter-go) flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档 __[⭐ 6,445]__
 - [eranyanay / 1m-go-websockets](https://github.com/eranyanay/1m-go-websockets) handling 1M websockets connections in Go __[⭐ 1,363]__
@@ -2156,6 +2238,7 @@
 - [didi / chameleon](https://github.com/didi/chameleon) 🦎 一套代码运行多端，一端所见即多端所见 __[⭐ 2,165]__
 - [instantpage / instant.page](https://github.com/instantpage/instant.page) Make your site’s pages instant in 1 minute and improve your conversion rate by 1% __[⭐ 1,915]__
 - [kmario23 / deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!! __[⭐ 2,993]__
+
 ### 20190213
 - [uber / ludwig](https://github.com/uber/ludwig) Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code. __[⭐ 1,142]__
 - [pomber / git-history](https://github.com/pomber/git-history) Quickly browse the history of any GitHub file __[⭐ 6,509]__
@@ -2182,6 +2265,7 @@
 - [lukakerr / twig](https://github.com/lukakerr/twig) A modern macOS markdown editor - themeable, tabs, sidebar, github flavored markdown, exporting, latex and more __[⭐ 1,005]__
 - [NVlabs / stylegan](https://github.com/NVlabs/stylegan) StyleGAN - Official TensorFlow Implementation __[⭐ 1,681]__
 - [nathan / pax](https://github.com/nathan/pax) The fastest JavaScript bundler in the galaxy. __[⭐ 1,746]__
+
 ### 20190210
 - [trimstray / nginx-quick-reference](https://github.com/trimstray/nginx-quick-reference) ⚡️ This notes describes how to improve Nginx performance, security and other important things; ssllabs A+ 100%. __[⭐ 2,482]__
 - [pomber / git-history](https://github.com/pomber/git-history) Quickly browse the history of any GitHub file __[⭐ 4,132]__
@@ -2208,6 +2292,7 @@
 - [felixrieseberg / windows95](https://github.com/felixrieseberg/windows95) 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows. __[⭐ 14,259]__
 - [facebook / react](https://github.com/facebook/react) A declarative, efficient, and flexible JavaScript library for building user interfaces. __[⭐ 121,960]__
 - [Microsoft / vscode](https://github.com/Microsoft/vscode) Visual Studio Code __[⭐ 68,863]__
+
 ### 20190207
 - [pomber / github-history](https://github.com/pomber/github-history) Browse the history of any file from GitHub with style __[⭐ 1,462]__
 - [kleampa / not-paid](https://github.com/kleampa/not-paid) Client did not pay? Add opacity to the body tag and increase it every day until their site completely fades away __[⭐ 1,121]__
@@ -2234,6 +2319,7 @@
 - [graykode / nlp-tutorial](https://github.com/graykode/nlp-tutorial) Natural Language Processing Tutorial for Deep Learning Researchers __[⭐ 977]__
 - [tyroprogrammer / learn-react-app](https://github.com/tyroprogrammer/learn-react-app) Application that will help you learn React fundamentals. Install this application locally - there's tutorial, code snippets and exercises. The main objective of this project is to help you get off the ground with React! __[⭐ 2,348]__
 - [facebookresearch / XLM](https://github.com/facebookresearch/XLM) PyTorch original implementation of Cross-lingual Language Model Pretraining. __[⭐ 225]__
+
 ### 20190206
 - [toddmotto / public-apis](https://github.com/toddmotto/public-apis) A collective list of free APIs for use in software and web development. __[⭐ 48,514]__
 - [gto76 / python-cheatsheet](https://github.com/gto76/python-cheatsheet) Comprehensive Python Cheatsheet __[⭐ 1,595]__
@@ -2260,6 +2346,7 @@
 - [cjbassi / gotop](https://github.com/cjbassi/gotop) A terminal based graphical activity monitor inspired by gtop and vtop __[⭐ 3,362]__
 - [istio / istio](https://github.com/istio/istio) Connect, secure, control, and observe services. __[⭐ 15,094]__
 - [stylelint / stylelint](https://github.com/stylelint/stylelint) A mighty, modern style linter __[⭐ 6,103]__
+
 ### 20190202
 - [tyroprogrammer / learn-react-app](https://github.com/tyroprogrammer/learn-react-app) Application that will help you learn React fundamentals. Install this application locally - there's guided tutorial as well as guided exercises. __[⭐ 1,315]__
 - [shengxinjing / programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) 🙈程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞 __[⭐ 13,959]__
@@ -2286,6 +2373,7 @@
 - [egoist / import-http](https://github.com/egoist/import-http) Import modules from URL instead of local node_modules __[⭐ 857]__
 - [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer) Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. __[⭐ 56,263]__
 - [march08 / animated-burgers](https://github.com/march08/animated-burgers) Collection of animated burgers for React, also available as HTML+CSS __[⭐ 346]__
+
 ### 20190201
 - [shengxinjing / programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) 🙈程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞 __[⭐ 13,806]__
 - [tyroprogrammer / learn-react-app](https://github.com/tyroprogrammer/learn-react-app) Application that will help you learn React fundamentals. Install this application locally - there's guided tutorial as well as guided exercises. __[⭐ 732]__
@@ -2312,6 +2400,7 @@
 - [Ridter / Intranet_Penetration_Tips](https://github.com/Ridter/Intranet_Penetration_Tips) 2018年初整理的一些内网渗透TIPS，后面更新的慢，所以公开出来希望跟小伙伴们一起更新维护~ __[⭐ 624]__
 - [minimaxir / big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. __[⭐ 31,741]__
 - [joewalnes / websocketd](https://github.com/joewalnes/websocketd) Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets. __[⭐ 12,893]__
+
 ### 20190131
 - [rShetty / awesome-podcasts](https://github.com/rShetty/awesome-podcasts) Collection of awesome podcasts __[⭐ 6,075]__
 - [shengxinjing / programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) 🙈程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞 __[⭐ 12,603]__
@@ -2338,6 +2427,7 @@
 - [apache / flink](https://github.com/apache/flink) Apache Flink __[⭐ 7,045]__
 - [b3log / symphony](https://github.com/b3log/symphony) 🎶 一款用 Java 实现的现代化社区（论坛/BBS/社交网络/博客）平台。https://hacpai.com __[⭐ 10,272]__
 - [stanfordnlp / stanfordnlp](https://github.com/stanfordnlp/stanfordnlp) Official Stanford NLP Python Library for Many Human Languages __[⭐ 170]__
+
 ### 20190129
 - [myliang / x-spreadsheet](https://github.com/myliang/x-spreadsheet) a javascript spreadsheet for web __[⭐ 1,040]__
 - [vadimdemedes / ink](https://github.com/vadimdemedes/ink) 🌈 React for interactive command-line apps __[⭐ 7,519]__
@@ -2364,6 +2454,7 @@
 - [alibaba / flutter-go](https://github.com/alibaba/flutter-go) flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档 __[⭐ 4,567]__
 - [laynefyc / xhgui-branch](https://github.com/laynefyc/xhgui-branch) PHP非侵入式监控平台- 优化性能，定位Bug的神器，别再让你的PHP程序裸奔。---提交问题请带上操作系统和PHP版本等信息 __[⭐ 428]__
 - [phodal / techlead](https://github.com/phodal/techlead) 迈向 Tech Lead 之路。Path to Tech Lead __[⭐ 224]__
+
 ### 20190128
 - [joewalnes / websocketd](https://github.com/joewalnes/websocketd) Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets. __[⭐ 11,697]__
 - [trimstray / the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) 🔥 This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress. __[⭐ 4,580]__
@@ -2390,6 +2481,7 @@
 - [kmario23 / deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!! __[⭐ 205]__
 - [komeiji-satori / Dress](https://github.com/komeiji-satori/Dress) 好耶 是女装 __[⭐ 5,480]__
 - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 11,845]__
+
 ### 20190127
 - [joewalnes / websocketd](https://github.com/joewalnes/websocketd) Turn any program that uses STDIN/STDOUT into a WebSocket server. Like inetd, but for WebSockets. __[⭐ 11,275]__
 - [trimstray / the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) 🔥 This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress. __[⭐ 4,202]__
@@ -2416,6 +2508,7 @@
 - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 11,770]__
 - [westerndigitalcorporation / swerv_eh1](https://github.com/westerndigitalcorporation/swerv_eh1) A directory of Western Digital’s RISC-V SweRV Cores __[⭐ SystemVerilog]__
 - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 51,592]__
+
 ### 20190126
 - [trimstray / the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) ⚡️ This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress. __[⭐ 3,538]__
 - [revery-ui / revery](https://github.com/revery-ui/revery) ⚡️ Native, high-performance, cross-platform desktop apps - built with Reason! __[⭐ 2,282]__
@@ -2442,6 +2535,7 @@
 - [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲 __[⭐ 7,394]__
 - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a web developer in 2019 __[⭐ 70,101]__
 - [trekhleb / javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings __[⭐ 43,286]__
+
 ### 20190125
 - [trimstray / the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) ⚡️ This guide details the planning and the tools involved in creating a secure Linux production systems - work in progress. __[⭐ 2,274]__
 - [cloudfetch / cloudquery](https://github.com/cloudfetch/cloudquery) Turn any website to serverless API (support SPA!) __[⭐ 769]__
@@ -2468,6 +2562,7 @@
 - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 22,176]__
 - [Pagedraw / pagedraw](https://github.com/Pagedraw/pagedraw) a UI builder for React web apps __[⭐ 767]__
 - [vuejs / vue](https://github.com/vuejs/vue) 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 126,152]__
+
 ### 20190124
 - [charlax / professional-programming](https://github.com/charlax/professional-programming) A collection of full-stack resources for programmers. __[⭐ 7,248]__
 - [auchenberg / vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview) A real browser preview inside your editor that you can debug. __[⭐ 2,311]__
@@ -2494,6 +2589,7 @@
 - [osforscience / deep-learning-ocean](https://github.com/osforscience/deep-learning-ocean) 📡 All You Need to Know About Deep Learning - A kick-starter __[⭐ 2,581]__
 - [30-seconds / 30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less. __[⭐ 37,584]__
 - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 22,064]__
+
 ### 20190123
 - [auchenberg / vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview) A real browser preview inside your editor that you can debug. __[⭐ 1,275]__
 - [charlax / professional-programming](https://github.com/charlax/professional-programming) A collection of full-stack resources for programmers. __[⭐ 6,253]__
@@ -2520,6 +2616,7 @@
 - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 11,351]__
 - [lalamove / konfig](https://github.com/lalamove/konfig) Composable, observable and performant config handling for Go for the distributed processing era __[⭐ 224]__
 - [Pagedraw / pagedraw](https://github.com/Pagedraw/pagedraw) a UI builder for React web apps __[⭐ 220]__
+
 ### 20190121
 - [charlax / professional-programming](https://github.com/charlax/professional-programming) A collection of full-stack resources for programmers. __[⭐ 4,323]__
 - [komeiji-satori / Dress](https://github.com/komeiji-satori/Dress) 好耶 是女装 __[⭐ 2,814]__
@@ -2546,6 +2643,7 @@
 - [calebwin / pipelines](https://github.com/calebwin/pipelines) framework & language for scripting massively parrallel pipelines with Python __[⭐ 177]__
 - [cschied / q2vkpt](https://github.com/cschied/q2vkpt) Real-time path tracer VKPT integrated into q2pro Quake 2 client. __[⭐ 332]__
 - [yaoguangluo / DETA_DataBase](https://github.com/yaoguangluo/DETA_DataBase) 部署在德塔HTTP服务器/http server的德塔数据库系统/data base，全面采用VPC和VPCS架构引擎。基于VPC架构的无死锁，高并发，json，碎片，对象，rest map, 量子数据库。作者：罗瑶光 __[⭐ 196]__
+
 ### 20190120
 - [charlax / professional-programming](https://github.com/charlax/professional-programming) A collection of full-stack resources for programmers. __[⭐ 3,765]__
 - [alexkimxyz / nsfw_data_scrapper](https://github.com/alexkimxyz/nsfw_data_scrapper) Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier __[⭐ 4,976]__
@@ -2572,6 +2670,7 @@
 - [osforscience / deep-learning-ocean](https://github.com/osforscience/deep-learning-ocean) 📡 All You Need to Know About Deep Learning - A kick-starter __[⭐ 1,325]__
 - [alibaba / euler](https://github.com/alibaba/euler) A distributed graph deep learning framework. __[⭐ 687]__
 - [m1ghtym0 / browser-pwn](https://github.com/m1ghtym0/browser-pwn) An updated collection of resources targeting browser-exploitation. __[⭐ 107]__
+
 ### 20190119
 - [charlax / professional-programming](https://github.com/charlax/professional-programming) A collection of full-stack resources for programmers. __[⭐ 3,000]__
 - [schollz / howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) Count the number of people around you 👨‍👨‍👦 by monitoring wifi signals 📡 __[⭐ 4,709]__
@@ -2598,6 +2697,7 @@
 - [juliangarnier / anime](https://github.com/juliangarnier/anime) JavaScript animation engine __[⭐ 28,252]__
 - [vuejs / vue](https://github.com/vuejs/vue) 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 125,477]__
 - [hasura / graphql-engine](https://github.com/hasura/graphql-engine) Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events. __[⭐ 6,421]__
+
 ### 20190118
 - [charlax / professional-programming](https://github.com/charlax/professional-programming) A collection of full-stack resources for programmers. __[⭐ 2,281]__
 - [schollz / howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) Count the number of people around you 👨‍👨‍👦 by monitoring wifi signals 📡 __[⭐ 4,418]__
@@ -2624,6 +2724,7 @@
 - [vuejs / vue](https://github.com/vuejs/vue) 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 125,416]__
 - [yygmind / blog](https://github.com/yygmind/blog) 我是木易杨，网易高级前端工程师，跟着我每周重点攻克一个前端面试重难点。接下来让我带你走进高级前端的世界，在进阶的路上，共勉！ __[⭐ 1,381]__
 - [dbeaver / dbeaver](https://github.com/dbeaver/dbeaver) Free universal database tool and SQL client __[⭐ 7,310]__
+
 ### 20190117
 - [nukeop / nuclear](https://github.com/nukeop/nuclear) Popcorn Time for music __[⭐ 1,693]__
 - [alexkimxyz / nsfw_data_scrapper](https://github.com/alexkimxyz/nsfw_data_scrapper) Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier __[⭐ 3,903]__
@@ -2650,6 +2751,7 @@
 - [kickstartcoding / cheatsheets](https://github.com/kickstartcoding/cheatsheets) A selection of printable, one-page cheatsheets, generated from Markdown using Pandoc & LaTeX __[⭐ 206]__
 - [fs0c131y / ESFileExplorerOpenPortVuln](https://github.com/fs0c131y/ESFileExplorerOpenPortVuln) ES File Explorer Open Port Vulnerability - CVE-2019-6447 __[⭐ 183]__
 - [macrozheng / mall](https://github.com/macrozheng/mall) mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 __[⭐ 4,742]__
+
 ### 20190116
 - [alexkimxyz / nsfw_data_scrapper](https://github.com/alexkimxyz/nsfw_data_scrapper) Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier __[⭐ 3,196]__
 - [testerSunshine / 12306](https://github.com/testerSunshine/12306) 12306智能刷票，订票 __[⭐ 4,900]__
@@ -2676,6 +2778,7 @@
 - [dylanaraps / fff](https://github.com/dylanaraps/fff) 🚀 fucking fast file-manager (written in bash) __[⭐ 1,870]__
 - [jaywcjlove / awesome-mac](https://github.com/jaywcjlove/awesome-mac)  Now we have become very big, Different from the original idea. Collect premium software in various categories. __[⭐ 24,666]__
 - [FoundationDB / fdb-record-layer](https://github.com/FoundationDB/fdb-record-layer) A record-oriented store built on FoundationDB __[⭐ 250]__
+
 ### 20190115
 - [alexkimxyz / nsfw_data_scrapper](https://github.com/alexkimxyz/nsfw_data_scrapper) Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier __[⭐ 2,164]__
 - [retroplasma / earth-reverse-engineering](https://github.com/retroplasma/earth-reverse-engineering) WIP __[⭐ 846]__
@@ -2702,6 +2805,7 @@
 - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 49,892]__
 - [tantivy-search / tantivy](https://github.com/tantivy-search/tantivy) Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust __[⭐ 1,791]__
 - [mxcl / swift-sh](https://github.com/mxcl/swift-sh) Easily import third-party dependencies in your Swift scripts __[⭐ 452]__
+
 ### 20190114
 - [toshi-search / Toshi](https://github.com/toshi-search/Toshi) A full-text search engine in rust __[⭐ 970]__
 - [juliangarnier / anime](https://github.com/juliangarnier/anime) JavaScript animation engine __[⭐ 26,630]__
@@ -2728,6 +2832,7 @@
 - [davidkpiano / xstate](https://github.com/davidkpiano/xstate) State machines and statecharts for the modern web. __[⭐ 4,186]__
 - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 9,945]__
 - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 49,733]__
+
 ### 20190113
 - [juliangarnier / anime](https://github.com/juliangarnier/anime) JavaScript animation engine __[⭐ 26,112]__
 - [yujiangshui / A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) 专为程序员编写的英语学习指南。v1.0 __[⭐ 3,149]__
@@ -2754,6 +2859,7 @@
 - [ericalli / static-site-boilerplate](https://github.com/ericalli/static-site-boilerplate) A better workflow for building modern static websites. __[⭐ 551]__
 - [lexfridman / mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) Tutorials, assignments, and competitions for MIT Deep Learning related courses. __[⭐ 2,514]__
 - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 面试必备基础知识 __[⭐ 46,670]__
+
 ### 20190112
 - [alibaba / fescar](https://github.com/alibaba/fescar) Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution. __[⭐ 2,023]__
 - [yujiangshui / A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) 专为程序员编写的英语学习指南。v1.0 __[⭐ 2,783]__
@@ -2780,6 +2886,7 @@
 - [vuejs / vue](https://github.com/vuejs/vue) 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 124,703]__
 - [alash3al / sqler](https://github.com/alash3al/sqler) write APIs using direct SQL queries with no hassle, let's rethink about SQL __[⭐ 1,321]__
 - [VincentSit / ChinaMobilePhoneNumberRegex](https://github.com/VincentSit/ChinaMobilePhoneNumberRegex) Regular expressions that match the mobile phone number in mainland China. / 一组匹配中国大陆手机号码的正则表达式。 __[⭐ 2,201]__
+
 ### 20190111
 - [kamranahmedse / developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) Roadmap to becoming a web developer in 2019 __[⭐ 66,210]__
 - [alibaba / fescar](https://github.com/alibaba/fescar) Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution. __[⭐ 1,898]__
@@ -2806,6 +2913,7 @@
 - [kimiyoung / transformer-xl](https://github.com/kimiyoung/transformer-xl)  __[⭐ 171]__
 - [jakubroztocil / httpie](https://github.com/jakubroztocil/httpie) As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp __[⭐ 39,146]__
 - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 9,686]__
+
 ### 20190110
 - [sharkdp / hexyl](https://github.com/sharkdp/hexyl) A command-line hex viewer __[⭐ 2,004]__
 - [yujiangshui / An-English-Guide-for-Programmers](https://github.com/yujiangshui/An-English-Guide-for-Programmers) 专为程序员编写的英语学习指南。v1.0 __[⭐ 1,586]__
@@ -2832,6 +2940,7 @@
 - [elliottzheng / CopyTranslator](https://github.com/elliottzheng/CopyTranslator) Foreign paper reading and translation assistant based on copy and translate.(Latest: v0.0.7-Kylin-RC1) __[⭐ 810]__
 - [meolu / walle-web](https://github.com/meolu/walle-web) walle - 瓦力 开源项目代码部署平台 __[⭐ 6,096]__
 - [30-seconds / 30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less. __[⭐ 36,354]__
+
 ### 20190109
 - [FiloSottile / mkcert](https://github.com/FiloSottile/mkcert) A simple zero-config tool to make locally trusted development certificates with any names you'd like. __[⭐ 14,492]__
 - [lexfridman / mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) Tutorials, assignments, and competitions for MIT Deep Learning related courses. __[⭐ 1,748]__
@@ -2858,6 +2967,7 @@
 - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 49,186]__
 - [lni / dragonboat](https://github.com/lni/dragonboat) Dragonboat is a feature complete and high performance multi-group Raft library in Go. __[⭐ 966]__
 - [fabiospampinato / notable](https://github.com/fabiospampinato/notable) The markdown-based note-taking app that doesn't suck. __[⭐ 5,479]__
+
 ### 20190108
 - [FiloSottile / mkcert](https://github.com/FiloSottile/mkcert) A simple zero-config tool to make locally trusted development certificates with any names you'd like. __[⭐ 13,419]__
 - [zadam / trilium](https://github.com/zadam/trilium) Build your personal knowledge base with Trilium Notes __[⭐ 1,733]__
@@ -2884,6 +2994,7 @@
 - [TwoLivesLeft / Menu](https://github.com/TwoLivesLeft/Menu) The iOS Menu __[⭐ 702]__
 - [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) 📚A practical approach to learning machine learning. __[⭐ 12,964]__
 - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 8,861]__
+
 ### 20190107
 - [yyx990803 / build-your-own-mint](https://github.com/yyx990803/build-your-own-mint) Build your own personal finance analytics using Plaid, Google Sheets and CircleCI. __[⭐ 727]__
 - [ecthros / uncaptcha2](https://github.com/ecthros/uncaptcha2) defeating the latest version of ReCaptcha with 91% accuracy __[⭐ 2,726]__
@@ -2910,6 +3021,7 @@
 - [dwyl / learn-json-web-tokens](https://github.com/dwyl/learn-json-web-tokens) 🔐 Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!) __[⭐ 3,210]__
 - [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) 📚A practical approach to learning machine learning. __[⭐ 12,814]__
 - [knazeri / edge-connect](https://github.com/knazeri/edge-connect) EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning. https://arxiv.org/abs/1901.00212 __[⭐ 323]__
+
 ### 20190106
 - [ecthros / uncaptcha2](https://github.com/ecthros/uncaptcha2) defeating the latest version of ReCaptcha with 91% accuracy __[⭐ 2,208]__
 - [windmilleng / tilt](https://github.com/windmilleng/tilt) Local Kubernetes development with no stress __[⭐ 505]__
@@ -2936,6 +3048,7 @@
 - [dpc / crev](https://github.com/dpc/crev) Scalable, social, Code REView and recommendation system that we desperately need __[⭐ 462]__
 - [drcmda / react-with-gesture](https://github.com/drcmda/react-with-gesture) 👇Bread n butter utility for component-tied mouse/touch gestures in React __[⭐ 505]__
 - [lexfridman / deeptraffic](https://github.com/lexfridman/deeptraffic) DeepTraffic is a deep reinforcement learning competition, part of the MIT Deep Learning series. __[⭐ 121]__
+
 ### 20190105
 - [facebookincubator / fbt](https://github.com/facebookincubator/fbt) A JavaScript Internationalization Framework __[⭐ 1,655]__
 - [ecthros / uncaptcha2](https://github.com/ecthros/uncaptcha2) defeating the latest version of ReCaptcha with 91% accuracy __[⭐ 1,719]__
@@ -2962,6 +3075,7 @@
 - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 18,796]__
 - [TheYahya / sherlock](https://github.com/TheYahya/sherlock) 🔎 Find usernames across social networks __[⭐ 2,255]__
 - [aceakash / string-similarity](https://github.com/aceakash/string-similarity) Finds degree of similarity between two strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance. __[⭐ 501]__
+
 ### 20190104
 - [trekhleb / homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained __[⭐ 5,095]__
 - [jeffgerickson / algorithms](https://github.com/jeffgerickson/algorithms) Bug-tracking for Jeff's algorithms book, notes, etc. __[⭐ 1,230]__
@@ -2988,6 +3102,7 @@
 - [iina / iina](https://github.com/iina/iina) The modern video player for macOS. __[⭐ 16,015]__
 - [mahmoud / awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) 💿 Free software that works great, and also happens to be open-source Python. __[⭐ 4,614]__
 - [zziz / pwc](https://github.com/zziz/pwc) Papers with code. Sorted by stars. Updated weekly. __[⭐ 7,379]__
+
 ### 20190103
 - [trekhleb / homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained __[⭐ 4,407]__
 - [zalandoresearch / flair](https://github.com/zalandoresearch/flair) A very simple framework for state-of-the-art Natural Language Processing (NLP) __[⭐ 2,907]__
@@ -3014,6 +3129,7 @@
 - [sw-yx / react-typescript-cheatsheet](https://github.com/sw-yx/react-typescript-cheatsheet) a cheatsheet for react users using typescript with react for the first (or nth!) time __[⭐ 2,863]__
 - [jonatasbaldin / awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome) Awesome list of repositories of awesome lists 🤷‍♀️ __[⭐ 988]__
 - [HackerPoet / MarbleMarcher](https://github.com/HackerPoet/MarbleMarcher) A Fractal Physics Game __[⭐ 210]__
+
 ### 20190102
 - [MaximAbramchuck / awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) A curated awesome list of lists of interview questions. Feel free to contribute! 🎓 __[⭐ 23,012]__
 - [fabiospampinato / notable](https://github.com/fabiospampinato/notable) The markdown-based note-taking app that doesn't suck. __[⭐ 3,793]__
@@ -3040,7 +3156,9 @@
 - [2d-inc / HistoryOfEverything](https://github.com/2d-inc/HistoryOfEverything) Flutter Launch Timeline Demo __[⭐ 1,400]__
 - [home-assistant / home-assistant](https://github.com/home-assistant/home-assistant) 🏡 Open source home automation that puts local control and privacy first __[⭐ 20,160]__
 - [BrainJS / brain.js](https://github.com/BrainJS/brain.js) 🤖 Neural networks in JavaScript __[⭐ 8,143]__
+
 ## 2018
+
 ### 20181230
 - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 7,223]__
 - [rrweb-io / rrweb](https://github.com/rrweb-io/rrweb) record and replay the web __[⭐ 1,207]__
@@ -3067,6 +3185,8 @@
 - [ant-design / ant-design](https://github.com/ant-design/ant-design) 🐜 A UI Design Language __[⭐ 40,238]__
 - [mahmoud / awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) 💿 Free software that works great, and also happens to be open-source Python. __[⭐ 4,157]__
 - [Tencent / matrix](https://github.com/Tencent/matrix) Matrix is a plugin style, non-invasive APM system developed by WeChat. __[⭐ 2,487]__
+
+
 ### 20181229
 - [fabiospampinato / notable](https://github.com/fabiospampinato/notable) The markdown-based note-taking app that doesn't suck. __[⭐ 2,327]__
 - [2d-inc / HistoryOfEverything](https://github.com/2d-inc/HistoryOfEverything) Flutter Launch Timeline Demo __[⭐ 884]__
@@ -3093,6 +3213,7 @@
 - [SaraVieira / fiddly](https://github.com/SaraVieira/fiddly) Create beautiful and simple HTML pages from your Readme.md files __[⭐ 512]__
 - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 18,063]__
 - [mogenslund / liquid](https://github.com/mogenslund/liquid) Clojure Text Editor, for editing clojure code and markdown. Written entirely in Clojure with inspiration from Emacs and Vim. __[⭐ 479]__
+
 ### 20181228
 - [fabiospampinato / notable](https://github.com/fabiospampinato/notable) The markdown-based note-taking app that doesn't suck. __[⭐ 1,679]__
 - [hackerb9 / lsix](https://github.com/hackerb9/lsix) Like "ls", but for images. Shows thumbnails in terminal using sixel graphics. __[⭐ 1,362]__
@@ -3119,6 +3240,7 @@
 - [521xueweihan / HelloGitHub](https://github.com/521xueweihan/HelloGitHub) 分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目⭐️ __[⭐ 8,419]__
 - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 47,921]__
 - [unbug / codelf](https://github.com/unbug/codelf) Best GitHub stars, repositories tagger and organizer. Search over projects from Github, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project, GitLab to find real-world usage variable names __[⭐ 4,988]__
+
 ### 20181227
 - [trekhleb / homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained __[⭐ 1,735]__
 - [hackerb9 / lsix](https://github.com/hackerb9/lsix) Like "ls", but for images. Shows thumbnails in terminal using sixel graphics. __[⭐ 1,078]__
@@ -3145,6 +3267,7 @@
 - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 47,863]__
 - [521xueweihan / HelloGitHub](https://github.com/521xueweihan/HelloGitHub) 分享 GitHub 上有趣、入门级的开源项目，帮你找到编程的乐趣。欢迎推荐、自荐项目，让更多人知道你的项目⭐️ __[⭐ 8,351]__
 - [TarekRaafat / autoComplete.js](https://github.com/TarekRaafat/autoComplete.js) Simple autocomplete pure vanilla Javascript library. __[⭐ 1,118]__
+
 ### 20181226
 - [ant-design / ant-design](https://github.com/ant-design/ant-design) 🐜 A UI Design Language __[⭐ 39,084]__
 - [Tencent / matrix](https://github.com/Tencent/matrix) Matrix is a plugin style, no-intrusion APM system developed by WeChat. __[⭐ 1,329]__
@@ -3171,6 +3294,7 @@
 - [unbug / codelf](https://github.com/unbug/codelf) Best GitHub stars, repositories tagger and organizer. Search over projects from Github, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project, GitLab to find real-world usage variable names __[⭐ 4,748]__
 - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 6,096]__
 - [intika / Librefox](https://github.com/intika/Librefox) Librefox: Firefox with privacy enhancements __[⭐ 488]__
+
 ### 20181225
 - [swc-project / swc](https://github.com/swc-project/swc) Super-fast alternative for babel __[⭐ 1,537]__
 - [FavioVazquez / ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) List of Data Science Cheatsheets to rule the world __[⭐ 1,299]__
@@ -3197,6 +3321,7 @@
 - [rwbutler / Connectivity](https://github.com/rwbutler/Connectivity) Makes Internet connectivity detection more robust by detecting Wi-Fi networks without Internet access. __[⭐ 210]__
 - [trekhleb / homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained __[⭐ 554]__
 - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 17,444]__
+
 ### 20181223
 - [mahmoud / awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) 💿 Free software that works great, and also happens to be open-source Python. __[⭐ 2,164]__
 - [facebookresearch / wav2letter](https://github.com/facebookresearch/wav2letter) Facebook AI Research Automatic Speech Recognition Toolkit __[⭐ 2,180]__
@@ -3223,6 +3348,7 @@
 - [vuejs / vue](https://github.com/vuejs/vue) 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 122,902]__
 - [swc-project / swc](https://github.com/swc-project/swc) Super-fast alternative for babel __[⭐ 245]__
 - [NVIDIAGameWorks / PhysX](https://github.com/NVIDIAGameWorks/PhysX) NVIDIA PhysX SDK __[⭐ 315]__
+
 ### 20181222
 - [mahmoud / awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) 💿 Free software that works great, which also happens to be open-source Python. __[⭐ 1,752]__
 - [alibaba / x-deeplearning](https://github.com/alibaba/x-deeplearning) An industrial deep learning framework for high-dimension sparse data __[⭐ 1,233]__
@@ -3249,6 +3375,7 @@
 - [trekhleb / javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings __[⭐ 40,922]__
 - [leonardomso / 33-js-concepts](https://github.com/leonardomso/33-js-concepts) 📜 33 concepts every JavaScript developer should know. __[⭐ 22,670]__
 - [bryphe / revery](https://github.com/bryphe/revery) ⚡️ Native, high-performance, cross-platform desktop apps - built with Reason! __[⭐ 322]__
+
 ### 20181221
 - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers. __[⭐ 6,239]__
 - [FAQGURU / FAQGURU](https://github.com/FAQGURU/FAQGURU) 🎒 🚀 🎉 A list of interview questions. This repository is everything you need to prepare for your technical interview. __[⭐ 2,174]__
@@ -3275,6 +3402,7 @@
 - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 47,064]__
 - [unbug / codelf](https://github.com/unbug/codelf) Best GitHub stars, repositories tagger and organizer. Search over projects from Github, Bitbucket, Google Code, Codeplex, Sourceforge, Fedora Project, GitLab to find real-world usage variable names __[⭐ 3,906]__
 - [vuejs / vue](https://github.com/vuejs/vue) 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 122,727]__
+
 ### 20181220
 - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers. __[⭐ 5,486]__
 - [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) A practical approach to learning machine learning. __[⭐ 8,838]__
@@ -3301,6 +3429,7 @@
 - [Varal7 / ieturk](https://github.com/Varal7/ieturk) Intuitive Annotation Tool for Information / Named Entity Recognition using localturk / Amazon Mechanical Turk __[⭐ 161]__
 - [vuejs / vue](https://github.com/vuejs/vue) 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 122,614]__
 - [dinubs / coolqlcool](https://github.com/dinubs/coolqlcool) Nextjs server to query websites with GraphQL __[⭐ 137]__
+
 ### 20181219
 - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers. __[⭐ 4,910]__
 - [bloomberg / goldpinger](https://github.com/bloomberg/goldpinger) Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster. __[⭐ 683]__
@@ -3327,6 +3456,7 @@
 - [khoren93 / SwiftHub](https://github.com/khoren93/SwiftHub) Github iOS client written in RxSwift and MVVM clean architecture __[⭐ 376]__
 - [vuejs / vue](https://github.com/vuejs/vue) 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 122,551]__
 - [santinic / pampy](https://github.com/santinic/pampy) Pampy: The Pattern Matching for Python you always dreamed of. __[⭐ 2,187]__
+
 ### 20181218
 - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers. __[⭐ 3,192]__
 - [fengdu78 / lihang-code](https://github.com/fengdu78/lihang-code) 《统计学习方法》的代码实现 __[⭐ 1,615]__
@@ -3353,6 +3483,7 @@
 - [trekhleb / javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings __[⭐ 40,545]__
 - [saket / Dank](https://github.com/saket/Dank) Here lies the greatest Reddit app that was never released __[⭐ 331]__
 - [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university) A complete computer science study plan to become a software engineer. __[⭐ 72,246]__
+
 ### 20181217
 - [facebookresearch / pytext](https://github.com/facebookresearch/pytext) A natural language modeling framework based on PyTorch __[⭐ 1,984]__
 - [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) 💫 A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. For SysOps, DevOps, Pentesters and Security Researchers. __[⭐ 1,800]__
@@ -3379,6 +3510,7 @@
 - [tensorflow / tensorflow](https://github.com/tensorflow/tensorflow) An Open Source Machine Learning Framework for Everyone __[⭐ 116,765]__
 - [zeit / arg](https://github.com/zeit/arg) Simple argument parsing __[⭐ 334]__
 - [santinic / pampy](https://github.com/santinic/pampy) Pampy: The Pattern Matching for Python you always dreamed of. __[⭐ 1,541]__
+
 ### 20181216
 - [facebookresearch / pytext](https://github.com/facebookresearch/pytext) A natural language modeling framework based on PyTorch __[⭐ 1,879]__
 - [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) A practical approach to learning machine learning. __[⭐ 7,187]__
@@ -3405,6 +3537,7 @@
 - [Solido / awesome-flutter](https://github.com/Solido/awesome-flutter) An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. __[⭐ 10,266]__
 - [vaexio / vaex](https://github.com/vaexio/vaex) Out-of-Core DataFrames for Python, visualize and explore big tabular data at a billion rows per second. __[⭐ 707]__
 - [tensorflow / tensorflow](https://github.com/tensorflow/tensorflow) An Open Source Machine Learning Framework for Everyone __[⭐ 116,749]__
+
 ### 20181215
 - [facebookresearch / pytext](https://github.com/facebookresearch/pytext) A natural language modeling framework based on PyTorch __[⭐ 1,254]__
 - [leonardomso / 33-js-concepts](https://github.com/leonardomso/33-js-concepts) 📜 33 concepts every JavaScript developer should know. __[⭐ 21,720]__
@@ -3431,6 +3564,7 @@
 - [vuejs / vue](https://github.com/vuejs/vue) 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 122,197]__
 - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 16,433]__
 - [mholt / certmagic](https://github.com/mholt/certmagic) Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal __[⭐ 1,416]__
+
 ### 20181214
 - [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) A practical approach to learning machine learning. __[⭐ 5,864]__
 - [GoogleChromeLabs / quicklink](https://github.com/GoogleChromeLabs/quicklink) ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time __[⭐ 1,953]__
@@ -3457,6 +3591,7 @@
 - [lucagez / Debucsser](https://github.com/lucagez/Debucsser) CSS debugging tool with an unpronounceable name __[⭐ 387]__
 - [google-research / google-research](https://github.com/google-research/google-research) Google AI Research __[⭐ 1,030]__
 - [worldveil / photomosaic](https://github.com/worldveil/photomosaic) Creating fun photomosaics, GIFs, and murals from your family pictures using ML & similarity search (http://photofun.strikingly.com) __[⭐ 146]__
+
 ### 20181213
 - [grafana / loki](https://github.com/grafana/loki) Like Prometheus, but for logs. __[⭐ 1,976]__
 - [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) A practical approach to learning machine learning. __[⭐ 5,355]__
@@ -3483,6 +3618,7 @@
 - [google / jax](https://github.com/google/jax) GPU- and TPU-backed NumPy with differentiation and JIT compilation. __[⭐ 2,032]__
 - [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 __[⭐ 15,073]__
 - [qiurunze123 / miaosha](https://github.com/qiurunze123/miaosha) 😮😮秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓 __[⭐ 289]__
+
 ### 20181212
 - [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) A practical approach to learning machine learning. __[⭐ 2,630]__
 - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 2,619]__
@@ -3509,6 +3645,7 @@
 - [lovell / sharp](https://github.com/lovell/sharp) High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library. __[⭐ 10,688]__
 - [Solido / awesome-flutter](https://github.com/Solido/awesome-flutter) An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. __[⭐ 9,867]__
 - [vuejs / vue](https://github.com/vuejs/vue) 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 121,824]__
+
 ### 20181211
 - [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 2,099]__
 - [MrRio / jsPDF](https://github.com/MrRio/jsPDF) Client-side JavaScript PDF generation for everyone. __[⭐ 14,004]__
@@ -3535,6 +3672,7 @@
 - [vuejs / vue](https://github.com/vuejs/vue) 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 121,733]__
 - [philippe44 / AirConnect](https://github.com/philippe44/AirConnect) Use AirPlay to stream to UPnP/Sonos & Chromecast devices __[⭐ 670]__
 - [pcottle / learnGitBranching](https://github.com/pcottle/learnGitBranching) An interactive git visualization to challenge and educate! __[⭐ 10,158]__
+
 ### 20181210
 - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee / eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee… __[⭐ 1,457]__
 - [google / jax](https://github.com/google/jax) GPU- and TPU-backed NumPy with differentiation and JIT compilation. __[⭐ 1,122]__
@@ -3561,6 +3699,7 @@
 - [mercyblitz / tech-weekly](https://github.com/mercyblitz/tech-weekly) 「小马哥技术周报」 __[⭐ 205]__
 - [vuejs / vue](https://github.com/vuejs/vue) 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 121,593]__
 - [SergioBenitez / Rocket](https://github.com/SergioBenitez/Rocket) A web framework for Rust. __[⭐ 5,910]__
+
 ### 20181209
 - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee / eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee… __[⭐ 1,272]__
 - [google / jax](https://github.com/google/jax) GPU- and TPU-backed NumPy with differentiation and JIT compilation. __[⭐ 1,019]__
@@ -3587,6 +3726,7 @@
 - [vuejs / vue](https://github.com/vuejs/vue) 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 121,575]__
 - [tensorflow / tensorflow](https://github.com/tensorflow/tensorflow) An Open Source Machine Learning Framework for Everyone __[⭐ 116,282]__
 - [GoogleChrome / puppeteer](https://github.com/GoogleChrome/puppeteer) Headless Chrome Node API __[⭐ 42,412]__
+
 ### 20181208
 - [MicrosoftEdge / MSEdge](https://github.com/MicrosoftEdge/MSEdge) Microsoft Edge __[⭐ 1,140]__
 - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 44,745]__
@@ -3613,6 +3753,7 @@
 - [streamich / awesome-styleguides](https://github.com/streamich/awesome-styleguides) A curated list of UI styleguides — 😎💄 __[⭐ 600]__
 - [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，近30万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 __[⭐ 14,443]__
 - [leisurelicht / wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译 __[⭐ 2,905]__
+
 ### 20181207
 - [MicrosoftEdge / MSEdge](https://github.com/MicrosoftEdge/MSEdge) Microsoft Edge __[⭐ 686]__
 - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 44,469]__
@@ -3639,6 +3780,7 @@
 - [vuejs / vue](https://github.com/vuejs/vue) 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 121,417]__
 - [cssanimation / css-animation-101](https://github.com/cssanimation/css-animation-101) Learn how to bring animation to your web projects __[⭐ 2,841]__
 - [rstudio / gt](https://github.com/rstudio/gt) Easily generate information-rich, publication-quality tables from R __[⭐ 301]__
+
 ### 20181206
 - [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 44,016]__
 - [beyondcode / laravel-websockets](https://github.com/beyondcode/laravel-websockets) Websockets for Laravel. Done right. __[⭐ 923]__
@@ -3665,6 +3807,7 @@
 - [cantino / mcfly](https://github.com/cantino/mcfly) Fly through your shell history. Great Scott! __[⭐ 839]__
 - [sourcegraph / sourcegraph](https://github.com/sourcegraph/sourcegraph) Code search and intelligence, self-hosted and scalable __[⭐ 699]__
 - [joelibaceta / video-to-ascii](https://github.com/joelibaceta/video-to-ascii) It is a simple python package to play videos in the terminal using characters as pixels __[⭐ 432]__
+
 ### 20181205
 - [dotnet / wpf](https://github.com/dotnet/wpf) This repo contains Windows Presentation Foundation (WPF) for .NET Core __[⭐ 1,142]__
 - [dotnet / winforms](https://github.com/dotnet/winforms) This repo contains Windows Forms for .NET Core. __[⭐ 744]__
@@ -3691,6 +3834,7 @@
 - [ithinco / i-am-chinese-the-dragonfly-must-go-on](https://github.com/ithinco/i-am-chinese-the-dragonfly-must-go-on) A response to “We are Google employees, Google must drop DragonFly” __[⭐ 1,431]__
 - [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 14,801]__
 - [oussamahamdaoui / forgJs](https://github.com/oussamahamdaoui/forgJs) ForgJs is a javascript lightweight object validator. Go check the Quick start section and start coding with love __[⭐ 301]__
+
 ### 20181204
 - [NVIDIAGameWorks / PhysX-3.4](https://github.com/NVIDIAGameWorks/PhysX-3.4) NVIDIA PhysX SDK 3.4 __[⭐ 1,262]__
 - [gaearon / overreacted.io](https://github.com/gaearon/overreacted.io) Personal blog by Dan Abramov. __[⭐ 1,120]__
@@ -3717,6 +3861,7 @@
 - [pfnet / optuna](https://github.com/pfnet/optuna) A hyperparameter optimization framework __[⭐ 233]__
 - [pcottle / learnGitBranching](https://github.com/pcottle/learnGitBranching) An interactive git visualization to challenge and educate! __[⭐ 9,676]__
 - [vuejs / vue](https://github.com/vuejs/vue) 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 121,054]__
+
 ### 20181203
 - [ithinco / i-am-chinese-the-dragonfly-must-go-on](https://github.com/ithinco/i-am-chinese-the-dragonfly-must-go-on) A response to “We are Google employees, Google must drop DragonFly” __[⭐ 803]__
 - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 Computer Science Learning Notes __[⭐ 42,393]__
@@ -3743,6 +3888,7 @@
 - [diveintodeeplearning / d2l-zh](https://github.com/diveintodeeplearning/d2l-zh) 《动手学深度学习》 __[⭐ 4,919]__
 - [olifolkerd / tabulator](https://github.com/olifolkerd/tabulator) Interactive Tables and Data Grids for JavaScript __[⭐ 1,624]__
 - [huxingyi / dust3d](https://github.com/huxingyi/dust3d) 🐪 Dust3D is a cross-platform open-source 3D modeling software. Auto UV unwrapping, auto rigging with PBR Material support, pose and motion authoring all in one. __[⭐ 534]__
+
 ### 20181202
 - [BcRikko / NES.css](https://github.com/BcRikko/NES.css) NES-style CSS Framework | ファミコン風CSSフレームワーク __[⭐ 5,386]__
 - [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 Computer Science Learning Notes __[⭐ 42,112]__
@@ -3771,5 +3917,7 @@
 - [kennethreitz / responder](https://github.com/kennethreitz/responder) a familiar HTTP Service Framework for Python __[⭐ 2,193]__
 
 ### [20181201](http://qiniu1.lxfriday.xyz/blog/githubtrending/20181201github-trending.pdf)
+
 ### [20181130](http://qiniu1.lxfriday.xyz/blog/githubtrending/20181130github-trending.pdf)
+
 ### [20181129](http://qiniu1.lxfriday.xyz/blog/githubtrending/20181129github-trending.pdf)
