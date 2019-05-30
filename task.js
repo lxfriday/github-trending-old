@@ -28,10 +28,10 @@ function task() {
     const todayTime = timeSource.format('YYYYMMDD');
     const mdTitle = `# ${todayTime}-github-trending\r\n`;
     const mdTotal = `__${data.length}__ repos\r\n\r\n`;
-    const mdToday = `- ${todayTime}\r\n`;
+    const mdToday = `### ${todayTime}\r\n`;
     const mdContent =  data.map(function (v) {
-      return `    - [${v.repo}](${v.url}) ${v.desc} __[⭐ ${v.stars}]__`;
-    }).join('\r\n') + '\r\n';
+      return `- [${v.repo}](${v.url}) ${v.desc} __[⭐ ${v.stars}]__`;
+    }).join('\r\n') + '\r\n\r\n';
     const mdStr = mdTitle + mdTotal + mdContent;
 
     const newHistory = mdToday + mdContent + historyPart;
@@ -92,5 +92,5 @@ function start(ignore = false) {
   });
 }
 
-// start(true); // 不做文件最近更改时间检测
-start();
+start(true); // 不做文件最近更改时间检测
+// start();
