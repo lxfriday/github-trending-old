@@ -1,3 +1,30 @@
+### 20190531
+- [metafizzy / zdog](https://github.com/metafizzy/zdog) Flat, round, designer-friendly pseudo-3D engine __[⭐ 3,308]__
+- [algorithm-visualizer / algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) 🎆Interactive Online Platform that Visualizes Algorithms from Code __[⭐ 15,832]__
+- [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 36,222]__
+- [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 49,594]__
+- [FunctionScript / FunctionScript](https://github.com/FunctionScript/FunctionScript) A language and specification for turning JavaScript functions into typed HTTP APIs __[⭐ 488]__
+- [greymd / ojichat](https://github.com/greymd/ojichat) おじさんがLINEやメールで送ってきそうな文を生成する __[⭐ 418]__
+- [binhnguyennus / awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems __[⭐ 18,072]__
+- [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 43,993]__
+- [sdras / cssgridgenerator](https://github.com/sdras/cssgridgenerator) 🧮Generate basic CSS Grid code to make dynamic layouts! __[⭐ 1,320]__
+- [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 28,727]__
+- [pirate / wireguard-docs](https://github.com/pirate/wireguard-docs) The Missing WireGuard Documentation: Setup, Usage, Configuration, and a full example for server-to-server VPN with roaming clients & public peers. __[⭐ 1,107]__
+- [wasmerio / go-ext-wasm](https://github.com/wasmerio/go-ext-wasm) 🐹🕸️ Go library to run WebAssembly binaries. __[⭐ 323]__
+- [Ekultek / BlueKeep](https://github.com/Ekultek/BlueKeep) Proof of concept for CVE-2019-0708 __[⭐ 263]__
+- [microsoft / terminal](https://github.com/microsoft/terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 42,204]__
+- [sveltejs / svelte](https://github.com/sveltejs/svelte) Cybernetically enhanced web apps __[⭐ 17,613]__
+- [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 41,907]__
+- [tensorflow / tpu](https://github.com/tensorflow/tpu) Reference models and tools for Cloud TPUs. __[⭐ 1,131]__
+- [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计 __[⭐ 64,248]__
+- [AshampooSystems / boden](https://github.com/AshampooSystems/boden) Purely native C++ cross-platform framework for Android and iOS development. https://www.boden.io __[⭐ 866]__
+- [Raathigesh / fabulous](https://github.com/Raathigesh/fabulous) 🎨 CSS properties sidebar for VS Code __[⭐ 640]__
+- [colinlet / PHP-Interview-QA](https://github.com/colinlet/PHP-Interview-QA) PHP面试问答 __[⭐ 515]__
+- [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 245,292]__
+- [learnbyexample / Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) ⚡️ From finding text to search and replace, from sorting to beautifying text and more 🎨 __[⭐ 8,485]__
+- [sogou / SMRCToolkit](https://github.com/sogou/SMRCToolkit) This toolkit was designed for the fast and efficient development of modern machine comprehension models, including both published models and original prototypes. __[⭐ 469]__
+- [macrozheng / mall](https://github.com/macrozheng/mall) mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。 __[⭐ 14,528]__
+
 ### 20190530
 - [metafizzy / zdog](https://github.com/metafizzy/zdog) Flat, round, designer-friendly pseudo-3D engine __[⭐ 2,523]__
 - [pirate / wireguard-docs](https://github.com/pirate/wireguard-docs) The Missing WireGuard Documentation: Setup, Usage, Configuration, and a full example for server-to-server VPN with roaming clients & public peers. __[⭐ 907]__
