@@ -1,3 +1,30 @@
+### 20190601
+- [algorithm-visualizer / algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) 🎆Interactive Online Platform that Visualizes Algorithms from Code __[⭐ 16,574]__
+- [github / semantic](https://github.com/github/semantic) Parsing, analyzing, and comparing source code across many languages __[⭐ 804]__
+- [mathieudutour / medium-to-own-blog](https://github.com/mathieudutour/medium-to-own-blog) Switch from Medium to your own blog in a few minutes __[⭐ 584]__
+- [metafizzy / zdog](https://github.com/metafizzy/zdog) Flat, round, designer-friendly pseudo-3D engine __[⭐ 3,824]__
+- [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 36,611]__
+- [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 49,921]__
+- [microsoft / terminal](https://github.com/microsoft/terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 42,472]__
+- [FormidableLabs / urql](https://github.com/FormidableLabs/urql) A highly customizable and versatile GraphQL client for React __[⭐ 2,394]__
+- [FunctionScript / FunctionScript](https://github.com/FunctionScript/FunctionScript) A language and specification for turning JavaScript functions into typed HTTP APIs __[⭐ 759]__
+- [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 28,955]__
+- [binhnguyennus / awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems __[⭐ 18,310]__
+- [unidoc / unioffice](https://github.com/unidoc/unioffice) Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents __[⭐ 1,012]__
+- [zhihu / rucene](https://github.com/zhihu/rucene) Rust port of Lucene __[⭐ 321]__
+- [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 44,175]__
+- [Ekultek / BlueKeep](https://github.com/Ekultek/BlueKeep) Proof of concept for CVE-2019-0708 __[⭐ 445]__
+- [hasura / graphql-engine](https://github.com/hasura/graphql-engine) Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events. __[⭐ 9,720]__
+- [zeit / hyper](https://github.com/zeit/hyper) A terminal built on web technologies __[⭐ 29,712]__
+- [sdras / cssgridgenerator](https://github.com/sdras/cssgridgenerator) 🧮Generate basic CSS Grid code to make dynamic layouts! __[⭐ 1,503]__
+- [tensorflow / tpu](https://github.com/tensorflow/tpu) Reference models and tools for Cloud TPUs. __[⭐ 1,290]__
+- [getgridea / gridea](https://github.com/getgridea/gridea) ✍️一个静态博客写作客户端 (A static blog writing client) __[⭐ 2,403]__
+- [colinlet / PHP-Interview-QA](https://github.com/colinlet/PHP-Interview-QA) PHP面试问答 __[⭐ 674]__
+- [n1xbyte / CVE-2019-0708](https://github.com/n1xbyte/CVE-2019-0708) dump __[⭐ 263]__
+- [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 42,035]__
+- [greymd / ojichat](https://github.com/greymd/ojichat) おじさんがLINEやメールで送ってきそうな文を生成する __[⭐ 572]__
+- [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) __[⭐ 9,003]__
+
 ### 20190531
 - [metafizzy / zdog](https://github.com/metafizzy/zdog) Flat, round, designer-friendly pseudo-3D engine __[⭐ 3,308]__
 - [algorithm-visualizer / algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) 🎆Interactive Online Platform that Visualizes Algorithms from Code __[⭐ 15,832]__
