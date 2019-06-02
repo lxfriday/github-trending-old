@@ -1,3 +1,30 @@
+### 20190602
+- [github / semantic](https://github.com/github/semantic) Parsing, analyzing, and comparing source code across many languages __[⭐ 1,762]__
+- [mathieudutour / medium-to-own-blog](https://github.com/mathieudutour/medium-to-own-blog) Switch from Medium to your own blog in a few minutes __[⭐ 1,164]__
+- [entropic-dev / entropic](https://github.com/entropic-dev/entropic) a package registry for anything, but mostly javascript __[⭐ 485]__
+- [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 50,332]__
+- [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 36,926]__
+- [algorithm-visualizer / algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) 🎆Interactive Online Platform that Visualizes Algorithms from Code __[⭐ 16,924]__
+- [halo-dev / halo](https://github.com/halo-dev/halo) ✍ Halo 可能是最好的 Java 博客系统 __[⭐ 4,307]__
+- [hasura / graphql-engine](https://github.com/hasura/graphql-engine) Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events. __[⭐ 9,944]__
+- [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 29,156]__
+- [metafizzy / zdog](https://github.com/metafizzy/zdog) Flat, round, designer-friendly pseudo-3D engine __[⭐ 4,048]__
+- [0xd4d / dnSpy](https://github.com/0xd4d/dnSpy) .NET debugger and assembly editor __[⭐ 10,089]__
+- [FormidableLabs / urql](https://github.com/FormidableLabs/urql) A highly customizable and versatile GraphQL client for React __[⭐ 2,583]__
+- [thomasahle / sunfish](https://github.com/thomasahle/sunfish) Sunfish: a Python Chess Engine in 111 lines of code __[⭐ 1,430]__
+- [vietnguyen91 / Super-mario-bros-A3C-pytorch](https://github.com/vietnguyen91/Super-mario-bros-A3C-pytorch) Asynchronous Advantage Actor-Critic (A3C) algorithm for Super Mario Bros __[⭐ 168]__
+- [microsoft / terminal](https://github.com/microsoft/terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 42,629]__
+- [binhnguyennus / awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems __[⭐ 18,493]__
+- [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 44,331]__
+- [wangzheng0822 / algo](https://github.com/wangzheng0822/algo) 数据结构和算法必知必会的50个代码实现 __[⭐ 6,486]__
+- [unidoc / unioffice](https://github.com/unidoc/unioffice) Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents __[⭐ 1,168]__
+- [mholt / PapaParse](https://github.com/mholt/PapaParse) Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input __[⭐ 6,980]__
+- [lukemelas / EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch) A PyTorch implementation of EfficientNet __[⭐ 332]__
+- [koalaman / shellcheck](https://github.com/koalaman/shellcheck) ShellCheck, a static analysis tool for shell scripts __[⭐ 14,895]__
+- [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计 __[⭐ 64,461]__
+- [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) __[⭐ 9,119]__
+- [steniowagner / mindCast](https://github.com/steniowagner/mindCast) A React-Native streaming-audio app that provides knowledge in the form of Podcasts. __[⭐ 130]__
+
 ### 20190601
 - [algorithm-visualizer / algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) 🎆Interactive Online Platform that Visualizes Algorithms from Code __[⭐ 16,574]__
 - [github / semantic](https://github.com/github/semantic) Parsing, analyzing, and comparing source code across many languages __[⭐ 804]__
