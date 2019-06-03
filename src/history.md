@@ -1,3 +1,30 @@
+### 20190603
+- [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 50,898]__
+- [algorithm-visualizer / algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) 🎆Interactive Online Platform that Visualizes Algorithms from Code __[⭐ 17,447]__
+- [github / semantic](https://github.com/github/semantic) Parsing, analyzing, and comparing source code across many languages __[⭐ 2,130]__
+- [halo-dev / halo](https://github.com/halo-dev/halo) ✍ Halo 可能是最好的 Java 博客系统 __[⭐ 4,638]__
+- [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 37,144]__
+- [entropic-dev / entropic](https://github.com/entropic-dev/entropic) a package registry for anything, but mostly javascript __[⭐ 761]__
+- [mathieudutour / medium-to-own-blog](https://github.com/mathieudutour/medium-to-own-blog) Switch from Medium to your own blog in a few minutes __[⭐ 1,441]__
+- [metafizzy / zdog](https://github.com/metafizzy/zdog) Flat, round, designer-friendly pseudo-3D engine __[⭐ 4,245]__
+- [binhnguyennus / awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems __[⭐ 18,662]__
+- [lukemelas / EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch) A PyTorch implementation of EfficientNet __[⭐ 501]__
+- [v2ray / v2ray-core](https://github.com/v2ray/v2ray-core) A platform for building proxies to bypass network restrictions. __[⭐ 16,296]__
+- [koalaman / shellcheck](https://github.com/koalaman/shellcheck) ShellCheck, a static analysis tool for shell scripts __[⭐ 15,045]__
+- [wangzheng0822 / algo](https://github.com/wangzheng0822/algo) 数据结构和算法必知必会的50个代码实现 __[⭐ 6,635]__
+- [microsoft / terminal](https://github.com/microsoft/terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 42,801]__
+- [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 29,300]__
+- [getify / You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) A book series on JavaScript. @YDKJS on twitter. __[⭐ 102,721]__
+- [vietnguyen91 / Super-mario-bros-A3C-pytorch](https://github.com/vietnguyen91/Super-mario-bros-A3C-pytorch) Asynchronous Advantage Actor-Critic (A3C) algorithm for Super Mario Bros __[⭐ 256]__
+- [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 44,415]__
+- [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计 __[⭐ 64,554]__
+- [kizitonwose / CalendarView](https://github.com/kizitonwose/CalendarView) A highly customizable calendar library for Android, powered by RecyclerView. __[⭐ 151]__
+- [mholt / PapaParse](https://github.com/mholt/PapaParse) Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input __[⭐ 7,085]__
+- [calebwin / emu](https://github.com/calebwin/emu) a language for programming GPUs __[⭐ 146]__
+- [unidoc / unioffice](https://github.com/unidoc/unioffice) Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents __[⭐ 1,260]__
+- [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 42,179]__
+- [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) __[⭐ 9,193]__
+
 ### 20190602
 - [github / semantic](https://github.com/github/semantic) Parsing, analyzing, and comparing source code across many languages __[⭐ 1,762]__
 - [mathieudutour / medium-to-own-blog](https://github.com/mathieudutour/medium-to-own-blog) Switch from Medium to your own blog in a few minutes __[⭐ 1,164]__
