@@ -1,3 +1,30 @@
+### 20190604
+- [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 51,475]__
+- [algorithm-visualizer / algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) 🎆Interactive Online Platform that Visualizes Algorithms from Code __[⭐ 17,859]__
+- [github / semantic](https://github.com/github/semantic) Parsing, analyzing, and comparing source code across many languages __[⭐ 2,646]__
+- [entropic-dev / entropic](https://github.com/entropic-dev/entropic) a package registry for anything, but mostly javascript __[⭐ 1,227]__
+- [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 37,470]__
+- [calebwin / emu](https://github.com/calebwin/emu) a language for programming GPUs __[⭐ 454]__
+- [halo-dev / halo](https://github.com/halo-dev/halo) ✍ Halo 一款现代化的个人独立博客系统 __[⭐ 4,858]__
+- [metafizzy / zdog](https://github.com/metafizzy/zdog) Flat, round, designer-friendly pseudo-3D engine for canvas & SVG __[⭐ 4,535]__
+- [v2ray / v2ray-core](https://github.com/v2ray/v2ray-core) A platform for building proxies to bypass network restrictions. __[⭐ 16,533]__
+- [mathieudutour / medium-to-own-blog](https://github.com/mathieudutour/medium-to-own-blog) Switch from Medium to your own blog in a few minutes __[⭐ 1,721]__
+- [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 29,479]__
+- [lukemelas / EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch) A PyTorch implementation of EfficientNet __[⭐ 699]__
+- [microsoft / terminal](https://github.com/microsoft/terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 42,984]__
+- [kizitonwose / CalendarView](https://github.com/kizitonwose/CalendarView) A highly customizable calendar library for Android, powered by RecyclerView. __[⭐ 357]__
+- [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计 __[⭐ 64,710]__
+- [Flex4Apps / flex4apps](https://github.com/Flex4Apps/flex4apps) Flex4Apps main project repository __[⭐ 251]__
+- [wangzheng0822 / algo](https://github.com/wangzheng0822/algo) 数据结构和算法必知必会的50个代码实现 __[⭐ 6,754]__
+- [binhnguyennus / awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems __[⭐ 18,828]__
+- [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 42,304]__
+- [mholt / PapaParse](https://github.com/mholt/PapaParse) Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input __[⭐ 7,249]__
+- [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 44,537]__
+- [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) __[⭐ 9,303]__
+- [EtherDream / jsproxy](https://github.com/EtherDream/jsproxy) 一个基于浏览器端 JS 实现的在线代理 __[⭐ 3,905]__
+- [koalaman / shellcheck](https://github.com/koalaman/shellcheck) ShellCheck, a static analysis tool for shell scripts __[⭐ 15,145]__
+- [getify / You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) A book series on JavaScript. @YDKJS on twitter. __[⭐ 102,820]__
+
 ### 20190603
 - [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 50,898]__
 - [algorithm-visualizer / algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) 🎆Interactive Online Platform that Visualizes Algorithms from Code __[⭐ 17,447]__
