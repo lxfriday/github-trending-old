@@ -1,3 +1,30 @@
+### 20190606
+- [imhuster / Enterprise-Registration-Data-of-Chinese-Mainland](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland) 中国大陆 31 个省份1978 年至 2019 年一千多万工商企业注册信息，包含企业名称、注册地址、统一社会信用代码、地区、注册日期、经营范围、法人代表、注册资金、企业类型等详细资料。This repository is an dataset of over 10,000,000 enterprise registration data of 31 provinces in Chinese mainland from 1978 to 2019.【工商大数据】、【企业信息】、【enterprise registration data】。 __[⭐ 2,092]__
+- [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 53,929]__
+- [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 38,549]__
+- [paulfitz / mlsql](https://github.com/paulfitz/mlsql) inferring sql queries from plain-text questions about tables __[⭐ 438]__
+- [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 42,844]__
+- [binhnguyennus / awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems __[⭐ 19,327]__
+- [numirias / security](https://github.com/numirias/security) Some of my security stuff and vulnerabilities. Nothing advanced. More to come. __[⭐ 350]__
+- [algorithm-visualizer / algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) 🎆Interactive Online Platform that Visualizes Algorithms from Code __[⭐ 18,493]__
+- [github / semantic](https://github.com/github/semantic) Parsing, analyzing, and comparing source code across many languages __[⭐ 3,334]__
+- [microsoft / terminal](https://github.com/microsoft/terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 43,502]__
+- [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 Basic Knowledge of Technical Interview（技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计） __[⭐ 65,116]__
+- [google / TensorNetwork](https://github.com/google/TensorNetwork) A library for easy and efficient manipulation of tensor networks. __[⭐ 382]__
+- [robbyrussell / oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) 🙃 A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. __[⭐ 89,521]__
+- [v2ray / v2ray-core](https://github.com/v2ray/v2ray-core) A platform for building proxies to bypass network restrictions. __[⭐ 17,001]__
+- [metafizzy / zdog](https://github.com/metafizzy/zdog) Flat, round, designer-friendly pseudo-3D engine for canvas & SVG __[⭐ 5,027]__
+- [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 44,856]__
+- [entropic-dev / entropic](https://github.com/entropic-dev/entropic) 🦝 📦 a package registry for anything, but mostly javascript 🦝 🦝 🦝 __[⭐ 1,835]__
+- [quantumblacklabs / kedro](https://github.com/quantumblacklabs/kedro) A Python library for building robust production-ready data and analytics pipelines __[⭐ 394]__
+- [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识 __[⭐ 21,255]__
+- [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) __[⭐ 9,615]__
+- [Jinxiansen / SwiftUI](https://github.com/Jinxiansen/SwiftUI) This is some of the official examples of the SwiftUI layout framework for the full platform of the apple released by WWDC2019 today. I hope to help you understand and learn this new layout framework! __[⭐ 516]__
+- [lukemelas / EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch) A PyTorch implementation of EfficientNet __[⭐ 1,166]__
+- [microsoft / tensorwatch](https://github.com/microsoft/tensorwatch) Debugging, monitoring and visualization for Python Machine Learning and Data Science __[⭐ 940]__
+- [sindresorhus / awesome](https://github.com/sindresorhus/awesome) 😎 Awesome lists about all kinds of interesting topics __[⭐ 109,888]__
+- [actix / actix-web](https://github.com/actix/actix-web) Actix web is a small, pragmatic, and extremely fast rust web framework. __[⭐ 4,282]__
+
 ### 20190604
 - [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 51,475]__
 - [algorithm-visualizer / algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) 🎆Interactive Online Platform that Visualizes Algorithms from Code __[⭐ 17,859]__
