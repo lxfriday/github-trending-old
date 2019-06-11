@@ -1,3 +1,30 @@
+### 20190611
+- [TrillCyborg / fullstack](https://github.com/TrillCyborg/fullstack) React/ApolloGraphQL/Node/Mongo demo written in Typescript __[⭐ 4,813]__
+- [rasbt / deeplearning-models](https://github.com/rasbt/deeplearning-models) A collection of various deep learning architectures, models, and tips __[⭐ 4,508]__
+- [imhuster / Enterprise-Registration-Data-of-Chinese-Mainland](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland) 中国大陆 31 个省份1978 年至 2019 年一千多万工商企业注册信息，包含企业名称、注册地址、统一社会信用代码、地区、注册日期、经营范围、法人代表、注册资金、企业类型等详细资料。This repository is an dataset of over 10,000,000 enterprise registration data of 31 provinces in Chinese mainland from 1978 to 2019.【工商大数据】、【企业信息】、【enterprise registration data】。 __[⭐ 4,781]__
+- [0voice / from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) 2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT __[⭐ 1,223]__
+- [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 40,403]__
+- [sfyc23 / EverydayWechat](https://github.com/sfyc23/EverydayWechat) 每日自动给女朋友发微信暖心话。 __[⭐ 1,759]__
+- [Juanpe / About-SwiftUI](https://github.com/Juanpe/About-SwiftUI) Gathering all info published, both by Apple and by others, about new framework SwiftUI. __[⭐ 806]__
+- [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 56,048]__
+- [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 31,184]__
+- [ngosang / trackerslist](https://github.com/ngosang/trackerslist) Updated list of public BitTorrent trackers __[⭐ 11,280]__
+- [kylelobo / The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) 📢 Various README templates & tips on writing high-quality documentation that people want to read. __[⭐ 844]__
+- [wwenj / tripRecord](https://github.com/wwenj/tripRecord) 咔咔出行——解决出行问题基于高德地图API，Vue，Express实现的移动端全栈webapp __[⭐ 358]__
+- [CarGuo / GSYFlutterBook](https://github.com/CarGuo/GSYFlutterBook) Flutter完整开发实战详解系列，提供在线预览和pdf下载，本系列将完整讲述：如何快速从 0 开发一个完整的 Flutter APP，配套高完成度 Flutter 开源项目 GSYGithubAppFlutter ，同时会提供一些Flutter的开发细节技巧，之后深入源码和实战为你全面解析 Flutter 。 __[⭐ 1,052]__
+- [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 43,671]__
+- [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计 __[⭐ 65,854]__
+- [dylanaraps / pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) 📖 A collection of pure bash alternatives to external processes. __[⭐ 12,366]__
+- [d2l-ai / d2l-zh](https://github.com/d2l-ai/d2l-zh) 《动手学深度学习》，英文版即伯克利深度学习（STAT 157，2019春）教材。面向中文读者、能运行、可讨论。 __[⭐ 8,462]__
+- [ConnorJL / GPT2](https://github.com/ConnorJL/GPT2) An implementation of training for GPT2, supports TPUs __[⭐ 627]__
+- [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 45,411]__
+- [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) __[⭐ 10,218]__
+- [microsoft / terminal](https://github.com/microsoft/terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 44,266]__
+- [google-research / football](https://github.com/google-research/football)  __[⭐ Python]__
+- [dessant / buster](https://github.com/dessant/buster) Captcha solver extension for humans __[⭐ 1,172]__
+- [giongto35 / cloud-game](https://github.com/giongto35/cloud-game) Web-based Cloud Gaming Service __[⭐ 292]__
+- [typlog / china-indie-podcasts](https://github.com/typlog/china-indie-podcasts) 发现与推荐高质量的中文独立播客 __[⭐ 358]__
+
 ### 20190610
 - [TrillCyborg / onefraction](https://github.com/TrillCyborg/onefraction) React/ApolloGraphQL/Node/Mongo demo written in Typescript __[⭐ 2,065]__
 - [rasbt / deeplearning-models](https://github.com/rasbt/deeplearning-models) A collection of various deep learning architectures, models, and tips __[⭐ 3,529]__
