@@ -21,46 +21,27 @@ function getPageData(url) {
         try {
           const $ = cheerio.load(body);
           const list = [];
-          $('.repo-list').children('li').each(function (ind, el) {
+          $('.Box-row').each(function (ind, el) {
             const itemInfo = {};
-            // console.log($(this).find('svg.octicon-star').next().text);
-            $(el).children('div').each(function (ind2, el2) {
+            itemInfo.url = `https://github.com${$(this).children('h1').children('a').attr('href')}`; // repo
+            itemInfo.repo = $(this).children('h1').text().trim(); // repo
+            itemInfo.desc = $(this).children('p').text().trim(); // desc
+            $(this).children('div.f6').children().each(function (ind2, el2) {
               if (ind2 === 0) {
-                const target = $(this).find('a');
-                itemInfo.url = `https://github.com${target.attr('href')}`;
-                itemInfo.repo = target.text().trim();
-              } else if (ind2 === 2) {
-                itemInfo.desc = $(this).text().trim();
-              } else if (ind2 === 3) {
-                // 不包含 language
-                if ($(this).children().length === 4) {
-                  itemInfo.language = '';
-                  $(this).children().each(function (ind3, el3) {
-                    if (ind3 === 0) {
-                      itemInfo.stars = $(this).text().trim();
-                    } else if (ind3 === 1) {
-                      itemInfo.forks = $(this).text().trim();
-                    }
-                    //  else if (ind3 === 3) {
-                    //   console.log(itemInfo);
-                    //   console.log($(this).text().trim());
-
-                    //   itemInfo.starsToday = $(this).text().trim().match(/(\d+[,\d+]*)/)[1];
-                    // }
-                  });
-                } else {
-                  // length === 5 包含language
-                  $(this).children().each(function (ind3, el3) {
-                    if (ind3 === 0) {
-                      itemInfo.language = $(this).text().trim();
-                    } else if (ind3 === 1) {
-                      itemInfo.stars = $(this).text().trim();
-                    } else if (ind3 === 2) {
-                      itemInfo.forks = $(this).text().trim();
-                    } else if (ind3 === 4) {
-                      itemInfo.starsNewly = $(this).text().trim().match(/(\d+[,\d+]*)/)[1]; // stars today or this week or month
-                    }
-                  });
+                if ($(this)[0].name === 'span') {
+                  // 使用的语言
+                  itemInfo.language = $(this).text().trim();
+                } else if ($(this)[0].name === 'a') {
+                  itemInfo.stars = $(this).text().trim();
+                }
+              }
+              if (ind2 === 1) {
+                if ($(this)[0].name === 'a') {
+                  if(itemInfo.stars) {
+                    itemInfo.forks = $(this).text().trim();
+                  } else {
+                    itemInfo.stars = $(this).text().trim();
+                  }
                 }
               }
             });
