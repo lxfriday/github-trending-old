@@ -1,3 +1,30 @@
+### 20190613
+- [TrillCyborg / fullstack](https://github.com/TrillCyborg/fullstack) React/ApolloGraphQL/Node/Mongo demo written in Typescript __[⭐ 7,698]__
+- [0voice / from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) 2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT __[⭐ 3,460]__
+- [pingcap / talent-plan](https://github.com/pingcap/talent-plan) PingCAP training courses __[⭐ 1,267]__
+- [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 41,498]__
+- [sfyc23 / EverydayWechat](https://github.com/sfyc23/EverydayWechat) 每日自动给女朋友发微信暖心话。 __[⭐ 2,721]__
+- [rasbt / deeplearning-models](https://github.com/rasbt/deeplearning-models) A collection of various deep learning architectures, models, and tips __[⭐ 5,546]__
+- [OakwoodAI / Automagica](https://github.com/OakwoodAI/Automagica) 🤖 Open Source (Smart) Robotic Process Automation __[⭐ 636]__
+- [smooth-code / react-teleporter](https://github.com/smooth-code/react-teleporter) Teleport React components in the same React tree. __[⭐ 465]__
+- [github / semantic](https://github.com/github/semantic) Parsing, analyzing, and comparing source code across many languages __[⭐ 4,529]__
+- [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 56,736]__
+- [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 44,158]__
+- [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 31,828]__
+- [Juanpe / About-SwiftUI](https://github.com/Juanpe/About-SwiftUI) Gathering all info published, both by Apple and by others, about new framework SwiftUI. __[⭐ 1,587]__
+- [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计 __[⭐ 66,339]__
+- [microsoft / terminal](https://github.com/microsoft/terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 44,729]__
+- [entropic-dev / entropic](https://github.com/entropic-dev/entropic) 🦝 📦 a package registry for anything, but mostly javascript 🦝 🦝 🦝 __[⭐ 2,846]__
+- [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) __[⭐ 10,663]__
+- [gothinkster / realworld](https://github.com/gothinkster/realworld) "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 __[⭐ 26,980]__
+- [kylelobo / The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) 📢 Various README templates & tips on writing high-quality documentation that people want to read. __[⭐ 1,294]__
+- [d2l-ai / d2l-zh](https://github.com/d2l-ai/d2l-zh) 《动手学深度学习》，英文版即伯克利深度学习（STAT 157，2019春）教材。面向中文读者、能运行、可讨论。 __[⭐ 8,907]__
+- [pqina / filepond](https://github.com/pqina/filepond) 🌊 A flexible and fun JavaScript file upload library __[⭐ 6,613]__
+- [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 45,707]__
+- [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 67,028]__
+- [SimpleBoilerplates / SwiftUI-Cheat-Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) SwiftUI Cheat Sheet __[⭐ 724]__
+- [Genymobile / scrcpy](https://github.com/Genymobile/scrcpy) Display and control your Android device __[⭐ 13,363]__
+
 ### 20190611
 - [TrillCyborg / fullstack](https://github.com/TrillCyborg/fullstack) React/ApolloGraphQL/Node/Mongo demo written in Typescript __[⭐ 4,813]__
 - [rasbt / deeplearning-models](https://github.com/rasbt/deeplearning-models) A collection of various deep learning architectures, models, and tips __[⭐ 4,508]__
