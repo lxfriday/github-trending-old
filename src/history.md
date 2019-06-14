@@ -1,3 +1,30 @@
+### 20190614
+- [TrillCyborg / fullstack](https://github.com/TrillCyborg/fullstack) React/ApolloGraphQL/Node/Mongo demo written in Typescript __[⭐ 8,224]__
+- [0voice / from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) 2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT __[⭐ 4,005]__
+- [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 41,869]__
+- [hjacobs / kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) Compilation of public failure/horror stories related to Kubernetes __[⭐ 4,121]__
+- [lydiahallie / javascript-questions](https://github.com/lydiahallie/javascript-questions) A long list of (advanced) JavaScript questions, and their explanations ✨ Updated weekly! __[⭐ 768]__
+- [rasbt / deeplearning-models](https://github.com/rasbt/deeplearning-models) A collection of various deep learning architectures, models, and tips __[⭐ 5,873]__
+- [sfyc23 / EverydayWechat](https://github.com/sfyc23/EverydayWechat) 每日自动给女朋友发微信暖心话。 __[⭐ 2,986]__
+- [pingcap / talent-plan](https://github.com/pingcap/talent-plan) PingCAP training courses __[⭐ 1,486]__
+- [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 44,333]__
+- [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) __[⭐ 10,868]__
+- [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 56,945]__
+- [ByronHsu / Never-Blink](https://github.com/ByronHsu/Never-Blink) 👀Blink and lose. __[⭐ 243]__
+- [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计 __[⭐ 66,495]__
+- [github / semantic](https://github.com/github/semantic) Parsing, analyzing, and comparing source code across many languages __[⭐ 4,707]__
+- [OakwoodAI / Automagica](https://github.com/OakwoodAI/Automagica) 🤖 Open Source (Smart) Robotic Process Automation __[⭐ 800]__
+- [gothinkster / realworld](https://github.com/gothinkster/realworld) "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 __[⭐ 27,139]__
+- [Jinxiansen / SwiftUI](https://github.com/Jinxiansen/SwiftUI) `SwiftUI` Framework Learning and Usage Guide. 🚀 https://jinxiansen.github.io/SwiftUI/ __[⭐ 1,174]__
+- [chaitin / xray](https://github.com/chaitin/xray)  __[⭐ 205]__
+- [weightagnostic / weightagnostic.github.io](https://github.com/weightagnostic/weightagnostic.github.io) nothing to see here yet __[⭐ 171]__
+- [microsoft / terminal](https://github.com/microsoft/terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 44,871]__
+- [d2l-ai / d2l-zh](https://github.com/d2l-ai/d2l-zh) 《动手学深度学习》，英文版即伯克利深度学习（STAT 157，2019春）教材。面向中文读者、能运行、可讨论。 __[⭐ 9,035]__
+- [entropic-dev / entropic](https://github.com/entropic-dev/entropic) 🦝 📦 a package registry for anything, but mostly javascript 🦝 🦝 🦝 __[⭐ 2,993]__
+- [Genymobile / scrcpy](https://github.com/Genymobile/scrcpy) Display and control your Android device __[⭐ 13,511]__
+- [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 45,832]__
+- [smooth-code / react-teleporter](https://github.com/smooth-code/react-teleporter) Teleport React components in the same React tree. __[⭐ 595]__
+
 ### 20190613
 - [TrillCyborg / fullstack](https://github.com/TrillCyborg/fullstack) React/ApolloGraphQL/Node/Mongo demo written in Typescript __[⭐ 7,698]__
 - [0voice / from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) 2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT __[⭐ 3,460]__
