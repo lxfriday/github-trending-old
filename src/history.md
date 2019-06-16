@@ -1,3 +1,30 @@
+### 20190616
+- [lydiahallie / javascript-questions](https://github.com/lydiahallie/javascript-questions) A long list of (advanced) JavaScript questions, and their explanations ✨ Updated weekly! __[⭐ 2,574]__
+- [kefranabg / readme-md-generator](https://github.com/kefranabg/readme-md-generator) 📄 CLI that generates beautiful README.md files __[⭐ 1,729]__
+- [TrillCyborg / fullstack](https://github.com/TrillCyborg/fullstack) React/ApolloGraphQL/Node/Mongo demo written in Typescript __[⭐ 8,969]__
+- [ottomatica / slim](https://github.com/ottomatica/slim) Build and run tiny vms from Dockerfiles. Small and sleek. __[⭐ 1,243]__
+- [0voice / from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) 2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT __[⭐ 4,684]__
+- [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 42,373]__
+- [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计 __[⭐ 66,780]__
+- [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 44,658]__
+- [xingshaocheng / architect-awesome](https://github.com/xingshaocheng/architect-awesome) 后端架构师技术图谱 __[⭐ 33,192]__
+- [sfyc23 / EverydayWechat](https://github.com/sfyc23/EverydayWechat) 每日自动给女朋友发微信暖心话。 __[⭐ 3,498]__
+- [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer) Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. __[⭐ 64,725]__
+- [algorithm-visualizer / algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) 🎆Interactive Online Platform that Visualizes Algorithms from Code __[⭐ 19,573]__
+- [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端开发必看，前端同学也可学习 __[⭐ 22,163]__
+- [microsoft / terminal](https://github.com/microsoft/terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 45,201]__
+- [rasbt / deeplearning-models](https://github.com/rasbt/deeplearning-models) A collection of various deep learning architectures, models, and tips __[⭐ 6,304]__
+- [flschweiger / reply](https://github.com/flschweiger/reply) The 'Reply' Material Design case study built with Flutter. __[⭐ 135]__
+- [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 57,247]__
+- [target / goalert](https://github.com/target/goalert) Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert __[⭐ 282]__
+- [geziyor / geziyor](https://github.com/geziyor/geziyor) Geziyor, a fast web crawling & scraping framework for Go __[⭐ 575]__
+- [robbyrussell / oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) 🙃 A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. __[⭐ 90,359]__
+- [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 46,052]__
+- [ajalt / clikt](https://github.com/ajalt/clikt) Intuitive command line interface parsing for Kotlin __[⭐ 515]__
+- [olivia-ai / olivia](https://github.com/olivia-ai/olivia) 💁‍♀️Your new best friend built with an artifical neural network __[⭐ 111]__
+- [nwtgck / gh-card](https://github.com/nwtgck/gh-card) GitHub Repository Card for Every Web Site __[⭐ 649]__
+- [entropic-dev / entropic](https://github.com/entropic-dev/entropic) 🦝 📦 a package registry for anything, but mostly javascript 🦝 🦝 🦝 __[⭐ 3,356]__
+
 ### 20190615
 - [lydiahallie / javascript-questions](https://github.com/lydiahallie/javascript-questions) A long list of (advanced) JavaScript questions, and their explanations ✨ Updated weekly! __[⭐ 1,895]__
 - [kefranabg / readme-md-generator](https://github.com/kefranabg/readme-md-generator) 📄 CLI that generates beautiful README.md files __[⭐ 1,427]__
