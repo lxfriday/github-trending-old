@@ -1,4 +1,31 @@
 ### 20190617
+- [lydiahallie / javascript-questions](https://github.com/lydiahallie/javascript-questions) A long list of (advanced) JavaScript questions, and their explanations ✨ Updated weekly! __[⭐ 4,109]__
+- [0voice / from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) 2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT __[⭐ 5,136]__
+- [kefranabg / readme-md-generator](https://github.com/kefranabg/readme-md-generator) 📄 CLI that generates beautiful README.md files __[⭐ 2,249]__
+- [phiresky / ripgrep-all](https://github.com/phiresky/ripgrep-all) rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. __[⭐ 478]__
+- [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 42,721]__
+- [TrillCyborg / fullstack](https://github.com/TrillCyborg/fullstack) React/ApolloGraphQL/Node/Mongo demo written in Typescript __[⭐ 9,369]__
+- [sfyc23 / EverydayWechat](https://github.com/sfyc23/EverydayWechat) 每日自动给女朋友发微信暖心话。 __[⭐ 3,829]__
+- [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计 __[⭐ 67,076]__
+- [xingshaocheng / architect-awesome](https://github.com/xingshaocheng/architect-awesome) 后端架构师技术图谱 __[⭐ 33,490]__
+- [momosecurity / aswan](https://github.com/momosecurity/aswan) 陌陌风控系统静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。 __[⭐ 315]__
+- [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端开发必看，前端同学也可学习 __[⭐ 22,424]__
+- [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 44,905]__
+- [sindresorhus / electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) Boilerplate to kickstart creating an app with Electron __[⭐ 930]__
+- [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer) Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. __[⭐ 64,948]__
+- [platinum-engineering / qdao-smartcontract-qdao-locker](https://github.com/platinum-engineering/qdao-smartcontract-qdao-locker)  __[⭐ 173]__
+- [rasbt / deeplearning-models](https://github.com/rasbt/deeplearning-models) A collection of various deep learning architectures, models, and tips __[⭐ 6,507]__
+- [gothinkster / realworld](https://github.com/gothinkster/realworld) "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 __[⭐ 27,478]__
+- [BishopFox / sliver](https://github.com/BishopFox/sliver) Implant framework __[⭐ 261]__
+- [ottomatica / slim](https://github.com/ottomatica/slim) Build and run tiny vms from Dockerfiles. Small and sleek. __[⭐ 1,450]__
+- [wuyouzhuguli / FEBS-Shiro](https://github.com/wuyouzhuguli/FEBS-Shiro) Spring Boot 2.1.3，Shiro1.4.0 & Layui 2.5.4 权限管理系统。预览地址：http://49.234.20.223:8080/login __[⭐ 1,779]__
+- [olivia-ai / olivia](https://github.com/olivia-ai/olivia) 💁‍♀️Your new best friend built with an artifical neural network __[⭐ 314]__
+- [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 46,201]__
+- [algorithm-visualizer / algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) 🎆Interactive Online Platform that Visualizes Algorithms from Code __[⭐ 19,735]__
+- [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) __[⭐ 11,226]__
+- [gorhill / uBlock](https://github.com/gorhill/uBlock) uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. __[⭐ 16,962]__
+
+### 20190617
 - [lydiahallie / javascript-questions](https://github.com/lydiahallie/javascript-questions) A long list of (advanced) JavaScript questions, and their explanations ✨ Updated weekly! __[⭐ 2,944]__
 - [TrillCyborg / fullstack](https://github.com/TrillCyborg/fullstack) React/ApolloGraphQL/Node/Mongo demo written in Typescript __[⭐ 9,116]__
 - [kefranabg / readme-md-generator](https://github.com/kefranabg/readme-md-generator) 📄 CLI that generates beautiful README.md files __[⭐ 1,881]__
