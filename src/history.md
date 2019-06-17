@@ -1,3 +1,30 @@
+### 20190617
+- [lydiahallie / javascript-questions](https://github.com/lydiahallie/javascript-questions) A long list of (advanced) JavaScript questions, and their explanations ✨ Updated weekly! __[⭐ 2,944]__
+- [TrillCyborg / fullstack](https://github.com/TrillCyborg/fullstack) React/ApolloGraphQL/Node/Mongo demo written in Typescript __[⭐ 9,116]__
+- [kefranabg / readme-md-generator](https://github.com/kefranabg/readme-md-generator) 📄 CLI that generates beautiful README.md files __[⭐ 1,881]__
+- [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计 __[⭐ 66,888]__
+- [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 42,469]__
+- [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer) Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. __[⭐ 64,816]__
+- [xingshaocheng / architect-awesome](https://github.com/xingshaocheng/architect-awesome) 后端架构师技术图谱 __[⭐ 33,253]__
+- [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 44,722]__
+- [0voice / from_coder_to_expert](https://github.com/0voice/from_coder_to_expert) 2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT __[⭐ 4,757]__
+- [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端开发必看，前端同学也可学习 __[⭐ 22,244]__
+- [ottomatica / slim](https://github.com/ottomatica/slim) Build and run tiny vms from Dockerfiles. Small and sleek. __[⭐ 1,331]__
+- [olivia-ai / olivia](https://github.com/olivia-ai/olivia) 💁‍♀️Your new best friend built with an artifical neural network __[⭐ 186]__
+- [rasbt / deeplearning-models](https://github.com/rasbt/deeplearning-models) A collection of various deep learning architectures, models, and tips __[⭐ 6,353]__
+- [sfyc23 / EverydayWechat](https://github.com/sfyc23/EverydayWechat) 每日自动给女朋友发微信暖心话。 __[⭐ 3,551]__
+- [microsoft / terminal](https://github.com/microsoft/terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 45,253]__
+- [target / goalert](https://github.com/target/goalert) Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert __[⭐ 355]__
+- [algorithm-visualizer / algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) 🎆Interactive Online Platform that Visualizes Algorithms from Code __[⭐ 19,615]__
+- [sindresorhus / electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) Boilerplate to kickstart creating an app with Electron __[⭐ 742]__
+- [BishopFox / sliver](https://github.com/BishopFox/sliver) Implant framework __[⭐ 136]__
+- [ajalt / clikt](https://github.com/ajalt/clikt) Intuitive command line interface parsing for Kotlin __[⭐ 570]__
+- [flschweiger / reply](https://github.com/flschweiger/reply) The 'Reply' Material Design case study built with Flutter. __[⭐ 181]__
+- [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 57,289]__
+- [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 46,098]__
+- [gothinkster / realworld](https://github.com/gothinkster/realworld) "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 __[⭐ 27,351]__
+- [phiresky / ripgrep-all](https://github.com/phiresky/ripgrep-all) rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. __[⭐ 132]__
+
 ### 20190616
 - [lydiahallie / javascript-questions](https://github.com/lydiahallie/javascript-questions) A long list of (advanced) JavaScript questions, and their explanations ✨ Updated weekly! __[⭐ 2,574]__
 - [kefranabg / readme-md-generator](https://github.com/kefranabg/readme-md-generator) 📄 CLI that generates beautiful README.md files __[⭐ 1,729]__
