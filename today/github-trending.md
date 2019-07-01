@@ -1,29 +1,29 @@
-# 20190530-github-trending
+# 20190701-github-trending
 __25__ repos
 
-- [metafizzy / zdog](https://github.com/metafizzy/zdog) Flat, round, designer-friendly pseudo-3D engine __[⭐ 2,523]__
-- [pirate / wireguard-docs](https://github.com/pirate/wireguard-docs) The Missing WireGuard Documentation: Setup, Usage, Configuration, and a full example for server-to-server VPN with roaming clients & public peers. __[⭐ 907]__
-- [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 49,267]__
-- [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 35,818]__
-- [sdras / cssgridgenerator](https://github.com/sdras/cssgridgenerator) 🧮Generate basic CSS Grid code to make dynamic layouts! __[⭐ 1,078]__
-- [penrose / penrose](https://github.com/penrose/penrose) Create beautiful diagrams just by typing mathematical notation in plain text. __[⭐ 1,351]__
-- [binhnguyennus / awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems __[⭐ 17,777]__
-- [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 43,776]__
-- [Raathigesh / fabulous](https://github.com/Raathigesh/fabulous) 🎨 CSS properties sidebar for VS Code __[⭐ 483]__
-- [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 28,487]__
-- [microsoft / terminal](https://github.com/microsoft/terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 42,026]__
-- [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 245,200]__
-- [learnbyexample / Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) ⚡️ From finding text to search and replace, from sorting to beautifying text and more 🎨 __[⭐ 8,361]__
-- [sveltejs / svelte](https://github.com/sveltejs/svelte) Cybernetically enhanced web apps __[⭐ 17,449]__
-- [streamich / react-use](https://github.com/streamich/react-use) React Hooks — 👍 __[⭐ 5,339]__
-- [eashish93 / imgsquash](https://github.com/eashish93/imgsquash) Simple image compression full website code written in node, react and next.js framework. Easy to deploy as a microservice. __[⭐ 597]__
-- [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 41,751]__
-- [synox / youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive) Interactively select the quality and format for youtube-dl __[⭐ 942]__
-- [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 65,523]__
-- [xuperchain / xuperunion](https://github.com/xuperchain/xuperunion) A highly flexible blockchain architecture with great transaction performance. __[⭐ 400]__
-- [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计 __[⭐ 64,112]__
-- [wangzheng0822 / algo](https://github.com/wangzheng0822/algo) 数据结构和算法必知必会的50个代码实现 __[⭐ 6,203]__
-- [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) __[⭐ 8,748]__
-- [FunctionScript / FunctionScript](https://github.com/FunctionScript/FunctionScript) A language and specification for turning JavaScript functions into typed HTTP APIs __[⭐ 183]__
-- [greymd / ojichat](https://github.com/greymd/ojichat) おじさんがLINEやメールで送ってきそうな文を生成する __[⭐ 201]__
+- [OpenCTI-Platform / opencti](https://github.com/OpenCTI-Platform/opencti) Open Cyber Threat Intelligence Platform __[⭐ 256]__
+- [bytedance / byteps](https://github.com/bytedance/byteps) A high performance and general PS framework for distributed training __[⭐ 1,249]__
+- [microsoft / WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2) __[⭐ 1,813]__
+- [graykode / nlp-tutorial](https://github.com/graykode/nlp-tutorial) Natural Language Processing Tutorial for Deep Learning Researchers __[⭐ 2,812]__
+- [rebeyond / Behinder](https://github.com/rebeyond/Behinder) “冰蝎”动态二进制加密网站管理客户端 __[⭐ 637]__
+- [haizlin / fe-interview](https://github.com/haizlin/fe-interview) 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家） __[⭐ 1,955]__
+- [garden-io / garden](https://github.com/garden-io/garden) Development orchestrator for Kubernetes, containers and functions. __[⭐ 564]__
+- [lazyprogrammer / machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples) A collection of machine learning examples and tutorials. __[⭐ 3,136]__
+- [phillipi / pix2pix](https://github.com/phillipi/pix2pix) Image-to-image translation with conditional adversarial nets __[⭐ 6,454]__
+- [TeamStuQ / skill-map](https://github.com/TeamStuQ/skill-map) 程序员技能图谱 __[⭐ 15,072]__
+- [rmusser01 / Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) An Information Security Reference That Doesn't Suck __[⭐ 2,273]__
+- [chaitin / xray](https://github.com/chaitin/xray) xray 安全评估工具 __[⭐ 410]__
+- [fastai / course-v3](https://github.com/fastai/course-v3) The 3rd edition of course.fast.ai __[⭐ 2,305]__
+- [netchx / Netch](https://github.com/netchx/Netch) Game accelerator. Support Socks5, Shadowsocks, ShadowsocksR, V2Ray protocol. UDP NAT FullCone __[⭐ 317]__
+- [libuv / libuv](https://github.com/libuv/libuv) Cross-platform asynchronous I/O __[⭐ 12,759]__
+- [benedekrozemberczki / awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection) A curated list of community detection research papers with implementations. __[⭐ 460]__
+- [JustArchiNET / ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) C# application with primary purpose of idling Steam cards from multiple accounts simultaneously. __[⭐ 4,238]__
+- [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) Open-source IoT Platform - Device management, data collection, processing and visualization. __[⭐ 3,422]__
+- [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people. __[⭐ 303,595]__
+- [MLEveryday / 100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) 100-Days-Of-ML-Code中文版 __[⭐ 11,888]__
+- [algorithm-visualizer / algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) 🎆Interactive Online Platform that Visualizes Algorithms from Code __[⭐ 20,856]__
+- [trekhleb / javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings __[⭐ 50,351]__
+- [jonasschmedtmann / complete-node-bootcamp](https://github.com/jonasschmedtmann/complete-node-bootcamp) Starter files, final projects and FAQ for my Complete Node.js Bootcamp __[⭐ 61]__
+- [mozilla-mobile / fenix](https://github.com/mozilla-mobile/fenix) Fenix is not your parent's Android browser. __[⭐ 1,853]__
+- [ipfs / camp](https://github.com/ipfs/camp) 🏕 IPFS Camp is a 3 day hacker retreat designed for the builders of the Distributed Web. __[⭐ 64]__
 
