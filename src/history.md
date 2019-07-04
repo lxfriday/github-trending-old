@@ -1,3 +1,30 @@
+### 20190704
+- [google / robotstxt](https://github.com/google/robotstxt) The repository contains Google's robots.txt parser and matcher as a C++ library (compliant to C++11). __[⭐ 2,282]__
+- [open-deepnude / open-deepnude](https://github.com/open-deepnude/open-deepnude) Open source reverse-engineered clone of DeepNude __[⭐ 229]__
+- [yuanxiaosc / DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology) DeepNude related Image-to-Image theory and practice research. DeepNude相关的Image-to-Image理论与实践研究。 __[⭐ 657]__
+- [2d-inc / developer_quest](https://github.com/2d-inc/developer_quest) Respository for the I/O 2019 demo: Become a tech lead, slay bugs, and don't get fired. __[⭐ 1,439]__
+- [swiftwebui / SwiftWebUI](https://github.com/swiftwebui/SwiftWebUI) A demo implementation of SwiftUI for the Web __[⭐ 1,323]__
+- [diasurgical / devilution](https://github.com/diasurgical/devilution) Diablo devolved - magic behind the 1996 computer game __[⭐ 6,212]__
+- [segmentio / evergreen](https://github.com/segmentio/evergreen) 🌲 Evergreen React UI Framework by Segment __[⭐ 8,152]__
+- [google / googletest](https://github.com/google/googletest) Googletest - Google Testing and Mocking Framework __[⭐ 12,016]__
+- [diasurgical / devilutionX](https://github.com/diasurgical/devilutionX) Diablo build for modern operating systems __[⭐ 853]__
+- [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 49,134]__
+- [lantus / devilution-nx](https://github.com/lantus/devilution-nx) Diablo for the Nintendo Switch __[⭐ 293]__
+- [awslabs / aws-cdk](https://github.com/awslabs/aws-cdk) The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code __[⭐ 2,498]__
+- [sveltejs / svelte](https://github.com/sveltejs/svelte) Cybernetically enhanced web apps __[⭐ 20,263]__
+- [andkret / Cookbook](https://github.com/andkret/Cookbook) The Data Engineering Cookbook __[⭐ 1,677]__
+- [libuv / libuv](https://github.com/libuv/libuv) Cross-platform asynchronous I/O __[⭐ 12,860]__
+- [ory / hydra](https://github.com/ory/hydra) OpenID Certified™ OpenID Connect & OAuth2 Server (OP, OpenID Provider) - cloud native, security-first, open source API security for your infrastructure. Written in Go. SDKs for any language. __[⭐ 6,621]__
+- [darshanime / notes](https://github.com/darshanime/notes) detailed notes on computer science topics, in one page __[⭐ 1,093]__
+- [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) Open-source IoT Platform - Device management, data collection, processing and visualization. __[⭐ 3,635]__
+- [lazyprogrammer / machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples) A collection of machine learning examples and tutorials. __[⭐ 3,389]__
+- [hollischuang / toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) To Be Top Javaer - Java工程师成神之路 __[⭐ 4,296]__
+- [php-ai / php-ml](https://github.com/php-ai/php-ml) PHP-ML - Machine Learning library for PHP __[⭐ 7,071]__
+- [Azure / azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) .NET Libraries for Azure __[⭐ 1,396]__
+- [jroimartin / gocui](https://github.com/jroimartin/gocui) Minimalist Go package aimed at creating Console User Interfaces. __[⭐ 4,705]__
+- [jesseduffield / lazydocker](https://github.com/jesseduffield/lazydocker) The lazier way to manage everything docker __[⭐ 6,347]__
+- [llSourcell / Learn-Natural-Language-Processing-Curriculum](https://github.com/llSourcell/Learn-Natural-Language-Processing-Curriculum) This is the curriculum for "Learn Natural Language Processing" by Siraj Raval on Youtube __[⭐ 434]__
+
 ### 20190703
 - [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 48,915]__
 - [microsoft / WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2) __[⭐ 2,167]__
