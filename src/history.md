@@ -1,3 +1,30 @@
+### 20190705
+- [open-deepnude / open-deepnude](https://github.com/open-deepnude/open-deepnude) Open source reverse-engineered clone of DeepNude __[⭐ 442]__
+- [diasurgical / devilutionX](https://github.com/diasurgical/devilutionX) Diablo build for modern operating systems __[⭐ 988]__
+- [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 __[⭐ 27,222]__
+- [ApolloAuto / apollo](https://github.com/ApolloAuto/apollo) An open autonomous driving platform __[⭐ 13,941]__
+- [techGay / v9porn](https://github.com/techGay/v9porn) 9*Porn Android 客户端，突破游客每天观看10次视频的限制，还可以下载视频 __[⭐ 2,472]__
+- [ziishaned / learn-regex](https://github.com/ziishaned/learn-regex) Learn regex the easy way __[⭐ 16,622]__
+- [facebookresearch / dlrm](https://github.com/facebookresearch/dlrm) An implementation of a deep learning recommendation model (DLRM) __[⭐ 514]__
+- [ansible / ansible](https://github.com/ansible/ansible) Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/ __[⭐ 38,101]__
+- [diasurgical / devilution](https://github.com/diasurgical/devilution) Diablo devolved - magic behind the 1996 computer game __[⭐ 6,308]__
+- [timberio / vector](https://github.com/timberio/vector) A High-Performance, Logs, Metrics, & Events Router __[⭐ 1,302]__
+- [yuanxiaosc / DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology) DeepNude related Image-to-Image theory and practice research. DeepNude相关的Image-to-Image理论与实践研究。 __[⭐ 850]__
+- [fengdu78 / Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) 吴恩达老师的机器学习课程个人笔记 __[⭐ 9,833]__
+- [volcano-sh / volcano](https://github.com/volcano-sh/volcano) A Kubernetes Native Batch System __[⭐ 207]__
+- [algorithm-visualizer / algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) 🎆Interactive Online Platform that Visualizes Algorithms from Code __[⭐ 21,526]__
+- [qiurunze123 / miaosha](https://github.com/qiurunze123/miaosha) ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓 __[⭐ 7,250]__
+- [jantic / DeOldify](https://github.com/jantic/DeOldify) A Deep Learning based project for colorizing and restoring old images (and video!) __[⭐ 6,932]__
+- [PaddlePaddle / book](https://github.com/PaddlePaddle/book) Deep Learning 101 with PaddlePaddle （『飞桨』深度学习框架入门教程） __[⭐ 1,932]__
+- [beyretb / AnimalAI-Olympics](https://github.com/beyretb/AnimalAI-Olympics) Code repository for the Animal AI Olympics competition __[⭐ 177]__
+- [kubernetes / kubernetes](https://github.com/kubernetes/kubernetes) Production-Grade Container Scheduling and Management __[⭐ 54,867]__
+- [caddyserver / caddy](https://github.com/caddyserver/caddy) Fast, cross-platform HTTP/2 web server with automatic HTTPS __[⭐ 22,573]__
+- [ForrestKnight / open-source-cs](https://github.com/ForrestKnight/open-source-cs) Video discussing this curriculum: __[⭐ 8,279]__
+- [react-native-community / react-native-share](https://github.com/react-native-community/react-native-share) Social share, sending simple data to other apps. __[⭐ 1,801]__
+- [marshmallow-code / marshmallow](https://github.com/marshmallow-code/marshmallow) A lightweight library for converting complex objects to and from simple Python datatypes. __[⭐ 3,755]__
+- [ldcsaa / HP-Socket](https://github.com/ldcsaa/HP-Socket) High Performance TCP/UDP/HTTP Communication Component __[⭐ 2,191]__
+- [NVIDIA / TensorRT](https://github.com/NVIDIA/TensorRT) TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators. __[⭐ 896]__
+
 ### 20190704
 - [google / robotstxt](https://github.com/google/robotstxt) The repository contains Google's robots.txt parser and matcher as a C++ library (compliant to C++11). __[⭐ 2,282]__
 - [open-deepnude / open-deepnude](https://github.com/open-deepnude/open-deepnude) Open source reverse-engineered clone of DeepNude __[⭐ 229]__
