@@ -1,29 +1,29 @@
-# 20190530-github-trending
+# 20190629-github-trending
 __25__ repos
 
-- [metafizzy / zdog](https://github.com/metafizzy/zdog) Flat, round, designer-friendly pseudo-3D engine __[⭐ 2,523]__
-- [pirate / wireguard-docs](https://github.com/pirate/wireguard-docs) The Missing WireGuard Documentation: Setup, Usage, Configuration, and a full example for server-to-server VPN with roaming clients & public peers. __[⭐ 907]__
-- [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 49,267]__
-- [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 35,818]__
-- [sdras / cssgridgenerator](https://github.com/sdras/cssgridgenerator) 🧮Generate basic CSS Grid code to make dynamic layouts! __[⭐ 1,078]__
-- [penrose / penrose](https://github.com/penrose/penrose) Create beautiful diagrams just by typing mathematical notation in plain text. __[⭐ 1,351]__
-- [binhnguyennus / awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems __[⭐ 17,777]__
-- [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 43,776]__
-- [Raathigesh / fabulous](https://github.com/Raathigesh/fabulous) 🎨 CSS properties sidebar for VS Code __[⭐ 483]__
-- [MisterBooo / LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） __[⭐ 28,487]__
-- [microsoft / terminal](https://github.com/microsoft/terminal) The new Windows Terminal, and the original Windows console host -- all in the same place! __[⭐ 42,026]__
-- [996icu / 996.ICU](https://github.com/996icu/996.ICU) Repo for counting stars and contributing. Press F to pay respect to glorious developers. __[⭐ 245,200]__
-- [learnbyexample / Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) ⚡️ From finding text to search and replace, from sorting to beautifying text and more 🎨 __[⭐ 8,361]__
-- [sveltejs / svelte](https://github.com/sveltejs/svelte) Cybernetically enhanced web apps __[⭐ 17,449]__
-- [streamich / react-use](https://github.com/streamich/react-use) React Hooks — 👍 __[⭐ 5,339]__
-- [eashish93 / imgsquash](https://github.com/eashish93/imgsquash) Simple image compression full website code written in node, react and next.js framework. Easy to deploy as a microservice. __[⭐ 597]__
-- [Snailclimb / JavaGuide](https://github.com/Snailclimb/JavaGuide) 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。 __[⭐ 41,751]__
-- [synox / youtube-dl-interactive](https://github.com/synox/youtube-dl-interactive) Interactively select the quality and format for youtube-dl __[⭐ 942]__
-- [flutter / flutter](https://github.com/flutter/flutter) Flutter makes it easy and fast to build beautiful mobile apps. __[⭐ 65,523]__
-- [xuperchain / xuperunion](https://github.com/xuperchain/xuperunion) A highly flexible blockchain architecture with great transaction performance. __[⭐ 400]__
-- [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计 __[⭐ 64,112]__
-- [wangzheng0822 / algo](https://github.com/wangzheng0822/algo) 数据结构和算法必知必会的50个代码实现 __[⭐ 6,203]__
-- [azl397985856 / leetcode](https://github.com/azl397985856/leetcode) LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。) __[⭐ 8,748]__
-- [FunctionScript / FunctionScript](https://github.com/FunctionScript/FunctionScript) A language and specification for turning JavaScript functions into typed HTTP APIs __[⭐ 183]__
-- [greymd / ojichat](https://github.com/greymd/ojichat) おじさんがLINEやメールで送ってきそうな文を生成する __[⭐ 201]__
+- [indygreg / PyOxidizer](https://github.com/indygreg/PyOxidizer) A modern Python application packaging and distribution tool __[⭐ 1,160]__
+- [phil-opp / blog_os](https://github.com/phil-opp/blog_os) Writing an OS in Rust __[⭐ 3,177]__
+- [mozilla-mobile / fenix](https://github.com/mozilla-mobile/fenix) Fenix is not your parent's Android browser. __[⭐ 1,701]__
+- [microsoft / calculator](https://github.com/microsoft/calculator) Windows Calculator: A simple yet powerful calculator that ships with Windows __[⭐ 17,450]__
+- [gorilla / mux](https://github.com/gorilla/mux) A powerful HTTP router and URL matcher for building Go web servers with 🦍 __[⭐ 9,248]__
+- [bytedance / byteps](https://github.com/bytedance/byteps) A high performance and general PS framework for distributed training __[⭐ 844]__
+- [hashicorp / vault](https://github.com/hashicorp/vault) A tool for secrets management, encryption as a service, and privileged access management __[⭐ 13,023]__
+- [magento / magento2](https://github.com/magento/magento2) All Submissions you make to Magento Inc. ("Magento") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, subli… __[⭐ 7,587]__
+- [bokeh / bokeh](https://github.com/bokeh/bokeh) Interactive Web Plotting for Python __[⭐ 9,909]__
+- [sebastianbergmann / phpunit](https://github.com/sebastianbergmann/phpunit) The PHP Unit Testing framework. __[⭐ 14,234]__
+- [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) Open-source IoT Platform - Device management, data collection, processing and visualization. __[⭐ 3,295]__
+- [TeamStuQ / skill-map](https://github.com/TeamStuQ/skill-map) 程序员技能图谱 __[⭐ 14,913]__
+- [surmon-china / vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) 🏆 Swiper component for @vuejs __[⭐ 7,175]__
+- [TheresAFewConors / Sooty](https://github.com/TheresAFewConors/Sooty) The SOC Analysts all-in-one CLI tool to automate and speed up workflow. __[⭐ 203]__
+- [intel-analytics / analytics-zoo](https://github.com/intel-analytics/analytics-zoo) Distributed Tensorflow, Keras and BigDL on Apache Spark __[⭐ 685]__
+- [CMU-Perceptual-Computing-Lab / MonocularTotalCapture](https://github.com/CMU-Perceptual-Computing-Lab/MonocularTotalCapture) Code for CVPR19 paper "Monocular Total Capture: Posing Face, Body and Hands in the Wild" __[⭐ 200]__
+- [deepfakes / faceswap](https://github.com/deepfakes/faceswap) Non official project based on original /r/Deepfakes thread. Many thanks to him! __[⭐ 19,892]__
+- [expo / expo](https://github.com/expo/expo) The Expo platform for making cross-platform mobile apps __[⭐ 6,692]__
+- [StackExchange / Dapper](https://github.com/StackExchange/Dapper) Dapper - a simple object mapper for .Net __[⭐ 10,901]__
+- [pandas-profiling / pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) Create HTML profiling reports from pandas DataFrame objects __[⭐ 2,257]__
+- [ng-select / ng-select](https://github.com/ng-select/ng-select) ⭐️ Native angular 6+ select component __[⭐ 1,628]__
+- [microsoft / MASS](https://github.com/microsoft/MASS) MASS: Masked Sequence to Sequence Pre-training for Language Generation __[⭐ 269]__
+- [iovisor / bcc](https://github.com/iovisor/bcc) BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more __[⭐ 6,958]__
+- [apache / lucene-solr](https://github.com/apache/lucene-solr) Mirror of Apache Lucene + Solr __[⭐ 2,679]__
+- [quarkusio / quarkus](https://github.com/quarkusio/quarkus) Quarkus: Supersonic Subatomic Java. __[⭐ 2,061]__
 
