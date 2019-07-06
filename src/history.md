@@ -1,5 +1,5 @@
 ### 20190706
-- [open-deepnude / open-deepnude](https://github.com/open-deepnude/open-deepnude) Open source reverse-engineered clone of DeepNude __[⭐ 751]__
+- [open-deepnude / open-deepnude](https://github.com/open-deepnude/open-deepnude) Open source reverse-engineered clone of DeepNude __[⭐ 752]__
 - [aidewoode / black_candy](https://github.com/aidewoode/black_candy) A self hosted music streaming server __[⭐ 227]__
 - [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 47,219]__
 - [houshanren / hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone. __[⭐ 20,545]__
@@ -17,9 +17,9 @@
 - [PaddlePaddle / book](https://github.com/PaddlePaddle/book) Deep Learning 101 with PaddlePaddle （『飞桨』深度学习框架入门教程） __[⭐ 1,969]__
 - [ipasimulator / ipasim](https://github.com/ipasimulator/ipasim) iOS emulator for Windows __[⭐ 194]__
 - [react-native-community / cli](https://github.com/react-native-community/cli) React Native command line tools __[⭐ 476]__
-- [diasurgical / devilution](https://github.com/diasurgical/devilution) Diablo devolved - magic behind the 1996 computer game __[⭐ 6,366]__
+- [diasurgical / devilution](https://github.com/diasurgical/devilution) Diablo devolved - magic behind the 1996 computer game __[⭐ 6,367]__
 - [iqiyi / Qigsaw](https://github.com/iqiyi/Qigsaw) 🔥🔥Qigsaw is a dynamic modularization library which is based on Android App Bundles. It supports dynamic delivery for split APKs without reinstalling the base one. __[⭐ 270]__
-- [darshanime / notes](https://github.com/darshanime/notes) detailed notes on computer science topics, in one page __[⭐ 1,292]__
+- [darshanime / notes](https://github.com/darshanime/notes) detailed notes on computer science topics, in one page __[⭐ 1,293]__
 - [macrozheng / mall-learning](https://github.com/macrozheng/mall-learning) mall学习教程，架构、业务、技术要点全方位解析。mall项目（16k+star）是一套电商系统，使用现阶段主流技术实现。 涵盖了SpringBoot2.1.3、MyBatis3.4.6、Elasticsearch6.2.2、RabbitMQ3.7.15、Redis3.2、Mongodb3.2、Mysql5.7等技术，采用Docker容器化部署。 __[⭐ 521]__
 - [yuanxiaosc / DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology) DeepNude related Image-to-Image theory and practice research. DeepNude相关的Image-to-Image理论与实践研究。 __[⭐ 980]__
 - [sqshq / piggymetrics](https://github.com/sqshq/piggymetrics) Microservice Architecture with Spring Boot, Spring Cloud and Docker __[⭐ 6,513]__
