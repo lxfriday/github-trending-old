@@ -9,6 +9,140 @@ top: true
 ---
 
 ## 2019
+### 20190708
+- [DeepGraphLearning / LiteratureDL4Graph](https://github.com/DeepGraphLearning/LiteratureDL4Graph)  __[⭐ 663]__
+- [ddbourgin / numpy-ml](https://github.com/ddbourgin/numpy-ml) Machine learning, in numpy __[⭐ 3,817]__
+- [ApolloAuto / apollo](https://github.com/ApolloAuto/apollo) An open autonomous driving platform __[⭐ 14,140]__
+- [materialsintelligence / mat2vec](https://github.com/materialsintelligence/mat2vec) Supplementary Materials for Tshitoyan et al. "Unsupervised word embeddings capture latent knowledge from materials science literature", Nature (2019). __[⭐ 161]__
+- [Lam1360 / YOLOv3-model-pruning](https://github.com/Lam1360/YOLOv3-model-pruning) 对 YOLOv3 做模型剪枝（network slimming），对于 oxford hand 数据集（因项目需要），模型剪枝后的参数量减少 80%，Infer 的速度达到原来 2 倍，mAP 基本不变 __[⭐ 270]__
+- [GitSquared / edex-ui](https://github.com/GitSquared/edex-ui) A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. __[⭐ 10,413]__
+- [nicklockwood / RetroRampage](https://github.com/nicklockwood/RetroRampage)  __[⭐ 430]__
+- [peterq / pan-light](https://github.com/peterq/pan-light) 百度网盘不限速客户端, golang + qt5, 跨平台图形界面 __[⭐ 596]__
+- [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 __[⭐ 27,750]__
+- [wuyouzhuguli / SpringAll](https://github.com/wuyouzhuguli/SpringAll) 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客Spring系列源码 __[⭐ 5,500]__
+- [ytisf / theZoo](https://github.com/ytisf/theZoo) A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public. __[⭐ 4,585]__
+- [s0md3v / AwesomeXSS](https://github.com/s0md3v/AwesomeXSS) Awesome XSS stuff __[⭐ 2,004]__
+- [amethyst / amethyst](https://github.com/amethyst/amethyst) Data-oriented and data-driven game engine written in Rust __[⭐ 3,791]__
+- [benedekrozemberczki / awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) A collection of research papers on decision, classification and regression trees with implementations. __[⭐ 762]__
+- [alibaba / esim-response-selection](https://github.com/alibaba/esim-response-selection) ESIM for Multi-turn Response Selection Task __[⭐ 109]__
+- [processing / p5.js](https://github.com/processing/p5.js) p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs — __[⭐ 10,771]__
+- [bokeh / bokeh](https://github.com/bokeh/bokeh) Interactive Web Plotting for Python __[⭐ 10,430]__
+- [phoenixframework / phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) Rich, real-time user experiences with server-rendered HTML __[⭐ 1,993]__
+- [alibaba / tengine](https://github.com/alibaba/tengine) A distribution of Nginx with some advanced features __[⭐ 8,647]__
+- [NVIDIA / pix2pixHD](https://github.com/NVIDIA/pix2pixHD) Synthesizing and manipulating 2048x1024 images with conditional GANs __[⭐ 3,512]__
+- [vaastav / Fantasy-Premier-League](https://github.com/vaastav/Fantasy-Premier-League) Creates a .csv file of all players in the English Player League with their respective team and total fantasy points __[⭐ 131]__
+- [fluentpython / example-code](https://github.com/fluentpython/example-code) Example code for the book Fluent Python __[⭐ 2,965]__
+- [Saki-EU / XiaomiADBFastbootTools](https://github.com/Saki-EU/XiaomiADBFastbootTools) A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot __[⭐ 304]__
+- [flarum / flarum](https://github.com/flarum/flarum) Composer starter project for Flarum __[⭐ 9,019]__
+
+### 20190705
+- [open-deepnude / open-deepnude](https://github.com/open-deepnude/open-deepnude) Open source reverse-engineered clone of DeepNude __[⭐ 442]__
+- [diasurgical / devilutionX](https://github.com/diasurgical/devilutionX) Diablo build for modern operating systems __[⭐ 988]__
+- [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 __[⭐ 27,222]__
+- [ApolloAuto / apollo](https://github.com/ApolloAuto/apollo) An open autonomous driving platform __[⭐ 13,941]__
+- [techGay / v9porn](https://github.com/techGay/v9porn) 9*Porn Android 客户端，突破游客每天观看10次视频的限制，还可以下载视频 __[⭐ 2,472]__
+- [ziishaned / learn-regex](https://github.com/ziishaned/learn-regex) Learn regex the easy way __[⭐ 16,622]__
+- [facebookresearch / dlrm](https://github.com/facebookresearch/dlrm) An implementation of a deep learning recommendation model (DLRM) __[⭐ 514]__
+- [ansible / ansible](https://github.com/ansible/ansible) Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/ __[⭐ 38,101]__
+- [diasurgical / devilution](https://github.com/diasurgical/devilution) Diablo devolved - magic behind the 1996 computer game __[⭐ 6,308]__
+- [timberio / vector](https://github.com/timberio/vector) A High-Performance, Logs, Metrics, & Events Router __[⭐ 1,302]__
+- [yuanxiaosc / DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology) DeepNude related Image-to-Image theory and practice research. DeepNude相关的Image-to-Image理论与实践研究。 __[⭐ 850]__
+- [fengdu78 / Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) 吴恩达老师的机器学习课程个人笔记 __[⭐ 9,833]__
+- [volcano-sh / volcano](https://github.com/volcano-sh/volcano) A Kubernetes Native Batch System __[⭐ 207]__
+- [algorithm-visualizer / algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) 🎆Interactive Online Platform that Visualizes Algorithms from Code __[⭐ 21,526]__
+- [qiurunze123 / miaosha](https://github.com/qiurunze123/miaosha) ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓 __[⭐ 7,250]__
+- [jantic / DeOldify](https://github.com/jantic/DeOldify) A Deep Learning based project for colorizing and restoring old images (and video!) __[⭐ 6,932]__
+- [PaddlePaddle / book](https://github.com/PaddlePaddle/book) Deep Learning 101 with PaddlePaddle （『飞桨』深度学习框架入门教程） __[⭐ 1,932]__
+- [beyretb / AnimalAI-Olympics](https://github.com/beyretb/AnimalAI-Olympics) Code repository for the Animal AI Olympics competition __[⭐ 177]__
+- [kubernetes / kubernetes](https://github.com/kubernetes/kubernetes) Production-Grade Container Scheduling and Management __[⭐ 54,867]__
+- [caddyserver / caddy](https://github.com/caddyserver/caddy) Fast, cross-platform HTTP/2 web server with automatic HTTPS __[⭐ 22,573]__
+- [ForrestKnight / open-source-cs](https://github.com/ForrestKnight/open-source-cs) Video discussing this curriculum: __[⭐ 8,279]__
+- [react-native-community / react-native-share](https://github.com/react-native-community/react-native-share) Social share, sending simple data to other apps. __[⭐ 1,801]__
+- [marshmallow-code / marshmallow](https://github.com/marshmallow-code/marshmallow) A lightweight library for converting complex objects to and from simple Python datatypes. __[⭐ 3,755]__
+- [ldcsaa / HP-Socket](https://github.com/ldcsaa/HP-Socket) High Performance TCP/UDP/HTTP Communication Component __[⭐ 2,191]__
+- [NVIDIA / TensorRT](https://github.com/NVIDIA/TensorRT) TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators. __[⭐ 896]__
+
+### 20190704
+- [google / robotstxt](https://github.com/google/robotstxt) The repository contains Google's robots.txt parser and matcher as a C++ library (compliant to C++11). __[⭐ 2,282]__
+- [open-deepnude / open-deepnude](https://github.com/open-deepnude/open-deepnude) Open source reverse-engineered clone of DeepNude __[⭐ 229]__
+- [yuanxiaosc / DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology) DeepNude related Image-to-Image theory and practice research. DeepNude相关的Image-to-Image理论与实践研究。 __[⭐ 657]__
+- [2d-inc / developer_quest](https://github.com/2d-inc/developer_quest) Respository for the I/O 2019 demo: Become a tech lead, slay bugs, and don't get fired. __[⭐ 1,440]__
+- [swiftwebui / SwiftWebUI](https://github.com/swiftwebui/SwiftWebUI) A demo implementation of SwiftUI for the Web __[⭐ 1,325]__
+- [diasurgical / devilution](https://github.com/diasurgical/devilution) Diablo devolved - magic behind the 1996 computer game __[⭐ 6,212]__
+- [segmentio / evergreen](https://github.com/segmentio/evergreen) 🌲 Evergreen React UI Framework by Segment __[⭐ 8,153]__
+- [google / googletest](https://github.com/google/googletest) Googletest - Google Testing and Mocking Framework __[⭐ 12,016]__
+- [diasurgical / devilutionX](https://github.com/diasurgical/devilutionX) Diablo build for modern operating systems __[⭐ 853]__
+- [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 49,134]__
+- [lantus / devilution-nx](https://github.com/lantus/devilution-nx) Diablo for the Nintendo Switch __[⭐ 293]__
+- [awslabs / aws-cdk](https://github.com/awslabs/aws-cdk) The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code __[⭐ 2,498]__
+- [sveltejs / svelte](https://github.com/sveltejs/svelte) Cybernetically enhanced web apps __[⭐ 20,263]__
+- [andkret / Cookbook](https://github.com/andkret/Cookbook) The Data Engineering Cookbook __[⭐ 1,677]__
+- [libuv / libuv](https://github.com/libuv/libuv) Cross-platform asynchronous I/O __[⭐ 12,860]__
+- [ory / hydra](https://github.com/ory/hydra) OpenID Certified™ OpenID Connect & OAuth2 Server (OP, OpenID Provider) - cloud native, security-first, open source API security for your infrastructure. Written in Go. SDKs for any language. __[⭐ 6,621]__
+- [darshanime / notes](https://github.com/darshanime/notes) detailed notes on computer science topics, in one page __[⭐ 1,093]__
+- [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) Open-source IoT Platform - Device management, data collection, processing and visualization. __[⭐ 3,636]__
+- [lazyprogrammer / machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples) A collection of machine learning examples and tutorials. __[⭐ 3,390]__
+- [hollischuang / toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) To Be Top Javaer - Java工程师成神之路 __[⭐ 4,297]__
+- [php-ai / php-ml](https://github.com/php-ai/php-ml) PHP-ML - Machine Learning library for PHP __[⭐ 7,071]__
+- [Azure / azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net) .NET Libraries for Azure __[⭐ 1,396]__
+- [jroimartin / gocui](https://github.com/jroimartin/gocui) Minimalist Go package aimed at creating Console User Interfaces. __[⭐ 4,705]__
+- [jesseduffield / lazydocker](https://github.com/jesseduffield/lazydocker) The lazier way to manage everything docker __[⭐ 6,350]__
+- [llSourcell / Learn-Natural-Language-Processing-Curriculum](https://github.com/llSourcell/Learn-Natural-Language-Processing-Curriculum) This is the curriculum for "Learn Natural Language Processing" by Siraj Raval on Youtube __[⭐ 434]__
+
+### 20190703
+- [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 48,915]__
+- [microsoft / WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2) __[⭐ 2,167]__
+- [jellyfin / jellyfin](https://github.com/jellyfin/jellyfin) The Free Software Media System __[⭐ 2,980]__
+- [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 Tech Interview Guide 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计 __[⭐ 69,201]__
+- [mps-youtube / mps-youtube](https://github.com/mps-youtube/mps-youtube) Terminal based YouTube player and downloader __[⭐ 5,393]__
+- [yuanxiaosc / DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology) Research techniques and papers related to image generation and image restoration used by DeepNude. 研究DeepNude使用的图像生成和图像修复相关的技术和论文。 __[⭐ 370]__
+- [libuv / libuv](https://github.com/libuv/libuv) Cross-platform asynchronous I/O __[⭐ 12,837]__
+- [haizlin / fe-interview](https://github.com/haizlin/fe-interview) 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家） __[⭐ 2,455]__
+- [crownpku / Awesome-Chinese-NLP](https://github.com/crownpku/Awesome-Chinese-NLP) A curated list of resources for Chinese NLP 中文自然语言处理相关资料 __[⭐ 4,220]__
+- [GitHubDaily / GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。 __[⭐ 3,881]__
+- [Computing-Intelligence / jupyters_and_slides](https://github.com/Computing-Intelligence/jupyters_and_slides)  __[⭐ 184]__
+- [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 59,729]__
+- [netchx / Netch](https://github.com/netchx/Netch) Game accelerator. Support Socks5, Shadowsocks, ShadowsocksR, V2Ray protocol. UDP NAT FullCone __[⭐ 400]__
+- [xingshaocheng / architect-awesome](https://github.com/xingshaocheng/architect-awesome) 后端架构师技术图谱 __[⭐ 34,590]__
+- [jivoi / awesome-osint](https://github.com/jivoi/awesome-osint) 😱 A curated list of amazingly awesome OSINT __[⭐ 3,123]__
+- [toniblyx / my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc. __[⭐ 1,867]__
+- [OpenCTI-Platform / opencti](https://github.com/OpenCTI-Platform/opencti) Open Cyber Threat Intelligence Platform __[⭐ 463]__
+- [garden-io / garden](https://github.com/garden-io/garden) Development orchestrator for Kubernetes, containers and functions. __[⭐ 702]__
+- [rmusser01 / Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) An Information Security Reference That Doesn't Suck __[⭐ 2,384]__
+- [Avik-Jain / 100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) 100 Days of ML Coding __[⭐ 23,992]__
+- [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 45,783]__
+- [minetest / minetest](https://github.com/minetest/minetest) Minetest, an open source infinite-world block sandbox game engine with support for survival and crafting. Also see https://github.com/minetest/minetest_game __[⭐ 4,210]__
+- [deepfakes / faceswap](https://github.com/deepfakes/faceswap) Non official project based on original /r/Deepfakes thread. Many thanks to him! __[⭐ 20,143]__
+- [CamDavidsonPilon / Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;) __[⭐ 18,463]__
+- [lazyprogrammer / machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples) A collection of machine learning examples and tutorials. __[⭐ 3,311]__
+
+### 20190702
+- [TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) All Algorithms implemented in Python __[⭐ 48,497]__
+- [microsoft / WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2) __[⭐ 1,982]__
+- [jellyfin / jellyfin](https://github.com/jellyfin/jellyfin) The Free Software Media System __[⭐ 2,911]__
+- [CyC2018 / CS-Notes](https://github.com/CyC2018/CS-Notes) 📚 Tech Interview Guide 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计 __[⭐ 69,020]__
+- [mps-youtube / mps-youtube](https://github.com/mps-youtube/mps-youtube) Terminal based YouTube player and downloader __[⭐ 5,266]__
+- [yuanxiaosc / DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology) Research techniques and papers related to image generation and image restoration used by DeepNude. 研究DeepNude使用的图像生成和图像修复相关的技术和论文。 __[⭐ 153]__
+- [libuv / libuv](https://github.com/libuv/libuv) Cross-platform asynchronous I/O __[⭐ 12,798]__
+- [haizlin / fe-interview](https://github.com/haizlin/fe-interview) 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家） __[⭐ 2,145]__
+- [crownpku / Awesome-Chinese-NLP](https://github.com/crownpku/Awesome-Chinese-NLP) A curated list of resources for Chinese NLP 中文自然语言处理相关资料 __[⭐ 4,158]__
+- [GitHubDaily / GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。 __[⭐ 3,781]__
+- [Computing-Intelligence / jupyters_and_slides](https://github.com/Computing-Intelligence/jupyters_and_slides)  __[⭐ 165]__
+- [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 59,529]__
+- [netchx / Netch](https://github.com/netchx/Netch) Game accelerator. Support Socks5, Shadowsocks, ShadowsocksR, V2Ray protocol. UDP NAT FullCone __[⭐ 361]__
+- [xingshaocheng / architect-awesome](https://github.com/xingshaocheng/architect-awesome) 后端架构师技术图谱 __[⭐ 34,480]__
+- [jivoi / awesome-osint](https://github.com/jivoi/awesome-osint) 😱 A curated list of amazingly awesome OSINT __[⭐ 3,055]__
+- [toniblyx / my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc. __[⭐ 1,775]__
+- [OpenCTI-Platform / opencti](https://github.com/OpenCTI-Platform/opencti) Open Cyber Threat Intelligence Platform __[⭐ 347]__
+- [garden-io / garden](https://github.com/garden-io/garden) Development orchestrator for Kubernetes, containers and functions. __[⭐ 638]__
+- [rmusser01 / Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) An Information Security Reference That Doesn't Suck __[⭐ 2,327]__
+- [Avik-Jain / 100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) 100 Days of ML Coding __[⭐ 23,910]__
+- [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 45,580]__
+- [minetest / minetest](https://github.com/minetest/minetest) Minetest, an open source infinite-world block sandbox game engine with support for survival and crafting. Also see https://github.com/minetest/minetest_game __[⭐ 4,177]__
+- [deepfakes / faceswap](https://github.com/deepfakes/faceswap) Non official project based on original /r/Deepfakes thread. Many thanks to him! __[⭐ 20,067]__
+- [CamDavidsonPilon / Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;) __[⭐ 18,368]__
+- [lazyprogrammer / machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples) A collection of machine learning examples and tutorials. __[⭐ 3,222]__
+
 ### 20190701
 - [OpenCTI-Platform / opencti](https://github.com/OpenCTI-Platform/opencti) Open Cyber Threat Intelligence Platform __[⭐ 256]__
 - [bytedance / byteps](https://github.com/bytedance/byteps) A high performance and general PS framework for distributed training __[⭐ 1,249]__

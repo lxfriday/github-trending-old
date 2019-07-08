@@ -1,29 +1,28 @@
-# 20190701-github-trending
-__25__ repos
+# 20190708-github-trending
+__24__ repos
 
-- [OpenCTI-Platform / opencti](https://github.com/OpenCTI-Platform/opencti) Open Cyber Threat Intelligence Platform __[⭐ 256]__
-- [bytedance / byteps](https://github.com/bytedance/byteps) A high performance and general PS framework for distributed training __[⭐ 1,249]__
-- [microsoft / WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2) __[⭐ 1,813]__
-- [graykode / nlp-tutorial](https://github.com/graykode/nlp-tutorial) Natural Language Processing Tutorial for Deep Learning Researchers __[⭐ 2,812]__
-- [rebeyond / Behinder](https://github.com/rebeyond/Behinder) “冰蝎”动态二进制加密网站管理客户端 __[⭐ 637]__
-- [haizlin / fe-interview](https://github.com/haizlin/fe-interview) 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家） __[⭐ 1,955]__
-- [garden-io / garden](https://github.com/garden-io/garden) Development orchestrator for Kubernetes, containers and functions. __[⭐ 564]__
-- [lazyprogrammer / machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples) A collection of machine learning examples and tutorials. __[⭐ 3,136]__
-- [phillipi / pix2pix](https://github.com/phillipi/pix2pix) Image-to-image translation with conditional adversarial nets __[⭐ 6,454]__
-- [TeamStuQ / skill-map](https://github.com/TeamStuQ/skill-map) 程序员技能图谱 __[⭐ 15,072]__
-- [rmusser01 / Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) An Information Security Reference That Doesn't Suck __[⭐ 2,273]__
-- [chaitin / xray](https://github.com/chaitin/xray) xray 安全评估工具 __[⭐ 410]__
-- [fastai / course-v3](https://github.com/fastai/course-v3) The 3rd edition of course.fast.ai __[⭐ 2,305]__
-- [netchx / Netch](https://github.com/netchx/Netch) Game accelerator. Support Socks5, Shadowsocks, ShadowsocksR, V2Ray protocol. UDP NAT FullCone __[⭐ 317]__
-- [libuv / libuv](https://github.com/libuv/libuv) Cross-platform asynchronous I/O __[⭐ 12,759]__
-- [benedekrozemberczki / awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection) A curated list of community detection research papers with implementations. __[⭐ 460]__
-- [JustArchiNET / ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) C# application with primary purpose of idling Steam cards from multiple accounts simultaneously. __[⭐ 4,238]__
-- [thingsboard / thingsboard](https://github.com/thingsboard/thingsboard) Open-source IoT Platform - Device management, data collection, processing and visualization. __[⭐ 3,422]__
-- [freeCodeCamp / freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) The https://www.freeCodeCamp.org open source codebase and curriculum. Learn to code for free together with millions of people. __[⭐ 303,595]__
-- [MLEveryday / 100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) 100-Days-Of-ML-Code中文版 __[⭐ 11,888]__
-- [algorithm-visualizer / algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) 🎆Interactive Online Platform that Visualizes Algorithms from Code __[⭐ 20,856]__
-- [trekhleb / javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings __[⭐ 50,351]__
-- [jonasschmedtmann / complete-node-bootcamp](https://github.com/jonasschmedtmann/complete-node-bootcamp) Starter files, final projects and FAQ for my Complete Node.js Bootcamp __[⭐ 61]__
-- [mozilla-mobile / fenix](https://github.com/mozilla-mobile/fenix) Fenix is not your parent's Android browser. __[⭐ 1,853]__
-- [ipfs / camp](https://github.com/ipfs/camp) 🏕 IPFS Camp is a 3 day hacker retreat designed for the builders of the Distributed Web. __[⭐ 64]__
+- [DeepGraphLearning / LiteratureDL4Graph](https://github.com/DeepGraphLearning/LiteratureDL4Graph)  __[⭐ 663]__
+- [ddbourgin / numpy-ml](https://github.com/ddbourgin/numpy-ml) Machine learning, in numpy __[⭐ 3,817]__
+- [ApolloAuto / apollo](https://github.com/ApolloAuto/apollo) An open autonomous driving platform __[⭐ 14,140]__
+- [materialsintelligence / mat2vec](https://github.com/materialsintelligence/mat2vec) Supplementary Materials for Tshitoyan et al. "Unsupervised word embeddings capture latent knowledge from materials science literature", Nature (2019). __[⭐ 161]__
+- [Lam1360 / YOLOv3-model-pruning](https://github.com/Lam1360/YOLOv3-model-pruning) 对 YOLOv3 做模型剪枝（network slimming），对于 oxford hand 数据集（因项目需要），模型剪枝后的参数量减少 80%，Infer 的速度达到原来 2 倍，mAP 基本不变 __[⭐ 270]__
+- [GitSquared / edex-ui](https://github.com/GitSquared/edex-ui) A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. __[⭐ 10,413]__
+- [nicklockwood / RetroRampage](https://github.com/nicklockwood/RetroRampage)  __[⭐ 430]__
+- [peterq / pan-light](https://github.com/peterq/pan-light) 百度网盘不限速客户端, golang + qt5, 跨平台图形界面 __[⭐ 596]__
+- [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 __[⭐ 27,750]__
+- [wuyouzhuguli / SpringAll](https://github.com/wuyouzhuguli/SpringAll) 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客Spring系列源码 __[⭐ 5,500]__
+- [ytisf / theZoo](https://github.com/ytisf/theZoo) A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public. __[⭐ 4,585]__
+- [s0md3v / AwesomeXSS](https://github.com/s0md3v/AwesomeXSS) Awesome XSS stuff __[⭐ 2,004]__
+- [amethyst / amethyst](https://github.com/amethyst/amethyst) Data-oriented and data-driven game engine written in Rust __[⭐ 3,791]__
+- [benedekrozemberczki / awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) A collection of research papers on decision, classification and regression trees with implementations. __[⭐ 762]__
+- [alibaba / esim-response-selection](https://github.com/alibaba/esim-response-selection) ESIM for Multi-turn Response Selection Task __[⭐ 109]__
+- [processing / p5.js](https://github.com/processing/p5.js) p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs — __[⭐ 10,771]__
+- [bokeh / bokeh](https://github.com/bokeh/bokeh) Interactive Web Plotting for Python __[⭐ 10,430]__
+- [phoenixframework / phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) Rich, real-time user experiences with server-rendered HTML __[⭐ 1,993]__
+- [alibaba / tengine](https://github.com/alibaba/tengine) A distribution of Nginx with some advanced features __[⭐ 8,647]__
+- [NVIDIA / pix2pixHD](https://github.com/NVIDIA/pix2pixHD) Synthesizing and manipulating 2048x1024 images with conditional GANs __[⭐ 3,512]__
+- [vaastav / Fantasy-Premier-League](https://github.com/vaastav/Fantasy-Premier-League) Creates a .csv file of all players in the English Player League with their respective team and total fantasy points __[⭐ 131]__
+- [fluentpython / example-code](https://github.com/fluentpython/example-code) Example code for the book Fluent Python __[⭐ 2,965]__
+- [Saki-EU / XiaomiADBFastbootTools](https://github.com/Saki-EU/XiaomiADBFastbootTools) A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot __[⭐ 304]__
+- [flarum / flarum](https://github.com/flarum/flarum) Composer starter project for Flarum __[⭐ 9,019]__
 
