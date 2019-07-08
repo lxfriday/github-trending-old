@@ -1,28 +1,82 @@
 ### 20190708
-- [DeepGraphLearning / LiteratureDL4Graph](https://github.com/DeepGraphLearning/LiteratureDL4Graph)  __[⭐ 663]__
-- [ddbourgin / numpy-ml](https://github.com/ddbourgin/numpy-ml) Machine learning, in numpy __[⭐ 3,817]__
-- [ApolloAuto / apollo](https://github.com/ApolloAuto/apollo) An open autonomous driving platform __[⭐ 14,140]__
-- [materialsintelligence / mat2vec](https://github.com/materialsintelligence/mat2vec) Supplementary Materials for Tshitoyan et al. "Unsupervised word embeddings capture latent knowledge from materials science literature", Nature (2019). __[⭐ 161]__
-- [Lam1360 / YOLOv3-model-pruning](https://github.com/Lam1360/YOLOv3-model-pruning) 对 YOLOv3 做模型剪枝（network slimming），对于 oxford hand 数据集（因项目需要），模型剪枝后的参数量减少 80%，Infer 的速度达到原来 2 倍，mAP 基本不变 __[⭐ 270]__
-- [GitSquared / edex-ui](https://github.com/GitSquared/edex-ui) A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. __[⭐ 10,413]__
-- [nicklockwood / RetroRampage](https://github.com/nicklockwood/RetroRampage)  __[⭐ 430]__
-- [peterq / pan-light](https://github.com/peterq/pan-light) 百度网盘不限速客户端, golang + qt5, 跨平台图形界面 __[⭐ 596]__
-- [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 __[⭐ 27,750]__
-- [wuyouzhuguli / SpringAll](https://github.com/wuyouzhuguli/SpringAll) 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客Spring系列源码 __[⭐ 5,500]__
-- [ytisf / theZoo](https://github.com/ytisf/theZoo) A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public. __[⭐ 4,585]__
-- [s0md3v / AwesomeXSS](https://github.com/s0md3v/AwesomeXSS) Awesome XSS stuff __[⭐ 2,004]__
-- [amethyst / amethyst](https://github.com/amethyst/amethyst) Data-oriented and data-driven game engine written in Rust __[⭐ 3,791]__
-- [benedekrozemberczki / awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) A collection of research papers on decision, classification and regression trees with implementations. __[⭐ 762]__
-- [alibaba / esim-response-selection](https://github.com/alibaba/esim-response-selection) ESIM for Multi-turn Response Selection Task __[⭐ 109]__
-- [processing / p5.js](https://github.com/processing/p5.js) p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs — __[⭐ 10,771]__
-- [bokeh / bokeh](https://github.com/bokeh/bokeh) Interactive Web Plotting for Python __[⭐ 10,430]__
+- [DeepGraphLearning / LiteratureDL4Graph](https://github.com/DeepGraphLearning/LiteratureDL4Graph)  __[⭐ 677]__
+- [ddbourgin / numpy-ml](https://github.com/ddbourgin/numpy-ml) Machine learning, in numpy __[⭐ 3,848]__
+- [ApolloAuto / apollo](https://github.com/ApolloAuto/apollo) An open autonomous driving platform __[⭐ 14,146]__
+- [materialsintelligence / mat2vec](https://github.com/materialsintelligence/mat2vec) Supplementary Materials for Tshitoyan et al. "Unsupervised word embeddings capture latent knowledge from materials science literature", Nature (2019). __[⭐ 162]__
+- [Lam1360 / YOLOv3-model-pruning](https://github.com/Lam1360/YOLOv3-model-pruning) 对 YOLOv3 做模型剪枝（network slimming），对于 oxford hand 数据集（因项目需要），模型剪枝后的参数量减少 80%，Infer 的速度达到原来 2 倍，mAP 基本不变 __[⭐ 281]__
+- [GitSquared / edex-ui](https://github.com/GitSquared/edex-ui) A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. __[⭐ 10,417]__
+- [nicklockwood / RetroRampage](https://github.com/nicklockwood/RetroRampage)  __[⭐ 434]__
+- [peterq / pan-light](https://github.com/peterq/pan-light) 百度网盘不限速客户端, golang + qt5, 跨平台图形界面 __[⭐ 623]__
+- [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 __[⭐ 27,762]__
+- [wuyouzhuguli / SpringAll](https://github.com/wuyouzhuguli/SpringAll) 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客Spring系列源码 __[⭐ 5,529]__
+- [ytisf / theZoo](https://github.com/ytisf/theZoo) A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public. __[⭐ 4,586]__
+- [s0md3v / AwesomeXSS](https://github.com/s0md3v/AwesomeXSS) Awesome XSS stuff __[⭐ 2,008]__
+- [amethyst / amethyst](https://github.com/amethyst/amethyst) Data-oriented and data-driven game engine written in Rust __[⭐ 3,793]__
+- [benedekrozemberczki / awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) A collection of research papers on decision, classification and regression trees with implementations. __[⭐ 764]__
+- [alibaba / esim-response-selection](https://github.com/alibaba/esim-response-selection) ESIM for Multi-turn Response Selection Task __[⭐ 112]__
+- [processing / p5.js](https://github.com/processing/p5.js) p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs — __[⭐ 10,775]__
+- [bokeh / bokeh](https://github.com/bokeh/bokeh) Interactive Web Plotting for Python __[⭐ 10,434]__
 - [phoenixframework / phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) Rich, real-time user experiences with server-rendered HTML __[⭐ 1,993]__
-- [alibaba / tengine](https://github.com/alibaba/tengine) A distribution of Nginx with some advanced features __[⭐ 8,647]__
-- [NVIDIA / pix2pixHD](https://github.com/NVIDIA/pix2pixHD) Synthesizing and manipulating 2048x1024 images with conditional GANs __[⭐ 3,512]__
-- [vaastav / Fantasy-Premier-League](https://github.com/vaastav/Fantasy-Premier-League) Creates a .csv file of all players in the English Player League with their respective team and total fantasy points __[⭐ 131]__
-- [fluentpython / example-code](https://github.com/fluentpython/example-code) Example code for the book Fluent Python __[⭐ 2,965]__
-- [Saki-EU / XiaomiADBFastbootTools](https://github.com/Saki-EU/XiaomiADBFastbootTools) A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot __[⭐ 304]__
-- [flarum / flarum](https://github.com/flarum/flarum) Composer starter project for Flarum __[⭐ 9,019]__
+- [alibaba / tengine](https://github.com/alibaba/tengine) A distribution of Nginx with some advanced features __[⭐ 8,650]__
+- [NVIDIA / pix2pixHD](https://github.com/NVIDIA/pix2pixHD) Synthesizing and manipulating 2048x1024 images with conditional GANs __[⭐ 3,515]__
+- [vaastav / Fantasy-Premier-League](https://github.com/vaastav/Fantasy-Premier-League) Creates a .csv file of all players in the English Player League with their respective team and total fantasy points __[⭐ 133]__
+- [fluentpython / example-code](https://github.com/fluentpython/example-code) Example code for the book Fluent Python __[⭐ 2,969]__
+- [Saki-EU / XiaomiADBFastbootTools](https://github.com/Saki-EU/XiaomiADBFastbootTools) A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot __[⭐ 305]__
+- [flarum / flarum](https://github.com/flarum/flarum) Composer starter project for Flarum __[⭐ 9,020]__
+
+### 20190707
+- [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 __[⭐ 27,575]__
+- [open-deepnude / open-deepnude](https://github.com/open-deepnude/open-deepnude) Open source reverse-engineered clone of DeepNude __[⭐ 888]__
+- [wuyouzhuguli / SpringAll](https://github.com/wuyouzhuguli/SpringAll) 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客Spring系列源码 __[⭐ 5,354]__
+- [sirupsen / logrus](https://github.com/sirupsen/logrus) Structured, pluggable logging for Go. __[⭐ 11,500]__
+- [TrinityCore / TrinityCore](https://github.com/TrinityCore/TrinityCore) TrinityCore Open Source MMO Framework (master = 8.1.5.30706, 3.3.5 = 3.3.5a.12340) __[⭐ 5,442]__
+- [techGay / v9porn](https://github.com/techGay/v9porn) 9*Porn Android 客户端，突破游客每天观看10次视频的限制，还可以下载视频 __[⭐ 2,739]__
+- [AnalyticalGraphicsInc / cesium](https://github.com/AnalyticalGraphicsInc/cesium) An open-source JavaScript library for world-class 3D globes and maps 🌎 __[⭐ 4,506]__
+- [ddbourgin / numpy-ml](https://github.com/ddbourgin/numpy-ml) Machine learning, in numpy __[⭐ 3,323]__
+- [dpressel / dliss-tutorial](https://github.com/dpressel/dliss-tutorial) Tutorial for International Summer School on Deep Learning, 2019 __[⭐ 208]__
+- [atsapura / CardManagement](https://github.com/atsapura/CardManagement)  __[⭐ 284]__
+- [bokeh / bokeh](https://github.com/bokeh/bokeh) Interactive Web Plotting for Python __[⭐ 10,331]__
+- [smartystreets / goconvey](https://github.com/smartystreets/goconvey) Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go. __[⭐ 4,750]__
+- [zhaoolee / ChineseBQB](https://github.com/zhaoolee/ChineseBQB) 🇨🇳Chinese sticker pack / 中国表情包大集合 __[⭐ 1,035]__
+- [HIPS / autograd](https://github.com/HIPS/autograd) Efficiently computes derivatives of numpy code. __[⭐ 4,021]__
+- [facebookresearch / dlrm](https://github.com/facebookresearch/dlrm) An implementation of a deep learning recommendation model (DLRM) __[⭐ 811]__
+- [materialsintelligence / mat2vec](https://github.com/materialsintelligence/mat2vec) Supplementary Materials for Tshitoyan et al. "Unsupervised word embeddings capture latent knowledge from materials science literature", Nature (2019). __[⭐ 125]__
+- [macrozheng / mall-learning](https://github.com/macrozheng/mall-learning) mall学习教程，架构、业务、技术要点全方位解析。mall项目（16k+star）是一套电商系统，使用现阶段主流技术实现。 涵盖了SpringBoot2.1.3、MyBatis3.4.6、Elasticsearch6.2.2、RabbitMQ3.7.15、Redis3.2、Mongodb3.2、Mysql5.7等技术，采用Docker容器化部署。 __[⭐ 582]__
+- [react-native-community / cli](https://github.com/react-native-community/cli) React Native command line tools __[⭐ 507]__
+- [matomo-org / matomo](https://github.com/matomo-org/matomo) Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in. We love Pull Requests! __[⭐ 11,603]__
+- [helm / helm](https://github.com/helm/helm) The Kubernetes Package Manager __[⭐ 12,559]__
+- [qiurunze123 / miaosha](https://github.com/qiurunze123/miaosha) ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓 __[⭐ 7,419]__
+- [peterq / pan-light](https://github.com/peterq/pan-light) 百度网盘不限速客户端, golang + qt5, 跨平台图形界面 __[⭐ 397]__
+- [apachecn / AiLearning](https://github.com/apachecn/AiLearning) AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP __[⭐ 16,426]__
+- [mamedev / mame](https://github.com/mamedev/mame) MAME __[⭐ 3,877]__
+- [mercyblitz / tech-weekly](https://github.com/mercyblitz/tech-weekly) 「小马哥技术周报」 __[⭐ 1,846]__
+
+### 20190706
+- [open-deepnude / open-deepnude](https://github.com/open-deepnude/open-deepnude) Open source reverse-engineered clone of DeepNude __[⭐ 752]__
+- [aidewoode / black_candy](https://github.com/aidewoode/black_candy) A self hosted music streaming server __[⭐ 227]__
+- [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 47,219]__
+- [houshanren / hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone. __[⭐ 20,545]__
+- [PapyElGringo / material-shell](https://github.com/PapyElGringo/material-shell) New shell for Gnome following the Material-design guidelines. Proposing a performant and simple opinionated mouse/keyboard workflow to increase daily productivity and comfort __[⭐ 457]__
+- [niemand-sec / AntiCheat-Testing-Framework](https://github.com/niemand-sec/AntiCheat-Testing-Framework) Framework for testing any Anti-Cheat __[⭐ 151]__
+- [facebookresearch / dlrm](https://github.com/facebookresearch/dlrm) An implementation of a deep learning recommendation model (DLRM) __[⭐ 730]__
+- [ziishaned / learn-regex](https://github.com/ziishaned/learn-regex) Learn regex the easy way __[⭐ 16,996]__
+- [apachecn / AiLearning](https://github.com/apachecn/AiLearning) AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP __[⭐ 16,347]__
+- [CarGuo / GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) 视频播放器（IJKplayer、ExoPlayer、MediaPlayer），HTTPS，支持弹幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，列表全屏动画，视频加载速度，列表小窗口支持拖动，动画效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，列表切换详情页面无缝播放，rtsp、concat、mpeg。 __[⭐ 10,691]__
+- [helm / helm](https://github.com/helm/helm) The Kubernetes Package Manager __[⭐ 12,526]__
+- [TrinityCore / TrinityCore](https://github.com/TrinityCore/TrinityCore) TrinityCore Open Source MMO Framework (master = 8.1.5.30706, 3.3.5 = 3.3.5a.12340) __[⭐ 5,421]__
+- [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 __[⭐ 27,436]__
+- [lib-pku / libpku](https://github.com/lib-pku/libpku) 贵校课程资料民间整理 __[⭐ 19,139]__
+- [metatron-app / metatron-discovery](https://github.com/metatron-app/metatron-discovery) Powerful & Easy way for big data discovery __[⭐ 1,059]__
+- [PaddlePaddle / book](https://github.com/PaddlePaddle/book) Deep Learning 101 with PaddlePaddle （『飞桨』深度学习框架入门教程） __[⭐ 1,969]__
+- [ipasimulator / ipasim](https://github.com/ipasimulator/ipasim) iOS emulator for Windows __[⭐ 194]__
+- [react-native-community / cli](https://github.com/react-native-community/cli) React Native command line tools __[⭐ 476]__
+- [diasurgical / devilution](https://github.com/diasurgical/devilution) Diablo devolved - magic behind the 1996 computer game __[⭐ 6,367]__
+- [iqiyi / Qigsaw](https://github.com/iqiyi/Qigsaw) 🔥🔥Qigsaw is a dynamic modularization library which is based on Android App Bundles. It supports dynamic delivery for split APKs without reinstalling the base one. __[⭐ 270]__
+- [darshanime / notes](https://github.com/darshanime/notes) detailed notes on computer science topics, in one page __[⭐ 1,293]__
+- [macrozheng / mall-learning](https://github.com/macrozheng/mall-learning) mall学习教程，架构、业务、技术要点全方位解析。mall项目（16k+star）是一套电商系统，使用现阶段主流技术实现。 涵盖了SpringBoot2.1.3、MyBatis3.4.6、Elasticsearch6.2.2、RabbitMQ3.7.15、Redis3.2、Mongodb3.2、Mysql5.7等技术，采用Docker容器化部署。 __[⭐ 521]__
+- [yuanxiaosc / DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology) DeepNude related Image-to-Image theory and practice research. DeepNude相关的Image-to-Image理论与实践研究。 __[⭐ 980]__
+- [sqshq / piggymetrics](https://github.com/sqshq/piggymetrics) Microservice Architecture with Spring Boot, Spring Cloud and Docker __[⭐ 6,513]__
+- [Unity-Technologies / ScriptableRenderPipeline](https://github.com/Unity-Technologies/ScriptableRenderPipeline) Scriptable Render Pipeline __[⭐ 2,007]__
 
 ### 20190705
 - [open-deepnude / open-deepnude](https://github.com/open-deepnude/open-deepnude) Open source reverse-engineered clone of DeepNude __[⭐ 442]__
