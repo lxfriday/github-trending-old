@@ -1,3 +1,29 @@
+### 20190709
+- [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 __[⭐ 27,987]__
+- [maratonadev / desafio-1](https://github.com/maratonadev/desafio-1) Desafio 1 ~ Grupo Pão de Açúcar __[⭐ 92]__
+- [ddbourgin / numpy-ml](https://github.com/ddbourgin/numpy-ml) Machine learning, in numpy __[⭐ 4,404]__
+- [peterq / pan-light](https://github.com/peterq/pan-light) 百度网盘不限速客户端, golang + qt5, 跨平台图形界面 __[⭐ 1,115]__
+- [tootsuite / mastodon](https://github.com/tootsuite/mastodon) Your self-hosted, globally interconnected microblogging community __[⭐ 18,102]__
+- [wuyouzhuguli / SpringAll](https://github.com/wuyouzhuguli/SpringAll) 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客Spring系列源码 __[⭐ 5,795]__
+- [notadamking / RLTrader](https://github.com/notadamking/RLTrader) A profitable cryptocurrency trading environment using deep reinforcement learning and OpenAI's gym __[⭐ 519]__
+- [DeepGraphLearning / LiteratureDL4Graph](https://github.com/DeepGraphLearning/LiteratureDL4Graph)  __[⭐ 1,024]__
+- [hunkim / DeepLearningZeroToAll](https://github.com/hunkim/DeepLearningZeroToAll) TensorFlow Basic Tutorial Labs __[⭐ 3,459]__
+- [mobile-roadmap / android-developer-roadmap](https://github.com/mobile-roadmap/android-developer-roadmap) Android Developer Roadmap 2019 __[⭐ 1,458]__
+- [mmistakes / minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) 📐 A flexible two-column Jekyll theme perfect for building personal sites, blogs, and portfolios. __[⭐ 5,340]__
+- [quantopian / zipline](https://github.com/quantopian/zipline) Zipline, a Pythonic Algorithmic Trading Library __[⭐ 9,051]__
+- [virgili0 / Virgilio](https://github.com/virgili0/Virgilio) Your new Mentor for Data Science E-Learning. __[⭐ 11,030]__
+- [abhat222 / Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) Cheat Sheets __[⭐ 7,806]__
+- [bokeh / bokeh](https://github.com/bokeh/bokeh) Interactive Web Plotting for Python __[⭐ 10,548]__
+- [Pierian-Data / Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) Course Files for Complete Python 3 Bootcamp Course on Udemy __[⭐ 4,774]__
+- [GitSquared / edex-ui](https://github.com/GitSquared/edex-ui) A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. __[⭐ 10,529]__
+- [home-assistant / home-assistant](https://github.com/home-assistant/home-assistant) 🏡 Open source home automation that puts local control and privacy first __[⭐ 24,718]__
+- [gohugoio / hugo](https://github.com/gohugoio/hugo) The world’s fastest framework for building websites. __[⭐ 36,428]__
+- [iresty / apisix](https://github.com/iresty/apisix) APISIX is a Cloud-Native Microservices API Gateway __[⭐ 433]__
+- [curl / curl](https://github.com/curl/curl) A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features __[⭐ 13,984]__
+- [runelite / runelite](https://github.com/runelite/runelite) Open source Old School RuneScape client __[⭐ 2,286]__
+- [ppy / osu](https://github.com/ppy/osu) rhythm is just a *click* away! __[⭐ 3,096]__
+- [bblanchon / ArduinoJson](https://github.com/bblanchon/ArduinoJson) 📟 C++ JSON library for IoT. Simple and efficient. __[⭐ 3,789]__
+
 ### 20190708
 - [DeepGraphLearning / LiteratureDL4Graph](https://github.com/DeepGraphLearning/LiteratureDL4Graph)  __[⭐ 677]__
 - [ddbourgin / numpy-ml](https://github.com/ddbourgin/numpy-ml) Machine learning, in numpy __[⭐ 3,848]__
