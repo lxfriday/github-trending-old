@@ -1,3 +1,29 @@
+### 20190710
+- [pypa / pipenv](https://github.com/pypa/pipenv) Python Development Workflow for Humans. __[⭐ 17,533]__
+- [peterq / pan-light](https://github.com/peterq/pan-light) 百度网盘不限速客户端, golang + qt5, 跨平台图形界面 __[⭐ 1,607]__
+- [iresty / apisix](https://github.com/iresty/apisix) APISIX is a Cloud-Native Microservices API Gateway __[⭐ 475]__
+- [HcySunYang / vue-design](https://github.com/HcySunYang/vue-design) 📖 master分支：《渲染器》 elegant分支：逐行级别的源码分析 __[⭐ 4,022]__
+- [deepinsight / insightface](https://github.com/deepinsight/insightface) Face Analysis Project on MXNet __[⭐ 4,014]__
+- [soapyigu / Swift-30-Projects](https://github.com/soapyigu/Swift-30-Projects) 30 mini Swift Apps for self-study __[⭐ 4,699]__
+- [spf13 / cobra](https://github.com/spf13/cobra) A Commander for modern Go CLI interactions __[⭐ 12,678]__
+- [rabite0 / hunter](https://github.com/rabite0/hunter) ranger-like file browser written in rust __[⭐ 559]__
+- [zhaoolee / ChineseBQB](https://github.com/zhaoolee/ChineseBQB) 🇨🇳Chinese sticker pack / 中国表情包大集合 __[⭐ 1,903]__
+- [gin-gonic / gin](https://github.com/gin-gonic/gin) Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. __[⭐ 28,955]__
+- [yandex / ClickHouse](https://github.com/yandex/ClickHouse) ClickHouse is a free analytic DBMS for big data. __[⭐ 7,476]__
+- [Kong / kong](https://github.com/Kong/kong) 🦍 The Cloud-Native API Gateway __[⭐ 22,451]__
+- [golang / dep](https://github.com/golang/dep) Go dependency management tool __[⭐ 12,423]__
+- [vpj / python_autocomplete](https://github.com/vpj/python_autocomplete) A simple neural network for python autocompletion __[⭐ 264]__
+- [aws / aws-sdk-go](https://github.com/aws/aws-sdk-go) AWS SDK for the Go programming language. __[⭐ 4,940]__
+- [kubernetes / kops](https://github.com/kubernetes/kops) Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management __[⭐ 9,288]__
+- [grpc / grpc-go](https://github.com/grpc/grpc-go) The Go language implementation of gRPC. HTTP/2 based RPC __[⭐ 8,786]__
+- [plotly / dash-sample-apps](https://github.com/plotly/dash-sample-apps) Apps hosted in the Dash Gallery __[⭐ 36]__
+- [golang / protobuf](https://github.com/golang/protobuf) Go support for Google's protocol buffers __[⭐ 4,904]__
+- [qq449245884 / xiaozhi](https://github.com/qq449245884/xiaozhi)  __[⭐ 836]__
+- [elastic / beats](https://github.com/elastic/beats) 🐠 Beats - Lightweight shippers for Elasticsearch & Logstash __[⭐ 7,485]__
+- [Hengle / DeepNewdsForAndroid](https://github.com/Hengle/DeepNewdsForAndroid) DeepNudes & deep nudes Android Source Code __[⭐ 60]__
+- [hashicorp / consul](https://github.com/hashicorp/consul) Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. __[⭐ 16,431]__
+- [google / googletest](https://github.com/google/googletest) Googletest - Google Testing and Mocking Framework __[⭐ 12,144]__
+
 ### 20190709
 - [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 __[⭐ 27,987]__
 - [maratonadev / desafio-1](https://github.com/maratonadev/desafio-1) Desafio 1 ~ Grupo Pão de Açúcar __[⭐ 92]__
