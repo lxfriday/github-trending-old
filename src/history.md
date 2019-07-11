@@ -1,3 +1,30 @@
+### 20190711
+- [spring2go / staffjoy](https://github.com/spring2go/staffjoy) 微服务和云原生架构教学案例项目，基于Spring Boot和Kubernetes技术栈 __[⭐ 237]__
+- [deep-man-yy / pepenude](https://github.com/deep-man-yy/pepenude) PepeNude is an application that allows you to transform photos into entertaining results. CLI and GUI versions available. __[⭐ 96]__
+- [spf13 / cobra](https://github.com/spf13/cobra) A Commander for modern Go CLI interactions __[⭐ 12,774]__
+- [qi19901212 / Garbage](https://github.com/qi19901212/Garbage) 小程序云开发的垃圾分类小程序 __[⭐ 236]__
+- [Advanced-Frontend / Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。 __[⭐ 10,013]__
+- [fastai / course-nlp](https://github.com/fastai/course-nlp) A Code-First Introduction to NLP course __[⭐ 565]__
+- [mihail911 / nlp-library](https://github.com/mihail911/nlp-library) curated collection of papers for the nlp practitioner 📖👩‍🔬 __[⭐ 425]__
+- [notable / notable](https://github.com/notable/notable) The Markdown-based note-taking app that doesn't suck. __[⭐ 11,139]__
+- [EtherDream / jsproxy](https://github.com/EtherDream/jsproxy) 一个基于浏览器端 JS 实现的在线代理 __[⭐ 5,483]__
+- [ReactiveX / RxSwift](https://github.com/ReactiveX/RxSwift) Reactive Programming in Swift __[⭐ 16,713]__
+- [peterq / pan-light](https://github.com/peterq/pan-light) 百度网盘不限速客户端, golang + qt5, 跨平台图形界面 __[⭐ 2,187]__
+- [dotnet / machinelearning-samples](https://github.com/dotnet/machinelearning-samples) Samples for ML.NET, an open source and cross-platform machine learning framework for .NET. __[⭐ 1,754]__
+- [felipefialho / frontend-challenges](https://github.com/felipefialho/frontend-challenges) 💥 Listing some playful open-source's challenges of jobs to test your knowledge __[⭐ 2,354]__
+- [fivethirtyeight / data](https://github.com/fivethirtyeight/data) Data and code behind the articles and graphics at FiveThirtyEight __[⭐ 12,265]__
+- [yygmind / blog](https://github.com/yygmind/blog) 我是木易杨，公众号「高级前端进阶」作者，跟着我每周重点攻克一个前端面试重难点。接下来让我带你走进高级前端的世界，在进阶的路上，共勉！ __[⭐ 5,705]__
+- [mobile-roadmap / android-developer-roadmap](https://github.com/mobile-roadmap/android-developer-roadmap) Android Developer Roadmap 2019 __[⭐ 1,563]__
+- [d3 / d3](https://github.com/d3/d3) Bring data to life with SVG, Canvas and HTML. 📊📈🎉 __[⭐ 85,852]__
+- [aspnet / EntityFrameworkCore](https://github.com/aspnet/EntityFrameworkCore) Entity Framework Core is a lightweight and extensible version of the popular Entity Framework data access technology __[⭐ 7,788]__
+- [sherlock-project / sherlock](https://github.com/sherlock-project/sherlock) 🔎 Find usernames across social networks __[⭐ 3,848]__
+- [Azure / azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) Azure Quickstart Templates __[⭐ 5,370]__
+- [jupyterhub / jupyterhub](https://github.com/jupyterhub/jupyterhub) Multi-user server for Jupyter notebooks __[⭐ 4,786]__
+- [mercyblitz / tech-weekly](https://github.com/mercyblitz/tech-weekly) 「小马哥技术周报」 __[⭐ 1,968]__
+- [antlr / antlr4](https://github.com/antlr/antlr4) ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. __[⭐ 5,953]__
+- [CocoaPods / Specs](https://github.com/CocoaPods/Specs) The CocoaPods Master Repo __[⭐ 5,237]__
+- [ansible / awx](https://github.com/ansible/awx) AWX Project __[⭐ 6,192]__
+
 ### 20190710
 - [pypa / pipenv](https://github.com/pypa/pipenv) Python Development Workflow for Humans. __[⭐ 17,533]__
 - [peterq / pan-light](https://github.com/peterq/pan-light) 百度网盘不限速客户端, golang + qt5, 跨平台图形界面 __[⭐ 1,607]__
