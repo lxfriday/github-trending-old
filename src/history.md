@@ -1,3 +1,160 @@
+### 20190714
+- [facebook / hermes](https://github.com/facebook/hermes) Hermes is a small and lightweight JavaScript engine optimized for running React Native on Android. __[⭐ 2,530]__
+- [nats-io / nats-server](https://github.com/nats-io/nats-server) High-Performance server for NATS, the cloud native messaging system. __[⭐ 6,099]__
+- [sherlock-project / sherlock](https://github.com/sherlock-project/sherlock) 🔎 Find usernames across social networks __[⭐ 4,385]__
+- [vuejs / vue](https://github.com/vuejs/vue) 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 143,630]__
+- [laravel / framework](https://github.com/laravel/framework)  __[⭐ 17,964]__
+- [lenve / vhr](https://github.com/lenve/vhr) 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。 __[⭐ 6,228]__
+- [pwn20wndstuff / Undecimus](https://github.com/pwn20wndstuff/Undecimus) unc0ver jailbreak for iOS 11.0 - 12.2 __[⭐ 3,233]__
+- [guyueyingmu / avbook](https://github.com/guyueyingmu/avbook) AV电影管理系统， avmoo 、javbus 爬虫，线上AV影片图书馆，AV磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database __[⭐ 480]__
+- [alipay / SoloPi](https://github.com/alipay/SoloPi) Soloπ 自动化测试工具 __[⭐ 828]__
+- [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) 📚 A practical approach to machine learning. __[⭐ 18,792]__
+- [lenve / VBlog](https://github.com/lenve/VBlog) V部落，Vue+SpringBoot实现的多用户博客管理平台! __[⭐ 2,025]__
+- [alexellis / inlets](https://github.com/alexellis/inlets) Expose your local endpoints to the Internet __[⭐ 3,827]__
+- [sfyc23 / EverydayWechat](https://github.com/sfyc23/EverydayWechat) 微信助手：1.每日定时给好友发送定制消息。2.自动回复好友。3.群助手功能。 __[⭐ 5,205]__
+- [google / mediapipe](https://github.com/google/mediapipe) MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines __[⭐ 289]__
+- [P1sec / QCSuper](https://github.com/P1sec/QCSuper) QCSuper is a tool communicating with Qualcomm-based phones and modems, allowing to capture raw 2G/3G/4G radio frames, among other things. __[⭐ 215]__
+- [microsoft / cpprestsdk](https://github.com/microsoft/cpprestsdk) The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services. __[⭐ 4,176]__
+- [v1s1t0r1sh3r3 / airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) This is a multi-use bash script for Linux systems to audit wireless networks. __[⭐ 1,631]__
+- [vaexio / vaex](https://github.com/vaexio/vaex) Out-of-Core DataFrames for Python, visualize and explore big tabular data at a billion rows per second. __[⭐ 1,422]__
+- [dianping / cat](https://github.com/dianping/cat) CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。 __[⭐ 9,835]__
+- [facebookresearch / faiss](https://github.com/facebookresearch/faiss) A library for efficient similarity search and clustering of dense vectors. __[⭐ 7,012]__
+- [Bash-it / bash-it](https://github.com/Bash-it/bash-it) A community Bash framework. __[⭐ 10,284]__
+- [hhyo / Archery](https://github.com/hhyo/Archery) SQL审核查询平台 __[⭐ 570]__
+- [alibaba / flutter-go](https://github.com/alibaba/flutter-go) flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档 __[⭐ 14,483]__
+
+### 20190712
+- [lenve / VBlog](https://github.com/lenve/VBlog) V部落，Vue+SpringBoot实现的多用户博客管理平台! __[⭐ 1,838]__
+- [deep-man-yy / pepenude](https://github.com/deep-man-yy/pepenude) PepeNude is an application that allows you to transform photos into entertaining results. CLI and GUI versions available. __[⭐ 209]__
+- [lenve / vhr](https://github.com/lenve/vhr) 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。 __[⭐ 5,740]__
+- [alipay / SoloPi](https://github.com/alipay/SoloPi) Soloπ 自动化测试工具 __[⭐ 505]__
+- [Hengle / DeepNewdsForAndroid](https://github.com/Hengle/DeepNewdsForAndroid) DeepNudes & deep nudes Android Source Code __[⭐ 112]__
+- [spf13 / cobra](https://github.com/spf13/cobra) A Commander for modern Go CLI interactions __[⭐ 12,852]__
+- [fluxcd / flux](https://github.com/fluxcd/flux) The GitOps Kubernetes operator __[⭐ 2,369]__
+- [nats-io / nats-server](https://github.com/nats-io/nats-server) High-Performance server for NATS, the cloud native messaging system. __[⭐ 5,989]__
+- [soapyigu / Swift-30-Projects](https://github.com/soapyigu/Swift-30-Projects) 30 mini Swift Apps for self-study __[⭐ 4,879]__
+- [microsoft / Azure-Kinect-Sensor-SDK](https://github.com/microsoft/Azure-Kinect-Sensor-SDK) A cross platform (Linux and Windows) user mode SDK to read data from your Azure Kinect device. __[⭐ 182]__
+- [micronaut-projects / micronaut-core](https://github.com/micronaut-projects/micronaut-core) Micronaut Application Framework __[⭐ 2,518]__
+- [notable / notable](https://github.com/notable/notable) The Markdown-based note-taking app that doesn't suck. __[⭐ 11,257]__
+- [ReactiveX / RxSwift](https://github.com/ReactiveX/RxSwift) Reactive Programming in Swift __[⭐ 16,733]__
+- [Advanced-Frontend / Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。 __[⭐ 10,429]__
+- [metowolf / vCards](https://github.com/metowolf/vCards) 📡️ vCards 中国黄页 - 优化 iOS 来电、信息界面体验 __[⭐ 641]__
+- [sherlock-project / sherlock](https://github.com/sherlock-project/sherlock) 🔎 Find usernames across social networks __[⭐ 4,018]__
+- [yuanxiaosc / DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology) DeepNude's pix2pixHD algorithms(proposed by NVIDIA) and general-purpose Image-to-Image theory and practice research. DeepNude的pix2pixHD算法（英伟达提出）以及通用的Image-to-Image理论与实践研究。 __[⭐ 1,620]__
+- [generalized-intelligence / GAAS](https://github.com/generalized-intelligence/GAAS) Generalized Aviation: Open source autonomous aviation and drone intelligence software platform, designed for drones and VTOLs. __[⭐ 911]__
+- [deepinsight / insightface](https://github.com/deepinsight/insightface) Face Analysis Project on MXNet __[⭐ 4,218]__
+- [yygmind / blog](https://github.com/yygmind/blog) 我是木易杨，公众号「高级前端进阶」作者，跟着我每周重点攻克一个前端面试重难点。接下来让我带你走进高级前端的世界，在进阶的路上，共勉！ __[⭐ 5,791]__
+- [HcySunYang / vue-design](https://github.com/HcySunYang/vue-design) 📖 master分支：《渲染器》 elegant分支：逐行级别的源码分析 __[⭐ 4,174]__
+- [felipefialho / frontend-challenges](https://github.com/felipefialho/frontend-challenges) 💥 Listing some playful open-source's challenges of jobs to test your knowledge __[⭐ 2,445]__
+- [bitfield / script](https://github.com/bitfield/script) Making it easy to write shell-like scripts in Go __[⭐ 791]__
+- [diego-treitos / linux-smart-enumeration](https://github.com/diego-treitos/linux-smart-enumeration) Linux enumeration tool for pentesting and CTFs with verbosity levels __[⭐ 360]__
+- [hashicorp / consul](https://github.com/hashicorp/consul) Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. __[⭐ 16,488]__
+
+### 20190711
+- [spring2go / staffjoy](https://github.com/spring2go/staffjoy) 微服务和云原生架构教学案例项目，基于Spring Boot和Kubernetes技术栈 __[⭐ 237]__
+- [deep-man-yy / pepenude](https://github.com/deep-man-yy/pepenude) PepeNude is an application that allows you to transform photos into entertaining results. CLI and GUI versions available. __[⭐ 96]__
+- [spf13 / cobra](https://github.com/spf13/cobra) A Commander for modern Go CLI interactions __[⭐ 12,774]__
+- [qi19901212 / Garbage](https://github.com/qi19901212/Garbage) 小程序云开发的垃圾分类小程序 __[⭐ 236]__
+- [Advanced-Frontend / Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question) 我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。 __[⭐ 10,013]__
+- [fastai / course-nlp](https://github.com/fastai/course-nlp) A Code-First Introduction to NLP course __[⭐ 565]__
+- [mihail911 / nlp-library](https://github.com/mihail911/nlp-library) curated collection of papers for the nlp practitioner 📖👩‍🔬 __[⭐ 425]__
+- [notable / notable](https://github.com/notable/notable) The Markdown-based note-taking app that doesn't suck. __[⭐ 11,139]__
+- [EtherDream / jsproxy](https://github.com/EtherDream/jsproxy) 一个基于浏览器端 JS 实现的在线代理 __[⭐ 5,483]__
+- [ReactiveX / RxSwift](https://github.com/ReactiveX/RxSwift) Reactive Programming in Swift __[⭐ 16,713]__
+- [peterq / pan-light](https://github.com/peterq/pan-light) 百度网盘不限速客户端, golang + qt5, 跨平台图形界面 __[⭐ 2,187]__
+- [dotnet / machinelearning-samples](https://github.com/dotnet/machinelearning-samples) Samples for ML.NET, an open source and cross-platform machine learning framework for .NET. __[⭐ 1,754]__
+- [felipefialho / frontend-challenges](https://github.com/felipefialho/frontend-challenges) 💥 Listing some playful open-source's challenges of jobs to test your knowledge __[⭐ 2,354]__
+- [fivethirtyeight / data](https://github.com/fivethirtyeight/data) Data and code behind the articles and graphics at FiveThirtyEight __[⭐ 12,265]__
+- [yygmind / blog](https://github.com/yygmind/blog) 我是木易杨，公众号「高级前端进阶」作者，跟着我每周重点攻克一个前端面试重难点。接下来让我带你走进高级前端的世界，在进阶的路上，共勉！ __[⭐ 5,705]__
+- [mobile-roadmap / android-developer-roadmap](https://github.com/mobile-roadmap/android-developer-roadmap) Android Developer Roadmap 2019 __[⭐ 1,563]__
+- [d3 / d3](https://github.com/d3/d3) Bring data to life with SVG, Canvas and HTML. 📊📈🎉 __[⭐ 85,852]__
+- [aspnet / EntityFrameworkCore](https://github.com/aspnet/EntityFrameworkCore) Entity Framework Core is a lightweight and extensible version of the popular Entity Framework data access technology __[⭐ 7,788]__
+- [sherlock-project / sherlock](https://github.com/sherlock-project/sherlock) 🔎 Find usernames across social networks __[⭐ 3,848]__
+- [Azure / azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) Azure Quickstart Templates __[⭐ 5,370]__
+- [jupyterhub / jupyterhub](https://github.com/jupyterhub/jupyterhub) Multi-user server for Jupyter notebooks __[⭐ 4,786]__
+- [mercyblitz / tech-weekly](https://github.com/mercyblitz/tech-weekly) 「小马哥技术周报」 __[⭐ 1,968]__
+- [antlr / antlr4](https://github.com/antlr/antlr4) ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. __[⭐ 5,953]__
+- [CocoaPods / Specs](https://github.com/CocoaPods/Specs) The CocoaPods Master Repo __[⭐ 5,237]__
+- [ansible / awx](https://github.com/ansible/awx) AWX Project __[⭐ 6,192]__
+
+### 20190710
+- [pypa / pipenv](https://github.com/pypa/pipenv) Python Development Workflow for Humans. __[⭐ 17,533]__
+- [peterq / pan-light](https://github.com/peterq/pan-light) 百度网盘不限速客户端, golang + qt5, 跨平台图形界面 __[⭐ 1,607]__
+- [iresty / apisix](https://github.com/iresty/apisix) APISIX is a Cloud-Native Microservices API Gateway __[⭐ 475]__
+- [HcySunYang / vue-design](https://github.com/HcySunYang/vue-design) 📖 master分支：《渲染器》 elegant分支：逐行级别的源码分析 __[⭐ 4,022]__
+- [deepinsight / insightface](https://github.com/deepinsight/insightface) Face Analysis Project on MXNet __[⭐ 4,014]__
+- [soapyigu / Swift-30-Projects](https://github.com/soapyigu/Swift-30-Projects) 30 mini Swift Apps for self-study __[⭐ 4,699]__
+- [spf13 / cobra](https://github.com/spf13/cobra) A Commander for modern Go CLI interactions __[⭐ 12,678]__
+- [rabite0 / hunter](https://github.com/rabite0/hunter) ranger-like file browser written in rust __[⭐ 559]__
+- [zhaoolee / ChineseBQB](https://github.com/zhaoolee/ChineseBQB) 🇨🇳Chinese sticker pack / 中国表情包大集合 __[⭐ 1,903]__
+- [gin-gonic / gin](https://github.com/gin-gonic/gin) Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. __[⭐ 28,955]__
+- [yandex / ClickHouse](https://github.com/yandex/ClickHouse) ClickHouse is a free analytic DBMS for big data. __[⭐ 7,476]__
+- [Kong / kong](https://github.com/Kong/kong) 🦍 The Cloud-Native API Gateway __[⭐ 22,451]__
+- [golang / dep](https://github.com/golang/dep) Go dependency management tool __[⭐ 12,423]__
+- [vpj / python_autocomplete](https://github.com/vpj/python_autocomplete) A simple neural network for python autocompletion __[⭐ 264]__
+- [aws / aws-sdk-go](https://github.com/aws/aws-sdk-go) AWS SDK for the Go programming language. __[⭐ 4,940]__
+- [kubernetes / kops](https://github.com/kubernetes/kops) Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management __[⭐ 9,288]__
+- [grpc / grpc-go](https://github.com/grpc/grpc-go) The Go language implementation of gRPC. HTTP/2 based RPC __[⭐ 8,786]__
+- [plotly / dash-sample-apps](https://github.com/plotly/dash-sample-apps) Apps hosted in the Dash Gallery __[⭐ 36]__
+- [golang / protobuf](https://github.com/golang/protobuf) Go support for Google's protocol buffers __[⭐ 4,904]__
+- [qq449245884 / xiaozhi](https://github.com/qq449245884/xiaozhi)  __[⭐ 836]__
+- [elastic / beats](https://github.com/elastic/beats) 🐠 Beats - Lightweight shippers for Elasticsearch & Logstash __[⭐ 7,485]__
+- [Hengle / DeepNewdsForAndroid](https://github.com/Hengle/DeepNewdsForAndroid) DeepNudes & deep nudes Android Source Code __[⭐ 60]__
+- [hashicorp / consul](https://github.com/hashicorp/consul) Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. __[⭐ 16,431]__
+- [google / googletest](https://github.com/google/googletest) Googletest - Google Testing and Mocking Framework __[⭐ 12,144]__
+
+### 20190709
+- [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 __[⭐ 27,987]__
+- [maratonadev / desafio-1](https://github.com/maratonadev/desafio-1) Desafio 1 ~ Grupo Pão de Açúcar __[⭐ 92]__
+- [ddbourgin / numpy-ml](https://github.com/ddbourgin/numpy-ml) Machine learning, in numpy __[⭐ 4,404]__
+- [peterq / pan-light](https://github.com/peterq/pan-light) 百度网盘不限速客户端, golang + qt5, 跨平台图形界面 __[⭐ 1,115]__
+- [tootsuite / mastodon](https://github.com/tootsuite/mastodon) Your self-hosted, globally interconnected microblogging community __[⭐ 18,102]__
+- [wuyouzhuguli / SpringAll](https://github.com/wuyouzhuguli/SpringAll) 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客Spring系列源码 __[⭐ 5,795]__
+- [notadamking / RLTrader](https://github.com/notadamking/RLTrader) A profitable cryptocurrency trading environment using deep reinforcement learning and OpenAI's gym __[⭐ 519]__
+- [DeepGraphLearning / LiteratureDL4Graph](https://github.com/DeepGraphLearning/LiteratureDL4Graph)  __[⭐ 1,024]__
+- [hunkim / DeepLearningZeroToAll](https://github.com/hunkim/DeepLearningZeroToAll) TensorFlow Basic Tutorial Labs __[⭐ 3,459]__
+- [mobile-roadmap / android-developer-roadmap](https://github.com/mobile-roadmap/android-developer-roadmap) Android Developer Roadmap 2019 __[⭐ 1,458]__
+- [mmistakes / minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) 📐 A flexible two-column Jekyll theme perfect for building personal sites, blogs, and portfolios. __[⭐ 5,340]__
+- [quantopian / zipline](https://github.com/quantopian/zipline) Zipline, a Pythonic Algorithmic Trading Library __[⭐ 9,051]__
+- [virgili0 / Virgilio](https://github.com/virgili0/Virgilio) Your new Mentor for Data Science E-Learning. __[⭐ 11,030]__
+- [abhat222 / Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) Cheat Sheets __[⭐ 7,806]__
+- [bokeh / bokeh](https://github.com/bokeh/bokeh) Interactive Web Plotting for Python __[⭐ 10,548]__
+- [Pierian-Data / Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) Course Files for Complete Python 3 Bootcamp Course on Udemy __[⭐ 4,774]__
+- [GitSquared / edex-ui](https://github.com/GitSquared/edex-ui) A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. __[⭐ 10,529]__
+- [home-assistant / home-assistant](https://github.com/home-assistant/home-assistant) 🏡 Open source home automation that puts local control and privacy first __[⭐ 24,718]__
+- [gohugoio / hugo](https://github.com/gohugoio/hugo) The world’s fastest framework for building websites. __[⭐ 36,428]__
+- [iresty / apisix](https://github.com/iresty/apisix) APISIX is a Cloud-Native Microservices API Gateway __[⭐ 433]__
+- [curl / curl](https://github.com/curl/curl) A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features __[⭐ 13,984]__
+- [runelite / runelite](https://github.com/runelite/runelite) Open source Old School RuneScape client __[⭐ 2,286]__
+- [ppy / osu](https://github.com/ppy/osu) rhythm is just a *click* away! __[⭐ 3,096]__
+- [bblanchon / ArduinoJson](https://github.com/bblanchon/ArduinoJson) 📟 C++ JSON library for IoT. Simple and efficient. __[⭐ 3,789]__
+
+### 20190708
+- [DeepGraphLearning / LiteratureDL4Graph](https://github.com/DeepGraphLearning/LiteratureDL4Graph)  __[⭐ 677]__
+- [ddbourgin / numpy-ml](https://github.com/ddbourgin/numpy-ml) Machine learning, in numpy __[⭐ 3,848]__
+- [ApolloAuto / apollo](https://github.com/ApolloAuto/apollo) An open autonomous driving platform __[⭐ 14,146]__
+- [materialsintelligence / mat2vec](https://github.com/materialsintelligence/mat2vec) Supplementary Materials for Tshitoyan et al. "Unsupervised word embeddings capture latent knowledge from materials science literature", Nature (2019). __[⭐ 162]__
+- [Lam1360 / YOLOv3-model-pruning](https://github.com/Lam1360/YOLOv3-model-pruning) 对 YOLOv3 做模型剪枝（network slimming），对于 oxford hand 数据集（因项目需要），模型剪枝后的参数量减少 80%，Infer 的速度达到原来 2 倍，mAP 基本不变 __[⭐ 281]__
+- [GitSquared / edex-ui](https://github.com/GitSquared/edex-ui) A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support. __[⭐ 10,417]__
+- [nicklockwood / RetroRampage](https://github.com/nicklockwood/RetroRampage)  __[⭐ 434]__
+- [peterq / pan-light](https://github.com/peterq/pan-light) 百度网盘不限速客户端, golang + qt5, 跨平台图形界面 __[⭐ 623]__
+- [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 __[⭐ 27,762]__
+- [wuyouzhuguli / SpringAll](https://github.com/wuyouzhuguli/SpringAll) 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客Spring系列源码 __[⭐ 5,529]__
+- [ytisf / theZoo](https://github.com/ytisf/theZoo) A repository of LIVE malwares for your own joy and pleasure. theZoo is a project created to make the possibility of malware analysis open and available to the public. __[⭐ 4,586]__
+- [s0md3v / AwesomeXSS](https://github.com/s0md3v/AwesomeXSS) Awesome XSS stuff __[⭐ 2,008]__
+- [amethyst / amethyst](https://github.com/amethyst/amethyst) Data-oriented and data-driven game engine written in Rust __[⭐ 3,793]__
+- [benedekrozemberczki / awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) A collection of research papers on decision, classification and regression trees with implementations. __[⭐ 764]__
+- [alibaba / esim-response-selection](https://github.com/alibaba/esim-response-selection) ESIM for Multi-turn Response Selection Task __[⭐ 112]__
+- [processing / p5.js](https://github.com/processing/p5.js) p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs — __[⭐ 10,775]__
+- [bokeh / bokeh](https://github.com/bokeh/bokeh) Interactive Web Plotting for Python __[⭐ 10,434]__
+- [phoenixframework / phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) Rich, real-time user experiences with server-rendered HTML __[⭐ 1,993]__
+- [alibaba / tengine](https://github.com/alibaba/tengine) A distribution of Nginx with some advanced features __[⭐ 8,650]__
+- [NVIDIA / pix2pixHD](https://github.com/NVIDIA/pix2pixHD) Synthesizing and manipulating 2048x1024 images with conditional GANs __[⭐ 3,515]__
+- [vaastav / Fantasy-Premier-League](https://github.com/vaastav/Fantasy-Premier-League) Creates a .csv file of all players in the English Player League with their respective team and total fantasy points __[⭐ 133]__
+- [fluentpython / example-code](https://github.com/fluentpython/example-code) Example code for the book Fluent Python __[⭐ 2,969]__
+- [Saki-EU / XiaomiADBFastbootTools](https://github.com/Saki-EU/XiaomiADBFastbootTools) A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot __[⭐ 305]__
+- [flarum / flarum](https://github.com/flarum/flarum) Composer starter project for Flarum __[⭐ 9,020]__
+
 ### 20190707
 - [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 __[⭐ 27,575]__
 - [open-deepnude / open-deepnude](https://github.com/open-deepnude/open-deepnude) Open source reverse-engineered clone of DeepNude __[⭐ 888]__
