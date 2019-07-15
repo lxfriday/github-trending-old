@@ -1,3 +1,55 @@
+### 20190715
+- [knadh / listmonk](https://github.com/knadh/listmonk) High performance, self-hosted newsletter and mailing list manager with a modern dashboard __[⭐ 930]__
+- [sherlock-project / sherlock](https://github.com/sherlock-project/sherlock) 🔎 Find usernames across social networks __[⭐ 4,523]__
+- [facebook / hermes](https://github.com/facebook/hermes) Hermes is a small and lightweight JavaScript engine optimized for running React Native on Android. __[⭐ 2,833]__
+- [lenve / VBlog](https://github.com/lenve/VBlog) V部落，Vue+SpringBoot实现的多用户博客管理平台! __[⭐ 2,100]__
+- [Bash-it / bash-it](https://github.com/Bash-it/bash-it) A community Bash framework. __[⭐ 10,338]__
+- [DataRealms / CCOSS](https://github.com/DataRealms/CCOSS) Cortex Command - Open Source under GNU AGPL v3 (no game data included) __[⭐ 120]__
+- [google / mediapipe](https://github.com/google/mediapipe) MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines __[⭐ 342]__
+- [scutan90 / DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06 __[⭐ 29,480]__
+- [lenve / vhr](https://github.com/lenve/vhr) 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。 __[⭐ 6,415]__
+- [W00t3k / Awesome-Cellular-Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) Awesome-Cellular-Hacking __[⭐ 635]__
+- [pwn20wndstuff / Undecimus](https://github.com/pwn20wndstuff/Undecimus) unc0ver jailbreak for iOS 11.0 - 12.2 __[⭐ 3,257]__
+- [qmk / qmk_firmware](https://github.com/qmk/qmk_firmware) Open-source keyboard firmware for Atmel AVR and Arm USB families __[⭐ 4,638]__
+- [Naikzer / HUD-GTAVRP](https://github.com/Naikzer/HUD-GTAVRP) HUD based Features for FiveM Roleplay servers __[⭐ 30]__
+- [pydata / xarray](https://github.com/pydata/xarray) N-D labeled arrays and datasets in Python __[⭐ 1,313]__
+- [angristan / openvpn-install](https://github.com/angristan/openvpn-install) Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux. __[⭐ 3,265]__
+- [cycfi / elements](https://github.com/cycfi/elements) Elements C++ GUI library __[⭐ 240]__
+- [lhie1 / Rules](https://github.com/lhie1/Rules) Rules / 规则：Surge / Shadowrocket / Quantumult __[⭐ 2,530]__
+- [ytdl-org / youtube-dl](https://github.com/ytdl-org/youtube-dl) Command-line program to download videos from YouTube.com and other video sites __[⭐ 52,600]__
+- [microsoft / recommenders](https://github.com/microsoft/recommenders) Best Practices on Recommendation Systems __[⭐ 3,822]__
+- [pisa-engine / pisa](https://github.com/pisa-engine/pisa) PISA: Performant Indexes and Search for Academia __[⭐ 138]__
+- [microsoft / Quantum](https://github.com/microsoft/Quantum) Microsoft Quantum Development Kit Samples __[⭐ 2,224]__
+- [Koenkk / zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨 __[⭐ 2,538]__
+- [tektoncd / pipeline](https://github.com/tektoncd/pipeline) A K8s-native Pipeline resource. __[⭐ 2,793]__
+- [shadowsocks / shadowsocks-qt5](https://github.com/shadowsocks/shadowsocks-qt5) A cross-platform shadowsocks GUI client __[⭐ 6,823]__
+- [gto76 / python-cheatsheet](https://github.com/gto76/python-cheatsheet) Comprehensive Python Cheatsheet __[⭐ 4,632]__
+
+### 20190714
+- [facebook / hermes](https://github.com/facebook/hermes) Hermes is a small and lightweight JavaScript engine optimized for running React Native on Android. __[⭐ 2,530]__
+- [nats-io / nats-server](https://github.com/nats-io/nats-server) High-Performance server for NATS, the cloud native messaging system. __[⭐ 6,099]__
+- [sherlock-project / sherlock](https://github.com/sherlock-project/sherlock) 🔎 Find usernames across social networks __[⭐ 4,385]__
+- [vuejs / vue](https://github.com/vuejs/vue) 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web. __[⭐ 143,630]__
+- [laravel / framework](https://github.com/laravel/framework)  __[⭐ 17,964]__
+- [lenve / vhr](https://github.com/lenve/vhr) 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。 __[⭐ 6,228]__
+- [pwn20wndstuff / Undecimus](https://github.com/pwn20wndstuff/Undecimus) unc0ver jailbreak for iOS 11.0 - 12.2 __[⭐ 3,233]__
+- [guyueyingmu / avbook](https://github.com/guyueyingmu/avbook) AV电影管理系统， avmoo 、javbus 爬虫，线上AV影片图书馆，AV磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database __[⭐ 480]__
+- [alipay / SoloPi](https://github.com/alipay/SoloPi) Soloπ 自动化测试工具 __[⭐ 828]__
+- [GokuMohandas / practicalAI](https://github.com/GokuMohandas/practicalAI) 📚 A practical approach to machine learning. __[⭐ 18,792]__
+- [lenve / VBlog](https://github.com/lenve/VBlog) V部落，Vue+SpringBoot实现的多用户博客管理平台! __[⭐ 2,025]__
+- [alexellis / inlets](https://github.com/alexellis/inlets) Expose your local endpoints to the Internet __[⭐ 3,827]__
+- [sfyc23 / EverydayWechat](https://github.com/sfyc23/EverydayWechat) 微信助手：1.每日定时给好友发送定制消息。2.自动回复好友。3.群助手功能。 __[⭐ 5,205]__
+- [google / mediapipe](https://github.com/google/mediapipe) MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines __[⭐ 289]__
+- [P1sec / QCSuper](https://github.com/P1sec/QCSuper) QCSuper is a tool communicating with Qualcomm-based phones and modems, allowing to capture raw 2G/3G/4G radio frames, among other things. __[⭐ 215]__
+- [microsoft / cpprestsdk](https://github.com/microsoft/cpprestsdk) The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services. __[⭐ 4,176]__
+- [v1s1t0r1sh3r3 / airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) This is a multi-use bash script for Linux systems to audit wireless networks. __[⭐ 1,631]__
+- [vaexio / vaex](https://github.com/vaexio/vaex) Out-of-Core DataFrames for Python, visualize and explore big tabular data at a billion rows per second. __[⭐ 1,422]__
+- [dianping / cat](https://github.com/dianping/cat) CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。 __[⭐ 9,835]__
+- [facebookresearch / faiss](https://github.com/facebookresearch/faiss) A library for efficient similarity search and clustering of dense vectors. __[⭐ 7,012]__
+- [Bash-it / bash-it](https://github.com/Bash-it/bash-it) A community Bash framework. __[⭐ 10,284]__
+- [hhyo / Archery](https://github.com/hhyo/Archery) SQL审核查询平台 __[⭐ 570]__
+- [alibaba / flutter-go](https://github.com/alibaba/flutter-go) flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档 __[⭐ 14,483]__
+
 ### 20190712
 - [lenve / VBlog](https://github.com/lenve/VBlog) V部落，Vue+SpringBoot实现的多用户博客管理平台! __[⭐ 1,838]__
 - [deep-man-yy / pepenude](https://github.com/deep-man-yy/pepenude) PepeNude is an application that allows you to transform photos into entertaining results. CLI and GUI versions available. __[⭐ 209]__
