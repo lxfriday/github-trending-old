@@ -1,3 +1,29 @@
+### 20190719
+- [chrislgarry / Apollo-11](https://github.com/chrislgarry/Apollo-11) Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. __[⭐ 33,576]__
+- [huggingface / pytorch-transformers](https://github.com/huggingface/pytorch-transformers) 👾 A library of state-of-the-art pretrained models for Natural Language Processing (NLP) __[⭐ 8,939]__
+- [vugu / vugu](https://github.com/vugu/vugu) Vugu: A modern UI library for Go+WebAssembly (experimental) __[⭐ 1,990]__
+- [gto76 / python-cheatsheet](https://github.com/gto76/python-cheatsheet) Comprehensive Python Cheatsheet __[⭐ 7,200]__
+- [ogham / exa](https://github.com/ogham/exa) A modern version of ‘ls’. __[⭐ 6,786]__
+- [benedekrozemberczki / awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification) A collection of important graph embedding, classification and representation learning papers with implementations. __[⭐ 1,430]__
+- [cube2222 / octosql](https://github.com/cube2222/octosql) OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL. __[⭐ 977]__
+- [lsw9021 / MASS](https://github.com/lsw9021/MASS)  __[⭐ 184]__
+- [caicloud / kube-ladder](https://github.com/caicloud/kube-ladder) Learning Kubernetes, The Chinese Taoist Way __[⭐ 267]__
+- [microsoft / ai-edu](https://github.com/microsoft/ai-edu) AI education materials for Chinese students, teachers and IT professionals. __[⭐ 1,793]__
+- [ryanmcdermott / clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) 🛁 Clean Code concepts adapted for JavaScript __[⭐ 24,070]__
+- [0voice / interview_internal_reference](https://github.com/0voice/interview_internal_reference) 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。 __[⭐ 5,319]__
+- [rasbt / python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition) The "Python Machine Learning (2nd edition)" book code repository and info resource __[⭐ 3,918]__
+- [trekhleb / homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained __[⭐ 12,465]__
+- [iamtrask / Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) this repository accompanies my forthcoming book "Grokking Deep Learning" __[⭐ 3,290]__
+- [JideGuru / FlutterSocialAppUIKit](https://github.com/JideGuru/FlutterSocialAppUIKit) Flutter representation of a Social App Concept i found in Uplabs. __[⭐ 367]__
+- [sindresorhus / awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) ⚡️ Delightful Node.js packages and resources __[⭐ 31,501]__
+- [b3log / solo](https://github.com/b3log/solo) 🎸 一款小而美的博客系统，专为程序员设计。https://hacpai.com/tag/solo __[⭐ 8,385]__
+- [XiaoMi / soar](https://github.com/XiaoMi/soar) SQL Optimizer And Rewriter __[⭐ 5,142]__
+- [umijs / umi](https://github.com/umijs/umi) 🌋 Pluggable enterprise-level react application framework. __[⭐ 5,315]__
+- [microsoft / TypeScript](https://github.com/microsoft/TypeScript) TypeScript is a superset of JavaScript that compiles to clean JavaScript output. __[⭐ 51,551]__
+- [sergeysyrovatchenko / SQLIndexManager](https://github.com/sergeysyrovatchenko/SQLIndexManager) Analyze and fix index fragmentation for SQL Server / Azure __[⭐ 97]__
+- [apache / kafka](https://github.com/apache/kafka) Mirror of Apache Kafka __[⭐ 12,805]__
+- [kubernetes / autoscaler](https://github.com/kubernetes/autoscaler) Autoscaling components for Kubernetes __[⭐ 2,060]__
+
 ### 20190718
 - [YugaByte / yugabyte-db](https://github.com/YugaByte/yugabyte-db) The high-performance distributed SQL database for global, internet-scale apps. __[⭐ 1,425]__
 - [b3log / baidu-netdisk-downloaderx](https://github.com/b3log/baidu-netdisk-downloaderx) ⚡️ 一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。 __[⭐ 5,642]__
