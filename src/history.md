@@ -1,3 +1,30 @@
+### 20190722
+- [chrislgarry / Apollo-11](https://github.com/chrislgarry/Apollo-11) Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. __[⭐ 40,242]__
+- [chinese-poetry / chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。 __[⭐ 15,117]__
+- [virtualagc / virtualagc](https://github.com/virtualagc/virtualagc) Virtual Apollo Guidance Computer (AGC) software __[⭐ 1,347]__
+- [vipstone / faceai](https://github.com/vipstone/faceai) 一款入门级的人脸、视频、文字检测以及识别的项目. __[⭐ 4,126]__
+- [Bo0oM / fuzz.txt](https://github.com/Bo0oM/fuzz.txt) Potentially dangerous files __[⭐ 842]__
+- [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns) Design patterns implemented in Java __[⭐ 49,711]__
+- [xiaolai / regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box) 定投改变命运 —— 让时间陪你慢慢变富 __[⭐ 688]__
+- [niels9001 / ModernOS](https://github.com/niels9001/ModernOS)  __[⭐ 91]__
+- [0voice / interview_internal_reference](https://github.com/0voice/interview_internal_reference) 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。 __[⭐ 9,138]__
+- [W4RH4WK / Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) A collection of Scripts which disable / remove Windows 10 Features and Apps __[⭐ 3,273]__
+- [everdox / InfinityHook](https://github.com/everdox/InfinityHook) Hook system calls, context switches, page faults and more. __[⭐ 406]__
+- [PaperMC / Paper](https://github.com/PaperMC/Paper) High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies __[⭐ 958]__
+- [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 49,999]__
+- [PhantomInsights / baby-names-analysis](https://github.com/PhantomInsights/baby-names-analysis) Data ETL & Analysis on the dataset 'Baby Names from Social Security Card Applications - National Data'. __[⭐ 366]__
+- [gregsramblings / google-cloud-4-words](https://github.com/gregsramblings/google-cloud-4-words) The Google Cloud Developer's Cheat Sheet __[⭐ 961]__
+- [dipakkr / A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) Curated list of resources for college students __[⭐ 6,352]__
+- [DanielDe / org-web](https://github.com/DanielDe/org-web) org-mode on the web, built with React, optimized for mobile, synced with Dropbox and Google Drive __[⭐ 679]__
+- [zllrunning / video-object-removal](https://github.com/zllrunning/video-object-removal) Just draw a bounding box and you can remove the object you want to remove. __[⭐ 559]__
+- [yuzu-emu / yuzu](https://github.com/yuzu-emu/yuzu) Nintendo Switch Emulator __[⭐ 7,530]__
+- [ngosang / trackerslist](https://github.com/ngosang/trackerslist) Updated list of public BitTorrent trackers __[⭐ 13,820]__
+- [rust-lang / rust](https://github.com/rust-lang/rust) Empowering everyone to build reliable and efficient software. __[⭐ 37,660]__
+- [ruanyf / weekly](https://github.com/ruanyf/weekly) 科技爱好者周刊，每周五发布 __[⭐ 6,816]__
+- [luhuisicnu / The-Flask-Mega-Tutorial-zh](https://github.com/luhuisicnu/The-Flask-Mega-Tutorial-zh) 翻译自Miguel Grinberg的blog https://blog.miguelgrinberg.com 的2017年新版The Flask Mega-Tutorial教程 __[⭐ 2,074]__
+- [Unity-Technologies / ml-agents](https://github.com/Unity-Technologies/ml-agents) Unity Machine Learning Agents Toolkit __[⭐ 6,312]__
+- [ziglang / zig](https://github.com/ziglang/zig) robust, optimal, and maintainable programming language __[⭐ 3,527]__
+
 ### 20190719
 - [chrislgarry / Apollo-11](https://github.com/chrislgarry/Apollo-11) Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. __[⭐ 33,576]__
 - [huggingface / pytorch-transformers](https://github.com/huggingface/pytorch-transformers) 👾 A library of state-of-the-art pretrained models for Natural Language Processing (NLP) __[⭐ 8,939]__
