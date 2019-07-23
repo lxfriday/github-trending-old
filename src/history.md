@@ -1,3 +1,30 @@
+### 20190723
+- [b3log / baidu-netdisk-downloaderx](https://github.com/b3log/baidu-netdisk-downloaderx) ⚡️ 一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。 https://hacpai.com/article/1563154719934 __[⭐ 8,800]__
+- [peterq / pan-light](https://github.com/peterq/pan-light) 百度网盘不限速客户端, golang + qt5, 跨平台图形界面 __[⭐ 6,249]__
+- [zxqfl / TabNine](https://github.com/zxqfl/TabNine) The all-language autocompleter: https://tabnine.com/ __[⭐ 1,769]__
+- [qiurunze123 / miaosha](https://github.com/qiurunze123/miaosha) ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓 __[⭐ 8,068]__
+- [dipakkr / A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) Curated list of resources for college students __[⭐ 6,714]__
+- [0voice / interview_internal_reference](https://github.com/0voice/interview_internal_reference) 2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。 __[⭐ 10,325]__
+- [iluwatar / java-design-patterns](https://github.com/iluwatar/java-design-patterns) Design patterns implemented in Java __[⭐ 49,854]__
+- [facebook / zstd](https://github.com/facebook/zstd) Zstandard - Fast real-time compression algorithm __[⭐ 10,292]__
+- [chrislgarry / Apollo-11](https://github.com/chrislgarry/Apollo-11) Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. __[⭐ 41,407]__
+- [chinese-poetry / chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。 __[⭐ 15,591]__
+- [BishopFox / GitGot](https://github.com/BishopFox/GitGot) Semi-automated, feedback-driven tool to rapidly search through troves of public data on GitHub for sensitive secrets. __[⭐ 413]__
+- [yuzu-emu / yuzu](https://github.com/yuzu-emu/yuzu) Nintendo Switch Emulator __[⭐ 7,615]__
+- [ruanyf / weekly](https://github.com/ruanyf/weekly) 科技爱好者周刊，每周五发布 __[⭐ 7,011]__
+- [everdox / InfinityHook](https://github.com/everdox/InfinityHook) Hook system calls, context switches, page faults and more. __[⭐ 550]__
+- [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 50,266]__
+- [jedisct1 / dsvpn](https://github.com/jedisct1/dsvpn) A Dead Simple VPN. __[⭐ 501]__
+- [neovim / neovim](https://github.com/neovim/neovim) Vim-fork focused on extensibility and usability __[⭐ 32,196]__
+- [xiaolai / regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box) 定投改变命运 —— 让时间陪你慢慢变富 __[⭐ 967]__
+- [messoer / Music-Downloader](https://github.com/messoer/Music-Downloader)  __[⭐ 198]__
+- [hlissner / doom-emacs](https://github.com/hlissner/doom-emacs) An Emacs configuration for the stubborn martian vimmer __[⭐ 3,348]__
+- [cchen156 / Learning-to-See-in-the-Dark](https://github.com/cchen156/Learning-to-See-in-the-Dark) Learning to See in the Dark. CVPR 2018 __[⭐ 2,868]__
+- [CoreyMSchafer / code_snippets](https://github.com/CoreyMSchafer/code_snippets)  __[⭐ 2,343]__
+- [donnemartin / system-design-primer](https://github.com/donnemartin/system-design-primer) Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards. __[⭐ 69,524]__
+- [aria2 / aria2](https://github.com/aria2/aria2) aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. __[⭐ 15,649]__
+- [InstaPy / instapy-quickstart](https://github.com/InstaPy/instapy-quickstart) 💨 Simply get InstaPy up and running in minutes. __[⭐ 141]__
+
 ### 20190722
 - [chrislgarry / Apollo-11](https://github.com/chrislgarry/Apollo-11) Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. __[⭐ 40,242]__
 - [chinese-poetry / chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。 __[⭐ 15,117]__
