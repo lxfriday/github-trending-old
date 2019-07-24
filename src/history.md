@@ -1,3 +1,30 @@
+### 20190724
+- [chinese-poetry / chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。 __[⭐ 15,997]__
+- [qiurunze123 / miaosha](https://github.com/qiurunze123/miaosha) ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓 __[⭐ 8,351]__
+- [OpenFlutter / Flutter-Notebook](https://github.com/OpenFlutter/Flutter-Notebook) 日更的FlutterDemo合集，今天你fu了吗 __[⭐ 3,106]__
+- [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university) A complete computer science study plan to become a software engineer. __[⭐ 80,526]__
+- [react-navigation / react-navigation](https://github.com/react-navigation/react-navigation) Routing and navigation for your React Native apps __[⭐ 16,027]__
+- [firmai / industry-machine-learning](https://github.com/firmai/industry-machine-learning) A curated list of applied machine learning and data science notebooks and libraries across different industries. __[⭐ 2,280]__
+- [blaCCkHatHacEEkr / PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) This repository was created and developed by Ammar Amer @cry__pto Only. Updates to this repository will continue to arrive until the number of links reaches 2000 links & 2000 pdf files at any time soon.Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science r… __[⭐ 437]__
+- [vipstone / faceai](https://github.com/vipstone/faceai) 一款入门级的人脸、视频、文字检测以及识别的项目. __[⭐ 4,440]__
+- [jedisct1 / dsvpn](https://github.com/jedisct1/dsvpn) A Dead Simple VPN. __[⭐ 668]__
+- [ruanyf / weekly](https://github.com/ruanyf/weekly) 科技爱好者周刊，每周五发布 __[⭐ 7,226]__
+- [EthicalML / awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning __[⭐ 1,012]__
+- [subho406 / OmniNet](https://github.com/subho406/OmniNet) Official Pytorch implementation of "OmniNet: A unified architecture for multi-modal multi-task learning" | Authors: Subhojeet Pramanik, Priyanka Agrawal, Aman Hussain __[⭐ 218]__
+- [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 50,627]__
+- [luhuisicnu / The-Flask-Mega-Tutorial-zh](https://github.com/luhuisicnu/The-Flask-Mega-Tutorial-zh) 翻译自Miguel Grinberg的blog https://blog.miguelgrinberg.com 的2017年新版The Flask Mega-Tutorial教程 __[⭐ 2,134]__
+- [mysql / mysql-server](https://github.com/mysql/mysql-server) MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database. __[⭐ 4,058]__
+- [microsoft / onnxruntime](https://github.com/microsoft/onnxruntime) ONNX Runtime: cross-platform, high performance scoring engine for ML models __[⭐ 930]__
+- [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习 __[⭐ 25,767]__
+- [wix / react-native-navigation](https://github.com/wix/react-native-navigation) A complete native navigation solution for React Native __[⭐ 10,533]__
+- [rook / rook](https://github.com/rook/rook) Storage Orchestration for Kubernetes __[⭐ 5,648]__
+- [thedaviddias / Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) 🗂 The perfect Front-End Checklist for modern websites and meticulous developers __[⭐ 35,185]__
+- [byoungd / English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) 可能是让你受益匪浅的英语进阶指南 __[⭐ 17,688]__
+- [arpitjindal97 / technology_books](https://github.com/arpitjindal97/technology_books) Premium eBook free for Geeks __[⭐ 295]__
+- [spack / spack](https://github.com/spack/spack) A flexible package manager that supports multiple versions, configurations, platforms, and compilers. __[⭐ 1,072]__
+- [meetfranz / franz](https://github.com/meetfranz/franz) Franz is a free messaging app for services like WhatsApp, Slack, Messenger and many more. __[⭐ 3,161]__
+- [HackerPoet / NonEuclidean](https://github.com/HackerPoet/NonEuclidean) A Non-Euclidean Rendering Engine for 3D scenes. __[⭐ 1,910]__
+
 ### 20190723
 - [b3log / baidu-netdisk-downloaderx](https://github.com/b3log/baidu-netdisk-downloaderx) ⚡️ 一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。 https://hacpai.com/article/1563154719934 __[⭐ 8,800]__
 - [peterq / pan-light](https://github.com/peterq/pan-light) 百度网盘不限速客户端, golang + qt5, 跨平台图形界面 __[⭐ 6,249]__
