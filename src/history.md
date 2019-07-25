@@ -1,3 +1,29 @@
+### 20190725
+- [imhuay / Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记 __[⭐ 24,828]__
+- [OpenFlutter / Flutter-Notebook](https://github.com/OpenFlutter/Flutter-Notebook) 日更的FlutterDemo合集，今天你fu了吗 __[⭐ 3,416]__
+- [blaCCkHatHacEEkr / PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) This repository was created and developed by Ammar Amer @cry__pto Only. Updates to this repository will continue to arrive until the number of links reaches 2000 links & 2000 pdf files at any time soon.Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science r… __[⭐ 619]__
+- [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university) A complete computer science study plan to become a software engineer. __[⭐ 80,854]__
+- [qiurunze123 / miaosha](https://github.com/qiurunze123/miaosha) ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓 __[⭐ 8,601]__
+- [blackorbird / APT_REPORT](https://github.com/blackorbird/APT_REPORT) Interesting apt report collection and some special ioc express __[⭐ 477]__
+- [cube-js / cube.js](https://github.com/cube-js/cube.js) 📊 Cube.js - Open Source Analytics Framework __[⭐ 3,470]__
+- [glenmccallumcan / HackerRank-Solutions](https://github.com/glenmccallumcan/HackerRank-Solutions)  __[⭐ 144]__
+- [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 50,940]__
+- [firmai / industry-machine-learning](https://github.com/firmai/industry-machine-learning) A curated list of applied machine learning and data science notebooks and libraries across different industries. __[⭐ 2,447]__
+- [chinese-poetry / chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。 __[⭐ 16,493]__
+- [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习 __[⭐ 26,074]__
+- [b3log / 30-seconds-zh_CN](https://github.com/b3log/30-seconds-zh_CN) 📙 前端知识精选集，包含 HTML、CSS、JavaScript、React、Node、安全等方面，每天仅需 30 秒。 __[⭐ 254]__
+- [phoenixframework / phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) Rich, real-time user experiences with server-rendered HTML __[⭐ 2,073]__
+- [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 61,906]__
+- [GoogleChrome / puppeteer](https://github.com/GoogleChrome/puppeteer) Headless Chrome Node API __[⭐ 51,992]__
+- [vlang / v](https://github.com/vlang/v) Simple, fast, safe, compiled language for developing maintainable software. Supports translation from C and (soon) C++. Compiles itself in <1s. __[⭐ 10,107]__
+- [EthicalML / awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning __[⭐ 1,173]__
+- [hashicorp / packer](https://github.com/hashicorp/packer) Packer is a tool for creating identical machine images for multiple platforms from a single source configuration. __[⭐ 9,151]__
+- [PavelDoGreat / WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) Play with fluids in your browser (works even on mobile) __[⭐ 3,641]__
+- [ruanyf / weekly](https://github.com/ruanyf/weekly) 科技爱好者周刊，每周五发布 __[⭐ 7,414]__
+- [facebook / zstd](https://github.com/facebook/zstd) Zstandard - Fast real-time compression algorithm __[⭐ 10,384]__
+- [CoreyMSchafer / code_snippets](https://github.com/CoreyMSchafer/code_snippets)  __[⭐ 2,397]__
+- [aria2 / aria2](https://github.com/aria2/aria2) aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. __[⭐ 15,741]__
+
 ### 20190724
 - [chinese-poetry / chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。 __[⭐ 15,997]__
 - [qiurunze123 / miaosha](https://github.com/qiurunze123/miaosha) ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓 __[⭐ 8,351]__
