@@ -1,6 +1,6 @@
 ### 20190726
 - [pingcap / talent-plan](https://github.com/pingcap/talent-plan) PingCAP training courses __[⭐ 2,627]__
-- [ardanlabs / gotraining](https://github.com/ardanlabs/gotraining) Go Training Class Material : __[⭐ 4,788]__
+- [ardanlabs / gotraining](https://github.com/ardanlabs/gotraining) Go Training Class Material : __[⭐ 4,787]__
 - [jedisct1 / dsvpn](https://github.com/jedisct1/dsvpn) A Dead Simple VPN. __[⭐ 1,101]__
 - [vlang / v](https://github.com/vlang/v) Simple, fast, safe, compiled language for developing maintainable software. Supports translation from C and (soon) C++. Compiles itself in <1s. __[⭐ 10,198]__
 - [metabase / metabase](https://github.com/metabase/metabase) The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋 __[⭐ 15,946]__
