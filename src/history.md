@@ -1,3 +1,30 @@
+### 20190726
+- [pingcap / talent-plan](https://github.com/pingcap/talent-plan) PingCAP training courses __[⭐ 2,627]__
+- [ardanlabs / gotraining](https://github.com/ardanlabs/gotraining) Go Training Class Material : __[⭐ 4,788]__
+- [jedisct1 / dsvpn](https://github.com/jedisct1/dsvpn) A Dead Simple VPN. __[⭐ 1,101]__
+- [vlang / v](https://github.com/vlang/v) Simple, fast, safe, compiled language for developing maintainable software. Supports translation from C and (soon) C++. Compiles itself in <1s. __[⭐ 10,198]__
+- [metabase / metabase](https://github.com/metabase/metabase) The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋 __[⭐ 15,946]__
+- [gin-gonic / gin](https://github.com/gin-gonic/gin) Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. __[⭐ 29,470]__
+- [shzlw / poli](https://github.com/shzlw/poli) An easy-to-use BI server built for SQL lovers. Power data analysis in SQL and gain faster business insights. __[⭐ 1,033]__
+- [OpenFlutter / Flutter-Notebook](https://github.com/OpenFlutter/Flutter-Notebook) 日更的FlutterDemo合集，今天你fu了吗 __[⭐ 3,569]__
+- [open-mmlab / mmaction](https://github.com/open-mmlab/mmaction)  __[⭐ 659]__
+- [chinese-poetry / chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) 最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。 __[⭐ 16,865]__
+- [cube-js / cube.js](https://github.com/cube-js/cube.js) 📊 Cube.js - Open Source Analytics Framework __[⭐ 3,756]__
+- [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 51,294]__
+- [leisurelicht / wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译 __[⭐ 8,195]__
+- [0xeb-bp / bluekeep](https://github.com/0xeb-bp/bluekeep) Public work for CVE-2019-0708 __[⭐ 116]__
+- [arpitjindal97 / technology_books](https://github.com/arpitjindal97/technology_books) Premium eBook free for Geeks __[⭐ 454]__
+- [jlevy / the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) Master the command line, in one page __[⭐ 62,090]__
+- [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university) A complete computer science study plan to become a software engineer. __[⭐ 81,684]__
+- [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习 __[⭐ 26,349]__
+- [vuetifyjs / vuetify](https://github.com/vuetifyjs/vuetify) 🐉 Material Component Framework for Vue.js 2 __[⭐ 20,447]__
+- [blaCCkHatHacEEkr / PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) This repository was created and developed by Ammar Amer @cry__pto Only. Updates to this repository will continue to arrive until the number of links reaches 2000 links & 2000 pdf files at any time soon.Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science r… __[⭐ 885]__
+- [byoungd / English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) 可能是让你受益匪浅的英语进阶指南 __[⭐ 17,912]__
+- [qiurunze123 / miaosha](https://github.com/qiurunze123/miaosha) ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓 __[⭐ 8,770]__
+- [imhuay / Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记 __[⭐ 25,011]__
+- [thedaviddias / Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) 🗂 The perfect Front-End Checklist for modern websites and meticulous developers __[⭐ 35,371]__
+- [influxdata / influxdb](https://github.com/influxdata/influxdb) Scalable datastore for metrics, events, and real-time analytics __[⭐ 16,936]__
+
 ### 20190725
 - [imhuay / Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记 __[⭐ 24,828]__
 - [OpenFlutter / Flutter-Notebook](https://github.com/OpenFlutter/Flutter-Notebook) 日更的FlutterDemo合集，今天你fu了吗 __[⭐ 3,416]__
