@@ -1,3 +1,30 @@
+### 20190727
+- [containous / yaegi](https://github.com/containous/yaegi) Yaegi is Another Elegant Go Interpreter __[⭐ 1,265]__
+- [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university) A complete computer science study plan to become a software engineer. __[⭐ 81,916]__
+- [tlbootcamp / tlroadmap](https://github.com/tlbootcamp/tlroadmap) 👩🏼‍💻👨🏻‍💻Карта навыков и модель развития тимлидов __[⭐ 690]__
+- [gin-gonic / gin](https://github.com/gin-gonic/gin) Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. __[⭐ 29,563]__
+- [imhuay / Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese) 2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记 __[⭐ 25,118]__
+- [b3log / 30-seconds-zh_CN](https://github.com/b3log/30-seconds-zh_CN) 📙 前端知识精选集，包含 HTML、CSS、JavaScript、React、Node、安全等方面，每天仅需 30 秒。 __[⭐ 481]__
+- [extreme-assistant / iccv2019](https://github.com/extreme-assistant/iccv2019) ICCV 2019 papers/new汇总帖，极市团队整理 __[⭐ 295]__
+- [mame82 / LOGITacker](https://github.com/mame82/LOGITacker) Enumerate and test Logitech wireless input devices for vulnerabilities with a nRF52840 radio dongle. __[⭐ 91]__
+- [akullpp / awesome-java](https://github.com/akullpp/awesome-java) A curated list of awesome frameworks, libraries and software for the Java programming language. __[⭐ 21,385]__
+- [ardanlabs / gotraining](https://github.com/ardanlabs/gotraining) Go Training Class Material : __[⭐ 4,981]__
+- [cube-js / cube.js](https://github.com/cube-js/cube.js) 📊 Cube.js - Open Source Analytics Framework __[⭐ 3,941]__
+- [ImageMagick / ImageMagick](https://github.com/ImageMagick/ImageMagick) ImageMagick 7 __[⭐ 2,976]__
+- [doocs / advanced-java](https://github.com/doocs/advanced-java) 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习 __[⭐ 26,627]__
+- [confirmedcode / lockdown-ios](https://github.com/confirmedcode/lockdown-ios)  __[⭐ 147]__
+- [blaCCkHatHacEEkr / PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) This repository was created and developed by Ammar Amer @cry__pto Only. Updates to this repository will continue to arrive until the number of links reaches 2000 links & 2000 pdf files at any time soon.Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science r… __[⭐ 987]__
+- [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 51,554]__
+- [cpp-taskflow / cpp-taskflow](https://github.com/cpp-taskflow/cpp-taskflow) Modern C++ Parallel Task Programming Library __[⭐ 2,081]__
+- [squizlabs / PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards. __[⭐ 6,651]__
+- [argoproj / argo](https://github.com/argoproj/argo) Argo Workflows: Get stuff done with Kubernetes. __[⭐ 3,376]__
+- [outline / outline](https://github.com/outline/outline) The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, markdown compatible and open source. __[⭐ 2,470]__
+- [interviewandroid / AndroidInterView](https://github.com/interviewandroid/AndroidInterView) Android面试2019年最新版（每日更新），音视频，Android高级，性能优化，算法，Flutter技术，FFmpeg OppenGl，资源混淆,插件化，组件化，OkHttp，Rxjava,架构师，Android架构 __[⭐ 312]__
+- [aosabook / 500lines](https://github.com/aosabook/500lines) 500 Lines or Less __[⭐ 22,252]__
+- [coreos / prometheus-operator](https://github.com/coreos/prometheus-operator) Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes __[⭐ 3,162]__
+- [uber / ludwig](https://github.com/uber/ludwig) Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code. __[⭐ 5,371]__
+- [laravel / framework](https://github.com/laravel/framework)  __[⭐ 18,122]__
+
 ### 20190726
 - [pingcap / talent-plan](https://github.com/pingcap/talent-plan) PingCAP training courses __[⭐ 2,627]__
 - [ardanlabs / gotraining](https://github.com/ardanlabs/gotraining) Go Training Class Material : __[⭐ 4,787]__
