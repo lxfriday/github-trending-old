@@ -1,3 +1,30 @@
+### 20190804
+- [taki0112 / UGATIT](https://github.com/taki0112/UGATIT) Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation __[⭐ 493]__
+- [partiql / partiql-lang-kotlin](https://github.com/partiql/partiql-lang-kotlin) A implementation of PartiQL written in Kotlin. __[⭐ 180]__
+- [ZyqGitHub1 / h-player-v2](https://github.com/ZyqGitHub1/h-player-v2) 资源采集站在线播放 __[⭐ 779]__
+- [alibaba / spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware. __[⭐ 7,537]__
+- [dotnetcore / WTM](https://github.com/dotnetcore/WTM) WTM框架是针对中小规模后台管理系统的开发利器。基于DotNetCore，实现0编码创建项目，0编码生成业务模块。框架严格遵循MVVM的开发模式，并深得MVVM的精髓。对于新手，可以快速上手搭建项目；对于高手，可以把那些繁琐重复的工作交给框架生成，专心攻克需求难点。框架经过数十个真实项目检测，可以极大提高开发效率，降低开发成本。 __[⭐ 639]__
+- [CorentinJ / Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) Clone a voice in 5 seconds to generate arbitrary speech in real-time __[⭐ 2,821]__
+- [arpitjindal97 / technology_books](https://github.com/arpitjindal97/technology_books) Premium eBook free for Geeks __[⭐ 1,785]__
+- [nccgroup / phantap](https://github.com/nccgroup/phantap) Phantom Tap (PhanTap) - an ‘invisible’ network tap aimed at red teams __[⭐ 232]__
+- [d07RiV / diabloweb](https://github.com/d07RiV/diabloweb) Diablo 1 for web browsers __[⭐ 345]__
+- [JVictorDias / Dinossauro-Google](https://github.com/JVictorDias/Dinossauro-Google) Código do projeto onde uma rede neural aprende a jogar o dinossauro do google __[⭐ 88]__
+- [ziishaned / learn-regex](https://github.com/ziishaned/learn-regex) Learn regex the easy way __[⭐ 19,264]__
+- [php / php-src](https://github.com/php/php-src) The PHP Interpreter __[⭐ 24,279]__
+- [jofpin / trape](https://github.com/jofpin/trape) People tracker on the Internet: OSINT analysis and research tool by Jose Pino __[⭐ 4,111]__
+- [firebase / quickstart-android](https://github.com/firebase/quickstart-android) Firebase Quickstart Samples for Android __[⭐ 5,833]__
+- [actix / actix-web](https://github.com/actix/actix-web) Actix web is a small, pragmatic, and extremely fast rust web framework. __[⭐ 4,976]__
+- [nestjs / nest](https://github.com/nestjs/nest) A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀 __[⭐ 18,272]__
+- [threerocks / studyFiles](https://github.com/threerocks/studyFiles) 一些经典且高质量的电子书分享 __[⭐ 7,946]__
+- [alienzhou / frontend-tech-list](https://github.com/alienzhou/frontend-tech-list) a frontend tech list for developers __[⭐ 2,168]__
+- [hmaverickadams / Beginner-Network-Pentesting](https://github.com/hmaverickadams/Beginner-Network-Pentesting) Notes for Beginner Network Pentesting Course __[⭐ 568]__
+- [jesseduffield / lazydocker](https://github.com/jesseduffield/lazydocker) The lazier way to manage everything docker __[⭐ 10,725]__
+- [sahat / hackathon-starter](https://github.com/sahat/hackathon-starter) A boilerplate for Node.js web applications __[⭐ 27,423]__
+- [diasurgical / devilution](https://github.com/diasurgical/devilution) Diablo devolved - magic behind the 1996 computer game __[⭐ 7,292]__
+- [NVIDIA / DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) Deep Learning Examples __[⭐ 1,346]__
+- [jedisct1 / dsvpn](https://github.com/jedisct1/dsvpn) A Dead Simple VPN. __[⭐ 2,670]__
+- [zllrunning / video-object-removal](https://github.com/zllrunning/video-object-removal) Just draw a bounding box and you can remove the object you want to remove. __[⭐ 956]__
+
 ### 20190727
 - [containous / yaegi](https://github.com/containous/yaegi) Yaegi is Another Elegant Go Interpreter __[⭐ 1,265]__
 - [jwasham / coding-interview-university](https://github.com/jwasham/coding-interview-university) A complete computer science study plan to become a software engineer. __[⭐ 81,916]__
