@@ -1,3 +1,30 @@
+### 20190810
+- [vmware / octant](https://github.com/vmware/octant) A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters. __[⭐ 925]__
+- [dengyuhan / magnetW](https://github.com/dengyuhan/magnetW) 磁力搜网页版 - 磁力链接聚合搜索 - https://bt.biedian.me __[⭐ 1,768]__
+- [sherlock-project / sherlock](https://github.com/sherlock-project/sherlock) 🔎 Find usernames across social networks __[⭐ 6,248]__
+- [amejiarosario / dsa.js-data-structures-algorithms-javascript](https://github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript) Data Structures and Algorithms explained and implemented in JavaScript __[⭐ 4,018]__
+- [grafana / grafana](https://github.com/grafana/grafana) The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More __[⭐ 30,317]__
+- [Flaque / quirk](https://github.com/Flaque/quirk) ✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android __[⭐ 1,438]__
+- [2227324689 / gpmall](https://github.com/2227324689/gpmall) 基于SpringBoot+Dubbo构建的电商平台-微服务架构 __[⭐ 238]__
+- [thepracticaldev / dev.to](https://github.com/thepracticaldev/dev.to) Where programmers share ideas and help each other grow __[⭐ 9,969]__
+- [google / googletest](https://github.com/google/googletest) Googletest - Google Testing and Mocking Framework __[⭐ 12,543]__
+- [NVIDIA / open-gpu-doc](https://github.com/NVIDIA/open-gpu-doc) Documentation of NVIDIA chip/hardware interfaces __[⭐ 509]__
+- [Tencent / MedicalNet](https://github.com/Tencent/MedicalNet) Many studies have shown that the performance on deep learning is significantly affected by volume of training data. The MedicalNet project provides a series of 3D-ResNet pre-trained models and relative code. __[⭐ 369]__
+- [didi / delta](https://github.com/didi/delta) DELTA is a deep learning based natural language and speech processing platform. __[⭐ 603]__
+- [cnlh / nps](https://github.com/cnlh/nps) 一款轻量级、功能强大的内网穿透代理服务器。支持tcp、udp流量转发，支持内网http代理、内网socks5代理，同时支持snappy压缩、站点保护、加密传输、多路复用、header修改等。支持web图形化管理，集成多用户模式。 __[⭐ 6,047]__
+- [dennybritz / reinforcement-learning](https://github.com/dennybritz/reinforcement-learning) Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course. __[⭐ 11,382]__
+- [remoteintech / remote-jobs](https://github.com/remoteintech/remote-jobs) A list of semi to fully remote-friendly companies in tech. __[⭐ 8,444]__
+- [jackfrued / Python-100-Days](https://github.com/jackfrued/Python-100-Days) Python - 100天从新手到大师 __[⭐ 53,572]__
+- [rabbitmq / rabbitmq-tutorials](https://github.com/rabbitmq/rabbitmq-tutorials) Tutorials for using RabbitMQ in various ways __[⭐ 4,080]__
+- [istio / istio](https://github.com/istio/istio) Connect, secure, control, and observe services. __[⭐ 18,987]__
+- [mozilla-mobile / fenix](https://github.com/mozilla-mobile/fenix)  __[⭐ 2,202]__
+- [Igglybuff / awesome-piracy](https://github.com/Igglybuff/awesome-piracy) A curated list of awesome warez and piracy links __[⭐ 6,992]__
+- [fireeye / commando-vm](https://github.com/fireeye/commando-vm) Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. __[⭐ 2,728]__
+- [arpitjindal97 / technology_books](https://github.com/arpitjindal97/technology_books) Premium eBook free for Geeks __[⭐ 3,932]__
+- [datawhalechina / leeml-notes](https://github.com/datawhalechina/leeml-notes) 李宏毅《机器学习》笔记，在线阅读地址：https://datawhalechina.github.io/leeml-notes __[⭐ 2,398]__
+- [tlbootcamp / tlroadmap](https://github.com/tlbootcamp/tlroadmap) 👩🏼‍💻👨🏻‍💻Карта навыков и модель развития тимлидов __[⭐ 1,285]__
+- [facebook / create-react-app](https://github.com/facebook/create-react-app) Set up a modern web app by running one command. __[⭐ 70,505]__
+
 ### 20190804
 - [taki0112 / UGATIT](https://github.com/taki0112/UGATIT) Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation __[⭐ 493]__
 - [partiql / partiql-lang-kotlin](https://github.com/partiql/partiql-lang-kotlin) A implementation of PartiQL written in Kotlin. __[⭐ 180]__
