@@ -1,3 +1,30 @@
+### 20190816
+- [taviso / ctftool](https://github.com/taviso/ctftool) Interactive CTF Exploration Tool __[⭐ 723]__
+- [microsoft / calculator](https://github.com/microsoft/calculator) Windows Calculator: A simple yet powerful calculator that ships with Windows __[⭐ 18,080]__
+- [NVIDIA / Megatron-LM](https://github.com/NVIDIA/Megatron-LM) Ongoing research training transformer language models at scale, including: BERT __[⭐ 682]__
+- [Genymobile / scrcpy](https://github.com/Genymobile/scrcpy) Display and control your Android device __[⭐ 16,476]__
+- [apache / skywalking](https://github.com/apache/skywalking) APM, Application Performance Monitoring System __[⭐ 9,739]__
+- [b3log / baidu-netdisk-downloaderx](https://github.com/b3log/baidu-netdisk-downloaderx) ⚡️ 一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。 __[⭐ 12,872]__
+- [reactide / reactide](https://github.com/reactide/reactide) Reactide is the first dedicated IDE for React web application development. __[⭐ 9,237]__
+- [xkcoding / spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) spring boot demo 是一个用来学习 spring boot 的项目，总共包含 57 个集成demo，已经完成 47 个。包含集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate、JPA(ORM框架)、mybatis(ORM框架)、通用Mapper、PageHelper、mybatis-plus、BeetlSQL、upload(本地文件上传和七牛云文件上传)、redis(缓存)、ehcache(缓存)、email(发送各种类… __[⭐ 1,987]__
+- [abhat222 / Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) Cheat Sheets __[⭐ 9,090]__
+- [trimstray / the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. __[⭐ 21,894]__
+- [Netflix / security-bulletins](https://github.com/Netflix/security-bulletins) Security Bulletins that relate to Netflix Open Source __[⭐ 582]__
+- [ziishaned / learn-regex](https://github.com/ziishaned/learn-regex) Learn regex the easy way __[⭐ 23,620]__
+- [google / iosched](https://github.com/google/iosched) The Google I/O 2019 Android App __[⭐ 18,395]__
+- [deepmind / bsuite](https://github.com/deepmind/bsuite) bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent __[⭐ 339]__
+- [tlbootcamp / tlroadmap](https://github.com/tlbootcamp/tlroadmap) 👩🏼‍💻👨🏻‍💻Карта навыков и модель развития тимлидов __[⭐ 1,689]__
+- [heartexlabs / label-studio](https://github.com/heartexlabs/label-studio) Label Studio is a multi-domain data labeling tool with standardized output format __[⭐ 404]__
+- [jantic / DeOldify](https://github.com/jantic/DeOldify) A Deep Learning based project for colorizing and restoring old images (and video!) __[⭐ 7,566]__
+- [algorithm-visualizer / algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) 🎆Interactive Online Platform that Visualizes Algorithms from Code __[⭐ 23,761]__
+- [cabaletta / baritone](https://github.com/cabaletta/baritone) google maps for block game __[⭐ 770]__
+- [florinpop17 / app-ideas](https://github.com/florinpop17/app-ideas) A Collection of application ideas which can be used to improve your coding skills. __[⭐ 5,844]__
+- [hacklcx / HFish](https://github.com/hacklcx/HFish) Extend the enterprise security test open source honeypot system , Record hacker attacks. 扩展企业安全测试主动诱导型开源蜜罐框架系统，记录黑客攻击手段 __[⭐ 405]__
+- [emmawedekind / badass-conference-talks](https://github.com/emmawedekind/badass-conference-talks)  __[⭐ 284]__
+- [matplotlib / matplotlib](https://github.com/matplotlib/matplotlib) matplotlib: plotting with Python __[⭐ 9,844]__
+- [qiurunze123 / miaosha](https://github.com/qiurunze123/miaosha) ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓 __[⭐ 10,302]__
+- [dotnet / coreclr](https://github.com/dotnet/coreclr) CoreCLR is the runtime for .NET Core. It includes the garbage collector, JIT compiler, primitive data types and low-level classes. __[⭐ 11,883]__
+
 ### 20190810
 - [vmware / octant](https://github.com/vmware/octant) A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters. __[⭐ 925]__
 - [dengyuhan / magnetW](https://github.com/dengyuhan/magnetW) 磁力搜网页版 - 磁力链接聚合搜索 - https://bt.biedian.me __[⭐ 1,768]__
