@@ -1,3 +1,30 @@
+### 20190820
+- [yangshun / tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) 💯 Materials to help you rock your next coding interview __[⭐ 30,589]__
+- [quii / learn-go-with-tests](https://github.com/quii/learn-go-with-tests) Learn Go with test-driven development __[⭐ 5,895]__
+- [xkcoding / spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) spring boot demo 是一个用来学习 spring boot 的项目，总共包含 57 个集成demo，已经完成 47 个。包含集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate、JPA(ORM框架)、mybatis(ORM框架)、通用Mapper、PageHelper、mybatis-plus、BeetlSQL、upload(本地文件上传和七牛云文件上传)、redis(缓存)、ehcache(缓存)、email(发送各种类… __[⭐ 2,832]__
+- [b3log / baidu-netdisk-downloaderx](https://github.com/b3log/baidu-netdisk-downloaderx) ⚡️ 一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。 __[⭐ 14,042]__
+- [ccxt / ccxt](https://github.com/ccxt/ccxt) A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges __[⭐ 11,790]__
+- [mixandjam / MGR-BladeMode](https://github.com/mixandjam/MGR-BladeMode) Recreating the Blade Mode mechanic from Metal Gear Rising __[⭐ 43]__
+- [nodegui / react-nodegui](https://github.com/nodegui/react-nodegui) Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀 __[⭐ 1,648]__
+- [google / live-transcribe-speech-engine](https://github.com/google/live-transcribe-speech-engine) Live Transcribe is an Android application that provides real-time captioning for people who are deaf or hard of hearing. This repository contains the Android client libraries for communicating with Google's Cloud Speech API that are used in Live Transcribe. __[⭐ 425]__
+- [Pierian-Data / Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp) Course Files for Complete Python 3 Bootcamp Course on Udemy __[⭐ 5,343]__
+- [nondanee / UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) Revive unavailable songs for Netease Cloud Music __[⭐ 3,894]__
+- [firmai / machine-learning-asset-management](https://github.com/firmai/machine-learning-asset-management) Machine Learning in Asset Management __[⭐ 484]__
+- [Cocos-BCX / ERC-1808](https://github.com/Cocos-BCX/ERC-1808)  __[⭐ 1,580]__
+- [P1xt / p1xt-guides](https://github.com/P1xt/p1xt-guides) Programming curricula __[⭐ 4,576]__
+- [async-rs / async-std](https://github.com/async-rs/async-std) Async version of the Rust standard library __[⭐ 478]__
+- [wifiphisher / wifiphisher](https://github.com/wifiphisher/wifiphisher) The Rogue Access Point Framework __[⭐ 7,979]__
+- [cmackenzie1 / new-grads-2020](https://github.com/cmackenzie1/new-grads-2020) A collection of new grad roles for 2020 __[⭐ 228]__
+- [lohanidamodar / flutter_ui_challenges](https://github.com/lohanidamodar/flutter_ui_challenges) Trying to replicate various app UIs in flutter __[⭐ 714]__
+- [kmario23 / deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!! __[⭐ 5,846]__
+- [haizlin / fe-interview](https://github.com/haizlin/fe-interview) 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家） __[⭐ 4,831]__
+- [alexellis / k3sup](https://github.com/alexellis/k3sup) k3sup: from zero to KUBECONFIG in < 1 min __[⭐ 220]__
+- [syhyz1990 / baiduyun](https://github.com/syhyz1990/baiduyun) 🖖油猴脚本 一个脚本搞定百度网盘下载 __[⭐ 8,981]__
+- [nodegui / nodegui](https://github.com/nodegui/nodegui) A library for building cross-platform native desktop applications with JavaScript and CSS like styling. __[⭐ 664]__
+- [b3log / 30-seconds-zh_CN](https://github.com/b3log/30-seconds-zh_CN) 📙 前端知识精选集，包含 HTML、CSS、JavaScript、React、Node、安全等方面，每天仅需 30 秒。 __[⭐ 846]__
+- [getify / You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) A book series on JavaScript. @YDKJS on twitter. __[⭐ 106,906]__
+- [danielmiessler / SecLists](https://github.com/danielmiessler/SecLists) SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. __[⭐ 19,596]__
+
 ### 20190819
 - [nodegui / react-nodegui](https://github.com/nodegui/react-nodegui) Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀 __[⭐ 1,052]__
 - [async-rs / async-std](https://github.com/async-rs/async-std) Async version of the Rust standard library __[⭐ 327]__
